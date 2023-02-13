@@ -28,8 +28,6 @@ class InventoryTest {
 
         Vehicle result = inventory.getMostExpensiveVehicleByType("Car");
 
-        car1 = (PerformanceCar) car1;
-
         assertEquals(car2, result);
 
     }

@@ -14,10 +14,27 @@ public class Inventory {
     }
 
     public Vehicle getMostExpensiveVehicleByType(String type) {
-        return null;
+        if (vehicleList.size() <= 0) return null;
+        Vehicle mostExpensive = null;
+        for (int i = 1; i < vehicleList.size(); i++) {
+            if (!vehicleList.get(i).getClass().getSimpleName().equals(type)) continue;
+
+            if (mostExpensive == null || mostExpensive.getSalePrice() < vehicleList.get(i).getSalePrice()) {
+                mostExpensive = vehicleList.get(i);
+            }
+        }
+
+        return mostExpensive;
     }
 
     public Vehicle getMostExpensiveVehicle() {
-        return null;
+        if (vehicleList.size() <= 0) return null;
+        Vehicle mostExpensive = vehicleList.get(0);
+        for (int i = 1; i < vehicleList.size(); i++) {
+            if (mostExpensive.getSalePrice() < vehicleList.get(i).getSalePrice()) {
+                mostExpensive = vehicleList.get(i);
+            }
+        }
+        return mostExpensive;
     }
 }

@@ -9,10 +9,9 @@ class VehicleInspectorTest {
     @Test
     void calculateCostForBrokenVehicle() {
         Vehicle car = new Car();
-        car.setInitialCost(10000);
         car.setVehicleCondition(Vehicle.VehicleCondition.BROKEN);
 
-        double result = VehicleInspector.calculateCost(car);
+        double result = VehicleInspector.calculateCost(car, 10000);
 
         assertEquals(5000, result);
     }
@@ -20,10 +19,9 @@ class VehicleInspectorTest {
     @Test
     void calculateCostForUsedVehicle() {
         Vehicle car = new Car();
-        car.setInitialCost(10000);
         car.setVehicleCondition(Vehicle.VehicleCondition.USED);
 
-        double result = VehicleInspector.calculateCost(car);
+        double result = VehicleInspector.calculateCost(car, 10000);
 
         assertEquals(8000, result);
     }
@@ -34,7 +32,7 @@ class VehicleInspectorTest {
         car.setInitialCost(10000);
         car.setVehicleCondition(Vehicle.VehicleCondition.LIKE_NEW);
 
-        double result = VehicleInspector.calculateCost(car);
+        double result = VehicleInspector.calculateCost(car, 10000);
 
         assertEquals(10000, result);
     }
