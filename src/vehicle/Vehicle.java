@@ -15,7 +15,6 @@ public abstract class Vehicle {
     private double highestCost;
     private double salePrice;  //NEW
     private double repairingBonus;
-    private double washingBonus;
     private Cleanliness cleanliness;
     private VehicleCondition vehicleCondition;
 
@@ -67,14 +66,6 @@ public abstract class Vehicle {
         this.repairingBonus = repairingBonus;
     }
 
-    public double getWashingBonus() {
-        return washingBonus;
-    }
-
-    public void setWashingBonus(double washingBonus) {
-        this.washingBonus = washingBonus;
-    }
-
     public Cleanliness getCleanliness() {
         return cleanliness;
     }
@@ -89,5 +80,21 @@ public abstract class Vehicle {
 
     public void setVehicleCondition(VehicleCondition vehicleCondition) {
         this.vehicleCondition = vehicleCondition;
+    }
+
+    public void upgradeVehicleCondition() {
+        if (vehicleCondition == VehicleCondition.BROKEN) {
+            vehicleCondition = VehicleCondition.USED;
+        } else if (vehicleCondition == VehicleCondition.USED) {
+            vehicleCondition = VehicleCondition.LIKE_NEW;
+        }
+    }
+
+    public void downgradeCleanliness() {
+        if (cleanliness == Cleanliness.SPARKING) {
+            cleanliness = Cleanliness.CLEAN;
+        } else if (cleanliness == Cleanliness.CLEAN) {
+            cleanliness = Cleanliness.DIRTY;
+        }
     }
 }

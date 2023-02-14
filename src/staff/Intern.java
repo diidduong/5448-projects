@@ -16,7 +16,7 @@ public class Intern extends Staff {
     private int capacity;
     public Registry internRegistry= new Registry();
 
-    public ArrayList<Intern> internList = new ArrayList<Intern>();
+    public ArrayList<Intern> internList;
 
 
 

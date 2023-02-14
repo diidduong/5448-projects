@@ -1,6 +1,6 @@
 package staff;
 
-abstract class Staff {
+public abstract class Staff {
     private String name;
     private double dailyRate;
     private double salary;
@@ -81,8 +81,9 @@ abstract class Staff {
     }
 
     public void addSalary(){
-        salary = salary + dailyRate;
+        salary += dailyRate;
     }
+    public void addBonus(double bonus) { salary += bonus; }
     public void addWorkDay(){
         daysOfWork++;
     }

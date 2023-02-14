@@ -1,13 +1,18 @@
 package activity;
 
+import staff.Staff;
 import vehicle.Vehicle;
 
 public abstract class Activity {
     private String serviceName;
-//    private Staff provider;
+    private Staff provider;
     private Vehicle vehicle;
     private double successProbability;
     private double bonus;
+
+    public Activity(Staff provider) {
+        this.provider = provider;
+    }
 
     public String getServiceName() {
         return serviceName;
@@ -15,6 +20,14 @@ public abstract class Activity {
 
     public void setServiceName(String serviceName) {
         this.serviceName = serviceName;
+    }
+
+    public Staff getProvider() {
+        return provider;
+    }
+
+    public void setProvider(Staff provider) {
+        this.provider = provider;
     }
 
     public Vehicle getVehicle() {
