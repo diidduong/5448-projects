@@ -1,5 +1,10 @@
 package vehicle;
 
+/**
+ * @author Duy Duong
+ *
+ * Data class of a Vehicle
+ */
 public abstract class Vehicle {
     public enum VehicleCondition { //NEW
         LIKE_NEW, USED, BROKEN
@@ -82,6 +87,11 @@ public abstract class Vehicle {
         this.vehicleCondition = vehicleCondition;
     }
 
+    /**
+     * Upgrade Vehicle Condition to the next class
+     * Broken to Used
+     * Used to Like New
+     */
     public void upgradeVehicleCondition() {
         if (vehicleCondition == VehicleCondition.BROKEN) {
             vehicleCondition = VehicleCondition.USED;
@@ -90,6 +100,11 @@ public abstract class Vehicle {
         }
     }
 
+    /**
+     * Downgrade Vehicle Cleanliness by one class
+     * Sparkling to Clean
+     * Clean to Dirty
+     */
     public void downgradeCleanliness() {
         if (cleanliness == Cleanliness.SPARKING) {
             cleanliness = Cleanliness.CLEAN;

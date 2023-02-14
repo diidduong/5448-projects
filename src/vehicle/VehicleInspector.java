@@ -1,5 +1,10 @@
 package vehicle;
 
+/**
+ * @author Duy Duong
+ *
+ * Util class to evaluate Vehicle
+ */
 public class VehicleInspector {
     /**
      * Calculate vehicle initial cost based on vehicle condition.

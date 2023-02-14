@@ -4,14 +4,22 @@ import staff.Staff;
 import utilities.RandomGenerator;
 import vehicle.Vehicle;
 
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 
+/**
+ * @author Duy Duong
+ *
+ * Subclass of Activity which allow ability to perform Wash action
+ */
 public class Wash extends Activity {
     public Wash(Staff provider) {
         super(provider); // $100 bonus if washed Vehicle is Sparkling
     }
 
+    /**
+     *
+     * @param vehicles
+     */
     public void performWash(ArrayList<Vehicle> vehicles) {
         for (int i = 0; i < 2; i++) {
             Vehicle selectedVehicle = getNextVehicle(vehicles);

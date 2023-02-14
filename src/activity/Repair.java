@@ -6,11 +6,21 @@ import vehicle.Vehicle;
 
 import java.util.ArrayList;
 
+/**
+ * @author Duy Duong
+ *
+ * Subclass of Activity which allows ability to perform Repair action
+ */
 public class Repair extends Activity {
     public Repair(Staff provider) {
         super(provider);
     }
 
+    /**
+     * Perform all repair action. Each can work on 2 Vehicles at max per day
+     *
+     * @param vehicles all vehicles
+     */
     public void performRepair(ArrayList<Vehicle> vehicles) {
         for (int i = 0; i < 2; i++) {
             Vehicle selectedVehicle = getNextVehicle(vehicles);
@@ -27,7 +37,7 @@ public class Repair extends Activity {
      * already Dirty). Mechanics receive a bonus from each successful repair by
      * Vehicle type.
      *
-     * @param vehicle
+     * @param vehicle selected vehicle
      */
     public void repairVehicle(Vehicle vehicle) {
         boolean fixable = RandomGenerator.probabilisticOutcomeGenerator(0.8);
@@ -61,11 +71,11 @@ public class Repair extends Activity {
      *
      * Assumption: this method is used for fixed vehicle
      *
-     * @param vehicleType vehicle type
+     * @param condition vehicle type
      * @return bonus value
      */
-    private double getBonusByType(String vehicleType) {
-        switch (vehicleType) {
+    private double getBonusByType(String condition) {
+        switch (condition) {
             case "Used":
                 return 200;
             case "LIKE_NEW":

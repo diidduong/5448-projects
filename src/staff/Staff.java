@@ -1,5 +1,7 @@
 package staff;
 
+import activity.Activity;
+
 public abstract class Staff {
     private String name;
     private double dailyRate;

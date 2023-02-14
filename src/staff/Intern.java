@@ -1,5 +1,7 @@
 package staff;
 
+import activity.Activity;
+import activity.Wash;
 import staff.Staff;
 import java.util.ArrayList;
 import utilities.Registry;
@@ -29,6 +31,16 @@ public class Intern extends Staff {
         internRegistry.add(formattedDay, registryAction);
         //System.out.println(internRegistry.getRegistry());
     }
+
+//    public Intern(int day){
+//        setName(RandomGenerator.nameGenerator());
+//        HashMap<String, String> registryAction = new HashMap<String,String>();
+//        System.out.printf("\n%s is hired as an intern.\n", getName());
+//        registryAction.put("name", getName());
+//        String formattedDay = String.format("Day_%d_intern_%s", day, getName().replace(' ', '_'));
+//        internRegistry.add(formattedDay, registryAction);
+//        //System.out.println(internRegistry.getRegistry());
+//    }
 
 
 //    public void hire(int day){

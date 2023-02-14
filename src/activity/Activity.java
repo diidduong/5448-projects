@@ -3,6 +3,11 @@ package activity;
 import staff.Staff;
 import vehicle.Vehicle;
 
+/**
+ * @author Duy Duong
+ *
+ * Activity is a super class, it allows ability to perform daily jobs
+ */
 public abstract class Activity {
     private String serviceName;
     private Staff provider;

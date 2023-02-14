@@ -206,6 +206,12 @@ public class RandomGenerator {
         return outcome;
     }
 
+    /**
+     * Method to generate random Cleanliness by probability
+     *
+     * @param probs arrays of probability for each Cleanliness type, size of 3
+     * @return a random Cleanliness
+     */
     public static Vehicle.Cleanliness getRandomCleanliness(double[] probs) {
         Random random = new Random();
         double randomNum = random.nextInt(101) * 100;

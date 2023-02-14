@@ -1,5 +1,10 @@
 package customer;
 
+/**
+ * @author Duy Duong
+ *
+ * Buyer class that can be served at FNCD with sale Vehicles
+ */
 public class Buyer {
     public enum BuyingType {
         JUST_LOOKING(0.1), WANTS_ONE(0.4), NEEDS_ONE(0.7);
