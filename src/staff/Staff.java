@@ -10,6 +10,7 @@ public abstract class Staff {
     private int daysOfWork;
     private double turnOverProbability = 0.1;
     private boolean isWorking;
+    private Activity activity;
 
     public String getName() {
         return name;
@@ -80,6 +81,14 @@ public abstract class Staff {
 
     public void get_bonus() {
 
+    }
+
+    public Activity getActivity() {
+        return activity;
+    }
+
+    public void setActivity(Activity activity) {
+        this.activity = activity;
     }
 
     public void addSalary(){
