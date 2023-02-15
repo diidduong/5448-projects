@@ -177,9 +177,9 @@ public class RandomGenerator {
      *
      * @return random int number
      */
-    public static int randomIntGenerator(int min, int max){
+    public static double randomDoubleGenerator(double min, double max){
         Random random = new Random();
-        int randomNum = random.nextInt(max - min + 1) + min;
+        double randomNum = random.nextDouble(max - min + 1) + min;
         //System.out.println(randomNum);
         return randomNum;
     }
@@ -194,21 +194,19 @@ public class RandomGenerator {
     public static boolean probabilisticOutcomeGenerator(double probability){
         Random random = new Random();
         boolean outcome;
-        double randomNum = random.nextInt(101) * 100;
+        double randomNum = random.nextInt(101);
         if (probability*100 >= randomNum){
             outcome = true;
         }
         else {
             outcome = false;
         }
-        System.out.println(randomNum);
-        System.out.println(outcome);
         return outcome;
     }
 
     /**
      * Method to generate random Cleanliness by probability
-     *
+     * for activities
      * @param probs arrays of probability for each Cleanliness type, size of 3
      * @return a random Cleanliness
      */
@@ -223,4 +221,36 @@ public class RandomGenerator {
             return Vehicle.Cleanliness.DIRTY;
         }
     }
+
+    /**
+     * Method to generate random Cleanliness
+     * for constructors
+     * @return random cleanliness for the constructor of the vehicle concrete classes
+     */
+
+    public static Vehicle.Cleanliness RandomCleanlinessGenerator() {
+        Random random = new Random();
+        double randomNum = random.nextInt(101);
+        if (randomNum <= 33) {
+            return Vehicle.Cleanliness.SPARKING;
+        } else if (randomNum > 33 && randomNum <= 66) {
+            return Vehicle.Cleanliness.CLEAN;
+        } else {
+            return Vehicle.Cleanliness.DIRTY;
+        }
+    }
+
+    public static Vehicle.VehicleCondition RandomConditionGenerator() {
+        Random random = new Random();
+        double randomNum = random.nextInt(101);
+        if (randomNum <= 33) {
+            return Vehicle.VehicleCondition.BROKEN;
+        } else if (randomNum > 33 && randomNum <= 66) {
+            return Vehicle.VehicleCondition.LIKE_NEW;
+        } else {
+            return Vehicle.VehicleCondition.USED;
+        }
+    }
+
+
 }

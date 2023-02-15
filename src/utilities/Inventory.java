@@ -3,6 +3,8 @@ package utilities;
 import vehicle.Vehicle;
 
 import java.util.ArrayList;
+import java.util.HashMap;
+
 
 /**
  * @author Duy Duong
@@ -11,13 +13,10 @@ import java.util.ArrayList;
  * Sold Vehicles for sold ones.
  */
 public class Inventory {
-    private final ArrayList<Vehicle> workingInventory;
-    private final ArrayList<Vehicle> soldVehicles;
+    static public ArrayList<Vehicle> workingInventory= new ArrayList<>();
+    static public ArrayList<Vehicle> soldVehicles = new ArrayList<>();
 
-    public Inventory() {
-        workingInventory = new ArrayList<>();
-        soldVehicles = new ArrayList<>();
-    }
+    static public Registry inventoryRegistry= new Registry();
 
     public ArrayList<Vehicle> getWorkingInventory() {
         return workingInventory;

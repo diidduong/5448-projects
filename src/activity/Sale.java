@@ -72,10 +72,10 @@ public class Sale extends Activity {
         if (sellable) {
             // collect money from sale
             // TODO: get the correct day
-            budget.addSalesIncome(0, selectedVehicle.getSalePrice());
+            budget.addSalesIncome(0, selectedVehicle);
 
             // give bonus to Salesperson
-            getProvider().addBonus(getBonusByType(selectedVehicle.getClass().getSimpleName()));
+            getProvider().addBonus(getBonusByType(selectedVehicle));
 
             // move vehicle from working inventory to sold vehicles
             inventory.moveVehicleToSoldVehicles(selectedVehicle);
@@ -113,6 +113,12 @@ public class Sale extends Activity {
         return null;
     }
 
+    /**
+     * method that calculates the bonus chance for selling a car
+     * @param vehicle to be sold
+     * @param isWantedType buyer type
+     * @return
+     */
     private double getSaleChanceBonus(Vehicle vehicle, boolean isWantedType) {
         double bonusChance = 0;
         if (vehicle.getVehicleCondition() == Vehicle.VehicleCondition.LIKE_NEW) {
@@ -133,16 +139,16 @@ public class Sale extends Activity {
      * $160 for Car
      * $220 for Pickup
      *
-     * @param vehicleType Vehicle Type
+     * @param vehicle:
      * @return bonus by type, 0 otherwise
      */
-    private double getBonusByType(String vehicleType) {
-        switch (vehicleType) {
-            case "PerformanceCar":
+    private double getBonusByType(Vehicle vehicle) {
+        switch (vehicle.getVehicleType()) {
+            case PERFORMANCECAR:
                 return 350;
-            case "Car":
+            case CAR:
                 return 160;
-            case "Pickup":
+            case PICKUP:
                 return 220;
             default:
                 return 0;

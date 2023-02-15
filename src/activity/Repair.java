@@ -12,9 +12,16 @@ import java.util.ArrayList;
  * Subclass of Activity which allows ability to perform Repair action
  */
 public class Repair extends Activity {
+
+    private double servicePrice;
+
+    private double successProbability = 0.8;
+
     public Repair(Staff provider) {
         super(provider);
     }
+
+
 
     /**
      * Perform all repair action. Each can work on 2 Vehicles at max per day
@@ -40,7 +47,7 @@ public class Repair extends Activity {
      * @param vehicle selected vehicle
      */
     public void repairVehicle(Vehicle vehicle) {
-        boolean fixable = RandomGenerator.probabilisticOutcomeGenerator(0.8);
+        boolean fixable = RandomGenerator.probabilisticOutcomeGenerator(successProbability);
         if (fixable) {
             vehicle.upgradeVehicleCondition();
             double salePriceBonus = getSalePriceBonusByCondition(vehicle);
@@ -71,15 +78,17 @@ public class Repair extends Activity {
      *
      * Assumption: this method is used for fixed vehicle
      *
-     * @param condition vehicle type
+     * @param vehicle
      * @return bonus value
      */
-    private double getBonusByType(String condition) {
-        switch (condition) {
-            case "Used":
+    private double getBonusByType(Vehicle vehicle) {
+        switch (vehicle.getVehicleType()) {
+            case PERFORMANCECAR:
                 return 200;
-            case "LIKE_NEW":
-                return 300;
+            case CAR:
+                return 100;
+            case PICKUP:
+                return 150;
             default:
                 return 0;
         }
@@ -106,4 +115,5 @@ public class Repair extends Activity {
                 return 0;
         }
     }
+
 }

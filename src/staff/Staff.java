@@ -1,16 +1,26 @@
 package staff;
 
+import utilities.RandomGenerator;
 import activity.Activity;
+import utilities.Registry;
+
+import utilities.Budget;
+
+import java.util.ArrayList;
+import java.util.HashMap;
 
 public abstract class Staff {
     private String name;
+    private String jobTitle;
     private double dailyRate;
-    private double salary;
-    private double bonus;
-    private int daysOfWork;
-    private double turnOverProbability = 0.1;
-    private boolean isWorking;
+    private double salary =0;
+    private double bonus = 0;
+    private int daysOfWork =0;
+
+    private boolean isWorking =true;
     private Activity activity;
+
+    private double turnOverProbability = 0.1;  // 3% for each employee, which is about 10% for each three
 
     public String getName() {
         return name;
@@ -60,6 +70,8 @@ public abstract class Staff {
         this.turnOverProbability = turnOverProbability;
     }
 
+
+
     public boolean isWorking() {
         return isWorking;
     }
@@ -68,35 +80,36 @@ public abstract class Staff {
         isWorking = working;
     }
 
-    public void hire(){
-
-    }
-    public void work(){
-
+    public String getJobTitle() {
+        return jobTitle;
     }
 
-    public void quit() {
-
+    public void setJobTitle(String jobTitle) {
+        jobTitle = jobTitle;
     }
 
-    public void get_bonus() {
+    public void startWorkingDay(int day){
+        setDaysOfWork(getDaysOfWork()+1);
+        Budget.addSalaries(day, this);
+        HashMap<String, String> registryAction = new HashMap<String, String>();
+        String formattedDay = String.format("Day_%d_%s_%s", day, getJobTitle(), getName().replace(' ', '_'));
+        Budget.salariesRegistry.add(formattedDay, registryAction);
+        addSalary(day);
+    }
+    public void addSalary(int day){
 
     }
-
-    public Activity getActivity() {
-        return activity;
-    }
-
-    public void setActivity(Activity activity) {
-        this.activity = activity;
-    }
-
-    public void addSalary(){
-        salary += dailyRate;
-    }
-    public void addBonus(double bonus) { salary += bonus; }
+    public void addBonus(double bonus) { bonus += bonus; }
     public void addWorkDay(){
         daysOfWork++;
     }
 
+    public void quit() {
+        setWorking(false);
+    }
+
+
+
+
 }
+

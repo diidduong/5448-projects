@@ -14,6 +14,10 @@ public abstract class Vehicle {
         DIRTY, CLEAN, SPARKING
     }
 
+    public enum VehicleType { //NEW
+        PERFORMANCECAR, CAR, PICKUP
+    }
+
     private String name;
     private double initialCost;
     private double lowestCost;
@@ -22,6 +26,7 @@ public abstract class Vehicle {
     private double repairingBonus;
     private Cleanliness cleanliness;
     private VehicleCondition vehicleCondition;
+    private VehicleType VehicleType;
 
     public String getName() {
         return name;
@@ -85,6 +90,12 @@ public abstract class Vehicle {
 
     public void setVehicleCondition(VehicleCondition vehicleCondition) {
         this.vehicleCondition = vehicleCondition;
+    }
+    public VehicleType getVehicleType() {
+        return VehicleType;
+    }
+    public void setVehicleType(VehicleType VehicleType) {
+        this.VehicleType = VehicleType;
     }
 
     /**

@@ -12,12 +12,12 @@ import java.util.ArrayList;
  * Subclass of Activity which allow ability to perform Wash action
  */
 public class Wash extends Activity {
+    private double servicePrice;
     public Wash(Staff provider) {
         super(provider); // $100 bonus if washed Vehicle is Sparkling
     }
 
     /**
-     *
      * @param vehicles
      */
     public void performWash(ArrayList<Vehicle> vehicles) {
@@ -44,13 +44,13 @@ public class Wash extends Activity {
             vehicle.setCleanliness(RandomGenerator.getRandomCleanliness(new double[]{0.3, 0.65, 0.05}));
         }
         if (vehicle.getCleanliness() == Vehicle.Cleanliness.SPARKING) {
-            getProvider().addBonus(getBonusByType(vehicle.getClass().getSimpleName()));
+            getProvider().addBonus(getBonusByType(vehicle));
         }
     }
 
     /**
      * Find next Dirty Vehicle to work on. If there isn't, find Clean Vehicle
-     *
+     * <p>
      * Assumption: allows repeated selection
      *
      * @param vehicles all available vehicle in inventory
@@ -67,7 +67,7 @@ public class Wash extends Activity {
     /**
      * Get first vehicle from the list that matches given cleanliness status
      *
-     * @param vehicles vehicle list
+     * @param vehicles    vehicle list
      * @param cleanliness cleanliness
      * @return first matched vehicle if exists, else null
      */
@@ -89,14 +89,20 @@ public class Wash extends Activity {
      * @param vehicleType vehicle type in String
      * @return bonus value
      */
-    private double getBonusByType(String vehicleType) {
-        switch (vehicleType) {
-            case "PerformanceCar":
-                return 250;
-            case "Car":
-                return 150;
-            case "Pickup":
-                return 200;
+    /**
+     * method that returns the bonus to be recieved by the intern upon washing a given vehicle
+     * @param vehicle to be washed
+     * @return bonus
+     */
+
+    private double getBonusByType(Vehicle vehicle) {
+        switch (vehicle.getVehicleType()) {
+            case PERFORMANCECAR:
+                return 75;
+            case CAR:
+                return 50;
+            case PICKUP:
+                return 100;
             default:
                 return 0;
         }

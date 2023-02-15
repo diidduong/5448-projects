@@ -10,6 +10,7 @@ import vehicle.Vehicle;
  */
 public abstract class Activity {
     private String serviceName;
+
     private Staff provider;
     private Vehicle vehicle;
     private double successProbability;
