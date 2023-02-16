@@ -1,11 +1,13 @@
-import customer.Buyer;
+import utilities.FNCDAdministration;
 
+/**
+ * @author Duy Duong, Ahmed.H.Biby
+ * Main program to run the FNCD simulation
+ */
 public class Main {
 
     public static void main(String[] args) {
-	    // write your code here
-        Buyer buyer = new Buyer();
-        buyer.setBuyingType(Buyer.BuyingType.JUST_LOOKING);
-        System.out.println(buyer.getBuyingType().getProbability());
+        FNCDAdministration fncd = new FNCDAdministration();
+        fncd.start(); // run simulation
     }
 }

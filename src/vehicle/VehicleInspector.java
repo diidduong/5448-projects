@@ -1,17 +1,20 @@
 package vehicle;
 
+/**
+ * @author Duy Duong
+ *
+ * Util class to evaluate Vehicle
+ */
 public class VehicleInspector {
     /**
      * Calculate vehicle initial cost based on vehicle condition.
      * - Reduced by 20% if vehicle is Used
      * - Reduced by 50% if vehicle is Broken
      *
-     * @param vehicle current vehicle
+     * @param condition current Vehicle Condition
      * @return actual initialCost with appropriate discount
      */
-    public static double calculateCost(Vehicle vehicle, double initialCost) {
-        Vehicle.VehicleCondition condition = vehicle.getVehicleCondition();
-
+    public static double calculateCost(Vehicle.VehicleCondition condition, double initialCost) {
         switch (condition) {
             case USED:
                 return initialCost * 0.8; //reduced 20%
@@ -25,11 +28,11 @@ public class VehicleInspector {
     /**
      * Calculate price which equals 2x initial cost
      *
-     * @param vehicle current vehicle
+     * @param initialCost vehicle initial cost, positive
      * @return sale price
      */
-    public static double calculatePrice(Vehicle vehicle) {
-        return vehicle.getInitialCost() * 2;
+    public static double calculatePrice(double initialCost) {
+        return initialCost * 2;
     }
 
     /**

@@ -1,0 +1,2282 @@
+****************************************
+    Welcome to the FNCD simulation
+********** Inauguration day ************
+Hired INTERN Ashlynn Meyer.
+Hired MECHANIC Easton Benton.
+Hired SALESPERSON Miley Reid.
+Hired INTERN Navy Reed.
+Hired MECHANIC Adalynn Dickson.
+Hired SALESPERSON Leroy Rivers.
+Hired INTERN Rhett Fletcher.
+Hired MECHANIC Joel Hurley.
+Hired SALESPERSON Aarav Frazier.
+
+A CLEAN and LIKE_NEW PERFORMANCE_CAR (Toyota Tundra 2018) is available in the inventory.
+Purchased LIKE_NEW, CLEAN Toyota Tundra 2018 for $ 24230.380110
+
+A DIRTY and BROKEN CAR (GMC Hummer EV 2023) is available in the inventory.
+Purchased BROKEN, DIRTY GMC Hummer EV 2023 for $ 7613.980933
+
+A CLEAN and USED PICKUP (Rivian R1T 2022) is available in the inventory.
+Purchased USED, CLEAN Rivian R1T 2022 for $ 26010.726364
+
+A DIRTY and BROKEN PERFORMANCE_CAR (Jeep Gladiator 2015) is available in the inventory.
+Purchased BROKEN, DIRTY Jeep Gladiator 2015 for $ 14656.167691
+
+A DIRTY and USED CAR (Hyundai Santa Cruz 2019) is available in the inventory.
+Purchased USED, DIRTY Hyundai Santa Cruz 2019 for $ 10067.385907
+
+A CLEAN and USED PICKUP (Ford Velociraptor 6×6 2014) is available in the inventory.
+Purchased USED, CLEAN Ford Velociraptor 6×6 2014 for $ 11028.062470
+
+A DIRTY and USED PERFORMANCE_CAR (Jeep Gladiator 2016) is available in the inventory.
+Purchased USED, DIRTY Jeep Gladiator 2016 for $ 30767.555124
+
+A DIRTY and USED CAR (Ford F-150 Lightning 2014) is available in the inventory.
+Purchased USED, DIRTY Ford F-150 Lightning 2014 for $ 10930.616295
+
+A DIRTY and LIKE_NEW PICKUP (Ford F-150 Lightning 2022) is available in the inventory.
+Purchased LIKE_NEW, DIRTY Ford F-150 Lightning 2022 for $ 28209.280947
+
+A DIRTY and LIKE_NEW PERFORMANCE_CAR (Chevrolet Colorado ZR2 2022) is available in the inventory.
+Purchased LIKE_NEW, DIRTY Chevrolet Colorado ZR2 2022 for $ 30163.072491
+
+A DIRTY and BROKEN CAR (Nissan Frontier 2015) is available in the inventory.
+Purchased BROKEN, DIRTY Nissan Frontier 2015 for $ 8223.700030
+
+A DIRTY and BROKEN PICKUP (Ford F-150 Raptor 2022) is available in the inventory.
+Purchased BROKEN, DIRTY Ford F-150 Raptor 2022 for $ 9315.509359
+Staff members
+Title | Name | TotalDaysWorked | TotalNormalPay | TotalBonusPay | Working
+------------------------------------------------------------------------
+INTERN | Ashlynn Meyer | 0 | 0.00 | 0.00 | true
+INTERN | Navy Reed | 0 | 0.00 | 0.00 | true
+INTERN | Rhett Fletcher | 0 | 0.00 | 0.00 | true
+MECHANIC | Easton Benton | 0 | 0.00 | 0.00 | true
+MECHANIC | Adalynn Dickson | 0 | 0.00 | 0.00 | true
+MECHANIC | Joel Hurley | 0 | 0.00 | 0.00 | true
+SALESPERSON | Miley Reid | 0 | 0.00 | 0.00 | true
+SALESPERSON | Leroy Rivers | 0 | 0.00 | 0.00 | true
+SALESPERSON | Aarav Frazier | 0 | 0.00 | 0.00 | true
+
+Inventory
+Type | Name | Cost | SalePrice | Condition | Cleanliness | InStock
+------------------------------------------------------------------------
+PERFORMANCE_CAR | Toyota Tundra 2018 | 24230.38 | 48460.76 | LIKE_NEW | CLEAN | true
+CAR | GMC Hummer EV 2023 | 7613.98 | 15227.96 | BROKEN | DIRTY | true
+PICKUP | Rivian R1T 2022 | 26010.73 | 52021.45 | USED | CLEAN | true
+PERFORMANCE_CAR | Jeep Gladiator 2015 | 14656.17 | 29312.34 | BROKEN | DIRTY | true
+CAR | Hyundai Santa Cruz 2019 | 10067.39 | 20134.77 | USED | DIRTY | true
+PICKUP | Ford Velociraptor 6×6 2014 | 11028.06 | 22056.12 | USED | CLEAN | true
+PERFORMANCE_CAR | Jeep Gladiator 2016 | 30767.56 | 61535.11 | USED | DIRTY | true
+CAR | Ford F-150 Lightning 2014 | 10930.62 | 21861.23 | USED | DIRTY | true
+PICKUP | Ford F-150 Lightning 2022 | 28209.28 | 56418.56 | LIKE_NEW | DIRTY | true
+PERFORMANCE_CAR | Chevrolet Colorado ZR2 2022 | 30163.07 | 60326.14 | LIKE_NEW | DIRTY | true
+CAR | Nissan Frontier 2015 | 8223.70 | 16447.40 | BROKEN | DIRTY | true
+PICKUP | Ford F-150 Raptor 2022 | 9315.51 | 18631.02 | BROKEN | DIRTY | true
+
+Budget
+TotalOperatingBudget | TotalSale
+288783.56 |                 0.00
+********** End of the Inauguration day ************
+
+********** day 1 ************
+********** Working day ************
+Opening... (current budget $288783.56)
+
+Washing...
+INTERN Ashlynn Meyer wash PERFORMANCE_CAR Toyota Tundra 2018 and made it CLEAN
+INTERN Ashlynn Meyer wash PERFORMANCE_CAR Toyota Tundra 2018 and made it CLEAN
+INTERN Navy Reed wash PERFORMANCE_CAR Toyota Tundra 2018 and made it SPARKING (earned 75.00 bonus)
+INTERN Navy Reed wash PICKUP Rivian R1T 2022 and made it SPARKING (earned 100.00 bonus)
+INTERN Rhett Fletcher wash PICKUP Ford Velociraptor 6×6 2014 and made it SPARKING (earned 100.00 bonus)
+
+Repairing...
+MECHANIC Easton Benton repaired BROKEN CAR GMC Hummer EV 2023 and made it USED (earned $100.00 bounus)
+MECHANIC Easton Benton repaired USED CAR GMC Hummer EV 2023 and made it LIKE_NEW (earned $100.00 bounus)
+MECHANIC Adalynn Dickson repaired USED PICKUP Rivian R1T 2022 and made it LIKE_NEW (earned $150.00 bounus)
+MECHANIC Adalynn Dickson repaired BROKEN PERFORMANCE_CAR Jeep Gladiator 2015 and made it USED (earned $200.00 bounus)
+MECHANIC Joel Hurley repaired USED PERFORMANCE_CAR Jeep Gladiator 2015 and made it LIKE_NEW (earned $200.00 bounus)
+MECHANIC Joel Hurley repaired USED CAR Hyundai Santa Cruz 2019 and made it LIKE_NEW (earned $100.00 bounus)
+
+Selling...
+Number of buyers: 4
+Sales income increased by $ 28552.428500
+Current balance is $ 317335.990778
+SALESPERSON Leroy Rivers sold DIRTY LIKE_NEW GMC Hummer EV 2023 to Buyer for $28552.43 (earned $160.00 bonus)
+Sales income increased by $ 65026.815909
+Current balance is $ 382362.806687
+SALESPERSON Leroy Rivers sold CLEAN LIKE_NEW Rivian R1T 2022 to Buyer for $65026.82 (earned $220.00 bonus)
+Sales income increased by $ 61535.110248
+Current balance is $ 443897.916935
+SALESPERSON Aarav Frazier sold DIRTY USED Jeep Gladiator 2016 to Buyer for $61535.11 (earned $350.00 bonus)
+
+Ending...
+
+Total salary payout increased by $ 1050.000000
+
+Current balance is $ 442847.916935
+
+Total bonuses payout increased by $ 1855.000000
+
+Current balance is $ 440992.916935
+
+Staff members
+Title | Name | TotalDaysWorked | TotalNormalPay | TotalBonusPay | Working
+------------------------------------------------------------------------
+INTERN | Ashlynn Meyer | 1 | 80.00 | 0.00 | true
+INTERN | Navy Reed | 1 | 80.00 | 175.00 | true
+INTERN | Rhett Fletcher | 1 | 80.00 | 100.00 | true
+MECHANIC | Easton Benton | 1 | 120.00 | 200.00 | true
+MECHANIC | Adalynn Dickson | 1 | 120.00 | 350.00 | true
+MECHANIC | Joel Hurley | 1 | 120.00 | 300.00 | true
+SALESPERSON | Miley Reid | 1 | 150.00 | 0.00 | true
+SALESPERSON | Leroy Rivers | 1 | 150.00 | 380.00 | true
+SALESPERSON | Aarav Frazier | 1 | 150.00 | 350.00 | true
+
+Inventory
+Type | Name | Cost | SalePrice | Condition | Cleanliness | InStock
+------------------------------------------------------------------------
+PERFORMANCE_CAR | Toyota Tundra 2018 | 24230.38 | 48460.76 | LIKE_NEW | SPARKING | true
+PERFORMANCE_CAR | Jeep Gladiator 2015 | 14656.17 | 54960.63 | LIKE_NEW | DIRTY | true
+CAR | Hyundai Santa Cruz 2019 | 10067.39 | 25168.46 | LIKE_NEW | DIRTY | true
+PICKUP | Ford Velociraptor 6×6 2014 | 11028.06 | 22056.12 | USED | SPARKING | true
+CAR | Ford F-150 Lightning 2014 | 10930.62 | 21861.23 | USED | DIRTY | true
+PICKUP | Ford F-150 Lightning 2022 | 28209.28 | 56418.56 | LIKE_NEW | DIRTY | true
+PERFORMANCE_CAR | Chevrolet Colorado ZR2 2022 | 30163.07 | 60326.14 | LIKE_NEW | DIRTY | true
+CAR | Nissan Frontier 2015 | 8223.70 | 16447.40 | BROKEN | DIRTY | true
+PICKUP | Ford F-150 Raptor 2022 | 9315.51 | 18631.02 | BROKEN | DIRTY | true
+CAR | GMC Hummer EV 2023 | 7613.98 | 28552.43 | LIKE_NEW | DIRTY | false
+PICKUP | Rivian R1T 2022 | 26010.73 | 65026.82 | LIKE_NEW | CLEAN | false
+PERFORMANCE_CAR | Jeep Gladiator 2016 | 30767.56 | 61535.11 | USED | DIRTY | false
+
+Budget
+TotalOperatingBudget | TotalSale
+440992.92 |            155114.35
+
+********** day 2 ************
+********** Working day ************
+Opening... (current budget $440992.92)
+
+A CLEAN and USED PERFORMANCE_CAR (Chevrolet Colorado ZR2 2012) is available in the inventory.
+Purchased USED, CLEAN Chevrolet Colorado ZR2 2012 for $ 20906.067799
+
+A CLEAN and LIKE_NEW CAR (Toyota Hilux 2021) is available in the inventory.
+Purchased LIKE_NEW, CLEAN Toyota Hilux 2021 for $ 10080.482336
+
+Washing...
+INTERN Ashlynn Meyer wash PERFORMANCE_CAR Chevrolet Colorado ZR2 2012 and made it CLEAN
+INTERN Ashlynn Meyer wash PERFORMANCE_CAR Chevrolet Colorado ZR2 2012 and made it SPARKING (earned 75.00 bonus)
+INTERN Navy Reed wash CAR Toyota Hilux 2021 and made it DIRTY
+
+Repairing...
+MECHANIC Easton Benton repaired USED PICKUP Ford Velociraptor 6×6 2014 and made it LIKE_NEW (earned $150.00 bounus)
+MECHANIC Easton Benton repaired USED CAR Ford F-150 Lightning 2014 and made it LIKE_NEW (earned $100.00 bounus)
+MECHANIC Adalynn Dickson repaired BROKEN CAR Nissan Frontier 2015 and made it USED (earned $100.00 bounus)
+MECHANIC Adalynn Dickson repaired USED CAR Nissan Frontier 2015 unsuccessfully
+MECHANIC Joel Hurley repaired USED CAR Nissan Frontier 2015 and made it LIKE_NEW (earned $100.00 bounus)
+MECHANIC Joel Hurley repaired BROKEN PICKUP Ford F-150 Raptor 2022 and made it USED (earned $150.00 bounus)
+
+Selling...
+Number of buyers: 5
+SALESPERSON Miley Reid sold DIRTY LIKE_NEW Chevrolet Colorado ZR2 2022 to Buyer unsuccessfully
+SALESPERSON Miley Reid sold DIRTY LIKE_NEW Ford F-150 Lightning 2022 to Buyer unsuccessfully
+SALESPERSON Leroy Rivers sold DIRTY LIKE_NEW Ford F-150 Lightning 2022 to Buyer unsuccessfully
+SALESPERSON Aarav Frazier sold DIRTY LIKE_NEW Ford F-150 Lightning 2022 to Buyer unsuccessfully
+
+Ending...
+
+Total salary payout increased by $ 1050.000000
+
+Current balance is $ 408956.366800
+
+Total bonuses payout increased by $ 675.000000
+
+Current balance is $ 408281.366800
+
+Easton Benton (MECHANIC) quited.
+
+Miley Reid (SALESPERSON) quited.
+
+Staff members
+Title | Name | TotalDaysWorked | TotalNormalPay | TotalBonusPay | Working
+------------------------------------------------------------------------
+INTERN | Ashlynn Meyer | 2 | 160.00 | 75.00 | true
+INTERN | Navy Reed | 2 | 160.00 | 175.00 | true
+INTERN | Rhett Fletcher | 2 | 160.00 | 100.00 | true
+MECHANIC | Adalynn Dickson | 2 | 240.00 | 450.00 | true
+MECHANIC | Joel Hurley | 2 | 240.00 | 550.00 | true
+SALESPERSON | Leroy Rivers | 2 | 300.00 | 380.00 | true
+SALESPERSON | Aarav Frazier | 2 | 300.00 | 350.00 | true
+MECHANIC | Easton Benton | 2 | 240.00 | 450.00 | false
+SALESPERSON | Miley Reid | 2 | 300.00 | 0.00 | false
+
+Inventory
+Type | Name | Cost | SalePrice | Condition | Cleanliness | InStock
+------------------------------------------------------------------------
+PERFORMANCE_CAR | Toyota Tundra 2018 | 24230.38 | 48460.76 | LIKE_NEW | SPARKING | true
+PERFORMANCE_CAR | Jeep Gladiator 2015 | 14656.17 | 54960.63 | LIKE_NEW | DIRTY | true
+CAR | Hyundai Santa Cruz 2019 | 10067.39 | 25168.46 | LIKE_NEW | DIRTY | true
+PICKUP | Ford Velociraptor 6×6 2014 | 11028.06 | 27570.16 | LIKE_NEW | CLEAN | true
+CAR | Ford F-150 Lightning 2014 | 10930.62 | 27326.54 | LIKE_NEW | DIRTY | true
+PICKUP | Ford F-150 Lightning 2022 | 28209.28 | 56418.56 | LIKE_NEW | DIRTY | true
+PERFORMANCE_CAR | Chevrolet Colorado ZR2 2022 | 30163.07 | 60326.14 | LIKE_NEW | DIRTY | true
+CAR | Nissan Frontier 2015 | 8223.70 | 30838.88 | LIKE_NEW | DIRTY | true
+PICKUP | Ford F-150 Raptor 2022 | 9315.51 | 27946.53 | USED | DIRTY | true
+PERFORMANCE_CAR | Chevrolet Colorado ZR2 2012 | 20906.07 | 41812.14 | USED | SPARKING | true
+CAR | Toyota Hilux 2021 | 10080.48 | 20160.96 | LIKE_NEW | DIRTY | true
+CAR | GMC Hummer EV 2023 | 7613.98 | 28552.43 | LIKE_NEW | DIRTY | false
+PICKUP | Rivian R1T 2022 | 26010.73 | 65026.82 | LIKE_NEW | CLEAN | false
+PERFORMANCE_CAR | Jeep Gladiator 2016 | 30767.56 | 61535.11 | USED | DIRTY | false
+
+Budget
+TotalOperatingBudget | TotalSale
+408281.37 |            155114.35
+
+********** day 3 ************
+********** Working day ************
+Opening... (current budget $408281.37)
+
+Ashlynn Meyer is promoted from intern to Salesperson.
+
+Navy Reed is promoted from Intern to Salesperson.
+Hired INTERN Keyla Reid.
+Hired INTERN Remy Fernandez.
+
+Washing...
+INTERN Rhett Fletcher wash PICKUP Ford Velociraptor 6×6 2014 and made it CLEAN
+INTERN Rhett Fletcher wash PICKUP Ford Velociraptor 6×6 2014 and made it CLEAN
+INTERN Keyla Reid wash PICKUP Ford Velociraptor 6×6 2014 and made it CLEAN
+INTERN Keyla Reid wash PICKUP Ford Velociraptor 6×6 2014 and made it CLEAN
+INTERN Remy Fernandez wash PICKUP Ford Velociraptor 6×6 2014 and made it CLEAN
+INTERN Remy Fernandez wash PICKUP Ford Velociraptor 6×6 2014 and made it CLEAN
+
+Repairing...
+MECHANIC Adalynn Dickson repaired USED PICKUP Ford F-150 Raptor 2022 and made it LIKE_NEW (earned $150.00 bounus)
+MECHANIC Adalynn Dickson repaired USED PERFORMANCE_CAR Chevrolet Colorado ZR2 2012 and made it LIKE_NEW (earned $200.00 bounus)
+
+Selling...
+Number of buyers: 3
+Sales income increased by $ 56418.561894
+Current balance is $ 464699.928694
+SALESPERSON Leroy Rivers sold DIRTY LIKE_NEW Ford F-150 Lightning 2022 to Buyer for $56418.56 (earned $220.00 bonus)
+SALESPERSON Leroy Rivers sold DIRTY LIKE_NEW Nissan Frontier 2015 to Buyer unsuccessfully
+SALESPERSON Aarav Frazier sold DIRTY LIKE_NEW Chevrolet Colorado ZR2 2022 to Buyer unsuccessfully
+
+Ending...
+
+Total salary payout increased by $ 1050.000000
+
+Current balance is $ 463649.928694
+
+Total bonuses payout increased by $ 570.000000
+
+Current balance is $ 463079.928694
+
+Staff members
+Title | Name | TotalDaysWorked | TotalNormalPay | TotalBonusPay | Working
+------------------------------------------------------------------------
+INTERN | Rhett Fletcher | 3 | 240.00 | 100.00 | true
+INTERN | Keyla Reid | 1 | 80.00 | 0.00 | true
+INTERN | Remy Fernandez | 1 | 80.00 | 0.00 | true
+MECHANIC | Adalynn Dickson | 3 | 360.00 | 800.00 | true
+MECHANIC | Joel Hurley | 3 | 360.00 | 550.00 | true
+MECHANIC | Ashlynn Meyer | 3 | 280.00 | 0.00 | true
+SALESPERSON | Leroy Rivers | 3 | 450.00 | 600.00 | true
+SALESPERSON | Aarav Frazier | 3 | 450.00 | 350.00 | true
+SALESPERSON | Navy Reed | 3 | 310.00 | 175.00 | true
+MECHANIC | Easton Benton | 2 | 240.00 | 450.00 | false
+SALESPERSON | Miley Reid | 2 | 300.00 | 0.00 | false
+
+Inventory
+Type | Name | Cost | SalePrice | Condition | Cleanliness | InStock
+------------------------------------------------------------------------
+PERFORMANCE_CAR | Toyota Tundra 2018 | 24230.38 | 48460.76 | LIKE_NEW | SPARKING | true
+PERFORMANCE_CAR | Jeep Gladiator 2015 | 14656.17 | 54960.63 | LIKE_NEW | DIRTY | true
+CAR | Hyundai Santa Cruz 2019 | 10067.39 | 25168.46 | LIKE_NEW | DIRTY | true
+PICKUP | Ford Velociraptor 6×6 2014 | 11028.06 | 27570.16 | LIKE_NEW | CLEAN | true
+CAR | Ford F-150 Lightning 2014 | 10930.62 | 27326.54 | LIKE_NEW | DIRTY | true
+PERFORMANCE_CAR | Chevrolet Colorado ZR2 2022 | 30163.07 | 60326.14 | LIKE_NEW | DIRTY | true
+CAR | Nissan Frontier 2015 | 8223.70 | 30838.88 | LIKE_NEW | DIRTY | true
+PICKUP | Ford F-150 Raptor 2022 | 9315.51 | 34933.16 | LIKE_NEW | DIRTY | true
+PERFORMANCE_CAR | Chevrolet Colorado ZR2 2012 | 20906.07 | 52265.17 | LIKE_NEW | CLEAN | true
+CAR | Toyota Hilux 2021 | 10080.48 | 20160.96 | LIKE_NEW | DIRTY | true
+CAR | GMC Hummer EV 2023 | 7613.98 | 28552.43 | LIKE_NEW | DIRTY | false
+PICKUP | Rivian R1T 2022 | 26010.73 | 65026.82 | LIKE_NEW | CLEAN | false
+PERFORMANCE_CAR | Jeep Gladiator 2016 | 30767.56 | 61535.11 | USED | DIRTY | false
+PICKUP | Ford F-150 Lightning 2022 | 28209.28 | 56418.56 | LIKE_NEW | DIRTY | false
+
+Budget
+TotalOperatingBudget | TotalSale
+463079.93 |            211532.92
+
+********** day 4 ************
+********** Working day ************
+Opening... (current budget $463079.93)
+
+Washing...
+INTERN Rhett Fletcher wash PICKUP Ford Velociraptor 6×6 2014 and made it SPARKING (earned 100.00 bonus)
+INTERN Rhett Fletcher wash PERFORMANCE_CAR Chevrolet Colorado ZR2 2012 and made it CLEAN
+INTERN Keyla Reid wash PERFORMANCE_CAR Chevrolet Colorado ZR2 2012 and made it CLEAN
+INTERN Keyla Reid wash PERFORMANCE_CAR Chevrolet Colorado ZR2 2012 and made it CLEAN
+INTERN Remy Fernandez wash PERFORMANCE_CAR Chevrolet Colorado ZR2 2012 and made it CLEAN
+INTERN Remy Fernandez wash PERFORMANCE_CAR Chevrolet Colorado ZR2 2012 and made it SPARKING (earned 75.00 bonus)
+
+Repairing...
+
+Selling...
+Number of buyers: 2
+SALESPERSON Leroy Rivers sold DIRTY LIKE_NEW Ford F-150 Raptor 2022 to Buyer unsuccessfully
+SALESPERSON Aarav Frazier sold DIRTY LIKE_NEW Chevrolet Colorado ZR2 2022 to Buyer unsuccessfully
+
+Ending...
+
+Total salary payout increased by $ 1050.000000
+
+Current balance is $ 462029.928694
+
+Total bonuses payout increased by $ 175.000000
+
+Current balance is $ 461854.928694
+
+Staff members
+Title | Name | TotalDaysWorked | TotalNormalPay | TotalBonusPay | Working
+------------------------------------------------------------------------
+INTERN | Rhett Fletcher | 4 | 320.00 | 200.00 | true
+INTERN | Keyla Reid | 2 | 160.00 | 0.00 | true
+INTERN | Remy Fernandez | 2 | 160.00 | 75.00 | true
+MECHANIC | Adalynn Dickson | 4 | 480.00 | 800.00 | true
+MECHANIC | Joel Hurley | 4 | 480.00 | 550.00 | true
+MECHANIC | Ashlynn Meyer | 4 | 400.00 | 0.00 | true
+SALESPERSON | Leroy Rivers | 4 | 600.00 | 600.00 | true
+SALESPERSON | Aarav Frazier | 4 | 600.00 | 350.00 | true
+SALESPERSON | Navy Reed | 4 | 460.00 | 175.00 | true
+MECHANIC | Easton Benton | 2 | 240.00 | 450.00 | false
+SALESPERSON | Miley Reid | 2 | 300.00 | 0.00 | false
+
+Inventory
+Type | Name | Cost | SalePrice | Condition | Cleanliness | InStock
+------------------------------------------------------------------------
+PERFORMANCE_CAR | Toyota Tundra 2018 | 24230.38 | 48460.76 | LIKE_NEW | SPARKING | true
+PERFORMANCE_CAR | Jeep Gladiator 2015 | 14656.17 | 54960.63 | LIKE_NEW | DIRTY | true
+CAR | Hyundai Santa Cruz 2019 | 10067.39 | 25168.46 | LIKE_NEW | DIRTY | true
+PICKUP | Ford Velociraptor 6×6 2014 | 11028.06 | 27570.16 | LIKE_NEW | SPARKING | true
+CAR | Ford F-150 Lightning 2014 | 10930.62 | 27326.54 | LIKE_NEW | DIRTY | true
+PERFORMANCE_CAR | Chevrolet Colorado ZR2 2022 | 30163.07 | 60326.14 | LIKE_NEW | DIRTY | true
+CAR | Nissan Frontier 2015 | 8223.70 | 30838.88 | LIKE_NEW | DIRTY | true
+PICKUP | Ford F-150 Raptor 2022 | 9315.51 | 34933.16 | LIKE_NEW | DIRTY | true
+PERFORMANCE_CAR | Chevrolet Colorado ZR2 2012 | 20906.07 | 52265.17 | LIKE_NEW | SPARKING | true
+CAR | Toyota Hilux 2021 | 10080.48 | 20160.96 | LIKE_NEW | DIRTY | true
+CAR | GMC Hummer EV 2023 | 7613.98 | 28552.43 | LIKE_NEW | DIRTY | false
+PICKUP | Rivian R1T 2022 | 26010.73 | 65026.82 | LIKE_NEW | CLEAN | false
+PERFORMANCE_CAR | Jeep Gladiator 2016 | 30767.56 | 61535.11 | USED | DIRTY | false
+PICKUP | Ford F-150 Lightning 2022 | 28209.28 | 56418.56 | LIKE_NEW | DIRTY | false
+
+Budget
+TotalOperatingBudget | TotalSale
+461854.93 |            211532.92
+
+********** day 5 ************
+********** Working day ************
+Opening... (current budget $461854.93)
+
+Washing...
+
+Repairing...
+
+Selling...
+Number of buyers: 1
+Sales income increased by $ 30838.875114
+Current balance is $ 492693.803808
+SALESPERSON Leroy Rivers sold DIRTY LIKE_NEW Nissan Frontier 2015 to Buyer for $30838.88 (earned $160.00 bonus)
+
+Ending...
+
+Total salary payout increased by $ 1050.000000
+
+Current balance is $ 491643.803808
+
+Total bonuses payout increased by $ 160.000000
+
+Current balance is $ 491483.803808
+
+Staff members
+Title | Name | TotalDaysWorked | TotalNormalPay | TotalBonusPay | Working
+------------------------------------------------------------------------
+INTERN | Rhett Fletcher | 5 | 400.00 | 200.00 | true
+INTERN | Keyla Reid | 3 | 240.00 | 0.00 | true
+INTERN | Remy Fernandez | 3 | 240.00 | 75.00 | true
+MECHANIC | Adalynn Dickson | 5 | 600.00 | 800.00 | true
+MECHANIC | Joel Hurley | 5 | 600.00 | 550.00 | true
+MECHANIC | Ashlynn Meyer | 5 | 520.00 | 0.00 | true
+SALESPERSON | Leroy Rivers | 5 | 750.00 | 760.00 | true
+SALESPERSON | Aarav Frazier | 5 | 750.00 | 350.00 | true
+SALESPERSON | Navy Reed | 5 | 610.00 | 175.00 | true
+MECHANIC | Easton Benton | 2 | 240.00 | 450.00 | false
+SALESPERSON | Miley Reid | 2 | 300.00 | 0.00 | false
+
+Inventory
+Type | Name | Cost | SalePrice | Condition | Cleanliness | InStock
+------------------------------------------------------------------------
+PERFORMANCE_CAR | Toyota Tundra 2018 | 24230.38 | 48460.76 | LIKE_NEW | SPARKING | true
+PERFORMANCE_CAR | Jeep Gladiator 2015 | 14656.17 | 54960.63 | LIKE_NEW | DIRTY | true
+CAR | Hyundai Santa Cruz 2019 | 10067.39 | 25168.46 | LIKE_NEW | DIRTY | true
+PICKUP | Ford Velociraptor 6×6 2014 | 11028.06 | 27570.16 | LIKE_NEW | SPARKING | true
+CAR | Ford F-150 Lightning 2014 | 10930.62 | 27326.54 | LIKE_NEW | DIRTY | true
+PERFORMANCE_CAR | Chevrolet Colorado ZR2 2022 | 30163.07 | 60326.14 | LIKE_NEW | DIRTY | true
+PICKUP | Ford F-150 Raptor 2022 | 9315.51 | 34933.16 | LIKE_NEW | DIRTY | true
+PERFORMANCE_CAR | Chevrolet Colorado ZR2 2012 | 20906.07 | 52265.17 | LIKE_NEW | SPARKING | true
+CAR | Toyota Hilux 2021 | 10080.48 | 20160.96 | LIKE_NEW | DIRTY | true
+CAR | GMC Hummer EV 2023 | 7613.98 | 28552.43 | LIKE_NEW | DIRTY | false
+PICKUP | Rivian R1T 2022 | 26010.73 | 65026.82 | LIKE_NEW | CLEAN | false
+PERFORMANCE_CAR | Jeep Gladiator 2016 | 30767.56 | 61535.11 | USED | DIRTY | false
+PICKUP | Ford F-150 Lightning 2022 | 28209.28 | 56418.56 | LIKE_NEW | DIRTY | false
+CAR | Nissan Frontier 2015 | 8223.70 | 30838.88 | LIKE_NEW | DIRTY | false
+
+Budget
+TotalOperatingBudget | TotalSale
+491483.80 |            242371.79
+
+********** day 6 ************
+********** Working day ************
+Opening... (current budget $491483.80)
+
+A SPARKING and USED CAR (Toyota Hilux 2015) is available in the inventory.
+Purchased USED, SPARKING Toyota Hilux 2015 for $ 14434.604990
+
+Washing...
+
+Repairing...
+MECHANIC Adalynn Dickson repaired USED CAR Toyota Hilux 2015 and made it LIKE_NEW (earned $100.00 bounus)
+
+Selling...
+Number of buyers: 2
+Sales income increased by $ 60326.144981
+Current balance is $ 537375.343799
+SALESPERSON Navy Reed sold DIRTY LIKE_NEW Chevrolet Colorado ZR2 2022 to Buyer for $60326.14 (earned $350.00 bonus)
+
+Ending...
+
+Total salary payout increased by $ 1050.000000
+
+Current balance is $ 536325.343799
+
+Total bonuses payout increased by $ 450.000000
+
+Current balance is $ 535875.343799
+
+Staff members
+Title | Name | TotalDaysWorked | TotalNormalPay | TotalBonusPay | Working
+------------------------------------------------------------------------
+INTERN | Rhett Fletcher | 6 | 480.00 | 200.00 | true
+INTERN | Keyla Reid | 4 | 320.00 | 0.00 | true
+INTERN | Remy Fernandez | 4 | 320.00 | 75.00 | true
+MECHANIC | Adalynn Dickson | 6 | 720.00 | 900.00 | true
+MECHANIC | Joel Hurley | 6 | 720.00 | 550.00 | true
+MECHANIC | Ashlynn Meyer | 6 | 640.00 | 0.00 | true
+SALESPERSON | Leroy Rivers | 6 | 900.00 | 760.00 | true
+SALESPERSON | Aarav Frazier | 6 | 900.00 | 350.00 | true
+SALESPERSON | Navy Reed | 6 | 760.00 | 525.00 | true
+MECHANIC | Easton Benton | 2 | 240.00 | 450.00 | false
+SALESPERSON | Miley Reid | 2 | 300.00 | 0.00 | false
+
+Inventory
+Type | Name | Cost | SalePrice | Condition | Cleanliness | InStock
+------------------------------------------------------------------------
+PERFORMANCE_CAR | Toyota Tundra 2018 | 24230.38 | 48460.76 | LIKE_NEW | SPARKING | true
+PERFORMANCE_CAR | Jeep Gladiator 2015 | 14656.17 | 54960.63 | LIKE_NEW | DIRTY | true
+CAR | Hyundai Santa Cruz 2019 | 10067.39 | 25168.46 | LIKE_NEW | DIRTY | true
+PICKUP | Ford Velociraptor 6×6 2014 | 11028.06 | 27570.16 | LIKE_NEW | SPARKING | true
+CAR | Ford F-150 Lightning 2014 | 10930.62 | 27326.54 | LIKE_NEW | DIRTY | true
+PICKUP | Ford F-150 Raptor 2022 | 9315.51 | 34933.16 | LIKE_NEW | DIRTY | true
+PERFORMANCE_CAR | Chevrolet Colorado ZR2 2012 | 20906.07 | 52265.17 | LIKE_NEW | SPARKING | true
+CAR | Toyota Hilux 2021 | 10080.48 | 20160.96 | LIKE_NEW | DIRTY | true
+CAR | Toyota Hilux 2015 | 14434.60 | 36086.51 | LIKE_NEW | CLEAN | true
+CAR | GMC Hummer EV 2023 | 7613.98 | 28552.43 | LIKE_NEW | DIRTY | false
+PICKUP | Rivian R1T 2022 | 26010.73 | 65026.82 | LIKE_NEW | CLEAN | false
+PERFORMANCE_CAR | Jeep Gladiator 2016 | 30767.56 | 61535.11 | USED | DIRTY | false
+PICKUP | Ford F-150 Lightning 2022 | 28209.28 | 56418.56 | LIKE_NEW | DIRTY | false
+CAR | Nissan Frontier 2015 | 8223.70 | 30838.88 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Chevrolet Colorado ZR2 2022 | 30163.07 | 60326.14 | LIKE_NEW | DIRTY | false
+
+Budget
+TotalOperatingBudget | TotalSale
+535875.34 |            302697.94
+
+********** day 7 ************
+********** Weekend ************
+
+********** day 8 ************
+********** Working day ************
+Opening... (current budget $535875.34)
+
+A DIRTY and BROKEN PERFORMANCE_CAR (Honda Ridgeline 2022) is available in the inventory.
+Purchased BROKEN, DIRTY Honda Ridgeline 2022 for $ 17780.700103
+
+Washing...
+INTERN Rhett Fletcher wash CAR Toyota Hilux 2015 and made it CLEAN
+INTERN Rhett Fletcher wash CAR Toyota Hilux 2015 and made it CLEAN
+INTERN Keyla Reid wash CAR Toyota Hilux 2015 and made it SPARKING (earned 50.00 bonus)
+
+Repairing...
+MECHANIC Adalynn Dickson repaired BROKEN PERFORMANCE_CAR Honda Ridgeline 2022 and made it USED (earned $200.00 bounus)
+MECHANIC Adalynn Dickson repaired USED PERFORMANCE_CAR Honda Ridgeline 2022 and made it LIKE_NEW (earned $200.00 bounus)
+
+Selling...
+Number of buyers: 6
+Sales income increased by $ 34933.160095
+Current balance is $ 553027.803791
+SALESPERSON Leroy Rivers sold DIRTY LIKE_NEW Ford F-150 Raptor 2022 to Buyer for $34933.16 (earned $220.00 bonus)
+SALESPERSON Leroy Rivers sold DIRTY LIKE_NEW Honda Ridgeline 2022 to Buyer unsuccessfully
+Sales income increased by $ 36086.512474
+Current balance is $ 589114.316266
+SALESPERSON Leroy Rivers sold SPARKING LIKE_NEW Toyota Hilux 2015 to Buyer for $36086.51 (earned $160.00 bonus)
+Sales income increased by $ 66677.625385
+Current balance is $ 655791.941650
+SALESPERSON Aarav Frazier sold DIRTY LIKE_NEW Honda Ridgeline 2022 to Buyer for $66677.63 (earned $350.00 bonus)
+Sales income increased by $ 27570.156176
+Current balance is $ 683362.097826
+SALESPERSON Aarav Frazier sold SPARKING LIKE_NEW Ford Velociraptor 6×6 2014 to Buyer for $27570.16 (earned $220.00 bonus)
+Sales income increased by $ 54960.628842
+Current balance is $ 738322.726668
+SALESPERSON Navy Reed sold DIRTY LIKE_NEW Jeep Gladiator 2015 to Buyer for $54960.63 (earned $350.00 bonus)
+
+Ending...
+
+Total salary payout increased by $ 1050.000000
+
+Current balance is $ 737272.726668
+
+Total bonuses payout increased by $ 1750.000000
+
+Current balance is $ 735522.726668
+
+Staff members
+Title | Name | TotalDaysWorked | TotalNormalPay | TotalBonusPay | Working
+------------------------------------------------------------------------
+INTERN | Rhett Fletcher | 7 | 560.00 | 200.00 | true
+INTERN | Keyla Reid | 5 | 400.00 | 50.00 | true
+INTERN | Remy Fernandez | 5 | 400.00 | 75.00 | true
+MECHANIC | Adalynn Dickson | 7 | 840.00 | 1300.00 | true
+MECHANIC | Joel Hurley | 7 | 840.00 | 550.00 | true
+MECHANIC | Ashlynn Meyer | 7 | 760.00 | 0.00 | true
+SALESPERSON | Leroy Rivers | 7 | 1050.00 | 1140.00 | true
+SALESPERSON | Aarav Frazier | 7 | 1050.00 | 920.00 | true
+SALESPERSON | Navy Reed | 7 | 910.00 | 875.00 | true
+MECHANIC | Easton Benton | 2 | 240.00 | 450.00 | false
+SALESPERSON | Miley Reid | 2 | 300.00 | 0.00 | false
+
+Inventory
+Type | Name | Cost | SalePrice | Condition | Cleanliness | InStock
+------------------------------------------------------------------------
+PERFORMANCE_CAR | Toyota Tundra 2018 | 24230.38 | 48460.76 | LIKE_NEW | SPARKING | true
+CAR | Hyundai Santa Cruz 2019 | 10067.39 | 25168.46 | LIKE_NEW | DIRTY | true
+CAR | Ford F-150 Lightning 2014 | 10930.62 | 27326.54 | LIKE_NEW | DIRTY | true
+PERFORMANCE_CAR | Chevrolet Colorado ZR2 2012 | 20906.07 | 52265.17 | LIKE_NEW | SPARKING | true
+CAR | Toyota Hilux 2021 | 10080.48 | 20160.96 | LIKE_NEW | DIRTY | true
+CAR | GMC Hummer EV 2023 | 7613.98 | 28552.43 | LIKE_NEW | DIRTY | false
+PICKUP | Rivian R1T 2022 | 26010.73 | 65026.82 | LIKE_NEW | CLEAN | false
+PERFORMANCE_CAR | Jeep Gladiator 2016 | 30767.56 | 61535.11 | USED | DIRTY | false
+PICKUP | Ford F-150 Lightning 2022 | 28209.28 | 56418.56 | LIKE_NEW | DIRTY | false
+CAR | Nissan Frontier 2015 | 8223.70 | 30838.88 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Chevrolet Colorado ZR2 2022 | 30163.07 | 60326.14 | LIKE_NEW | DIRTY | false
+PICKUP | Ford F-150 Raptor 2022 | 9315.51 | 34933.16 | LIKE_NEW | DIRTY | false
+CAR | Toyota Hilux 2015 | 14434.60 | 36086.51 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Honda Ridgeline 2022 | 17780.70 | 66677.63 | LIKE_NEW | DIRTY | false
+PICKUP | Ford Velociraptor 6×6 2014 | 11028.06 | 27570.16 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Jeep Gladiator 2015 | 14656.17 | 54960.63 | LIKE_NEW | DIRTY | false
+
+Budget
+TotalOperatingBudget | TotalSale
+735522.73 |            522926.02
+
+********** day 9 ************
+********** Working day ************
+Opening... (current budget $735522.73)
+
+A DIRTY and BROKEN PERFORMANCE_CAR (Mahindra Bolero Camper 2010) is available in the inventory.
+Purchased BROKEN, DIRTY Mahindra Bolero Camper 2010 for $ 16736.321617
+
+A CLEAN and LIKE_NEW PERFORMANCE_CAR (Tesla Cybertruck 2018) is available in the inventory.
+Purchased LIKE_NEW, CLEAN Tesla Cybertruck 2018 for $ 24695.079231
+
+A DIRTY and LIKE_NEW CAR (Mahindra Bolero Camper 2020) is available in the inventory.
+Purchased LIKE_NEW, DIRTY Mahindra Bolero Camper 2020 for $ 10264.407309
+
+Washing...
+INTERN Rhett Fletcher wash PERFORMANCE_CAR Tesla Cybertruck 2018 and made it CLEAN
+INTERN Rhett Fletcher wash PERFORMANCE_CAR Tesla Cybertruck 2018 and made it CLEAN
+INTERN Keyla Reid wash PERFORMANCE_CAR Tesla Cybertruck 2018 and made it SPARKING (earned 75.00 bonus)
+
+Repairing...
+MECHANIC Adalynn Dickson repaired BROKEN PERFORMANCE_CAR Mahindra Bolero Camper 2010 and made it USED (earned $200.00 bounus)
+MECHANIC Adalynn Dickson repaired USED PERFORMANCE_CAR Mahindra Bolero Camper 2010 and made it LIKE_NEW (earned $200.00 bounus)
+
+Selling...
+Number of buyers: 2
+SALESPERSON Leroy Rivers sold DIRTY LIKE_NEW Mahindra Bolero Camper 2010 to Buyer unsuccessfully
+SALESPERSON Aarav Frazier sold DIRTY LIKE_NEW Mahindra Bolero Camper 2010 to Buyer unsuccessfully
+
+Ending...
+
+Total salary payout increased by $ 1050.000000
+
+Current balance is $ 682776.918512
+
+Total bonuses payout increased by $ 475.000000
+
+Current balance is $ 682301.918512
+
+Staff members
+Title | Name | TotalDaysWorked | TotalNormalPay | TotalBonusPay | Working
+------------------------------------------------------------------------
+INTERN | Rhett Fletcher | 8 | 640.00 | 200.00 | true
+INTERN | Keyla Reid | 6 | 480.00 | 125.00 | true
+INTERN | Remy Fernandez | 6 | 480.00 | 75.00 | true
+MECHANIC | Adalynn Dickson | 8 | 960.00 | 1700.00 | true
+MECHANIC | Joel Hurley | 8 | 960.00 | 550.00 | true
+MECHANIC | Ashlynn Meyer | 8 | 880.00 | 0.00 | true
+SALESPERSON | Leroy Rivers | 8 | 1200.00 | 1140.00 | true
+SALESPERSON | Aarav Frazier | 8 | 1200.00 | 920.00 | true
+SALESPERSON | Navy Reed | 8 | 1060.00 | 875.00 | true
+MECHANIC | Easton Benton | 2 | 240.00 | 450.00 | false
+SALESPERSON | Miley Reid | 2 | 300.00 | 0.00 | false
+
+Inventory
+Type | Name | Cost | SalePrice | Condition | Cleanliness | InStock
+------------------------------------------------------------------------
+PERFORMANCE_CAR | Toyota Tundra 2018 | 24230.38 | 48460.76 | LIKE_NEW | SPARKING | true
+CAR | Hyundai Santa Cruz 2019 | 10067.39 | 25168.46 | LIKE_NEW | DIRTY | true
+CAR | Ford F-150 Lightning 2014 | 10930.62 | 27326.54 | LIKE_NEW | DIRTY | true
+PERFORMANCE_CAR | Chevrolet Colorado ZR2 2012 | 20906.07 | 52265.17 | LIKE_NEW | SPARKING | true
+CAR | Toyota Hilux 2021 | 10080.48 | 20160.96 | LIKE_NEW | DIRTY | true
+PERFORMANCE_CAR | Mahindra Bolero Camper 2010 | 16736.32 | 62761.21 | LIKE_NEW | DIRTY | true
+PERFORMANCE_CAR | Tesla Cybertruck 2018 | 24695.08 | 49390.16 | LIKE_NEW | SPARKING | true
+CAR | Mahindra Bolero Camper 2020 | 10264.41 | 20528.81 | LIKE_NEW | DIRTY | true
+CAR | GMC Hummer EV 2023 | 7613.98 | 28552.43 | LIKE_NEW | DIRTY | false
+PICKUP | Rivian R1T 2022 | 26010.73 | 65026.82 | LIKE_NEW | CLEAN | false
+PERFORMANCE_CAR | Jeep Gladiator 2016 | 30767.56 | 61535.11 | USED | DIRTY | false
+PICKUP | Ford F-150 Lightning 2022 | 28209.28 | 56418.56 | LIKE_NEW | DIRTY | false
+CAR | Nissan Frontier 2015 | 8223.70 | 30838.88 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Chevrolet Colorado ZR2 2022 | 30163.07 | 60326.14 | LIKE_NEW | DIRTY | false
+PICKUP | Ford F-150 Raptor 2022 | 9315.51 | 34933.16 | LIKE_NEW | DIRTY | false
+CAR | Toyota Hilux 2015 | 14434.60 | 36086.51 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Honda Ridgeline 2022 | 17780.70 | 66677.63 | LIKE_NEW | DIRTY | false
+PICKUP | Ford Velociraptor 6×6 2014 | 11028.06 | 27570.16 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Jeep Gladiator 2015 | 14656.17 | 54960.63 | LIKE_NEW | DIRTY | false
+
+Budget
+TotalOperatingBudget | TotalSale
+682301.92 |            522926.02
+
+********** day 10 ************
+********** Working day ************
+Opening... (current budget $682301.92)
+
+Washing...
+
+Repairing...
+
+Selling...
+Number of buyers: 4
+SALESPERSON Leroy Rivers sold DIRTY LIKE_NEW Mahindra Bolero Camper 2010 to Buyer unsuccessfully
+SALESPERSON Leroy Rivers sold DIRTY LIKE_NEW Ford F-150 Lightning 2014 to Buyer unsuccessfully
+Sales income increased by $ 62761.206063
+Current balance is $ 745063.124575
+SALESPERSON Aarav Frazier sold DIRTY LIKE_NEW Mahindra Bolero Camper 2010 to Buyer for $62761.21 (earned $350.00 bonus)
+
+Ending...
+
+Total salary payout increased by $ 1050.000000
+
+Current balance is $ 744013.124575
+
+Total bonuses payout increased by $ 350.000000
+
+Current balance is $ 743663.124575
+
+Staff members
+Title | Name | TotalDaysWorked | TotalNormalPay | TotalBonusPay | Working
+------------------------------------------------------------------------
+INTERN | Rhett Fletcher | 9 | 720.00 | 200.00 | true
+INTERN | Keyla Reid | 7 | 560.00 | 125.00 | true
+INTERN | Remy Fernandez | 7 | 560.00 | 75.00 | true
+MECHANIC | Adalynn Dickson | 9 | 1080.00 | 1700.00 | true
+MECHANIC | Joel Hurley | 9 | 1080.00 | 550.00 | true
+MECHANIC | Ashlynn Meyer | 9 | 1000.00 | 0.00 | true
+SALESPERSON | Leroy Rivers | 9 | 1350.00 | 1140.00 | true
+SALESPERSON | Aarav Frazier | 9 | 1350.00 | 1270.00 | true
+SALESPERSON | Navy Reed | 9 | 1210.00 | 875.00 | true
+MECHANIC | Easton Benton | 2 | 240.00 | 450.00 | false
+SALESPERSON | Miley Reid | 2 | 300.00 | 0.00 | false
+
+Inventory
+Type | Name | Cost | SalePrice | Condition | Cleanliness | InStock
+------------------------------------------------------------------------
+PERFORMANCE_CAR | Toyota Tundra 2018 | 24230.38 | 48460.76 | LIKE_NEW | SPARKING | true
+CAR | Hyundai Santa Cruz 2019 | 10067.39 | 25168.46 | LIKE_NEW | DIRTY | true
+CAR | Ford F-150 Lightning 2014 | 10930.62 | 27326.54 | LIKE_NEW | DIRTY | true
+PERFORMANCE_CAR | Chevrolet Colorado ZR2 2012 | 20906.07 | 52265.17 | LIKE_NEW | SPARKING | true
+CAR | Toyota Hilux 2021 | 10080.48 | 20160.96 | LIKE_NEW | DIRTY | true
+PERFORMANCE_CAR | Tesla Cybertruck 2018 | 24695.08 | 49390.16 | LIKE_NEW | SPARKING | true
+CAR | Mahindra Bolero Camper 2020 | 10264.41 | 20528.81 | LIKE_NEW | DIRTY | true
+CAR | GMC Hummer EV 2023 | 7613.98 | 28552.43 | LIKE_NEW | DIRTY | false
+PICKUP | Rivian R1T 2022 | 26010.73 | 65026.82 | LIKE_NEW | CLEAN | false
+PERFORMANCE_CAR | Jeep Gladiator 2016 | 30767.56 | 61535.11 | USED | DIRTY | false
+PICKUP | Ford F-150 Lightning 2022 | 28209.28 | 56418.56 | LIKE_NEW | DIRTY | false
+CAR | Nissan Frontier 2015 | 8223.70 | 30838.88 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Chevrolet Colorado ZR2 2022 | 30163.07 | 60326.14 | LIKE_NEW | DIRTY | false
+PICKUP | Ford F-150 Raptor 2022 | 9315.51 | 34933.16 | LIKE_NEW | DIRTY | false
+CAR | Toyota Hilux 2015 | 14434.60 | 36086.51 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Honda Ridgeline 2022 | 17780.70 | 66677.63 | LIKE_NEW | DIRTY | false
+PICKUP | Ford Velociraptor 6×6 2014 | 11028.06 | 27570.16 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Jeep Gladiator 2015 | 14656.17 | 54960.63 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Mahindra Bolero Camper 2010 | 16736.32 | 62761.21 | LIKE_NEW | DIRTY | false
+
+Budget
+TotalOperatingBudget | TotalSale
+743663.12 |            585687.23
+
+********** day 11 ************
+********** Working day ************
+Opening... (current budget $743663.12)
+
+A DIRTY and BROKEN PERFORMANCE_CAR (Toyota Tundra 2012) is available in the inventory.
+Purchased BROKEN, DIRTY Toyota Tundra 2012 for $ 15165.574891
+
+Washing...
+
+Repairing...
+MECHANIC Adalynn Dickson repaired BROKEN PERFORMANCE_CAR Toyota Tundra 2012 and made it USED (earned $200.00 bounus)
+MECHANIC Adalynn Dickson repaired USED PERFORMANCE_CAR Toyota Tundra 2012 and made it LIKE_NEW (earned $200.00 bounus)
+
+Selling...
+Number of buyers: 5
+Sales income increased by $ 56870.905843
+Current balance is $ 785368.455526
+SALESPERSON Leroy Rivers sold DIRTY LIKE_NEW Toyota Tundra 2012 to Buyer for $56870.91 (earned $350.00 bonus)
+Sales income increased by $ 27326.540739
+Current balance is $ 812694.996264
+SALESPERSON Leroy Rivers sold DIRTY LIKE_NEW Ford F-150 Lightning 2014 to Buyer for $27326.54 (earned $160.00 bonus)
+SALESPERSON Navy Reed sold DIRTY LIKE_NEW Hyundai Santa Cruz 2019 to Buyer unsuccessfully
+SALESPERSON Navy Reed sold SPARKING LIKE_NEW Chevrolet Colorado ZR2 2012 to Buyer unsuccessfully
+
+Ending...
+
+Total salary payout increased by $ 1050.000000
+
+Current balance is $ 811644.996264
+
+Total bonuses payout increased by $ 910.000000
+
+Current balance is $ 810734.996264
+
+Leroy Rivers (SALESPERSON) quited.
+
+Staff members
+Title | Name | TotalDaysWorked | TotalNormalPay | TotalBonusPay | Working
+------------------------------------------------------------------------
+INTERN | Rhett Fletcher | 10 | 800.00 | 200.00 | true
+INTERN | Keyla Reid | 8 | 640.00 | 125.00 | true
+INTERN | Remy Fernandez | 8 | 640.00 | 75.00 | true
+MECHANIC | Adalynn Dickson | 10 | 1200.00 | 2100.00 | true
+MECHANIC | Joel Hurley | 10 | 1200.00 | 550.00 | true
+MECHANIC | Ashlynn Meyer | 10 | 1120.00 | 0.00 | true
+SALESPERSON | Aarav Frazier | 10 | 1500.00 | 1270.00 | true
+SALESPERSON | Navy Reed | 10 | 1360.00 | 875.00 | true
+MECHANIC | Easton Benton | 2 | 240.00 | 450.00 | false
+SALESPERSON | Miley Reid | 2 | 300.00 | 0.00 | false
+SALESPERSON | Leroy Rivers | 10 | 1500.00 | 1650.00 | false
+
+Inventory
+Type | Name | Cost | SalePrice | Condition | Cleanliness | InStock
+------------------------------------------------------------------------
+PERFORMANCE_CAR | Toyota Tundra 2018 | 24230.38 | 48460.76 | LIKE_NEW | SPARKING | true
+CAR | Hyundai Santa Cruz 2019 | 10067.39 | 25168.46 | LIKE_NEW | DIRTY | true
+PERFORMANCE_CAR | Chevrolet Colorado ZR2 2012 | 20906.07 | 52265.17 | LIKE_NEW | SPARKING | true
+CAR | Toyota Hilux 2021 | 10080.48 | 20160.96 | LIKE_NEW | DIRTY | true
+PERFORMANCE_CAR | Tesla Cybertruck 2018 | 24695.08 | 49390.16 | LIKE_NEW | SPARKING | true
+CAR | Mahindra Bolero Camper 2020 | 10264.41 | 20528.81 | LIKE_NEW | DIRTY | true
+CAR | GMC Hummer EV 2023 | 7613.98 | 28552.43 | LIKE_NEW | DIRTY | false
+PICKUP | Rivian R1T 2022 | 26010.73 | 65026.82 | LIKE_NEW | CLEAN | false
+PERFORMANCE_CAR | Jeep Gladiator 2016 | 30767.56 | 61535.11 | USED | DIRTY | false
+PICKUP | Ford F-150 Lightning 2022 | 28209.28 | 56418.56 | LIKE_NEW | DIRTY | false
+CAR | Nissan Frontier 2015 | 8223.70 | 30838.88 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Chevrolet Colorado ZR2 2022 | 30163.07 | 60326.14 | LIKE_NEW | DIRTY | false
+PICKUP | Ford F-150 Raptor 2022 | 9315.51 | 34933.16 | LIKE_NEW | DIRTY | false
+CAR | Toyota Hilux 2015 | 14434.60 | 36086.51 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Honda Ridgeline 2022 | 17780.70 | 66677.63 | LIKE_NEW | DIRTY | false
+PICKUP | Ford Velociraptor 6×6 2014 | 11028.06 | 27570.16 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Jeep Gladiator 2015 | 14656.17 | 54960.63 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Mahindra Bolero Camper 2010 | 16736.32 | 62761.21 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Toyota Tundra 2012 | 15165.57 | 56870.91 | LIKE_NEW | DIRTY | false
+CAR | Ford F-150 Lightning 2014 | 10930.62 | 27326.54 | LIKE_NEW | DIRTY | false
+
+Budget
+TotalOperatingBudget | TotalSale
+810735.00 |            669884.67
+
+********** day 12 ************
+********** Working day ************
+Opening... (current budget $810735.00)
+
+Rhett Fletcher is promoted from Intern to Salesperson.
+Hired INTERN Ridge Reid.
+
+A DIRTY and USED PERFORMANCE_CAR (Nikola Badger 2011) is available in the inventory.
+Purchased USED, DIRTY Nikola Badger 2011 for $ 17184.027041
+
+A DIRTY and USED CAR (Toyota Tundra 2013) is available in the inventory.
+Purchased USED, DIRTY Toyota Tundra 2013 for $ 13380.072602
+
+Washing...
+
+Repairing...
+MECHANIC Adalynn Dickson repaired USED PERFORMANCE_CAR Nikola Badger 2011 unsuccessfully
+MECHANIC Adalynn Dickson repaired USED PERFORMANCE_CAR Nikola Badger 2011 unsuccessfully
+MECHANIC Joel Hurley repaired USED PERFORMANCE_CAR Nikola Badger 2011 and made it LIKE_NEW (earned $200.00 bounus)
+MECHANIC Joel Hurley repaired USED CAR Toyota Tundra 2013 and made it LIKE_NEW (earned $100.00 bounus)
+
+Selling...
+Number of buyers: 5
+Sales income increased by $ 33450.181505
+Current balance is $ 813621.078126
+SALESPERSON Aarav Frazier sold DIRTY LIKE_NEW Toyota Tundra 2013 to Buyer for $33450.18 (earned $160.00 bonus)
+SALESPERSON Rhett Fletcher sold SPARKING LIKE_NEW Chevrolet Colorado ZR2 2012 to Buyer unsuccessfully
+Sales income increased by $ 52265.169499
+Current balance is $ 865886.247625
+SALESPERSON Rhett Fletcher sold SPARKING LIKE_NEW Chevrolet Colorado ZR2 2012 to Buyer for $52265.17 (earned $350.00 bonus)
+
+Ending...
+
+Total salary payout increased by $ 1050.000000
+
+Current balance is $ 864836.247625
+
+Total bonuses payout increased by $ 810.000000
+
+Current balance is $ 864026.247625
+
+Staff members
+Title | Name | TotalDaysWorked | TotalNormalPay | TotalBonusPay | Working
+------------------------------------------------------------------------
+INTERN | Keyla Reid | 9 | 720.00 | 125.00 | true
+INTERN | Remy Fernandez | 9 | 720.00 | 75.00 | true
+INTERN | Ridge Reid | 1 | 80.00 | 0.00 | true
+MECHANIC | Adalynn Dickson | 11 | 1320.00 | 2100.00 | true
+MECHANIC | Joel Hurley | 11 | 1320.00 | 850.00 | true
+MECHANIC | Ashlynn Meyer | 11 | 1240.00 | 0.00 | true
+SALESPERSON | Aarav Frazier | 11 | 1650.00 | 1430.00 | true
+SALESPERSON | Navy Reed | 11 | 1510.00 | 875.00 | true
+SALESPERSON | Rhett Fletcher | 11 | 950.00 | 550.00 | true
+MECHANIC | Easton Benton | 2 | 240.00 | 450.00 | false
+SALESPERSON | Miley Reid | 2 | 300.00 | 0.00 | false
+SALESPERSON | Leroy Rivers | 10 | 1500.00 | 1650.00 | false
+
+Inventory
+Type | Name | Cost | SalePrice | Condition | Cleanliness | InStock
+------------------------------------------------------------------------
+PERFORMANCE_CAR | Toyota Tundra 2018 | 24230.38 | 48460.76 | LIKE_NEW | SPARKING | true
+CAR | Hyundai Santa Cruz 2019 | 10067.39 | 25168.46 | LIKE_NEW | DIRTY | true
+CAR | Toyota Hilux 2021 | 10080.48 | 20160.96 | LIKE_NEW | DIRTY | true
+PERFORMANCE_CAR | Tesla Cybertruck 2018 | 24695.08 | 49390.16 | LIKE_NEW | SPARKING | true
+CAR | Mahindra Bolero Camper 2020 | 10264.41 | 20528.81 | LIKE_NEW | DIRTY | true
+PERFORMANCE_CAR | Nikola Badger 2011 | 17184.03 | 42960.07 | LIKE_NEW | DIRTY | true
+CAR | GMC Hummer EV 2023 | 7613.98 | 28552.43 | LIKE_NEW | DIRTY | false
+PICKUP | Rivian R1T 2022 | 26010.73 | 65026.82 | LIKE_NEW | CLEAN | false
+PERFORMANCE_CAR | Jeep Gladiator 2016 | 30767.56 | 61535.11 | USED | DIRTY | false
+PICKUP | Ford F-150 Lightning 2022 | 28209.28 | 56418.56 | LIKE_NEW | DIRTY | false
+CAR | Nissan Frontier 2015 | 8223.70 | 30838.88 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Chevrolet Colorado ZR2 2022 | 30163.07 | 60326.14 | LIKE_NEW | DIRTY | false
+PICKUP | Ford F-150 Raptor 2022 | 9315.51 | 34933.16 | LIKE_NEW | DIRTY | false
+CAR | Toyota Hilux 2015 | 14434.60 | 36086.51 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Honda Ridgeline 2022 | 17780.70 | 66677.63 | LIKE_NEW | DIRTY | false
+PICKUP | Ford Velociraptor 6×6 2014 | 11028.06 | 27570.16 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Jeep Gladiator 2015 | 14656.17 | 54960.63 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Mahindra Bolero Camper 2010 | 16736.32 | 62761.21 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Toyota Tundra 2012 | 15165.57 | 56870.91 | LIKE_NEW | DIRTY | false
+CAR | Ford F-150 Lightning 2014 | 10930.62 | 27326.54 | LIKE_NEW | DIRTY | false
+CAR | Toyota Tundra 2013 | 13380.07 | 33450.18 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Chevrolet Colorado ZR2 2012 | 20906.07 | 52265.17 | LIKE_NEW | SPARKING | false
+
+Budget
+TotalOperatingBudget | TotalSale
+864026.25 |            755600.02
+
+********** day 13 ************
+********** Working day ************
+Opening... (current budget $864026.25)
+
+A CLEAN and USED PERFORMANCE_CAR (Dodge Ram 1500 TRX 2013) is available in the inventory.
+Purchased USED, CLEAN Dodge Ram 1500 TRX 2013 for $ 25428.171829
+
+A CLEAN and USED CAR (Nikola Badger 2010) is available in the inventory.
+Purchased USED, CLEAN Nikola Badger 2010 for $ 12962.134152
+
+Washing...
+INTERN Keyla Reid wash PERFORMANCE_CAR Dodge Ram 1500 TRX 2013 and made it CLEAN
+INTERN Keyla Reid wash PERFORMANCE_CAR Dodge Ram 1500 TRX 2013 and made it SPARKING (earned 75.00 bonus)
+INTERN Remy Fernandez wash CAR Nikola Badger 2010 and made it CLEAN
+INTERN Remy Fernandez wash CAR Nikola Badger 2010 and made it CLEAN
+INTERN Ridge Reid wash CAR Nikola Badger 2010 and made it CLEAN
+INTERN Ridge Reid wash CAR Nikola Badger 2010 and made it SPARKING (earned 50.00 bonus)
+
+Repairing...
+MECHANIC Adalynn Dickson repaired USED PERFORMANCE_CAR Dodge Ram 1500 TRX 2013 and made it LIKE_NEW (earned $200.00 bounus)
+MECHANIC Adalynn Dickson repaired USED CAR Nikola Badger 2010 and made it LIKE_NEW (earned $100.00 bounus)
+
+Selling...
+Number of buyers: 4
+Sales income increased by $ 63570.429573
+Current balance is $ 889206.371217
+SALESPERSON Aarav Frazier sold CLEAN LIKE_NEW Dodge Ram 1500 TRX 2013 to Buyer for $63570.43 (earned $350.00 bonus)
+SALESPERSON Aarav Frazier sold SPARKING LIKE_NEW Tesla Cybertruck 2018 to Buyer unsuccessfully
+SALESPERSON Navy Reed sold SPARKING LIKE_NEW Tesla Cybertruck 2018 to Buyer unsuccessfully
+SALESPERSON Rhett Fletcher sold SPARKING LIKE_NEW Tesla Cybertruck 2018 to Buyer unsuccessfully
+
+Ending...
+
+Total salary payout increased by $ 1050.000000
+
+Current balance is $ 888156.371217
+
+Total bonuses payout increased by $ 775.000000
+
+Current balance is $ 887381.371217
+
+Adalynn Dickson (MECHANIC) quited.
+
+Staff members
+Title | Name | TotalDaysWorked | TotalNormalPay | TotalBonusPay | Working
+------------------------------------------------------------------------
+INTERN | Keyla Reid | 10 | 800.00 | 200.00 | true
+INTERN | Remy Fernandez | 10 | 800.00 | 75.00 | true
+INTERN | Ridge Reid | 2 | 160.00 | 50.00 | true
+MECHANIC | Joel Hurley | 12 | 1440.00 | 850.00 | true
+MECHANIC | Ashlynn Meyer | 12 | 1360.00 | 0.00 | true
+SALESPERSON | Aarav Frazier | 12 | 1800.00 | 1780.00 | true
+SALESPERSON | Navy Reed | 12 | 1660.00 | 875.00 | true
+SALESPERSON | Rhett Fletcher | 12 | 1100.00 | 550.00 | true
+MECHANIC | Easton Benton | 2 | 240.00 | 450.00 | false
+SALESPERSON | Miley Reid | 2 | 300.00 | 0.00 | false
+SALESPERSON | Leroy Rivers | 10 | 1500.00 | 1650.00 | false
+MECHANIC | Adalynn Dickson | 12 | 1440.00 | 2400.00 | false
+
+Inventory
+Type | Name | Cost | SalePrice | Condition | Cleanliness | InStock
+------------------------------------------------------------------------
+PERFORMANCE_CAR | Toyota Tundra 2018 | 24230.38 | 48460.76 | LIKE_NEW | SPARKING | true
+CAR | Hyundai Santa Cruz 2019 | 10067.39 | 25168.46 | LIKE_NEW | DIRTY | true
+CAR | Toyota Hilux 2021 | 10080.48 | 20160.96 | LIKE_NEW | DIRTY | true
+PERFORMANCE_CAR | Tesla Cybertruck 2018 | 24695.08 | 49390.16 | LIKE_NEW | SPARKING | true
+CAR | Mahindra Bolero Camper 2020 | 10264.41 | 20528.81 | LIKE_NEW | DIRTY | true
+PERFORMANCE_CAR | Nikola Badger 2011 | 17184.03 | 42960.07 | LIKE_NEW | DIRTY | true
+CAR | Nikola Badger 2010 | 12962.13 | 32405.34 | LIKE_NEW | CLEAN | true
+CAR | GMC Hummer EV 2023 | 7613.98 | 28552.43 | LIKE_NEW | DIRTY | false
+PICKUP | Rivian R1T 2022 | 26010.73 | 65026.82 | LIKE_NEW | CLEAN | false
+PERFORMANCE_CAR | Jeep Gladiator 2016 | 30767.56 | 61535.11 | USED | DIRTY | false
+PICKUP | Ford F-150 Lightning 2022 | 28209.28 | 56418.56 | LIKE_NEW | DIRTY | false
+CAR | Nissan Frontier 2015 | 8223.70 | 30838.88 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Chevrolet Colorado ZR2 2022 | 30163.07 | 60326.14 | LIKE_NEW | DIRTY | false
+PICKUP | Ford F-150 Raptor 2022 | 9315.51 | 34933.16 | LIKE_NEW | DIRTY | false
+CAR | Toyota Hilux 2015 | 14434.60 | 36086.51 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Honda Ridgeline 2022 | 17780.70 | 66677.63 | LIKE_NEW | DIRTY | false
+PICKUP | Ford Velociraptor 6×6 2014 | 11028.06 | 27570.16 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Jeep Gladiator 2015 | 14656.17 | 54960.63 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Mahindra Bolero Camper 2010 | 16736.32 | 62761.21 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Toyota Tundra 2012 | 15165.57 | 56870.91 | LIKE_NEW | DIRTY | false
+CAR | Ford F-150 Lightning 2014 | 10930.62 | 27326.54 | LIKE_NEW | DIRTY | false
+CAR | Toyota Tundra 2013 | 13380.07 | 33450.18 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Chevrolet Colorado ZR2 2012 | 20906.07 | 52265.17 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Dodge Ram 1500 TRX 2013 | 25428.17 | 63570.43 | LIKE_NEW | CLEAN | false
+
+Budget
+TotalOperatingBudget | TotalSale
+887381.37 |            819170.45
+
+********** day 14 ************
+********** Weekend ************
+
+********** day 15 ************
+********** Working day ************
+Opening... (current budget $887381.37)
+
+Keyla Reid is promoted from intern to Salesperson.
+Hired INTERN Octavia Reid.
+
+A CLEAN and USED PERFORMANCE_CAR (Ford Maverick 2018) is available in the inventory.
+Purchased USED, CLEAN Ford Maverick 2018 for $ 27363.587201
+
+Washing...
+INTERN Remy Fernandez wash CAR Nikola Badger 2010 and made it CLEAN
+INTERN Remy Fernandez wash CAR Nikola Badger 2010 and made it CLEAN
+INTERN Ridge Reid wash CAR Nikola Badger 2010 and made it SPARKING (earned 50.00 bonus)
+INTERN Ridge Reid wash PERFORMANCE_CAR Ford Maverick 2018 and made it CLEAN
+INTERN Octavia Reid wash PERFORMANCE_CAR Ford Maverick 2018 and made it CLEAN
+INTERN Octavia Reid wash PERFORMANCE_CAR Ford Maverick 2018 and made it CLEAN
+
+Repairing...
+MECHANIC Joel Hurley repaired USED PERFORMANCE_CAR Ford Maverick 2018 unsuccessfully
+MECHANIC Joel Hurley repaired USED PERFORMANCE_CAR Ford Maverick 2018 and made it LIKE_NEW (earned $200.00 bounus)
+
+Selling...
+Number of buyers: 0
+
+Ending...
+
+Total salary payout increased by $ 1050.000000
+
+Current balance is $ 858967.784016
+
+Total bonuses payout increased by $ 250.000000
+
+Current balance is $ 858717.784016
+
+Staff members
+Title | Name | TotalDaysWorked | TotalNormalPay | TotalBonusPay | Working
+------------------------------------------------------------------------
+INTERN | Remy Fernandez | 11 | 880.00 | 75.00 | true
+INTERN | Ridge Reid | 3 | 240.00 | 100.00 | true
+INTERN | Octavia Reid | 1 | 80.00 | 0.00 | true
+MECHANIC | Joel Hurley | 13 | 1560.00 | 1050.00 | true
+MECHANIC | Ashlynn Meyer | 13 | 1480.00 | 0.00 | true
+MECHANIC | Keyla Reid | 11 | 920.00 | 0.00 | true
+SALESPERSON | Aarav Frazier | 13 | 1950.00 | 1780.00 | true
+SALESPERSON | Navy Reed | 13 | 1810.00 | 875.00 | true
+SALESPERSON | Rhett Fletcher | 13 | 1250.00 | 550.00 | true
+MECHANIC | Easton Benton | 2 | 240.00 | 450.00 | false
+SALESPERSON | Miley Reid | 2 | 300.00 | 0.00 | false
+SALESPERSON | Leroy Rivers | 10 | 1500.00 | 1650.00 | false
+MECHANIC | Adalynn Dickson | 12 | 1440.00 | 2400.00 | false
+
+Inventory
+Type | Name | Cost | SalePrice | Condition | Cleanliness | InStock
+------------------------------------------------------------------------
+PERFORMANCE_CAR | Toyota Tundra 2018 | 24230.38 | 48460.76 | LIKE_NEW | SPARKING | true
+CAR | Hyundai Santa Cruz 2019 | 10067.39 | 25168.46 | LIKE_NEW | DIRTY | true
+CAR | Toyota Hilux 2021 | 10080.48 | 20160.96 | LIKE_NEW | DIRTY | true
+PERFORMANCE_CAR | Tesla Cybertruck 2018 | 24695.08 | 49390.16 | LIKE_NEW | SPARKING | true
+CAR | Mahindra Bolero Camper 2020 | 10264.41 | 20528.81 | LIKE_NEW | DIRTY | true
+PERFORMANCE_CAR | Nikola Badger 2011 | 17184.03 | 42960.07 | LIKE_NEW | DIRTY | true
+CAR | Nikola Badger 2010 | 12962.13 | 32405.34 | LIKE_NEW | SPARKING | true
+PERFORMANCE_CAR | Ford Maverick 2018 | 27363.59 | 68408.97 | LIKE_NEW | DIRTY | true
+CAR | GMC Hummer EV 2023 | 7613.98 | 28552.43 | LIKE_NEW | DIRTY | false
+PICKUP | Rivian R1T 2022 | 26010.73 | 65026.82 | LIKE_NEW | CLEAN | false
+PERFORMANCE_CAR | Jeep Gladiator 2016 | 30767.56 | 61535.11 | USED | DIRTY | false
+PICKUP | Ford F-150 Lightning 2022 | 28209.28 | 56418.56 | LIKE_NEW | DIRTY | false
+CAR | Nissan Frontier 2015 | 8223.70 | 30838.88 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Chevrolet Colorado ZR2 2022 | 30163.07 | 60326.14 | LIKE_NEW | DIRTY | false
+PICKUP | Ford F-150 Raptor 2022 | 9315.51 | 34933.16 | LIKE_NEW | DIRTY | false
+CAR | Toyota Hilux 2015 | 14434.60 | 36086.51 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Honda Ridgeline 2022 | 17780.70 | 66677.63 | LIKE_NEW | DIRTY | false
+PICKUP | Ford Velociraptor 6×6 2014 | 11028.06 | 27570.16 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Jeep Gladiator 2015 | 14656.17 | 54960.63 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Mahindra Bolero Camper 2010 | 16736.32 | 62761.21 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Toyota Tundra 2012 | 15165.57 | 56870.91 | LIKE_NEW | DIRTY | false
+CAR | Ford F-150 Lightning 2014 | 10930.62 | 27326.54 | LIKE_NEW | DIRTY | false
+CAR | Toyota Tundra 2013 | 13380.07 | 33450.18 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Chevrolet Colorado ZR2 2012 | 20906.07 | 52265.17 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Dodge Ram 1500 TRX 2013 | 25428.17 | 63570.43 | LIKE_NEW | CLEAN | false
+
+Budget
+TotalOperatingBudget | TotalSale
+858717.78 |            819170.45
+
+********** day 16 ************
+********** Working day ************
+Opening... (current budget $858717.78)
+
+Washing...
+
+Repairing...
+
+Selling...
+Number of buyers: 4
+Sales income increased by $ 68408.968002
+Current balance is $ 927126.752018
+SALESPERSON Aarav Frazier sold DIRTY LIKE_NEW Ford Maverick 2018 to Buyer for $68408.97 (earned $350.00 bonus)
+SALESPERSON Aarav Frazier sold SPARKING LIKE_NEW Tesla Cybertruck 2018 to Buyer unsuccessfully
+SALESPERSON Navy Reed sold SPARKING LIKE_NEW Tesla Cybertruck 2018 to Buyer unsuccessfully
+Sales income increased by $ 32405.335379
+Current balance is $ 959532.087397
+SALESPERSON Rhett Fletcher sold SPARKING LIKE_NEW Nikola Badger 2010 to Buyer for $32405.34 (earned $160.00 bonus)
+
+Ending...
+
+Total salary payout increased by $ 1050.000000
+
+Current balance is $ 958482.087397
+
+Total bonuses payout increased by $ 510.000000
+
+Current balance is $ 957972.087397
+
+Staff members
+Title | Name | TotalDaysWorked | TotalNormalPay | TotalBonusPay | Working
+------------------------------------------------------------------------
+INTERN | Remy Fernandez | 12 | 960.00 | 75.00 | true
+INTERN | Ridge Reid | 4 | 320.00 | 100.00 | true
+INTERN | Octavia Reid | 2 | 160.00 | 0.00 | true
+MECHANIC | Joel Hurley | 14 | 1680.00 | 1050.00 | true
+MECHANIC | Ashlynn Meyer | 14 | 1600.00 | 0.00 | true
+MECHANIC | Keyla Reid | 12 | 1040.00 | 0.00 | true
+SALESPERSON | Aarav Frazier | 14 | 2100.00 | 2130.00 | true
+SALESPERSON | Navy Reed | 14 | 1960.00 | 875.00 | true
+SALESPERSON | Rhett Fletcher | 14 | 1400.00 | 710.00 | true
+MECHANIC | Easton Benton | 2 | 240.00 | 450.00 | false
+SALESPERSON | Miley Reid | 2 | 300.00 | 0.00 | false
+SALESPERSON | Leroy Rivers | 10 | 1500.00 | 1650.00 | false
+MECHANIC | Adalynn Dickson | 12 | 1440.00 | 2400.00 | false
+
+Inventory
+Type | Name | Cost | SalePrice | Condition | Cleanliness | InStock
+------------------------------------------------------------------------
+PERFORMANCE_CAR | Toyota Tundra 2018 | 24230.38 | 48460.76 | LIKE_NEW | SPARKING | true
+CAR | Hyundai Santa Cruz 2019 | 10067.39 | 25168.46 | LIKE_NEW | DIRTY | true
+CAR | Toyota Hilux 2021 | 10080.48 | 20160.96 | LIKE_NEW | DIRTY | true
+PERFORMANCE_CAR | Tesla Cybertruck 2018 | 24695.08 | 49390.16 | LIKE_NEW | SPARKING | true
+CAR | Mahindra Bolero Camper 2020 | 10264.41 | 20528.81 | LIKE_NEW | DIRTY | true
+PERFORMANCE_CAR | Nikola Badger 2011 | 17184.03 | 42960.07 | LIKE_NEW | DIRTY | true
+CAR | GMC Hummer EV 2023 | 7613.98 | 28552.43 | LIKE_NEW | DIRTY | false
+PICKUP | Rivian R1T 2022 | 26010.73 | 65026.82 | LIKE_NEW | CLEAN | false
+PERFORMANCE_CAR | Jeep Gladiator 2016 | 30767.56 | 61535.11 | USED | DIRTY | false
+PICKUP | Ford F-150 Lightning 2022 | 28209.28 | 56418.56 | LIKE_NEW | DIRTY | false
+CAR | Nissan Frontier 2015 | 8223.70 | 30838.88 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Chevrolet Colorado ZR2 2022 | 30163.07 | 60326.14 | LIKE_NEW | DIRTY | false
+PICKUP | Ford F-150 Raptor 2022 | 9315.51 | 34933.16 | LIKE_NEW | DIRTY | false
+CAR | Toyota Hilux 2015 | 14434.60 | 36086.51 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Honda Ridgeline 2022 | 17780.70 | 66677.63 | LIKE_NEW | DIRTY | false
+PICKUP | Ford Velociraptor 6×6 2014 | 11028.06 | 27570.16 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Jeep Gladiator 2015 | 14656.17 | 54960.63 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Mahindra Bolero Camper 2010 | 16736.32 | 62761.21 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Toyota Tundra 2012 | 15165.57 | 56870.91 | LIKE_NEW | DIRTY | false
+CAR | Ford F-150 Lightning 2014 | 10930.62 | 27326.54 | LIKE_NEW | DIRTY | false
+CAR | Toyota Tundra 2013 | 13380.07 | 33450.18 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Chevrolet Colorado ZR2 2012 | 20906.07 | 52265.17 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Dodge Ram 1500 TRX 2013 | 25428.17 | 63570.43 | LIKE_NEW | CLEAN | false
+PERFORMANCE_CAR | Ford Maverick 2018 | 27363.59 | 68408.97 | LIKE_NEW | DIRTY | false
+CAR | Nikola Badger 2010 | 12962.13 | 32405.34 | LIKE_NEW | SPARKING | false
+
+Budget
+TotalOperatingBudget | TotalSale
+957972.09 |            919984.76
+
+********** day 17 ************
+********** Working day ************
+Opening... (current budget $957972.09)
+
+A DIRTY and USED PERFORMANCE_CAR (Nissan Frontier 2020) is available in the inventory.
+Purchased USED, DIRTY Nissan Frontier 2020 for $ 23558.027650
+
+A CLEAN and USED CAR (Tesla Cybertruck 2015) is available in the inventory.
+Purchased USED, CLEAN Tesla Cybertruck 2015 for $ 8072.474395
+
+Washing...
+INTERN Remy Fernandez wash CAR Tesla Cybertruck 2015 and made it CLEAN
+INTERN Remy Fernandez wash CAR Tesla Cybertruck 2015 and made it SPARKING (earned 50.00 bonus)
+
+Repairing...
+MECHANIC Joel Hurley repaired USED PERFORMANCE_CAR Nissan Frontier 2020 and made it LIKE_NEW (earned $200.00 bounus)
+MECHANIC Joel Hurley repaired USED CAR Tesla Cybertruck 2015 and made it LIKE_NEW (earned $100.00 bounus)
+
+Selling...
+Number of buyers: 2
+SALESPERSON Aarav Frazier sold DIRTY LIKE_NEW Nissan Frontier 2020 to Buyer unsuccessfully
+SALESPERSON Navy Reed sold DIRTY LIKE_NEW Nissan Frontier 2020 to Buyer unsuccessfully
+
+Ending...
+
+Total salary payout increased by $ 1050.000000
+
+Current balance is $ 925291.585352
+
+Total bonuses payout increased by $ 350.000000
+
+Current balance is $ 924941.585352
+
+Staff members
+Title | Name | TotalDaysWorked | TotalNormalPay | TotalBonusPay | Working
+------------------------------------------------------------------------
+INTERN | Remy Fernandez | 13 | 1040.00 | 125.00 | true
+INTERN | Ridge Reid | 5 | 400.00 | 100.00 | true
+INTERN | Octavia Reid | 3 | 240.00 | 0.00 | true
+MECHANIC | Joel Hurley | 15 | 1800.00 | 1350.00 | true
+MECHANIC | Ashlynn Meyer | 15 | 1720.00 | 0.00 | true
+MECHANIC | Keyla Reid | 13 | 1160.00 | 0.00 | true
+SALESPERSON | Aarav Frazier | 15 | 2250.00 | 2130.00 | true
+SALESPERSON | Navy Reed | 15 | 2110.00 | 875.00 | true
+SALESPERSON | Rhett Fletcher | 15 | 1550.00 | 710.00 | true
+MECHANIC | Easton Benton | 2 | 240.00 | 450.00 | false
+SALESPERSON | Miley Reid | 2 | 300.00 | 0.00 | false
+SALESPERSON | Leroy Rivers | 10 | 1500.00 | 1650.00 | false
+MECHANIC | Adalynn Dickson | 12 | 1440.00 | 2400.00 | false
+
+Inventory
+Type | Name | Cost | SalePrice | Condition | Cleanliness | InStock
+------------------------------------------------------------------------
+PERFORMANCE_CAR | Toyota Tundra 2018 | 24230.38 | 48460.76 | LIKE_NEW | SPARKING | true
+CAR | Hyundai Santa Cruz 2019 | 10067.39 | 25168.46 | LIKE_NEW | DIRTY | true
+CAR | Toyota Hilux 2021 | 10080.48 | 20160.96 | LIKE_NEW | DIRTY | true
+PERFORMANCE_CAR | Tesla Cybertruck 2018 | 24695.08 | 49390.16 | LIKE_NEW | SPARKING | true
+CAR | Mahindra Bolero Camper 2020 | 10264.41 | 20528.81 | LIKE_NEW | DIRTY | true
+PERFORMANCE_CAR | Nikola Badger 2011 | 17184.03 | 42960.07 | LIKE_NEW | DIRTY | true
+PERFORMANCE_CAR | Nissan Frontier 2020 | 23558.03 | 58895.07 | LIKE_NEW | DIRTY | true
+CAR | Tesla Cybertruck 2015 | 8072.47 | 20181.19 | LIKE_NEW | CLEAN | true
+CAR | GMC Hummer EV 2023 | 7613.98 | 28552.43 | LIKE_NEW | DIRTY | false
+PICKUP | Rivian R1T 2022 | 26010.73 | 65026.82 | LIKE_NEW | CLEAN | false
+PERFORMANCE_CAR | Jeep Gladiator 2016 | 30767.56 | 61535.11 | USED | DIRTY | false
+PICKUP | Ford F-150 Lightning 2022 | 28209.28 | 56418.56 | LIKE_NEW | DIRTY | false
+CAR | Nissan Frontier 2015 | 8223.70 | 30838.88 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Chevrolet Colorado ZR2 2022 | 30163.07 | 60326.14 | LIKE_NEW | DIRTY | false
+PICKUP | Ford F-150 Raptor 2022 | 9315.51 | 34933.16 | LIKE_NEW | DIRTY | false
+CAR | Toyota Hilux 2015 | 14434.60 | 36086.51 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Honda Ridgeline 2022 | 17780.70 | 66677.63 | LIKE_NEW | DIRTY | false
+PICKUP | Ford Velociraptor 6×6 2014 | 11028.06 | 27570.16 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Jeep Gladiator 2015 | 14656.17 | 54960.63 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Mahindra Bolero Camper 2010 | 16736.32 | 62761.21 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Toyota Tundra 2012 | 15165.57 | 56870.91 | LIKE_NEW | DIRTY | false
+CAR | Ford F-150 Lightning 2014 | 10930.62 | 27326.54 | LIKE_NEW | DIRTY | false
+CAR | Toyota Tundra 2013 | 13380.07 | 33450.18 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Chevrolet Colorado ZR2 2012 | 20906.07 | 52265.17 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Dodge Ram 1500 TRX 2013 | 25428.17 | 63570.43 | LIKE_NEW | CLEAN | false
+PERFORMANCE_CAR | Ford Maverick 2018 | 27363.59 | 68408.97 | LIKE_NEW | DIRTY | false
+CAR | Nikola Badger 2010 | 12962.13 | 32405.34 | LIKE_NEW | SPARKING | false
+
+Budget
+TotalOperatingBudget | TotalSale
+924941.59 |            919984.76
+
+********** day 18 ************
+********** Working day ************
+Opening... (current budget $924941.59)
+
+Washing...
+INTERN Remy Fernandez wash CAR Tesla Cybertruck 2015 and made it SPARKING (earned 50.00 bonus)
+
+Repairing...
+
+Selling...
+Number of buyers: 0
+
+Ending...
+
+Total salary payout increased by $ 1050.000000
+
+Current balance is $ 923891.585352
+
+Total bonuses payout increased by $ 50.000000
+
+Current balance is $ 923841.585352
+
+Staff members
+Title | Name | TotalDaysWorked | TotalNormalPay | TotalBonusPay | Working
+------------------------------------------------------------------------
+INTERN | Remy Fernandez | 14 | 1120.00 | 175.00 | true
+INTERN | Ridge Reid | 6 | 480.00 | 100.00 | true
+INTERN | Octavia Reid | 4 | 320.00 | 0.00 | true
+MECHANIC | Joel Hurley | 16 | 1920.00 | 1350.00 | true
+MECHANIC | Ashlynn Meyer | 16 | 1840.00 | 0.00 | true
+MECHANIC | Keyla Reid | 14 | 1280.00 | 0.00 | true
+SALESPERSON | Aarav Frazier | 16 | 2400.00 | 2130.00 | true
+SALESPERSON | Navy Reed | 16 | 2260.00 | 875.00 | true
+SALESPERSON | Rhett Fletcher | 16 | 1700.00 | 710.00 | true
+MECHANIC | Easton Benton | 2 | 240.00 | 450.00 | false
+SALESPERSON | Miley Reid | 2 | 300.00 | 0.00 | false
+SALESPERSON | Leroy Rivers | 10 | 1500.00 | 1650.00 | false
+MECHANIC | Adalynn Dickson | 12 | 1440.00 | 2400.00 | false
+
+Inventory
+Type | Name | Cost | SalePrice | Condition | Cleanliness | InStock
+------------------------------------------------------------------------
+PERFORMANCE_CAR | Toyota Tundra 2018 | 24230.38 | 48460.76 | LIKE_NEW | SPARKING | true
+CAR | Hyundai Santa Cruz 2019 | 10067.39 | 25168.46 | LIKE_NEW | DIRTY | true
+CAR | Toyota Hilux 2021 | 10080.48 | 20160.96 | LIKE_NEW | DIRTY | true
+PERFORMANCE_CAR | Tesla Cybertruck 2018 | 24695.08 | 49390.16 | LIKE_NEW | SPARKING | true
+CAR | Mahindra Bolero Camper 2020 | 10264.41 | 20528.81 | LIKE_NEW | DIRTY | true
+PERFORMANCE_CAR | Nikola Badger 2011 | 17184.03 | 42960.07 | LIKE_NEW | DIRTY | true
+PERFORMANCE_CAR | Nissan Frontier 2020 | 23558.03 | 58895.07 | LIKE_NEW | DIRTY | true
+CAR | Tesla Cybertruck 2015 | 8072.47 | 20181.19 | LIKE_NEW | SPARKING | true
+CAR | GMC Hummer EV 2023 | 7613.98 | 28552.43 | LIKE_NEW | DIRTY | false
+PICKUP | Rivian R1T 2022 | 26010.73 | 65026.82 | LIKE_NEW | CLEAN | false
+PERFORMANCE_CAR | Jeep Gladiator 2016 | 30767.56 | 61535.11 | USED | DIRTY | false
+PICKUP | Ford F-150 Lightning 2022 | 28209.28 | 56418.56 | LIKE_NEW | DIRTY | false
+CAR | Nissan Frontier 2015 | 8223.70 | 30838.88 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Chevrolet Colorado ZR2 2022 | 30163.07 | 60326.14 | LIKE_NEW | DIRTY | false
+PICKUP | Ford F-150 Raptor 2022 | 9315.51 | 34933.16 | LIKE_NEW | DIRTY | false
+CAR | Toyota Hilux 2015 | 14434.60 | 36086.51 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Honda Ridgeline 2022 | 17780.70 | 66677.63 | LIKE_NEW | DIRTY | false
+PICKUP | Ford Velociraptor 6×6 2014 | 11028.06 | 27570.16 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Jeep Gladiator 2015 | 14656.17 | 54960.63 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Mahindra Bolero Camper 2010 | 16736.32 | 62761.21 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Toyota Tundra 2012 | 15165.57 | 56870.91 | LIKE_NEW | DIRTY | false
+CAR | Ford F-150 Lightning 2014 | 10930.62 | 27326.54 | LIKE_NEW | DIRTY | false
+CAR | Toyota Tundra 2013 | 13380.07 | 33450.18 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Chevrolet Colorado ZR2 2012 | 20906.07 | 52265.17 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Dodge Ram 1500 TRX 2013 | 25428.17 | 63570.43 | LIKE_NEW | CLEAN | false
+PERFORMANCE_CAR | Ford Maverick 2018 | 27363.59 | 68408.97 | LIKE_NEW | DIRTY | false
+CAR | Nikola Badger 2010 | 12962.13 | 32405.34 | LIKE_NEW | SPARKING | false
+
+Budget
+TotalOperatingBudget | TotalSale
+923841.59 |            919984.76
+
+********** day 19 ************
+********** Working day ************
+Opening... (current budget $923841.59)
+
+Washing...
+
+Repairing...
+
+Selling...
+Number of buyers: 3
+Sales income increased by $ 58895.069126
+Current balance is $ 982736.654478
+SALESPERSON Aarav Frazier sold DIRTY LIKE_NEW Nissan Frontier 2020 to Buyer for $58895.07 (earned $350.00 bonus)
+Sales income increased by $ 49390.158462
+Current balance is $ 1032126.812940
+SALESPERSON Navy Reed sold SPARKING LIKE_NEW Tesla Cybertruck 2018 to Buyer for $49390.16 (earned $350.00 bonus)
+Sales income increased by $ 48460.760221
+Current balance is $ 1080587.573161
+SALESPERSON Rhett Fletcher sold SPARKING LIKE_NEW Toyota Tundra 2018 to Buyer for $48460.76 (earned $350.00 bonus)
+
+Ending...
+
+Total salary payout increased by $ 1050.000000
+
+Current balance is $ 1079537.573161
+
+Total bonuses payout increased by $ 1050.000000
+
+Current balance is $ 1078487.573161
+
+Aarav Frazier (SALESPERSON) quited.
+
+Staff members
+Title | Name | TotalDaysWorked | TotalNormalPay | TotalBonusPay | Working
+------------------------------------------------------------------------
+INTERN | Remy Fernandez | 15 | 1200.00 | 175.00 | true
+INTERN | Ridge Reid | 7 | 560.00 | 100.00 | true
+INTERN | Octavia Reid | 5 | 400.00 | 0.00 | true
+MECHANIC | Joel Hurley | 17 | 2040.00 | 1350.00 | true
+MECHANIC | Ashlynn Meyer | 17 | 1960.00 | 0.00 | true
+MECHANIC | Keyla Reid | 15 | 1400.00 | 0.00 | true
+SALESPERSON | Navy Reed | 17 | 2410.00 | 1225.00 | true
+SALESPERSON | Rhett Fletcher | 17 | 1850.00 | 1060.00 | true
+MECHANIC | Easton Benton | 2 | 240.00 | 450.00 | false
+SALESPERSON | Miley Reid | 2 | 300.00 | 0.00 | false
+SALESPERSON | Leroy Rivers | 10 | 1500.00 | 1650.00 | false
+MECHANIC | Adalynn Dickson | 12 | 1440.00 | 2400.00 | false
+SALESPERSON | Aarav Frazier | 17 | 2550.00 | 2480.00 | false
+
+Inventory
+Type | Name | Cost | SalePrice | Condition | Cleanliness | InStock
+------------------------------------------------------------------------
+CAR | Hyundai Santa Cruz 2019 | 10067.39 | 25168.46 | LIKE_NEW | DIRTY | true
+CAR | Toyota Hilux 2021 | 10080.48 | 20160.96 | LIKE_NEW | DIRTY | true
+CAR | Mahindra Bolero Camper 2020 | 10264.41 | 20528.81 | LIKE_NEW | DIRTY | true
+PERFORMANCE_CAR | Nikola Badger 2011 | 17184.03 | 42960.07 | LIKE_NEW | DIRTY | true
+CAR | Tesla Cybertruck 2015 | 8072.47 | 20181.19 | LIKE_NEW | SPARKING | true
+CAR | GMC Hummer EV 2023 | 7613.98 | 28552.43 | LIKE_NEW | DIRTY | false
+PICKUP | Rivian R1T 2022 | 26010.73 | 65026.82 | LIKE_NEW | CLEAN | false
+PERFORMANCE_CAR | Jeep Gladiator 2016 | 30767.56 | 61535.11 | USED | DIRTY | false
+PICKUP | Ford F-150 Lightning 2022 | 28209.28 | 56418.56 | LIKE_NEW | DIRTY | false
+CAR | Nissan Frontier 2015 | 8223.70 | 30838.88 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Chevrolet Colorado ZR2 2022 | 30163.07 | 60326.14 | LIKE_NEW | DIRTY | false
+PICKUP | Ford F-150 Raptor 2022 | 9315.51 | 34933.16 | LIKE_NEW | DIRTY | false
+CAR | Toyota Hilux 2015 | 14434.60 | 36086.51 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Honda Ridgeline 2022 | 17780.70 | 66677.63 | LIKE_NEW | DIRTY | false
+PICKUP | Ford Velociraptor 6×6 2014 | 11028.06 | 27570.16 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Jeep Gladiator 2015 | 14656.17 | 54960.63 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Mahindra Bolero Camper 2010 | 16736.32 | 62761.21 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Toyota Tundra 2012 | 15165.57 | 56870.91 | LIKE_NEW | DIRTY | false
+CAR | Ford F-150 Lightning 2014 | 10930.62 | 27326.54 | LIKE_NEW | DIRTY | false
+CAR | Toyota Tundra 2013 | 13380.07 | 33450.18 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Chevrolet Colorado ZR2 2012 | 20906.07 | 52265.17 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Dodge Ram 1500 TRX 2013 | 25428.17 | 63570.43 | LIKE_NEW | CLEAN | false
+PERFORMANCE_CAR | Ford Maverick 2018 | 27363.59 | 68408.97 | LIKE_NEW | DIRTY | false
+CAR | Nikola Badger 2010 | 12962.13 | 32405.34 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Nissan Frontier 2020 | 23558.03 | 58895.07 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Tesla Cybertruck 2018 | 24695.08 | 49390.16 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Toyota Tundra 2018 | 24230.38 | 48460.76 | LIKE_NEW | SPARKING | false
+
+Budget
+TotalOperatingBudget | TotalSale
+1078487.57 |           1076730.74
+
+********** day 20 ************
+********** Working day ************
+Opening... (current budget $1078487.57)
+
+Remy Fernandez is promoted from Intern to Salesperson.
+Hired INTERN Emmalynn Vo.
+
+A DIRTY and USED PERFORMANCE_CAR (Ford F-150 Lightning 2021) is available in the inventory.
+Purchased USED, DIRTY Ford F-150 Lightning 2021 for $ 31690.693562
+
+A SPARKING and BROKEN PERFORMANCE_CAR (Tesla Cybertruck 2014) is available in the inventory.
+Purchased BROKEN, SPARKING Tesla Cybertruck 2014 for $ 18151.506358
+
+A SPARKING and BROKEN PERFORMANCE_CAR (Nikola Badger 2015) is available in the inventory.
+Purchased BROKEN, SPARKING Nikola Badger 2015 for $ 19767.398425
+
+Washing...
+
+Repairing...
+MECHANIC Joel Hurley repaired USED PERFORMANCE_CAR Ford F-150 Lightning 2021 and made it LIKE_NEW (earned $200.00 bounus)
+MECHANIC Joel Hurley repaired BROKEN PERFORMANCE_CAR Tesla Cybertruck 2014 and made it USED (earned $200.00 bounus)
+MECHANIC Ashlynn Meyer repaired USED PERFORMANCE_CAR Tesla Cybertruck 2014 unsuccessfully
+MECHANIC Ashlynn Meyer repaired USED PERFORMANCE_CAR Tesla Cybertruck 2014 and made it LIKE_NEW (earned $200.00 bounus)
+MECHANIC Keyla Reid repaired BROKEN PERFORMANCE_CAR Nikola Badger 2015 and made it USED (earned $200.00 bounus)
+MECHANIC Keyla Reid repaired USED PERFORMANCE_CAR Nikola Badger 2015 unsuccessfully
+
+Selling...
+Number of buyers: 8
+SALESPERSON Navy Reed sold DIRTY LIKE_NEW Hyundai Santa Cruz 2019 to Buyer unsuccessfully
+SALESPERSON Navy Reed sold DIRTY LIKE_NEW Ford F-150 Lightning 2021 to Buyer unsuccessfully
+Sales income increased by $ 79226.733906
+Current balance is $ 1088104.708721
+SALESPERSON Rhett Fletcher sold DIRTY LIKE_NEW Ford F-150 Lightning 2021 to Buyer for $79226.73 (earned $350.00 bonus)
+SALESPERSON Remy Fernandez sold DIRTY LIKE_NEW Tesla Cybertruck 2014 to Buyer unsuccessfully
+
+Ending...
+
+Total salary payout increased by $ 1050.000000
+
+Current balance is $ 1087054.708721
+
+Total bonuses payout increased by $ 1150.000000
+
+Current balance is $ 1085904.708721
+
+Staff members
+Title | Name | TotalDaysWorked | TotalNormalPay | TotalBonusPay | Working
+------------------------------------------------------------------------
+INTERN | Ridge Reid | 8 | 640.00 | 100.00 | true
+INTERN | Octavia Reid | 6 | 480.00 | 0.00 | true
+INTERN | Emmalynn Vo | 1 | 80.00 | 0.00 | true
+MECHANIC | Joel Hurley | 18 | 2160.00 | 1750.00 | true
+MECHANIC | Ashlynn Meyer | 18 | 2080.00 | 200.00 | true
+MECHANIC | Keyla Reid | 16 | 1520.00 | 200.00 | true
+SALESPERSON | Navy Reed | 18 | 2560.00 | 1225.00 | true
+SALESPERSON | Rhett Fletcher | 18 | 2000.00 | 1410.00 | true
+SALESPERSON | Remy Fernandez | 16 | 1350.00 | 175.00 | true
+MECHANIC | Easton Benton | 2 | 240.00 | 450.00 | false
+SALESPERSON | Miley Reid | 2 | 300.00 | 0.00 | false
+SALESPERSON | Leroy Rivers | 10 | 1500.00 | 1650.00 | false
+MECHANIC | Adalynn Dickson | 12 | 1440.00 | 2400.00 | false
+SALESPERSON | Aarav Frazier | 17 | 2550.00 | 2480.00 | false
+
+Inventory
+Type | Name | Cost | SalePrice | Condition | Cleanliness | InStock
+------------------------------------------------------------------------
+CAR | Hyundai Santa Cruz 2019 | 10067.39 | 25168.46 | LIKE_NEW | DIRTY | true
+CAR | Toyota Hilux 2021 | 10080.48 | 20160.96 | LIKE_NEW | DIRTY | true
+CAR | Mahindra Bolero Camper 2020 | 10264.41 | 20528.81 | LIKE_NEW | DIRTY | true
+PERFORMANCE_CAR | Nikola Badger 2011 | 17184.03 | 42960.07 | LIKE_NEW | DIRTY | true
+CAR | Tesla Cybertruck 2015 | 8072.47 | 20181.19 | LIKE_NEW | SPARKING | true
+PERFORMANCE_CAR | Tesla Cybertruck 2014 | 18151.51 | 68068.15 | LIKE_NEW | DIRTY | true
+PERFORMANCE_CAR | Nikola Badger 2015 | 19767.40 | 59302.20 | USED | DIRTY | true
+CAR | GMC Hummer EV 2023 | 7613.98 | 28552.43 | LIKE_NEW | DIRTY | false
+PICKUP | Rivian R1T 2022 | 26010.73 | 65026.82 | LIKE_NEW | CLEAN | false
+PERFORMANCE_CAR | Jeep Gladiator 2016 | 30767.56 | 61535.11 | USED | DIRTY | false
+PICKUP | Ford F-150 Lightning 2022 | 28209.28 | 56418.56 | LIKE_NEW | DIRTY | false
+CAR | Nissan Frontier 2015 | 8223.70 | 30838.88 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Chevrolet Colorado ZR2 2022 | 30163.07 | 60326.14 | LIKE_NEW | DIRTY | false
+PICKUP | Ford F-150 Raptor 2022 | 9315.51 | 34933.16 | LIKE_NEW | DIRTY | false
+CAR | Toyota Hilux 2015 | 14434.60 | 36086.51 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Honda Ridgeline 2022 | 17780.70 | 66677.63 | LIKE_NEW | DIRTY | false
+PICKUP | Ford Velociraptor 6×6 2014 | 11028.06 | 27570.16 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Jeep Gladiator 2015 | 14656.17 | 54960.63 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Mahindra Bolero Camper 2010 | 16736.32 | 62761.21 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Toyota Tundra 2012 | 15165.57 | 56870.91 | LIKE_NEW | DIRTY | false
+CAR | Ford F-150 Lightning 2014 | 10930.62 | 27326.54 | LIKE_NEW | DIRTY | false
+CAR | Toyota Tundra 2013 | 13380.07 | 33450.18 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Chevrolet Colorado ZR2 2012 | 20906.07 | 52265.17 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Dodge Ram 1500 TRX 2013 | 25428.17 | 63570.43 | LIKE_NEW | CLEAN | false
+PERFORMANCE_CAR | Ford Maverick 2018 | 27363.59 | 68408.97 | LIKE_NEW | DIRTY | false
+CAR | Nikola Badger 2010 | 12962.13 | 32405.34 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Nissan Frontier 2020 | 23558.03 | 58895.07 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Tesla Cybertruck 2018 | 24695.08 | 49390.16 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Toyota Tundra 2018 | 24230.38 | 48460.76 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Ford F-150 Lightning 2021 | 31690.69 | 79226.73 | LIKE_NEW | DIRTY | false
+
+Budget
+TotalOperatingBudget | TotalSale
+1085904.71 |           1155957.48
+
+********** day 21 ************
+********** Weekend ************
+
+********** day 22 ************
+********** Working day ************
+Opening... (current budget $1085904.71)
+
+A DIRTY and LIKE_NEW PERFORMANCE_CAR (Ford Ranger 2013) is available in the inventory.
+Purchased LIKE_NEW, DIRTY Ford Ranger 2013 for $ 33724.414520
+
+Washing...
+
+Repairing...
+MECHANIC Joel Hurley repaired USED PERFORMANCE_CAR Nikola Badger 2015 and made it LIKE_NEW (earned $200.00 bounus)
+
+Selling...
+Number of buyers: 2
+Sales income increased by $ 74127.744094
+Current balance is $ 1126308.038295
+SALESPERSON Navy Reed sold DIRTY LIKE_NEW Nikola Badger 2015 to Buyer for $74127.74 (earned $350.00 bonus)
+SALESPERSON Remy Fernandez sold DIRTY LIKE_NEW Tesla Cybertruck 2014 to Buyer unsuccessfully
+
+Ending...
+
+Total salary payout increased by $ 1050.000000
+
+Current balance is $ 1125258.038295
+
+Total bonuses payout increased by $ 550.000000
+
+Current balance is $ 1124708.038295
+
+Staff members
+Title | Name | TotalDaysWorked | TotalNormalPay | TotalBonusPay | Working
+------------------------------------------------------------------------
+INTERN | Ridge Reid | 9 | 720.00 | 100.00 | true
+INTERN | Octavia Reid | 7 | 560.00 | 0.00 | true
+INTERN | Emmalynn Vo | 2 | 160.00 | 0.00 | true
+MECHANIC | Joel Hurley | 19 | 2280.00 | 1950.00 | true
+MECHANIC | Ashlynn Meyer | 19 | 2200.00 | 200.00 | true
+MECHANIC | Keyla Reid | 17 | 1640.00 | 200.00 | true
+SALESPERSON | Navy Reed | 19 | 2710.00 | 1575.00 | true
+SALESPERSON | Rhett Fletcher | 19 | 2150.00 | 1410.00 | true
+SALESPERSON | Remy Fernandez | 17 | 1500.00 | 175.00 | true
+MECHANIC | Easton Benton | 2 | 240.00 | 450.00 | false
+SALESPERSON | Miley Reid | 2 | 300.00 | 0.00 | false
+SALESPERSON | Leroy Rivers | 10 | 1500.00 | 1650.00 | false
+MECHANIC | Adalynn Dickson | 12 | 1440.00 | 2400.00 | false
+SALESPERSON | Aarav Frazier | 17 | 2550.00 | 2480.00 | false
+
+Inventory
+Type | Name | Cost | SalePrice | Condition | Cleanliness | InStock
+------------------------------------------------------------------------
+CAR | Hyundai Santa Cruz 2019 | 10067.39 | 25168.46 | LIKE_NEW | DIRTY | true
+CAR | Toyota Hilux 2021 | 10080.48 | 20160.96 | LIKE_NEW | DIRTY | true
+CAR | Mahindra Bolero Camper 2020 | 10264.41 | 20528.81 | LIKE_NEW | DIRTY | true
+PERFORMANCE_CAR | Nikola Badger 2011 | 17184.03 | 42960.07 | LIKE_NEW | DIRTY | true
+CAR | Tesla Cybertruck 2015 | 8072.47 | 20181.19 | LIKE_NEW | SPARKING | true
+PERFORMANCE_CAR | Tesla Cybertruck 2014 | 18151.51 | 68068.15 | LIKE_NEW | DIRTY | true
+PERFORMANCE_CAR | Ford Ranger 2013 | 33724.41 | 67448.83 | LIKE_NEW | DIRTY | true
+CAR | GMC Hummer EV 2023 | 7613.98 | 28552.43 | LIKE_NEW | DIRTY | false
+PICKUP | Rivian R1T 2022 | 26010.73 | 65026.82 | LIKE_NEW | CLEAN | false
+PERFORMANCE_CAR | Jeep Gladiator 2016 | 30767.56 | 61535.11 | USED | DIRTY | false
+PICKUP | Ford F-150 Lightning 2022 | 28209.28 | 56418.56 | LIKE_NEW | DIRTY | false
+CAR | Nissan Frontier 2015 | 8223.70 | 30838.88 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Chevrolet Colorado ZR2 2022 | 30163.07 | 60326.14 | LIKE_NEW | DIRTY | false
+PICKUP | Ford F-150 Raptor 2022 | 9315.51 | 34933.16 | LIKE_NEW | DIRTY | false
+CAR | Toyota Hilux 2015 | 14434.60 | 36086.51 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Honda Ridgeline 2022 | 17780.70 | 66677.63 | LIKE_NEW | DIRTY | false
+PICKUP | Ford Velociraptor 6×6 2014 | 11028.06 | 27570.16 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Jeep Gladiator 2015 | 14656.17 | 54960.63 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Mahindra Bolero Camper 2010 | 16736.32 | 62761.21 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Toyota Tundra 2012 | 15165.57 | 56870.91 | LIKE_NEW | DIRTY | false
+CAR | Ford F-150 Lightning 2014 | 10930.62 | 27326.54 | LIKE_NEW | DIRTY | false
+CAR | Toyota Tundra 2013 | 13380.07 | 33450.18 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Chevrolet Colorado ZR2 2012 | 20906.07 | 52265.17 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Dodge Ram 1500 TRX 2013 | 25428.17 | 63570.43 | LIKE_NEW | CLEAN | false
+PERFORMANCE_CAR | Ford Maverick 2018 | 27363.59 | 68408.97 | LIKE_NEW | DIRTY | false
+CAR | Nikola Badger 2010 | 12962.13 | 32405.34 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Nissan Frontier 2020 | 23558.03 | 58895.07 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Tesla Cybertruck 2018 | 24695.08 | 49390.16 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Toyota Tundra 2018 | 24230.38 | 48460.76 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Ford F-150 Lightning 2021 | 31690.69 | 79226.73 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Nikola Badger 2015 | 19767.40 | 74127.74 | LIKE_NEW | DIRTY | false
+
+Budget
+TotalOperatingBudget | TotalSale
+1124708.04 |           1230085.22
+
+********** day 23 ************
+********** Working day ************
+Opening... (current budget $1124708.04)
+
+A DIRTY and LIKE_NEW PERFORMANCE_CAR (Ford F-150 Raptor 2020) is available in the inventory.
+Purchased LIKE_NEW, DIRTY Ford F-150 Raptor 2020 for $ 20515.996571
+
+Washing...
+
+Repairing...
+
+Selling...
+Number of buyers: 1
+Sales income increased by $ 25168.464767
+Current balance is $ 1129360.506491
+SALESPERSON Navy Reed sold DIRTY LIKE_NEW Hyundai Santa Cruz 2019 to Buyer for $25168.46 (earned $160.00 bonus)
+
+Ending...
+
+Total salary payout increased by $ 1050.000000
+
+Current balance is $ 1128310.506491
+
+Total bonuses payout increased by $ 160.000000
+
+Current balance is $ 1128150.506491
+
+Staff members
+Title | Name | TotalDaysWorked | TotalNormalPay | TotalBonusPay | Working
+------------------------------------------------------------------------
+INTERN | Ridge Reid | 10 | 800.00 | 100.00 | true
+INTERN | Octavia Reid | 8 | 640.00 | 0.00 | true
+INTERN | Emmalynn Vo | 3 | 240.00 | 0.00 | true
+MECHANIC | Joel Hurley | 20 | 2400.00 | 1950.00 | true
+MECHANIC | Ashlynn Meyer | 20 | 2320.00 | 200.00 | true
+MECHANIC | Keyla Reid | 18 | 1760.00 | 200.00 | true
+SALESPERSON | Navy Reed | 20 | 2860.00 | 1735.00 | true
+SALESPERSON | Rhett Fletcher | 20 | 2300.00 | 1410.00 | true
+SALESPERSON | Remy Fernandez | 18 | 1650.00 | 175.00 | true
+MECHANIC | Easton Benton | 2 | 240.00 | 450.00 | false
+SALESPERSON | Miley Reid | 2 | 300.00 | 0.00 | false
+SALESPERSON | Leroy Rivers | 10 | 1500.00 | 1650.00 | false
+MECHANIC | Adalynn Dickson | 12 | 1440.00 | 2400.00 | false
+SALESPERSON | Aarav Frazier | 17 | 2550.00 | 2480.00 | false
+
+Inventory
+Type | Name | Cost | SalePrice | Condition | Cleanliness | InStock
+------------------------------------------------------------------------
+CAR | Toyota Hilux 2021 | 10080.48 | 20160.96 | LIKE_NEW | DIRTY | true
+CAR | Mahindra Bolero Camper 2020 | 10264.41 | 20528.81 | LIKE_NEW | DIRTY | true
+PERFORMANCE_CAR | Nikola Badger 2011 | 17184.03 | 42960.07 | LIKE_NEW | DIRTY | true
+CAR | Tesla Cybertruck 2015 | 8072.47 | 20181.19 | LIKE_NEW | SPARKING | true
+PERFORMANCE_CAR | Tesla Cybertruck 2014 | 18151.51 | 68068.15 | LIKE_NEW | DIRTY | true
+PERFORMANCE_CAR | Ford Ranger 2013 | 33724.41 | 67448.83 | LIKE_NEW | DIRTY | true
+PERFORMANCE_CAR | Ford F-150 Raptor 2020 | 20516.00 | 41031.99 | LIKE_NEW | DIRTY | true
+CAR | GMC Hummer EV 2023 | 7613.98 | 28552.43 | LIKE_NEW | DIRTY | false
+PICKUP | Rivian R1T 2022 | 26010.73 | 65026.82 | LIKE_NEW | CLEAN | false
+PERFORMANCE_CAR | Jeep Gladiator 2016 | 30767.56 | 61535.11 | USED | DIRTY | false
+PICKUP | Ford F-150 Lightning 2022 | 28209.28 | 56418.56 | LIKE_NEW | DIRTY | false
+CAR | Nissan Frontier 2015 | 8223.70 | 30838.88 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Chevrolet Colorado ZR2 2022 | 30163.07 | 60326.14 | LIKE_NEW | DIRTY | false
+PICKUP | Ford F-150 Raptor 2022 | 9315.51 | 34933.16 | LIKE_NEW | DIRTY | false
+CAR | Toyota Hilux 2015 | 14434.60 | 36086.51 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Honda Ridgeline 2022 | 17780.70 | 66677.63 | LIKE_NEW | DIRTY | false
+PICKUP | Ford Velociraptor 6×6 2014 | 11028.06 | 27570.16 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Jeep Gladiator 2015 | 14656.17 | 54960.63 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Mahindra Bolero Camper 2010 | 16736.32 | 62761.21 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Toyota Tundra 2012 | 15165.57 | 56870.91 | LIKE_NEW | DIRTY | false
+CAR | Ford F-150 Lightning 2014 | 10930.62 | 27326.54 | LIKE_NEW | DIRTY | false
+CAR | Toyota Tundra 2013 | 13380.07 | 33450.18 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Chevrolet Colorado ZR2 2012 | 20906.07 | 52265.17 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Dodge Ram 1500 TRX 2013 | 25428.17 | 63570.43 | LIKE_NEW | CLEAN | false
+PERFORMANCE_CAR | Ford Maverick 2018 | 27363.59 | 68408.97 | LIKE_NEW | DIRTY | false
+CAR | Nikola Badger 2010 | 12962.13 | 32405.34 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Nissan Frontier 2020 | 23558.03 | 58895.07 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Tesla Cybertruck 2018 | 24695.08 | 49390.16 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Toyota Tundra 2018 | 24230.38 | 48460.76 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Ford F-150 Lightning 2021 | 31690.69 | 79226.73 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Nikola Badger 2015 | 19767.40 | 74127.74 | LIKE_NEW | DIRTY | false
+CAR | Hyundai Santa Cruz 2019 | 10067.39 | 25168.46 | LIKE_NEW | DIRTY | false
+
+Budget
+TotalOperatingBudget | TotalSale
+1128150.51 |           1255253.69
+
+********** day 24 ************
+********** Working day ************
+Opening... (current budget $1128150.51)
+
+A CLEAN and USED CAR (Ford Ranger 2018) is available in the inventory.
+Purchased USED, CLEAN Ford Ranger 2018 for $ 15802.875610
+
+Washing...
+INTERN Ridge Reid wash CAR Ford Ranger 2018 and made it CLEAN
+INTERN Ridge Reid wash CAR Ford Ranger 2018 and made it CLEAN
+INTERN Octavia Reid wash CAR Ford Ranger 2018 and made it SPARKING (earned 50.00 bonus)
+
+Repairing...
+MECHANIC Joel Hurley repaired USED CAR Ford Ranger 2018 and made it LIKE_NEW (earned $100.00 bounus)
+
+Selling...
+Number of buyers: 4
+Sales income increased by $ 39507.189025
+Current balance is $ 1151854.819906
+SALESPERSON Rhett Fletcher sold CLEAN LIKE_NEW Ford Ranger 2018 to Buyer for $39507.19 (earned $160.00 bonus)
+SALESPERSON Remy Fernandez sold DIRTY LIKE_NEW Tesla Cybertruck 2014 to Buyer unsuccessfully
+SALESPERSON Remy Fernandez sold DIRTY LIKE_NEW Mahindra Bolero Camper 2020 to Buyer unsuccessfully
+
+Ending...
+
+Total salary payout increased by $ 1050.000000
+
+Current balance is $ 1150804.819906
+
+Total bonuses payout increased by $ 310.000000
+
+Current balance is $ 1150494.819906
+
+Staff members
+Title | Name | TotalDaysWorked | TotalNormalPay | TotalBonusPay | Working
+------------------------------------------------------------------------
+INTERN | Ridge Reid | 11 | 880.00 | 100.00 | true
+INTERN | Octavia Reid | 9 | 720.00 | 50.00 | true
+INTERN | Emmalynn Vo | 4 | 320.00 | 0.00 | true
+MECHANIC | Joel Hurley | 21 | 2520.00 | 2050.00 | true
+MECHANIC | Ashlynn Meyer | 21 | 2440.00 | 200.00 | true
+MECHANIC | Keyla Reid | 19 | 1880.00 | 200.00 | true
+SALESPERSON | Navy Reed | 21 | 3010.00 | 1735.00 | true
+SALESPERSON | Rhett Fletcher | 21 | 2450.00 | 1570.00 | true
+SALESPERSON | Remy Fernandez | 19 | 1800.00 | 175.00 | true
+MECHANIC | Easton Benton | 2 | 240.00 | 450.00 | false
+SALESPERSON | Miley Reid | 2 | 300.00 | 0.00 | false
+SALESPERSON | Leroy Rivers | 10 | 1500.00 | 1650.00 | false
+MECHANIC | Adalynn Dickson | 12 | 1440.00 | 2400.00 | false
+SALESPERSON | Aarav Frazier | 17 | 2550.00 | 2480.00 | false
+
+Inventory
+Type | Name | Cost | SalePrice | Condition | Cleanliness | InStock
+------------------------------------------------------------------------
+CAR | Toyota Hilux 2021 | 10080.48 | 20160.96 | LIKE_NEW | DIRTY | true
+CAR | Mahindra Bolero Camper 2020 | 10264.41 | 20528.81 | LIKE_NEW | DIRTY | true
+PERFORMANCE_CAR | Nikola Badger 2011 | 17184.03 | 42960.07 | LIKE_NEW | DIRTY | true
+CAR | Tesla Cybertruck 2015 | 8072.47 | 20181.19 | LIKE_NEW | SPARKING | true
+PERFORMANCE_CAR | Tesla Cybertruck 2014 | 18151.51 | 68068.15 | LIKE_NEW | DIRTY | true
+PERFORMANCE_CAR | Ford Ranger 2013 | 33724.41 | 67448.83 | LIKE_NEW | DIRTY | true
+PERFORMANCE_CAR | Ford F-150 Raptor 2020 | 20516.00 | 41031.99 | LIKE_NEW | DIRTY | true
+CAR | GMC Hummer EV 2023 | 7613.98 | 28552.43 | LIKE_NEW | DIRTY | false
+PICKUP | Rivian R1T 2022 | 26010.73 | 65026.82 | LIKE_NEW | CLEAN | false
+PERFORMANCE_CAR | Jeep Gladiator 2016 | 30767.56 | 61535.11 | USED | DIRTY | false
+PICKUP | Ford F-150 Lightning 2022 | 28209.28 | 56418.56 | LIKE_NEW | DIRTY | false
+CAR | Nissan Frontier 2015 | 8223.70 | 30838.88 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Chevrolet Colorado ZR2 2022 | 30163.07 | 60326.14 | LIKE_NEW | DIRTY | false
+PICKUP | Ford F-150 Raptor 2022 | 9315.51 | 34933.16 | LIKE_NEW | DIRTY | false
+CAR | Toyota Hilux 2015 | 14434.60 | 36086.51 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Honda Ridgeline 2022 | 17780.70 | 66677.63 | LIKE_NEW | DIRTY | false
+PICKUP | Ford Velociraptor 6×6 2014 | 11028.06 | 27570.16 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Jeep Gladiator 2015 | 14656.17 | 54960.63 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Mahindra Bolero Camper 2010 | 16736.32 | 62761.21 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Toyota Tundra 2012 | 15165.57 | 56870.91 | LIKE_NEW | DIRTY | false
+CAR | Ford F-150 Lightning 2014 | 10930.62 | 27326.54 | LIKE_NEW | DIRTY | false
+CAR | Toyota Tundra 2013 | 13380.07 | 33450.18 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Chevrolet Colorado ZR2 2012 | 20906.07 | 52265.17 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Dodge Ram 1500 TRX 2013 | 25428.17 | 63570.43 | LIKE_NEW | CLEAN | false
+PERFORMANCE_CAR | Ford Maverick 2018 | 27363.59 | 68408.97 | LIKE_NEW | DIRTY | false
+CAR | Nikola Badger 2010 | 12962.13 | 32405.34 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Nissan Frontier 2020 | 23558.03 | 58895.07 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Tesla Cybertruck 2018 | 24695.08 | 49390.16 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Toyota Tundra 2018 | 24230.38 | 48460.76 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Ford F-150 Lightning 2021 | 31690.69 | 79226.73 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Nikola Badger 2015 | 19767.40 | 74127.74 | LIKE_NEW | DIRTY | false
+CAR | Hyundai Santa Cruz 2019 | 10067.39 | 25168.46 | LIKE_NEW | DIRTY | false
+CAR | Ford Ranger 2018 | 15802.88 | 39507.19 | LIKE_NEW | CLEAN | false
+
+Budget
+TotalOperatingBudget | TotalSale
+1150494.82 |           1294760.88
+
+********** day 25 ************
+********** Working day ************
+Opening... (current budget $1150494.82)
+
+A DIRTY and BROKEN CAR (Tesla Cybertruck 2021) is available in the inventory.
+Purchased BROKEN, DIRTY Tesla Cybertruck 2021 for $ 8343.833465
+
+Washing...
+
+Repairing...
+MECHANIC Joel Hurley repaired BROKEN CAR Tesla Cybertruck 2021 and made it USED (earned $100.00 bounus)
+MECHANIC Joel Hurley repaired USED CAR Tesla Cybertruck 2021 and made it LIKE_NEW (earned $100.00 bounus)
+
+Selling...
+Number of buyers: 0
+
+Ending...
+
+Total salary payout increased by $ 1050.000000
+
+Current balance is $ 1141100.986440
+
+Total bonuses payout increased by $ 200.000000
+
+Current balance is $ 1140900.986440
+
+Staff members
+Title | Name | TotalDaysWorked | TotalNormalPay | TotalBonusPay | Working
+------------------------------------------------------------------------
+INTERN | Ridge Reid | 12 | 960.00 | 100.00 | true
+INTERN | Octavia Reid | 10 | 800.00 | 50.00 | true
+INTERN | Emmalynn Vo | 5 | 400.00 | 0.00 | true
+MECHANIC | Joel Hurley | 22 | 2640.00 | 2250.00 | true
+MECHANIC | Ashlynn Meyer | 22 | 2560.00 | 200.00 | true
+MECHANIC | Keyla Reid | 20 | 2000.00 | 200.00 | true
+SALESPERSON | Navy Reed | 22 | 3160.00 | 1735.00 | true
+SALESPERSON | Rhett Fletcher | 22 | 2600.00 | 1570.00 | true
+SALESPERSON | Remy Fernandez | 20 | 1950.00 | 175.00 | true
+MECHANIC | Easton Benton | 2 | 240.00 | 450.00 | false
+SALESPERSON | Miley Reid | 2 | 300.00 | 0.00 | false
+SALESPERSON | Leroy Rivers | 10 | 1500.00 | 1650.00 | false
+MECHANIC | Adalynn Dickson | 12 | 1440.00 | 2400.00 | false
+SALESPERSON | Aarav Frazier | 17 | 2550.00 | 2480.00 | false
+
+Inventory
+Type | Name | Cost | SalePrice | Condition | Cleanliness | InStock
+------------------------------------------------------------------------
+CAR | Toyota Hilux 2021 | 10080.48 | 20160.96 | LIKE_NEW | DIRTY | true
+CAR | Mahindra Bolero Camper 2020 | 10264.41 | 20528.81 | LIKE_NEW | DIRTY | true
+PERFORMANCE_CAR | Nikola Badger 2011 | 17184.03 | 42960.07 | LIKE_NEW | DIRTY | true
+CAR | Tesla Cybertruck 2015 | 8072.47 | 20181.19 | LIKE_NEW | SPARKING | true
+PERFORMANCE_CAR | Tesla Cybertruck 2014 | 18151.51 | 68068.15 | LIKE_NEW | DIRTY | true
+PERFORMANCE_CAR | Ford Ranger 2013 | 33724.41 | 67448.83 | LIKE_NEW | DIRTY | true
+PERFORMANCE_CAR | Ford F-150 Raptor 2020 | 20516.00 | 41031.99 | LIKE_NEW | DIRTY | true
+CAR | Tesla Cybertruck 2021 | 8343.83 | 31289.38 | LIKE_NEW | DIRTY | true
+CAR | GMC Hummer EV 2023 | 7613.98 | 28552.43 | LIKE_NEW | DIRTY | false
+PICKUP | Rivian R1T 2022 | 26010.73 | 65026.82 | LIKE_NEW | CLEAN | false
+PERFORMANCE_CAR | Jeep Gladiator 2016 | 30767.56 | 61535.11 | USED | DIRTY | false
+PICKUP | Ford F-150 Lightning 2022 | 28209.28 | 56418.56 | LIKE_NEW | DIRTY | false
+CAR | Nissan Frontier 2015 | 8223.70 | 30838.88 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Chevrolet Colorado ZR2 2022 | 30163.07 | 60326.14 | LIKE_NEW | DIRTY | false
+PICKUP | Ford F-150 Raptor 2022 | 9315.51 | 34933.16 | LIKE_NEW | DIRTY | false
+CAR | Toyota Hilux 2015 | 14434.60 | 36086.51 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Honda Ridgeline 2022 | 17780.70 | 66677.63 | LIKE_NEW | DIRTY | false
+PICKUP | Ford Velociraptor 6×6 2014 | 11028.06 | 27570.16 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Jeep Gladiator 2015 | 14656.17 | 54960.63 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Mahindra Bolero Camper 2010 | 16736.32 | 62761.21 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Toyota Tundra 2012 | 15165.57 | 56870.91 | LIKE_NEW | DIRTY | false
+CAR | Ford F-150 Lightning 2014 | 10930.62 | 27326.54 | LIKE_NEW | DIRTY | false
+CAR | Toyota Tundra 2013 | 13380.07 | 33450.18 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Chevrolet Colorado ZR2 2012 | 20906.07 | 52265.17 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Dodge Ram 1500 TRX 2013 | 25428.17 | 63570.43 | LIKE_NEW | CLEAN | false
+PERFORMANCE_CAR | Ford Maverick 2018 | 27363.59 | 68408.97 | LIKE_NEW | DIRTY | false
+CAR | Nikola Badger 2010 | 12962.13 | 32405.34 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Nissan Frontier 2020 | 23558.03 | 58895.07 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Tesla Cybertruck 2018 | 24695.08 | 49390.16 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Toyota Tundra 2018 | 24230.38 | 48460.76 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Ford F-150 Lightning 2021 | 31690.69 | 79226.73 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Nikola Badger 2015 | 19767.40 | 74127.74 | LIKE_NEW | DIRTY | false
+CAR | Hyundai Santa Cruz 2019 | 10067.39 | 25168.46 | LIKE_NEW | DIRTY | false
+CAR | Ford Ranger 2018 | 15802.88 | 39507.19 | LIKE_NEW | CLEAN | false
+
+Budget
+TotalOperatingBudget | TotalSale
+1140900.99 |           1294760.88
+
+********** day 26 ************
+********** Working day ************
+Opening... (current budget $1140900.99)
+
+Washing...
+
+Repairing...
+
+Selling...
+Number of buyers: 3
+Sales income increased by $ 68068.148843
+Current balance is $ 1208969.135284
+SALESPERSON Remy Fernandez sold DIRTY LIKE_NEW Tesla Cybertruck 2014 to Buyer for $68068.15 (earned $350.00 bonus)
+Sales income increased by $ 67448.829040
+Current balance is $ 1276417.964324
+SALESPERSON Remy Fernandez sold DIRTY LIKE_NEW Ford Ranger 2013 to Buyer for $67448.83 (earned $350.00 bonus)
+
+Ending...
+
+Total salary payout increased by $ 1050.000000
+
+Current balance is $ 1275367.964324
+
+Total bonuses payout increased by $ 700.000000
+
+Current balance is $ 1274667.964324
+
+Staff members
+Title | Name | TotalDaysWorked | TotalNormalPay | TotalBonusPay | Working
+------------------------------------------------------------------------
+INTERN | Ridge Reid | 13 | 1040.00 | 100.00 | true
+INTERN | Octavia Reid | 11 | 880.00 | 50.00 | true
+INTERN | Emmalynn Vo | 6 | 480.00 | 0.00 | true
+MECHANIC | Joel Hurley | 23 | 2760.00 | 2250.00 | true
+MECHANIC | Ashlynn Meyer | 23 | 2680.00 | 200.00 | true
+MECHANIC | Keyla Reid | 21 | 2120.00 | 200.00 | true
+SALESPERSON | Navy Reed | 23 | 3310.00 | 1735.00 | true
+SALESPERSON | Rhett Fletcher | 23 | 2750.00 | 1570.00 | true
+SALESPERSON | Remy Fernandez | 21 | 2100.00 | 875.00 | true
+MECHANIC | Easton Benton | 2 | 240.00 | 450.00 | false
+SALESPERSON | Miley Reid | 2 | 300.00 | 0.00 | false
+SALESPERSON | Leroy Rivers | 10 | 1500.00 | 1650.00 | false
+MECHANIC | Adalynn Dickson | 12 | 1440.00 | 2400.00 | false
+SALESPERSON | Aarav Frazier | 17 | 2550.00 | 2480.00 | false
+
+Inventory
+Type | Name | Cost | SalePrice | Condition | Cleanliness | InStock
+------------------------------------------------------------------------
+CAR | Toyota Hilux 2021 | 10080.48 | 20160.96 | LIKE_NEW | DIRTY | true
+CAR | Mahindra Bolero Camper 2020 | 10264.41 | 20528.81 | LIKE_NEW | DIRTY | true
+PERFORMANCE_CAR | Nikola Badger 2011 | 17184.03 | 42960.07 | LIKE_NEW | DIRTY | true
+CAR | Tesla Cybertruck 2015 | 8072.47 | 20181.19 | LIKE_NEW | SPARKING | true
+PERFORMANCE_CAR | Ford F-150 Raptor 2020 | 20516.00 | 41031.99 | LIKE_NEW | DIRTY | true
+CAR | Tesla Cybertruck 2021 | 8343.83 | 31289.38 | LIKE_NEW | DIRTY | true
+CAR | GMC Hummer EV 2023 | 7613.98 | 28552.43 | LIKE_NEW | DIRTY | false
+PICKUP | Rivian R1T 2022 | 26010.73 | 65026.82 | LIKE_NEW | CLEAN | false
+PERFORMANCE_CAR | Jeep Gladiator 2016 | 30767.56 | 61535.11 | USED | DIRTY | false
+PICKUP | Ford F-150 Lightning 2022 | 28209.28 | 56418.56 | LIKE_NEW | DIRTY | false
+CAR | Nissan Frontier 2015 | 8223.70 | 30838.88 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Chevrolet Colorado ZR2 2022 | 30163.07 | 60326.14 | LIKE_NEW | DIRTY | false
+PICKUP | Ford F-150 Raptor 2022 | 9315.51 | 34933.16 | LIKE_NEW | DIRTY | false
+CAR | Toyota Hilux 2015 | 14434.60 | 36086.51 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Honda Ridgeline 2022 | 17780.70 | 66677.63 | LIKE_NEW | DIRTY | false
+PICKUP | Ford Velociraptor 6×6 2014 | 11028.06 | 27570.16 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Jeep Gladiator 2015 | 14656.17 | 54960.63 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Mahindra Bolero Camper 2010 | 16736.32 | 62761.21 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Toyota Tundra 2012 | 15165.57 | 56870.91 | LIKE_NEW | DIRTY | false
+CAR | Ford F-150 Lightning 2014 | 10930.62 | 27326.54 | LIKE_NEW | DIRTY | false
+CAR | Toyota Tundra 2013 | 13380.07 | 33450.18 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Chevrolet Colorado ZR2 2012 | 20906.07 | 52265.17 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Dodge Ram 1500 TRX 2013 | 25428.17 | 63570.43 | LIKE_NEW | CLEAN | false
+PERFORMANCE_CAR | Ford Maverick 2018 | 27363.59 | 68408.97 | LIKE_NEW | DIRTY | false
+CAR | Nikola Badger 2010 | 12962.13 | 32405.34 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Nissan Frontier 2020 | 23558.03 | 58895.07 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Tesla Cybertruck 2018 | 24695.08 | 49390.16 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Toyota Tundra 2018 | 24230.38 | 48460.76 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Ford F-150 Lightning 2021 | 31690.69 | 79226.73 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Nikola Badger 2015 | 19767.40 | 74127.74 | LIKE_NEW | DIRTY | false
+CAR | Hyundai Santa Cruz 2019 | 10067.39 | 25168.46 | LIKE_NEW | DIRTY | false
+CAR | Ford Ranger 2018 | 15802.88 | 39507.19 | LIKE_NEW | CLEAN | false
+PERFORMANCE_CAR | Tesla Cybertruck 2014 | 18151.51 | 68068.15 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Ford Ranger 2013 | 33724.41 | 67448.83 | LIKE_NEW | DIRTY | false
+
+Budget
+TotalOperatingBudget | TotalSale
+1274667.96 |           1430277.85
+
+********** day 27 ************
+********** Working day ************
+Opening... (current budget $1274667.96)
+
+A DIRTY and LIKE_NEW PERFORMANCE_CAR (Honda Ridgeline 2021) is available in the inventory.
+Purchased LIKE_NEW, DIRTY Honda Ridgeline 2021 for $ 22095.312661
+
+A CLEAN and USED PERFORMANCE_CAR (Ford Maverick 2022) is available in the inventory.
+Purchased USED, CLEAN Ford Maverick 2022 for $ 18838.112742
+
+Washing...
+INTERN Ridge Reid wash PERFORMANCE_CAR Ford Maverick 2022 and made it CLEAN
+INTERN Ridge Reid wash PERFORMANCE_CAR Ford Maverick 2022 and made it CLEAN
+INTERN Octavia Reid wash PERFORMANCE_CAR Ford Maverick 2022 and made it CLEAN
+INTERN Octavia Reid wash PERFORMANCE_CAR Ford Maverick 2022 and made it SPARKING (earned 75.00 bonus)
+
+Repairing...
+MECHANIC Joel Hurley repaired USED PERFORMANCE_CAR Ford Maverick 2022 and made it LIKE_NEW (earned $200.00 bounus)
+
+Selling...
+Number of buyers: 7
+Sales income increased by $ 47095.281856
+Current balance is $ 1280829.820776
+SALESPERSON Navy Reed sold CLEAN LIKE_NEW Ford Maverick 2022 to Buyer for $47095.28 (earned $350.00 bonus)
+SALESPERSON Navy Reed sold DIRTY LIKE_NEW Tesla Cybertruck 2021 to Buyer unsuccessfully
+Sales income increased by $ 44190.625323
+Current balance is $ 1325020.446099
+SALESPERSON Rhett Fletcher sold DIRTY LIKE_NEW Honda Ridgeline 2021 to Buyer for $44190.63 (earned $350.00 bonus)
+SALESPERSON Rhett Fletcher sold DIRTY LIKE_NEW Nikola Badger 2011 to Buyer unsuccessfully
+Sales income increased by $ 42960.067603
+Current balance is $ 1367980.513701
+SALESPERSON Remy Fernandez sold DIRTY LIKE_NEW Nikola Badger 2011 to Buyer for $42960.07 (earned $350.00 bonus)
+Sales income increased by $ 31289.375495
+Current balance is $ 1399269.889197
+SALESPERSON Remy Fernandez sold DIRTY LIKE_NEW Tesla Cybertruck 2021 to Buyer for $31289.38 (earned $160.00 bonus)
+
+Ending...
+
+Total salary payout increased by $ 1050.000000
+
+Current balance is $ 1398219.889197
+
+Total bonuses payout increased by $ 1485.000000
+
+Current balance is $ 1396734.889197
+
+Joel Hurley (MECHANIC) quited.
+
+Staff members
+Title | Name | TotalDaysWorked | TotalNormalPay | TotalBonusPay | Working
+------------------------------------------------------------------------
+INTERN | Ridge Reid | 14 | 1120.00 | 100.00 | true
+INTERN | Octavia Reid | 12 | 960.00 | 125.00 | true
+INTERN | Emmalynn Vo | 7 | 560.00 | 0.00 | true
+MECHANIC | Ashlynn Meyer | 24 | 2800.00 | 200.00 | true
+MECHANIC | Keyla Reid | 22 | 2240.00 | 200.00 | true
+SALESPERSON | Navy Reed | 24 | 3460.00 | 2085.00 | true
+SALESPERSON | Rhett Fletcher | 24 | 2900.00 | 1920.00 | true
+SALESPERSON | Remy Fernandez | 22 | 2250.00 | 1385.00 | true
+MECHANIC | Easton Benton | 2 | 240.00 | 450.00 | false
+SALESPERSON | Miley Reid | 2 | 300.00 | 0.00 | false
+SALESPERSON | Leroy Rivers | 10 | 1500.00 | 1650.00 | false
+MECHANIC | Adalynn Dickson | 12 | 1440.00 | 2400.00 | false
+SALESPERSON | Aarav Frazier | 17 | 2550.00 | 2480.00 | false
+MECHANIC | Joel Hurley | 24 | 2880.00 | 2450.00 | false
+
+Inventory
+Type | Name | Cost | SalePrice | Condition | Cleanliness | InStock
+------------------------------------------------------------------------
+CAR | Toyota Hilux 2021 | 10080.48 | 20160.96 | LIKE_NEW | DIRTY | true
+CAR | Mahindra Bolero Camper 2020 | 10264.41 | 20528.81 | LIKE_NEW | DIRTY | true
+CAR | Tesla Cybertruck 2015 | 8072.47 | 20181.19 | LIKE_NEW | SPARKING | true
+PERFORMANCE_CAR | Ford F-150 Raptor 2020 | 20516.00 | 41031.99 | LIKE_NEW | DIRTY | true
+CAR | GMC Hummer EV 2023 | 7613.98 | 28552.43 | LIKE_NEW | DIRTY | false
+PICKUP | Rivian R1T 2022 | 26010.73 | 65026.82 | LIKE_NEW | CLEAN | false
+PERFORMANCE_CAR | Jeep Gladiator 2016 | 30767.56 | 61535.11 | USED | DIRTY | false
+PICKUP | Ford F-150 Lightning 2022 | 28209.28 | 56418.56 | LIKE_NEW | DIRTY | false
+CAR | Nissan Frontier 2015 | 8223.70 | 30838.88 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Chevrolet Colorado ZR2 2022 | 30163.07 | 60326.14 | LIKE_NEW | DIRTY | false
+PICKUP | Ford F-150 Raptor 2022 | 9315.51 | 34933.16 | LIKE_NEW | DIRTY | false
+CAR | Toyota Hilux 2015 | 14434.60 | 36086.51 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Honda Ridgeline 2022 | 17780.70 | 66677.63 | LIKE_NEW | DIRTY | false
+PICKUP | Ford Velociraptor 6×6 2014 | 11028.06 | 27570.16 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Jeep Gladiator 2015 | 14656.17 | 54960.63 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Mahindra Bolero Camper 2010 | 16736.32 | 62761.21 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Toyota Tundra 2012 | 15165.57 | 56870.91 | LIKE_NEW | DIRTY | false
+CAR | Ford F-150 Lightning 2014 | 10930.62 | 27326.54 | LIKE_NEW | DIRTY | false
+CAR | Toyota Tundra 2013 | 13380.07 | 33450.18 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Chevrolet Colorado ZR2 2012 | 20906.07 | 52265.17 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Dodge Ram 1500 TRX 2013 | 25428.17 | 63570.43 | LIKE_NEW | CLEAN | false
+PERFORMANCE_CAR | Ford Maverick 2018 | 27363.59 | 68408.97 | LIKE_NEW | DIRTY | false
+CAR | Nikola Badger 2010 | 12962.13 | 32405.34 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Nissan Frontier 2020 | 23558.03 | 58895.07 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Tesla Cybertruck 2018 | 24695.08 | 49390.16 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Toyota Tundra 2018 | 24230.38 | 48460.76 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Ford F-150 Lightning 2021 | 31690.69 | 79226.73 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Nikola Badger 2015 | 19767.40 | 74127.74 | LIKE_NEW | DIRTY | false
+CAR | Hyundai Santa Cruz 2019 | 10067.39 | 25168.46 | LIKE_NEW | DIRTY | false
+CAR | Ford Ranger 2018 | 15802.88 | 39507.19 | LIKE_NEW | CLEAN | false
+PERFORMANCE_CAR | Tesla Cybertruck 2014 | 18151.51 | 68068.15 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Ford Ranger 2013 | 33724.41 | 67448.83 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Ford Maverick 2022 | 18838.11 | 47095.28 | LIKE_NEW | CLEAN | false
+PERFORMANCE_CAR | Honda Ridgeline 2021 | 22095.31 | 44190.63 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Nikola Badger 2011 | 17184.03 | 42960.07 | LIKE_NEW | DIRTY | false
+CAR | Tesla Cybertruck 2021 | 8343.83 | 31289.38 | LIKE_NEW | DIRTY | false
+
+Budget
+TotalOperatingBudget | TotalSale
+1396734.89 |           1595813.20
+
+********** day 28 ************
+********** Weekend ************
+
+********** day 29 ************
+********** Working day ************
+Opening... (current budget $1396734.89)
+
+Ridge Reid is promoted from intern to Salesperson.
+Hired INTERN Samson Petersen.
+
+A DIRTY and BROKEN PERFORMANCE_CAR (Nissan Frontier 2014) is available in the inventory.
+Purchased BROKEN, DIRTY Nissan Frontier 2014 for $ 13334.098547
+
+A DIRTY and LIKE_NEW PERFORMANCE_CAR (Tesla Cybertruck 2023) is available in the inventory.
+Purchased LIKE_NEW, DIRTY Tesla Cybertruck 2023 for $ 24388.239802
+
+A DIRTY and BROKEN PERFORMANCE_CAR (Rivian R1T 2020) is available in the inventory.
+Purchased BROKEN, DIRTY Rivian R1T 2020 for $ 17351.139330
+
+A DIRTY and BROKEN CAR (Jeep Gladiator 2019) is available in the inventory.
+Purchased BROKEN, DIRTY Jeep Gladiator 2019 for $ 8259.483984
+
+Washing...
+
+Repairing...
+MECHANIC Ashlynn Meyer repaired BROKEN PERFORMANCE_CAR Nissan Frontier 2014 and made it USED (earned $200.00 bounus)
+MECHANIC Ashlynn Meyer repaired USED PERFORMANCE_CAR Nissan Frontier 2014 and made it LIKE_NEW (earned $200.00 bounus)
+MECHANIC Keyla Reid repaired BROKEN PERFORMANCE_CAR Rivian R1T 2020 unsuccessfully
+MECHANIC Keyla Reid repaired BROKEN PERFORMANCE_CAR Rivian R1T 2020 and made it USED (earned $200.00 bounus)
+MECHANIC Ridge Reid repaired USED PERFORMANCE_CAR Rivian R1T 2020 and made it LIKE_NEW (earned $200.00 bounus)
+MECHANIC Ridge Reid repaired BROKEN CAR Jeep Gladiator 2019 and made it USED (earned $100.00 bounus)
+
+Selling...
+Number of buyers: 3
+Sales income increased by $ 24778.451952
+Current balance is $ 1358180.379486
+SALESPERSON Navy Reed sold DIRTY USED Jeep Gladiator 2019 to Buyer for $24778.45 (earned $160.00 bonus)
+Sales income increased by $ 65066.772488
+Current balance is $ 1423247.151974
+SALESPERSON Rhett Fletcher sold DIRTY LIKE_NEW Rivian R1T 2020 to Buyer for $65066.77 (earned $350.00 bonus)
+SALESPERSON Remy Fernandez sold DIRTY LIKE_NEW Mahindra Bolero Camper 2020 to Buyer unsuccessfully
+
+Ending...
+
+Total salary payout increased by $ 1050.000000
+
+Current balance is $ 1422197.151974
+
+Total bonuses payout increased by $ 1410.000000
+
+Current balance is $ 1420787.151974
+
+Staff members
+Title | Name | TotalDaysWorked | TotalNormalPay | TotalBonusPay | Working
+------------------------------------------------------------------------
+INTERN | Octavia Reid | 13 | 1040.00 | 125.00 | true
+INTERN | Emmalynn Vo | 8 | 640.00 | 0.00 | true
+INTERN | Samson Petersen | 1 | 80.00 | 0.00 | true
+MECHANIC | Ashlynn Meyer | 25 | 2920.00 | 600.00 | true
+MECHANIC | Keyla Reid | 23 | 2360.00 | 400.00 | true
+MECHANIC | Ridge Reid | 15 | 1240.00 | 300.00 | true
+SALESPERSON | Navy Reed | 25 | 3610.00 | 2245.00 | true
+SALESPERSON | Rhett Fletcher | 25 | 3050.00 | 2270.00 | true
+SALESPERSON | Remy Fernandez | 23 | 2400.00 | 1385.00 | true
+MECHANIC | Easton Benton | 2 | 240.00 | 450.00 | false
+SALESPERSON | Miley Reid | 2 | 300.00 | 0.00 | false
+SALESPERSON | Leroy Rivers | 10 | 1500.00 | 1650.00 | false
+MECHANIC | Adalynn Dickson | 12 | 1440.00 | 2400.00 | false
+SALESPERSON | Aarav Frazier | 17 | 2550.00 | 2480.00 | false
+MECHANIC | Joel Hurley | 24 | 2880.00 | 2450.00 | false
+
+Inventory
+Type | Name | Cost | SalePrice | Condition | Cleanliness | InStock
+------------------------------------------------------------------------
+CAR | Toyota Hilux 2021 | 10080.48 | 20160.96 | LIKE_NEW | DIRTY | true
+CAR | Mahindra Bolero Camper 2020 | 10264.41 | 20528.81 | LIKE_NEW | DIRTY | true
+CAR | Tesla Cybertruck 2015 | 8072.47 | 20181.19 | LIKE_NEW | SPARKING | true
+PERFORMANCE_CAR | Ford F-150 Raptor 2020 | 20516.00 | 41031.99 | LIKE_NEW | DIRTY | true
+PERFORMANCE_CAR | Nissan Frontier 2014 | 13334.10 | 50002.87 | LIKE_NEW | DIRTY | true
+PERFORMANCE_CAR | Tesla Cybertruck 2023 | 24388.24 | 48776.48 | LIKE_NEW | DIRTY | true
+CAR | GMC Hummer EV 2023 | 7613.98 | 28552.43 | LIKE_NEW | DIRTY | false
+PICKUP | Rivian R1T 2022 | 26010.73 | 65026.82 | LIKE_NEW | CLEAN | false
+PERFORMANCE_CAR | Jeep Gladiator 2016 | 30767.56 | 61535.11 | USED | DIRTY | false
+PICKUP | Ford F-150 Lightning 2022 | 28209.28 | 56418.56 | LIKE_NEW | DIRTY | false
+CAR | Nissan Frontier 2015 | 8223.70 | 30838.88 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Chevrolet Colorado ZR2 2022 | 30163.07 | 60326.14 | LIKE_NEW | DIRTY | false
+PICKUP | Ford F-150 Raptor 2022 | 9315.51 | 34933.16 | LIKE_NEW | DIRTY | false
+CAR | Toyota Hilux 2015 | 14434.60 | 36086.51 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Honda Ridgeline 2022 | 17780.70 | 66677.63 | LIKE_NEW | DIRTY | false
+PICKUP | Ford Velociraptor 6×6 2014 | 11028.06 | 27570.16 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Jeep Gladiator 2015 | 14656.17 | 54960.63 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Mahindra Bolero Camper 2010 | 16736.32 | 62761.21 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Toyota Tundra 2012 | 15165.57 | 56870.91 | LIKE_NEW | DIRTY | false
+CAR | Ford F-150 Lightning 2014 | 10930.62 | 27326.54 | LIKE_NEW | DIRTY | false
+CAR | Toyota Tundra 2013 | 13380.07 | 33450.18 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Chevrolet Colorado ZR2 2012 | 20906.07 | 52265.17 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Dodge Ram 1500 TRX 2013 | 25428.17 | 63570.43 | LIKE_NEW | CLEAN | false
+PERFORMANCE_CAR | Ford Maverick 2018 | 27363.59 | 68408.97 | LIKE_NEW | DIRTY | false
+CAR | Nikola Badger 2010 | 12962.13 | 32405.34 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Nissan Frontier 2020 | 23558.03 | 58895.07 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Tesla Cybertruck 2018 | 24695.08 | 49390.16 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Toyota Tundra 2018 | 24230.38 | 48460.76 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Ford F-150 Lightning 2021 | 31690.69 | 79226.73 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Nikola Badger 2015 | 19767.40 | 74127.74 | LIKE_NEW | DIRTY | false
+CAR | Hyundai Santa Cruz 2019 | 10067.39 | 25168.46 | LIKE_NEW | DIRTY | false
+CAR | Ford Ranger 2018 | 15802.88 | 39507.19 | LIKE_NEW | CLEAN | false
+PERFORMANCE_CAR | Tesla Cybertruck 2014 | 18151.51 | 68068.15 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Ford Ranger 2013 | 33724.41 | 67448.83 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Ford Maverick 2022 | 18838.11 | 47095.28 | LIKE_NEW | CLEAN | false
+PERFORMANCE_CAR | Honda Ridgeline 2021 | 22095.31 | 44190.63 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Nikola Badger 2011 | 17184.03 | 42960.07 | LIKE_NEW | DIRTY | false
+CAR | Tesla Cybertruck 2021 | 8343.83 | 31289.38 | LIKE_NEW | DIRTY | false
+CAR | Jeep Gladiator 2019 | 8259.48 | 24778.45 | USED | DIRTY | false
+PERFORMANCE_CAR | Rivian R1T 2020 | 17351.14 | 65066.77 | LIKE_NEW | DIRTY | false
+
+Budget
+TotalOperatingBudget | TotalSale
+1420787.15 |           1685658.43
+
+********** day 30 ************
+********** Working day ************
+Opening... (current budget $1420787.15)
+
+A DIRTY and USED PERFORMANCE_CAR (Chevrolet Silverado 1500 2018) is available in the inventory.
+Purchased USED, DIRTY Chevrolet Silverado 1500 2018 for $ 31400.218190
+
+A CLEAN and LIKE_NEW CAR (Honda Ridgeline 2014) is available in the inventory.
+Purchased LIKE_NEW, CLEAN Honda Ridgeline 2014 for $ 16606.097629
+
+Washing...
+INTERN Octavia Reid wash CAR Honda Ridgeline 2014 and made it CLEAN
+INTERN Octavia Reid wash CAR Honda Ridgeline 2014 and made it SPARKING (earned 50.00 bonus)
+
+Repairing...
+MECHANIC Ashlynn Meyer repaired USED PERFORMANCE_CAR Chevrolet Silverado 1500 2018 and made it LIKE_NEW (earned $200.00 bounus)
+
+Selling...
+Number of buyers: 2
+SALESPERSON Navy Reed sold DIRTY LIKE_NEW Chevrolet Silverado 1500 2018 to Buyer unsuccessfully
+SALESPERSON Rhett Fletcher sold DIRTY LIKE_NEW Chevrolet Silverado 1500 2018 to Buyer unsuccessfully
+
+Ending...
+
+Total salary payout increased by $ 1050.000000
+
+Current balance is $ 1371730.836154
+
+Total bonuses payout increased by $ 250.000000
+
+Current balance is $ 1371480.836154
+
+Ashlynn Meyer (MECHANIC) quited.
+
+Staff members
+Title | Name | TotalDaysWorked | TotalNormalPay | TotalBonusPay | Working
+------------------------------------------------------------------------
+INTERN | Octavia Reid | 14 | 1120.00 | 175.00 | true
+INTERN | Emmalynn Vo | 9 | 720.00 | 0.00 | true
+INTERN | Samson Petersen | 2 | 160.00 | 0.00 | true
+MECHANIC | Keyla Reid | 24 | 2480.00 | 400.00 | true
+MECHANIC | Ridge Reid | 16 | 1360.00 | 300.00 | true
+SALESPERSON | Navy Reed | 26 | 3760.00 | 2245.00 | true
+SALESPERSON | Rhett Fletcher | 26 | 3200.00 | 2270.00 | true
+SALESPERSON | Remy Fernandez | 24 | 2550.00 | 1385.00 | true
+MECHANIC | Easton Benton | 2 | 240.00 | 450.00 | false
+SALESPERSON | Miley Reid | 2 | 300.00 | 0.00 | false
+SALESPERSON | Leroy Rivers | 10 | 1500.00 | 1650.00 | false
+MECHANIC | Adalynn Dickson | 12 | 1440.00 | 2400.00 | false
+SALESPERSON | Aarav Frazier | 17 | 2550.00 | 2480.00 | false
+MECHANIC | Joel Hurley | 24 | 2880.00 | 2450.00 | false
+MECHANIC | Ashlynn Meyer | 26 | 3040.00 | 800.00 | false
+
+Inventory
+Type | Name | Cost | SalePrice | Condition | Cleanliness | InStock
+------------------------------------------------------------------------
+CAR | Toyota Hilux 2021 | 10080.48 | 20160.96 | LIKE_NEW | DIRTY | true
+CAR | Mahindra Bolero Camper 2020 | 10264.41 | 20528.81 | LIKE_NEW | DIRTY | true
+CAR | Tesla Cybertruck 2015 | 8072.47 | 20181.19 | LIKE_NEW | SPARKING | true
+PERFORMANCE_CAR | Ford F-150 Raptor 2020 | 20516.00 | 41031.99 | LIKE_NEW | DIRTY | true
+PERFORMANCE_CAR | Nissan Frontier 2014 | 13334.10 | 50002.87 | LIKE_NEW | DIRTY | true
+PERFORMANCE_CAR | Tesla Cybertruck 2023 | 24388.24 | 48776.48 | LIKE_NEW | DIRTY | true
+PERFORMANCE_CAR | Chevrolet Silverado 1500 2018 | 31400.22 | 78500.55 | LIKE_NEW | DIRTY | true
+CAR | Honda Ridgeline 2014 | 16606.10 | 33212.20 | LIKE_NEW | SPARKING | true
+CAR | GMC Hummer EV 2023 | 7613.98 | 28552.43 | LIKE_NEW | DIRTY | false
+PICKUP | Rivian R1T 2022 | 26010.73 | 65026.82 | LIKE_NEW | CLEAN | false
+PERFORMANCE_CAR | Jeep Gladiator 2016 | 30767.56 | 61535.11 | USED | DIRTY | false
+PICKUP | Ford F-150 Lightning 2022 | 28209.28 | 56418.56 | LIKE_NEW | DIRTY | false
+CAR | Nissan Frontier 2015 | 8223.70 | 30838.88 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Chevrolet Colorado ZR2 2022 | 30163.07 | 60326.14 | LIKE_NEW | DIRTY | false
+PICKUP | Ford F-150 Raptor 2022 | 9315.51 | 34933.16 | LIKE_NEW | DIRTY | false
+CAR | Toyota Hilux 2015 | 14434.60 | 36086.51 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Honda Ridgeline 2022 | 17780.70 | 66677.63 | LIKE_NEW | DIRTY | false
+PICKUP | Ford Velociraptor 6×6 2014 | 11028.06 | 27570.16 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Jeep Gladiator 2015 | 14656.17 | 54960.63 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Mahindra Bolero Camper 2010 | 16736.32 | 62761.21 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Toyota Tundra 2012 | 15165.57 | 56870.91 | LIKE_NEW | DIRTY | false
+CAR | Ford F-150 Lightning 2014 | 10930.62 | 27326.54 | LIKE_NEW | DIRTY | false
+CAR | Toyota Tundra 2013 | 13380.07 | 33450.18 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Chevrolet Colorado ZR2 2012 | 20906.07 | 52265.17 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Dodge Ram 1500 TRX 2013 | 25428.17 | 63570.43 | LIKE_NEW | CLEAN | false
+PERFORMANCE_CAR | Ford Maverick 2018 | 27363.59 | 68408.97 | LIKE_NEW | DIRTY | false
+CAR | Nikola Badger 2010 | 12962.13 | 32405.34 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Nissan Frontier 2020 | 23558.03 | 58895.07 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Tesla Cybertruck 2018 | 24695.08 | 49390.16 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Toyota Tundra 2018 | 24230.38 | 48460.76 | LIKE_NEW | SPARKING | false
+PERFORMANCE_CAR | Ford F-150 Lightning 2021 | 31690.69 | 79226.73 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Nikola Badger 2015 | 19767.40 | 74127.74 | LIKE_NEW | DIRTY | false
+CAR | Hyundai Santa Cruz 2019 | 10067.39 | 25168.46 | LIKE_NEW | DIRTY | false
+CAR | Ford Ranger 2018 | 15802.88 | 39507.19 | LIKE_NEW | CLEAN | false
+PERFORMANCE_CAR | Tesla Cybertruck 2014 | 18151.51 | 68068.15 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Ford Ranger 2013 | 33724.41 | 67448.83 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Ford Maverick 2022 | 18838.11 | 47095.28 | LIKE_NEW | CLEAN | false
+PERFORMANCE_CAR | Honda Ridgeline 2021 | 22095.31 | 44190.63 | LIKE_NEW | DIRTY | false
+PERFORMANCE_CAR | Nikola Badger 2011 | 17184.03 | 42960.07 | LIKE_NEW | DIRTY | false
+CAR | Tesla Cybertruck 2021 | 8343.83 | 31289.38 | LIKE_NEW | DIRTY | false
+CAR | Jeep Gladiator 2019 | 8259.48 | 24778.45 | USED | DIRTY | false
+PERFORMANCE_CAR | Rivian R1T 2020 | 17351.14 | 65066.77 | LIKE_NEW | DIRTY | false
+
+Budget
+TotalOperatingBudget | TotalSale
+1371480.84 |           1685658.43
+********** End of FNCD operation simulation  ************
+********** End of FNCD simulation  ************
+Disconnected from the target VM, address: '127.0.0.1:60422', transport: 'socket'
+
+Process finished with exit code 0

@@ -1,6 +1,12 @@
 package vehicle;
 
+/**
+ * @author Duy Duong, Ahmed.H.Biby
+ *
+ * Subclass of Vehicle
+ */
 public class PerformanceCar extends Vehicle {
-    private final double LOWEST_COST = 20000;
-    private final double HIGHEST_COST = 40000;
+    public PerformanceCar(int day) {
+        super(VehicleType.PERFORMANCE_CAR, 20000, 40000, day);
+    }
 }

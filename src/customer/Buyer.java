@@ -1,5 +1,13 @@
 package customer;
 
+import utilities.RandomGenerator;
+import vehicle.Vehicle;
+
+/**
+ * @author Duy Duong, Ahmed.H.Biby
+ *
+ * Buyer class that can be served at FNCD with sale Vehicles
+ */
 public class Buyer {
     public enum BuyingType {
         JUST_LOOKING(0.1), WANTS_ONE(0.4), NEEDS_ONE(0.7);
@@ -16,7 +24,12 @@ public class Buyer {
     }
 
     private BuyingType buyingType;
-    private String wantedType;
+    private Vehicle.VehicleType wantedType;
+
+    public Buyer() {
+        buyingType = RandomGenerator.getRandomBuyingType();
+        wantedType = RandomGenerator.getRandomVehicleType();
+    }
 
     public BuyingType getBuyingType() {
         return buyingType;
@@ -26,11 +39,11 @@ public class Buyer {
         this.buyingType = buyingType;
     }
 
-    public String getWantedType() {
+    public Vehicle.VehicleType getWantedType() {
         return wantedType;
     }
 
-    public void setWantedType(String wantedType) {
+    public void setWantedType(Vehicle.VehicleType wantedType) {
         this.wantedType = wantedType;
     }
 }

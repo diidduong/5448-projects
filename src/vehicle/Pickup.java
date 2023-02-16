@@ -1,6 +1,13 @@
 package vehicle;
 
+/**
+ * @author Duy Duong, Ahmed.H.Biby
+ *
+ * Subclass of Vehicle
+ */
 public class Pickup extends Vehicle {
-    private final double LOWEST_COST = 10000;
-    private final double HIGHEST_COST = 40000;
+    public Pickup(int day) {
+        super(VehicleType.PICKUP, 10000, 40000, day);
+    }
+
 }
