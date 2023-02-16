@@ -1,12 +1,13 @@
 package utilities;
 
+import customer.Buyer;
 import vehicle.Vehicle;
 
 import java.util.ArrayList;
 import java.util.Random;
 
 /**
- * @author Ahmed.H.Biby
+ * @author Duy Duong, Ahmed.H.Biby
  * Purpose: This class includes random generators methods that can be used in the other functional classes via delegation.
  */
 public class RandomGenerator {
@@ -82,10 +83,9 @@ public class RandomGenerator {
             name = firstNames[rand_int3] + " " + lastNames[rand_int4];
         }
         usedNames.add(name);
-        //System.out.println(name);
-        //System.out.println(usedNames);
         return name;
     }
+
     /**
      * 1) Method that generates random normal car names using a combination of a random car name from normalCarName array
      * and a random year from carYear array.
@@ -108,8 +108,6 @@ public class RandomGenerator {
             name = normalCarNames[rand_int3] +" " + carYears[rand_int4];
         }
         usedNormalCarNames.add(name);
-        //System.out.println(name);
-        //System.out.println(usedNormalCarNames);
         return name;
     }
 
@@ -136,10 +134,10 @@ public class RandomGenerator {
             name = performanceCarName[rand_int3] +" " + carYears[rand_int4];
         }
         usedPerformanceCarNames.add(name);
-        //System.out.println(name);
-        //System.out.println(usedPerformanceCarNames);
+
         return name;
     }
+
     /**
      * 1) Method that generates random pickup car names using a combination of a random pickup name from pickupCarName array
      * and a random year from carYear array.
@@ -163,8 +161,6 @@ public class RandomGenerator {
             name = pickupCarNames[rand_int3] +" " + carYears[rand_int4];
         }
         usedPickupCarNames.add(name);
-        //System.out.println(name);
-        //System.out.println(usedPickupCarNames);
         return name;
     }
 
@@ -177,9 +173,24 @@ public class RandomGenerator {
      *
      * @return random int number
      */
-    public static double randomDoubleGenerator(double min, double max){
+    public static int randomIntGenerator(int min, int max){
         Random random = new Random();
-        double randomNum = random.nextDouble(max - min + 1) + min;
+        int randomNum = random.nextInt(max - min + 1) + min;
+        return randomNum;
+    }
+
+    /**
+     * Method that generates a double random number within a range.
+     *
+     * @param min: lowerbound of the range (inclusive)
+     *
+     * @param max: upperbound of the range (inclusive)
+     *
+     * @return random int number
+     */
+    public static double randomIntGenerator(double min, double max){
+        Random random = new Random();
+        double randomNum = random.nextDouble() * (max - min) + min;
         //System.out.println(randomNum);
         return randomNum;
     }
@@ -212,10 +223,10 @@ public class RandomGenerator {
      */
     public static Vehicle.Cleanliness getRandomCleanliness(double[] probs) {
         Random random = new Random();
-        double randomNum = random.nextInt(101) * 100;
-        if (randomNum <= 5) {
+        double randomNum = random.nextDouble();
+        if (randomNum <= probs[0]) {
             return Vehicle.Cleanliness.SPARKING;
-        } else if (randomNum <= 40) {
+        } else if (randomNum <= probs[0] + probs[1]) {
             return Vehicle.Cleanliness.CLEAN;
         } else {
             return Vehicle.Cleanliness.DIRTY;
@@ -231,26 +242,62 @@ public class RandomGenerator {
     public static Vehicle.Cleanliness RandomCleanlinessGenerator() {
         Random random = new Random();
         double randomNum = random.nextInt(101);
-        if (randomNum <= 33) {
+        if (randomNum <= 5) {
             return Vehicle.Cleanliness.SPARKING;
-        } else if (randomNum > 33 && randomNum <= 66) {
+        } else if (randomNum <= 40) {
             return Vehicle.Cleanliness.CLEAN;
         } else {
             return Vehicle.Cleanliness.DIRTY;
         }
     }
 
+    /**
+     * Default random condition generator with uniform probability
+     *
+     * @return a VehicleCondition
+     */
     public static Vehicle.VehicleCondition RandomConditionGenerator() {
         Random random = new Random();
         double randomNum = random.nextInt(101);
         if (randomNum <= 33) {
             return Vehicle.VehicleCondition.BROKEN;
-        } else if (randomNum > 33 && randomNum <= 66) {
+        } else if (randomNum <= 66) {
             return Vehicle.VehicleCondition.LIKE_NEW;
         } else {
             return Vehicle.VehicleCondition.USED;
         }
     }
 
+    /**
+     * Get a uniformly random buying type for Buyer
+     * @return a buying type
+     */
+    public static Buyer.BuyingType getRandomBuyingType() {
+        Random random = new Random();
+        double randomNum = random.nextInt(100);
+        if (randomNum <= 33) {
+            return Buyer.BuyingType.JUST_LOOKING;
+        } else if (randomNum <= 66) {
+            return Buyer.BuyingType.NEEDS_ONE;
+        } else {
+            return Buyer.BuyingType.WANTS_ONE;
+        }
+    }
 
+    /**
+     * Get uniformly random Vehicle Type
+     *
+     * @return a Vehicle Type
+     */
+    public static Vehicle.VehicleType getRandomVehicleType() {
+        Random random = new Random();
+        double randomNum = random.nextInt(100);
+        if (randomNum <= 33) {
+            return Vehicle.VehicleType.PERFORMANCE_CAR;
+        } else if (randomNum <= 66) {
+            return Vehicle.VehicleType.CAR;
+        } else {
+            return Vehicle.VehicleType.PICKUP;
+        }
+    }
 }

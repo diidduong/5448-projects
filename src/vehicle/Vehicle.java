@@ -1,21 +1,25 @@
 package vehicle;
 
+import utilities.RandomGenerator;
+
+import java.util.HashMap;
+
 /**
- * @author Duy Duong
+ * @author Duy Duong, Ahmed.H.Biby
  *
  * Data class of a Vehicle
  */
 public abstract class Vehicle {
-    public enum VehicleCondition { //NEW
+    public enum VehicleCondition {
         LIKE_NEW, USED, BROKEN
     }
 
-    public enum Cleanliness { //NEW
+    public enum Cleanliness {
         DIRTY, CLEAN, SPARKING
     }
 
-    public enum VehicleType { //NEW
-        PERFORMANCECAR, CAR, PICKUP
+    public enum VehicleType {
+        PERFORMANCE_CAR, CAR, PICKUP
     }
 
     private String name;
@@ -24,9 +28,41 @@ public abstract class Vehicle {
     private double highestCost;
     private double salePrice;  //NEW
     private double repairingBonus;
+    private boolean isInStock;
     private Cleanliness cleanliness;
     private VehicleCondition vehicleCondition;
-    private VehicleType VehicleType;
+    private VehicleType vehicleType;
+
+    /**
+     * Constructor to intialize vehicle with type and with a random cost
+     *
+     * @param type Vehicle Type
+     * @param lowestCost lowest cost
+     * @param highestCost highest cost
+     * @param day current day
+     */
+    public Vehicle(VehicleType type, double lowestCost, double highestCost, int day) {
+        this.vehicleType = type;
+        this.name = RandomGenerator.pickupCarNameGenerator();
+        this.cleanliness = RandomGenerator.RandomCleanlinessGenerator();
+        this.vehicleCondition = RandomGenerator.RandomConditionGenerator();
+        this.isInStock = true;
+        this.lowestCost = lowestCost;
+        this.highestCost = highestCost;
+        // initialCost from cost range
+        this.initialCost = RandomGenerator.randomIntGenerator(getLowestCost(),getHighestCost());
+        // discounted initialCost after condition evaluation
+        this.initialCost = VehicleInspector.calculateCost(getVehicleCondition(), getInitialCost());
+        this.salePrice = VehicleInspector.calculatePrice(getInitialCost());
+
+        HashMap<String, String> registryAction = new HashMap<>();
+        System.out.printf("\nA %s and %s %s (%s) is available in the inventory.\n", getCleanliness(), getVehicleCondition(), type, getName());
+        registryAction.put("name", getName());
+        registryAction.put("condition", String.valueOf(getVehicleCondition()));
+        registryAction.put("cleanliness", String.valueOf(getCleanliness()));
+        String formattedDay = String.format("Day_%d_%s_%s", day, getVehicleType(), getName().replace(' ', '_'));
+
+    }
 
     public String getName() {
         return name;
@@ -76,6 +112,14 @@ public abstract class Vehicle {
         this.repairingBonus = repairingBonus;
     }
 
+    public boolean isInStock() {
+        return isInStock;
+    }
+
+    public void setInStock(boolean inStock) {
+        isInStock = inStock;
+    }
+
     public Cleanliness getCleanliness() {
         return cleanliness;
     }
@@ -92,10 +136,10 @@ public abstract class Vehicle {
         this.vehicleCondition = vehicleCondition;
     }
     public VehicleType getVehicleType() {
-        return VehicleType;
+        return vehicleType;
     }
-    public void setVehicleType(VehicleType VehicleType) {
-        this.VehicleType = VehicleType;
+    public void setVehicleType(VehicleType vehicleType) {
+        this.vehicleType = vehicleType;
     }
 
     /**

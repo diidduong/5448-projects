@@ -3,7 +3,6 @@ package utilities;
 import vehicle.Vehicle;
 
 import java.util.ArrayList;
-import java.util.HashMap;
 
 
 /**
@@ -13,8 +12,8 @@ import java.util.HashMap;
  * Sold Vehicles for sold ones.
  */
 public class Inventory {
-    static public ArrayList<Vehicle> workingInventory= new ArrayList<>();
-    static public ArrayList<Vehicle> soldVehicles = new ArrayList<>();
+    private ArrayList<Vehicle> workingInventory= new ArrayList<>();
+    private ArrayList<Vehicle> soldVehicles = new ArrayList<>();
 
     static public Registry inventoryRegistry= new Registry();
 
@@ -29,15 +28,15 @@ public class Inventory {
     /**
      * Get most expensive vehicle for sale by type. Vehicle must not be Broken.
      *
-     * @param type vehicle type
+     * @param type Vehicle Type
      * @return most expensive vehicle by type if exists, null otherwise
      */
-    public Vehicle getMostExpensiveVehicleForSaleByType(String type) {
+    public Vehicle getMostExpensiveVehicleForSaleByType(Vehicle.VehicleType type) {
         if (workingInventory.size() <= 0) return null;
         Vehicle mostExpensive = null;
-        for (int i = 1; i < workingInventory.size(); i++) {
+        for (int i = 0; i < workingInventory.size(); i++) {
             // ignore other vehicle type and Broken vehicle
-            if (!workingInventory.get(i).getClass().getSimpleName().equals(type) ||
+            if (!(workingInventory.get(i).getVehicleType() == type) ||
                 workingInventory.get(i).getVehicleCondition() == Vehicle.VehicleCondition.BROKEN) {
                 continue;
             }
@@ -74,6 +73,7 @@ public class Inventory {
      * @param vehicle moving Vehicle
      */
     public void moveVehicleToSoldVehicles(Vehicle vehicle) {
+        vehicle.setInStock(false);
         workingInventory.remove(vehicle);
         soldVehicles.add(vehicle);
     }

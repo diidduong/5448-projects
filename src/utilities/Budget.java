@@ -1,117 +1,117 @@
 package utilities;
+import java.util.ArrayList;
 import java.util.HashMap;
 import vehicle.Vehicle;
 import staff.Staff;
 
 /**
- * @author Ahmed.H.Biby
+ * @author Duy Duong, Ahmed.H.Biby
  *
  * This class offers budget capabilities to deal with the financial aspects of the FNCD.
  * This class is to be instantiated only once in the main
  */
 public class Budget {
 
-    static private double currentBalance = 500000;
-    static private double reserveBalance = 250000;
-    static private double salesIncome;
-    static private double serviceIncome;
-    static private double washingIncome;
+    private double currentBalance = 500000;
+    private double reserveBalance = 250000;
+    private double salesIncome;
+    private double serviceIncome;
+    private double washingIncome;
+    private double totalIncome;
+    private double salaries;
+    private double bonuses;
+    private double vehicleAssets;
 
-    public static double getCurrentBalance() {
+    private Registry<String,Double> budgetRegistry= new Registry<>();
+    public Registry<String,String> salariesRegistry= new Registry<>();
+
+    public double getCurrentBalance() {
         return currentBalance;
     }
 
-    public static void setCurrentBalance(double currentBalance) {
-        Budget.currentBalance = currentBalance;
+    public void setCurrentBalance(double currentBalance) {
+        this.currentBalance = currentBalance;
     }
 
-    public static double getReserveBalance() {
+    public double getReserveBalance() {
         return reserveBalance;
     }
 
-    public static void setReserveBalance(double reserveBalance) {
-        Budget.reserveBalance = reserveBalance;
+    public void setReserveBalance(double reserveBalance) {
+        this.reserveBalance = reserveBalance;
     }
 
-    public static double getSalesIncome() {
+    public double getSalesIncome() {
         return salesIncome;
     }
 
-    public static void setSalesIncome(double salesIncome) {
-        Budget.salesIncome = salesIncome;
+    public void setSalesIncome(double salesIncome) {
+        this.salesIncome = salesIncome;
     }
 
-    public static double getServiceIncome() {
+    public double getServiceIncome() {
         return serviceIncome;
     }
 
-    public static void setServiceIncome(double serviceIncome) {
-        Budget.serviceIncome = serviceIncome;
+    public void setServiceIncome(double serviceIncome) {
+        this.serviceIncome = serviceIncome;
     }
 
-    public static double getWashingIncome() {
+    public double getWashingIncome() {
         return washingIncome;
     }
 
-    public static void setWashingIncome(double washingIncome) {
-        Budget.washingIncome = washingIncome;
+    public void setWashingIncome(double washingIncome) {
+        this.washingIncome = washingIncome;
     }
 
-    public static double getTotalIncome() {
+    public double getTotalIncome() {
         return totalIncome;
     }
 
-    public static void setTotalIncome(double totalIncome) {
-        Budget.totalIncome = totalIncome;
+    public void setTotalIncome(double totalIncome) {
+        this.totalIncome = totalIncome;
     }
 
-    public static double getSalaries() {
+    public double getSalaries() {
         return salaries;
     }
 
-    public static void setSalaries(double salaries) {
-        Budget.salaries = salaries;
+    public void setSalaries(double salaries) {
+        this.salaries = salaries;
     }
 
-    public static double getBonuses() {
+    public double getBonuses() {
         return bonuses;
     }
 
-    public static void setBonuses(double bonuses) {
-        Budget.bonuses = bonuses;
+    public void setBonuses(double bonuses) {
+        this.bonuses = bonuses;
     }
 
-    public static double getVehicleAssets() {
+    public double getVehicleAssets() {
         return vehicleAssets;
     }
 
-    public static void setVehicleAssets(double vehicleAssets) {
-        Budget.vehicleAssets = vehicleAssets;
+    public void setVehicleAssets(double vehicleAssets) {
+        this.vehicleAssets = vehicleAssets;
     }
 
-    public static Registry<String, Double> getBudgetRegistry() {
+    public Registry<String, Double> getBudgetRegistry() {
         return budgetRegistry;
     }
 
-    public static void setBudgetRegistry(Registry<String, Double> budgetRegistry) {
-        Budget.budgetRegistry = budgetRegistry;
+    public void setBudgetRegistry(Registry<String, Double> budgetRegistry) {
+        this.budgetRegistry = budgetRegistry;
     }
 
-    public static Registry<String, String> getSalariesRegistry() {
+    public Registry<String, String> getSalariesRegistry() {
         return salariesRegistry;
     }
 
-    public static void setSalariesRegistry(Registry<String, String> salariesRegistry) {
-        Budget.salariesRegistry = salariesRegistry;
+    public void setSalariesRegistry(Registry<String, String> salariesRegistry) {
+        this.salariesRegistry = salariesRegistry;
     }
-
-    static private double totalIncome;
-    static private double salaries;
-    static private double bonuses;
-    static private double vehicleAssets;
-
-    static private Registry<String,Double> budgetRegistry= new Registry<>();
-    static public Registry<String,String> salariesRegistry= new Registry<>();
 
     /**
      * This method aims at using the reserve balance in case the currentBalance goes to zero or less during the operations.
@@ -129,24 +129,19 @@ public class Budget {
 
     }
 
-
-    static public void start(){
-        System.out.printf("\nThe Current balance is $ %f\n", getCurrentBalance());
-    }
-
     /**
      * This method aims at adding salesincome to the currentBalance.
      * @param day: the day that is provided by the FNCDadministration for the FNCD operation simulation.
      * @param vehicle: The vehicle to be sold.
      */
-    static public void addSalesIncome(int day, Vehicle vehicle){
+    public void addSalesIncome(int day, Vehicle vehicle){
         HashMap<String, Double> registryAction = new HashMap<String, Double>();
         double newSalesIncome = vehicle.getSalePrice();
-        System.out.printf("\nSales income increased by $ %f\n", newSalesIncome);
+        System.out.printf("Sales income increased by $ %f\n", newSalesIncome); //TODO: comment
         setSalesIncome(getSalesIncome() + newSalesIncome);
         setTotalIncome(getTotalIncome() + newSalesIncome);
         setCurrentBalance(getCurrentBalance() + newSalesIncome);
-        System.out.printf("\nCurrent balance is $ %f \n", getCurrentBalance());
+        System.out.printf("Current balance is $ %f \n", getCurrentBalance()); //TODO: comment
         registryAction.put("closingSalesIncome", getSalesIncome());
         String formattedDay = String.format("Day_%d_salesIncome", day);
         budgetRegistry.add(formattedDay, registryAction);
@@ -154,16 +149,24 @@ public class Budget {
 
     /**
      * This method register and subtracts the vehicle purchase cost from the current balance
-     * @param day: operation day provided by the administration
-     * @param vehicle: vehicle to be purchase
+     * @param vehicle : vehicle to be purchase
+     * @param day : operation day provided by the administration
      */
 
-    static public void purchaseCar(int day, Vehicle vehicle){
-        HashMap<String, Double> registryAction = new HashMap<String, Double>();
+    public void purchaseVehicle(Vehicle vehicle, int day){
+        HashMap<String, Double> registryAction = new HashMap<>();
         double newPurchaseCost = vehicle.getInitialCost();
-        System.out.printf("\nNew car purchase for $ %f\n", newPurchaseCost);
+        if (currentBalance < newPurchaseCost) {
+            useReserve(day);
+        }
+        System.out.printf("Purchased %s, %s %s for $ %f\n",
+                vehicle.getVehicleCondition(),
+                vehicle.getCleanliness(),
+                vehicle.getName(),
+                newPurchaseCost
+        );
         setCurrentBalance(getCurrentBalance() - newPurchaseCost);
-        System.out.printf("\nCurrent balance is $ %f \n", getCurrentBalance());
+//        System.out.printf("\nCurrent balance is $ %f \n", getCurrentBalance());
         registryAction.put("closingCurrentBalance", getCurrentBalance());
         String formattedDay = String.format("Day_%d_salesIncome", day);
         budgetRegistry.add(formattedDay, registryAction);
@@ -174,7 +177,7 @@ public class Budget {
      * @param day: the day that is provided by the FNCDadministration for the FNCD operation simulation.
      * @param newWashingIncome: The new washing income to be added.
      */
-    static public void addWashingIncome(int day, double newWashingIncome){
+    public void addWashingIncome(int day, double newWashingIncome){
         HashMap<String, Double> registryAction = new HashMap<String, Double>();
         System.out.printf("\nWashing income increased by $ %f\n", newWashingIncome);
         setWashingIncome(getWashingIncome() + newWashingIncome);
@@ -189,43 +192,38 @@ public class Budget {
 
     /**
      * This method aims at subtracting the new salary from the currentBalance.
-     * @param day: the day that is provided by the FNCDadministration for the FNCD operation simulation.
-     * @param staff who recives new salary to be subtracted from the currentBalance.
+     * @param day : the day that is provided by the FNCDadministration for the FNCD operation simulation.
+     * @param staffs who receives new salary to be subtracted from the currentBalance.
      */
-    static public void addSalaries(int day, Staff staff){
+    public void addSalariesPayout(int day, ArrayList<Staff> staffs){
         HashMap<String, Double> registryAction = new HashMap<String, Double>();
-        double dailyRate =0;
-
-        switch (staff.getJobTitle()){
-            case "Mechanic":
-                dailyRate = 120;
-                break;
-            case "Salesperson":
-                dailyRate = 150;
-                break;
-            case "Intern":
-                dailyRate = 80;
-                break;
+        double dailyRate = 0;
+        for (Staff staff : staffs) {
+            dailyRate += staff.getDailyRate();
         }
-        System.out.printf("\nTotal salary increased by $ %f\n", dailyRate);
-        setSalaries(Budget.getSalaries()+ dailyRate);
-        setCurrentBalance(Budget.getCurrentBalance() - dailyRate);
-        System.out.printf("\nCurrent balance is $ %f \n", Budget.getCurrentBalance());
-        registryAction.put("closingSalaries", Budget.getSalaries());
+        System.out.printf("\nTotal salary payout increased by $ %f\n", dailyRate);
+        setSalaries(this.getSalaries()+ dailyRate);
+        setCurrentBalance(this.getCurrentBalance() - dailyRate);
+        System.out.printf("\nCurrent balance is $ %f \n", this.getCurrentBalance());
+        registryAction.put("closingSalaries", this.getSalaries());
         String formattedDay = String.format("Day_%d_salaries", day);
         budgetRegistry.add(formattedDay, registryAction);
     }
 
     /**
      * This method aims at subtracting the new bonus from the currentBalance.
-     * @param day: the day that is provided by the FNCDadministration for the FNCD operation simulation.
-     * @param newBonus: The new bonus to be subtracted.
+     * @param day : the day that is provided by the FNCDadministration for the FNCD operation simulation.
+     * @param staffs : who receives new bonus to be subtracted from the currentBalance.
      */
-    static public void addBonuses(int day, double newBonus){
+    public void addBonusesPayout(int day, ArrayList<Staff> staffs){
         HashMap<String, Double> registryAction = new HashMap<String, Double>();
-        System.out.printf("\nTotal bonuses increased by $ %f\n", newBonus);
-        setBonuses(getBonuses() + newBonus);
-        setCurrentBalance(getCurrentBalance() - newBonus);
+        double bonus = 0;
+        for (Staff staff : staffs) {
+            bonus += staff.getBonus();
+        }
+        System.out.printf("\nTotal bonuses payout increased by $ %f\n", bonus);
+        setBonuses(getBonuses() + bonus);
+        setCurrentBalance(getCurrentBalance() - bonus);
         System.out.printf("\nCurrent balance is $ %f \n", getCurrentBalance());
         registryAction.put("bonuses", getBonuses());
         String formattedDay = String.format("Day_%d_bonuses", day);
@@ -262,8 +260,13 @@ public class Budget {
         budgetRegistry.add(formattedDay, registryAction);
     }
 
-
-
-
-
+    /**
+     * Print out all expense and income
+     */
+    public void printBudget() {
+        System.out.printf("Current balance: $%.2f\n", currentBalance);
+        System.out.printf("Total sale income: $%.2f\n", salesIncome);
+        System.out.printf("Total salaries payout: $%.2f\n", salaries);
+        System.out.printf("Total bonuses payout: $%.2f\n", bonuses);
+    }
 }

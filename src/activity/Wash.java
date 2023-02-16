@@ -1,6 +1,7 @@
 package activity;
 
 import staff.Staff;
+import utilities.Inventory;
 import utilities.RandomGenerator;
 import vehicle.Vehicle;
 
@@ -12,20 +13,27 @@ import java.util.ArrayList;
  * Subclass of Activity which allow ability to perform Wash action
  */
 public class Wash extends Activity {
-    private double servicePrice;
-    public Wash(Staff provider) {
-        super(provider); // $100 bonus if washed Vehicle is Sparkling
+
+    /**
+     * Constructor that requires inventory
+     *
+     * @param provider assigned staff
+     * @param inventory current inventory
+     */
+    public Wash(Staff provider, Inventory inventory) {
+        super(provider, inventory, null, null);
     }
 
     /**
-     * @param vehicles
+     * Daily wash that serves two vehicles
      */
-    public void performWash(ArrayList<Vehicle> vehicles) {
+    @Override
+    public void performWork() {
+        ArrayList<Vehicle> workingInventory = getInventory().getWorkingInventory();
         for (int i = 0; i < 2; i++) {
-            Vehicle selectedVehicle = getNextVehicle(vehicles);
+            Vehicle selectedVehicle = getNextVehicle(workingInventory);
             if (selectedVehicle == null) break; // no dirty/clean vehicle to wash
             washVehicle(selectedVehicle);
-
         }
     }
 
@@ -44,7 +52,24 @@ public class Wash extends Activity {
             vehicle.setCleanliness(RandomGenerator.getRandomCleanliness(new double[]{0.3, 0.65, 0.05}));
         }
         if (vehicle.getCleanliness() == Vehicle.Cleanliness.SPARKING) {
-            getProvider().addBonus(getBonusByType(vehicle));
+            double bonus = getBonusByType(vehicle);
+            getProvider().addBonus(bonus);
+            System.out.printf("%s %s wash %s %s and made it %s (earned %.2f bonus)\n",
+                    getProvider().getJobTitle(),
+                    getProvider().getName(),
+                    vehicle.getVehicleType(),
+                    vehicle.getName(),
+                    vehicle.getCleanliness(),
+                    bonus
+            );
+        } else {
+            System.out.printf("%s %s wash %s %s and made it %s\n",
+                    getProvider().getJobTitle(),
+                    getProvider().getName(),
+                    vehicle.getVehicleType(),
+                    vehicle.getName(),
+                    vehicle.getCleanliness()
+            );
         }
     }
 
@@ -82,22 +107,16 @@ public class Wash extends Activity {
 
     /**
      * Return bonus for Sparkling washed vehicle by type
-     * $250 for Performance Car
-     * $200 for Pickup
-     * $150 for Car
+     * $75 for Performance Car
+     * $50 for Car
+     * $100 for Pickup
      *
-     * @param vehicleType vehicle type in String
+     * @param vehicle selected vehicle
      * @return bonus value
      */
-    /**
-     * method that returns the bonus to be recieved by the intern upon washing a given vehicle
-     * @param vehicle to be washed
-     * @return bonus
-     */
-
     private double getBonusByType(Vehicle vehicle) {
         switch (vehicle.getVehicleType()) {
-            case PERFORMANCECAR:
+            case PERFORMANCE_CAR:
                 return 75;
             case CAR:
                 return 50;

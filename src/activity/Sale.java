@@ -10,14 +10,22 @@ import vehicle.Vehicle;
 import java.util.ArrayList;
 
 /**
- * @author Duy Duong
+ * @author Duy Duong, Ahmed.H.Biby
  *
  * Subclass of Activity which allows ability to perform sale action
  */
 public class Sale extends Activity {
 
-    public Sale(Staff provider) {
-        super(provider);
+    /**
+     * Constructor to initialize sale activity which requires inventory, buyers, and budget
+     *
+     * @param provider salesperson
+     * @param inventory current inventory
+     * @param buyers all buyers
+     * @param budget current budget
+     */
+    public Sale(Staff provider, Inventory inventory, ArrayList<Buyer> buyers, Budget budget) {
+        super(provider, inventory, buyers, budget);
     }
 
     /**
@@ -25,22 +33,22 @@ public class Sale extends Activity {
      * tries to sell to selected Buyer from the list. After serving that Buyer, remove
      * from the list.
      *
-     * @param budget current budget
-     * @param inventory current inventory
-     * @param buyers list of all current buyers
+     * Assumption: Each salesperson will serve at max 6 buyers per day
      */
-    public void performSale(Budget budget, Inventory inventory, ArrayList<Buyer> buyers) {
-        // TODO: select some of buyers to serve
-        for (int i = 0; i < buyers.size() / 3; i++) {
+    @Override
+    public void performWork() {
+        ArrayList<Buyer> buyers = getBuyers();
+
+        for (int i = 0; i < buyers.size() && i < RandomGenerator.randomIntGenerator(0, 6); i++) {
             Buyer selectedBuyer = getNextBuyer(buyers);
             if (selectedBuyer == null) {
                 break; // No buyer coming today
             }
-            Vehicle selectedVehicle = getNextVehicle(inventory, selectedBuyer.getWantedType());
+            Vehicle selectedVehicle = getNextVehicle(selectedBuyer.getWantedType());
             if (selectedVehicle == null) {
                 break; // No vehicle for sale today
             }
-            sellVehicleToBuyer(selectedVehicle, selectedBuyer, budget, inventory);
+            sellVehicleToBuyer(selectedVehicle, selectedBuyer);
 
             // Remove selected buyer from the serving list
             buyers.remove(selectedBuyer);
@@ -54,17 +62,15 @@ public class Sale extends Activity {
      *
      * @param selectedVehicle not null Vehicle
      * @param buyer not null Buyer
-     * @param budget current budget
-     * @param inventory current inventory
      */
-    public void sellVehicleToBuyer(Vehicle selectedVehicle, Buyer buyer, Budget budget, Inventory inventory) {
+    public void sellVehicleToBuyer(Vehicle selectedVehicle, Buyer buyer) {
         double successfulSaleProbs = buyer.getBuyingType().getProbability();
         boolean sellable = false;
 
         // get bonus chance of sale
         successfulSaleProbs += getSaleChanceBonus(
                 selectedVehicle,
-                buyer.getWantedType().equals(selectedVehicle.getClass().getSimpleName())
+                buyer.getWantedType() == selectedVehicle.getVehicleType()
         );
 
         // check if successful sale by probability
@@ -72,13 +78,32 @@ public class Sale extends Activity {
         if (sellable) {
             // collect money from sale
             // TODO: get the correct day
-            budget.addSalesIncome(0, selectedVehicle);
+            getBudget().addSalesIncome(0, selectedVehicle);
 
+            double bonus = getBonusByType(selectedVehicle);
             // give bonus to Salesperson
-            getProvider().addBonus(getBonusByType(selectedVehicle));
+            getProvider().addBonus(bonus);
 
             // move vehicle from working inventory to sold vehicles
-            inventory.moveVehicleToSoldVehicles(selectedVehicle);
+            getInventory().moveVehicleToSoldVehicles(selectedVehicle);
+
+            System.out.printf("%s %s sold %s %s %s to Buyer for $%.2f (earned $%.2f bonus)\n",
+                    getProvider().getJobTitle(),
+                    getProvider().getName(),
+                    selectedVehicle.getCleanliness(),
+                    selectedVehicle.getVehicleCondition(),
+                    selectedVehicle.getName(),
+                    selectedVehicle.getSalePrice(),
+                    bonus
+            );
+        } else {
+            System.out.printf("%s %s sold %s %s %s to Buyer unsuccessfully\n",
+                    getProvider().getJobTitle(),
+                    getProvider().getName(),
+                    selectedVehicle.getCleanliness(),
+                    selectedVehicle.getVehicleCondition(),
+                    selectedVehicle.getName()
+            );
         }
     }
 
@@ -87,13 +112,13 @@ public class Sale extends Activity {
      * the Buyer wants that is in the inventory. If no Vehicles of the Buyer’s Vehicle
      * type choice are available, get the most expensive Vehicle left in Inventory
      *
-     * @param inventory inventory
+     * @param wantedType wanted Vehicle Type, not null
      * @return vehicle if exists, null otherwise
      */
-    private Vehicle getNextVehicle(Inventory inventory, String wantedType) {
-        Vehicle selectedVehicle = inventory.getMostExpensiveVehicleForSaleByType(wantedType);
+    private Vehicle getNextVehicle(Vehicle.VehicleType wantedType) {
+        Vehicle selectedVehicle = getInventory().getMostExpensiveVehicleForSaleByType(wantedType);
         if (selectedVehicle == null) {
-            selectedVehicle = inventory.getMostExpensiveVehicleForSale();
+            selectedVehicle = getInventory().getMostExpensiveVehicleForSale();
         }
         return selectedVehicle;
     }
@@ -139,12 +164,12 @@ public class Sale extends Activity {
      * $160 for Car
      * $220 for Pickup
      *
-     * @param vehicle:
+     * @param vehicle selected Vehicle
      * @return bonus by type, 0 otherwise
      */
     private double getBonusByType(Vehicle vehicle) {
         switch (vehicle.getVehicleType()) {
-            case PERFORMANCECAR:
+            case PERFORMANCE_CAR:
                 return 350;
             case CAR:
                 return 160;

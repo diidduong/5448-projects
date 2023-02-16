@@ -1,11 +1,10 @@
 import org.junit.jupiter.api.Test;
+import utilities.Inventory;
 import vehicle.Car;
 import vehicle.PerformanceCar;
 import vehicle.Vehicle;
 
-import java.util.ArrayList;
-
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertEquals;
 
 class InventoryTest {
 
@@ -13,43 +12,43 @@ class InventoryTest {
     void getMostExpensiveVehicleByType() {
         Inventory inventory = new Inventory();
 
-        Vehicle car1 = new Car();
+        Vehicle car1 = new Car(0);
         car1.setSalePrice(12000);
 
-        Vehicle car2 = new Car();
+        Vehicle car2 = new Car(0);
         car2.setSalePrice(15000);
 
-        Vehicle performanceCar = new PerformanceCar();
+        Vehicle performanceCar = new PerformanceCar(0);
         performanceCar.setSalePrice(19000);
 
-        inventory.getVehicleList().add(car1);
-        inventory.getVehicleList().add(car2);
-        inventory.getVehicleList().add(performanceCar);
+        inventory.getWorkingInventory().add(car1);
+        inventory.getWorkingInventory().add(car2);
+        inventory.getWorkingInventory().add(performanceCar);
 
-        Vehicle result = inventory.getMostExpensiveVehicleByType("Car");
+        Vehicle result = inventory.getMostExpensiveVehicleForSaleByType(Vehicle.VehicleType.CAR);
 
         assertEquals(car2, result);
-
     }
 
     @Test
     void getMostExpensiveVehicle() {
         Inventory inventory = new Inventory();
 
-        Vehicle car1 = new Car();
+        Vehicle car1 = new Car(0);
         car1.setSalePrice(12000);
 
-        Vehicle car2 = new Car();
+        Vehicle car2 = new Car(0);
         car2.setSalePrice(15000);
 
-        Vehicle performanceCar = new PerformanceCar();
+        Vehicle performanceCar = new PerformanceCar(0);
         performanceCar.setSalePrice(19000);
 
-        inventory.getVehicleList().add(car1);
-        inventory.getVehicleList().add(car2);
-        inventory.getVehicleList().add(performanceCar);
-
-        Vehicle result = inventory.getMostExpensiveVehicle();
+        inventory.getWorkingInventory().add(car1);
+        inventory.getWorkingInventory().add(car2);
+        inventory.getWorkingInventory().add(performanceCar);
+        System.out.println(performanceCar);
+        System.out.println(inventory.getWorkingInventory().get(2));
+        Vehicle result = inventory.getMostExpensiveVehicleForSale();
 
         assertEquals(performanceCar, result);
     }

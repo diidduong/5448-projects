@@ -1,13 +1,14 @@
 package activity;
 
 import staff.Staff;
+import utilities.Inventory;
 import utilities.RandomGenerator;
 import vehicle.Vehicle;
 
 import java.util.ArrayList;
 
 /**
- * @author Duy Duong
+ * @author Duy Duong, Ahmed.H.Biby
  *
  * Subclass of Activity which allows ability to perform Repair action
  */
@@ -17,18 +18,17 @@ public class Repair extends Activity {
 
     private double successProbability = 0.8;
 
-    public Repair(Staff provider) {
-        super(provider);
+    public Repair(Staff provider, Inventory inventory) {
+        super(provider, inventory, null, null);
     }
-
 
 
     /**
      * Perform all repair action. Each can work on 2 Vehicles at max per day
-     *
-     * @param vehicles all vehicles
      */
-    public void performRepair(ArrayList<Vehicle> vehicles) {
+    @Override
+    public void performWork() {
+        ArrayList<Vehicle> vehicles = getInventory().getWorkingInventory();
         for (int i = 0; i < 2; i++) {
             Vehicle selectedVehicle = getNextVehicle(vehicles);
             if (selectedVehicle == null) break; // no vehicle to repair
@@ -48,10 +48,30 @@ public class Repair extends Activity {
      */
     public void repairVehicle(Vehicle vehicle) {
         boolean fixable = RandomGenerator.probabilisticOutcomeGenerator(successProbability);
+        Vehicle.VehicleCondition prevCondition = vehicle.getVehicleCondition();
         if (fixable) {
             vehicle.upgradeVehicleCondition();
             double salePriceBonus = getSalePriceBonusByCondition(vehicle);
             vehicle.setSalePrice(vehicle.getSalePrice() + salePriceBonus); // increase sale price
+            double bonus = getBonusByType(vehicle);
+            getProvider().addBonus(bonus);
+            System.out.printf("%s %s repaired %s %s %s and made it %s (earned $%.2f bounus)\n",
+                    getProvider().getJobTitle(),
+                    getProvider().getName(),
+                    prevCondition,
+                    vehicle.getVehicleType(),
+                    vehicle.getName(),
+                    vehicle.getVehicleCondition(),
+                    bonus
+            );
+        } else {
+            System.out.printf("%s %s repaired %s %s %s unsuccessfully\n",
+                    getProvider().getJobTitle(),
+                    getProvider().getName(),
+                    prevCondition,
+                    vehicle.getVehicleType(),
+                    vehicle.getName()
+            );
         }
         vehicle.downgradeCleanliness();
     }
@@ -83,7 +103,7 @@ public class Repair extends Activity {
      */
     private double getBonusByType(Vehicle vehicle) {
         switch (vehicle.getVehicleType()) {
-            case PERFORMANCECAR:
+            case PERFORMANCE_CAR:
                 return 200;
             case CAR:
                 return 100;
