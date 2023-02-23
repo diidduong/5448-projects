@@ -6,6 +6,7 @@ import utilities.RandomGenerator;
 import vehicle.Vehicle;
 
 import java.util.ArrayList;
+import vehicle.ElectricCar;
 
 /**
  * @author Duy Duong, Ahmed.H.Biby
@@ -64,6 +65,11 @@ public class Repair extends Activity {
                     vehicle.getVehicleCondition(),
                     bonus
             );
+            if (vehicle.getVehicleType() == Vehicle.VehicleType.ELECTRIC_CAR){
+                ((ElectricCar) vehicle).extendRangeIfLikeNew();
+            } else{
+                ;
+            }
         } else {
             System.out.printf("%s %s repaired %s %s %s unsuccessfully\n",
                     getProvider().getJobTitle(),
@@ -109,6 +115,12 @@ public class Repair extends Activity {
                 return 100;
             case PICKUP:
                 return 150;
+            case ELECTRIC_CAR:
+                return 300;
+            case MOTORCYCLE:
+                return 80;
+            case MONSTER_TRUCK:
+                return 500;
             default:
                 return 0;
         }

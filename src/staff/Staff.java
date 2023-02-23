@@ -13,7 +13,7 @@ import java.util.HashMap;
  */
 public abstract class Staff {
     public enum JobTitle {
-        INTERN, MECHANIC, SALESPERSON
+        INTERN, MECHANIC, SALESPERSON, DRIVER
     }
     
     private String name;

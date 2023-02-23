@@ -1,18 +1,9 @@
 package utilities;
 
-import activity.Repair;
-import activity.Sale;
-import activity.Wash;
+import staff.*;
+import vehicle.*;
+import activity.*;
 import customer.Buyer;
-import staff.Intern;
-import staff.Mechanic;
-import staff.Salesperson;
-import staff.Staff;
-import vehicle.Car;
-import vehicle.PerformanceCar;
-import vehicle.Pickup;
-import vehicle.Vehicle;
-
 import java.util.ArrayList;
 import java.util.HashMap;
 
@@ -35,7 +26,10 @@ public class FNCDAdministration {
     public Registry mechanicRegistry= new Registry();
     public ArrayList<Mechanic> mechanicArrayList = new ArrayList();
     public Registry salesPersonRegistry= new Registry();
+    public ArrayList<Driver> driverArrayList = new ArrayList();
+    public Registry driverRegistry= new Registry();
     public ArrayList<Salesperson> salesPersonArrayList = new ArrayList();
+    public ArrayList<Driver> injuredDriverArrayList= new ArrayList<>();
     public ArrayList<Staff> departedStaffs = new ArrayList<>();
 
     public Budget budget = new Budget();
@@ -56,6 +50,7 @@ public class FNCDAdministration {
             hireIntern(day);
             hireMechanic(day);
             hireSalesperson(day);
+            hireDriver(day);
         }
 
         // Purchases all vehicles
@@ -63,6 +58,10 @@ public class FNCDAdministration {
             purchaseVehicle(new PerformanceCar(day));
             purchaseVehicle(new Car(day));
             purchaseVehicle(new Pickup(day));
+            purchaseVehicle(new MotorCycle(day));
+            purchaseVehicle(new MonsterTruck(day));
+            purchaseVehicle(new ElectricCar(day));
+
         }
 
         dailyReport(day);
@@ -88,22 +87,26 @@ public class FNCDAdministration {
      */
     public void operate() {
         for (int day = 1; day <= endDay; day++) {
-            if (day % 7 != 0) {
-                workingStatus = true;
+            if (day % 7 == 1 || day % 7 == 4)  {
+                System.out.printf("\n********** day %d ************\n", day);
+                System.out.println("********** Working & Racing day ************");
+                opening(day);
+                washing(day);
+                repairing(day);
+                selling(day);
+                racing(day);
+                ending(day);
+                dailyReport(day);
+            }
+            else {
                 System.out.printf("\n********** day %d ************\n", day);
                 System.out.println("********** Working day ************");
-
                 opening(day);
                 washing(day);
                 repairing(day);
                 selling(day);
                 ending(day);
-
                 dailyReport(day);
-            } else {
-                workingStatus = false;
-                System.out.printf("\n********** day %d ************\n", day);
-                System.out.println("********** Weekend ************");
             }
         }
         System.out.println("********** End of FNCD operation simulation  ************");
@@ -117,7 +120,6 @@ public class FNCDAdministration {
      */
     public void opening(int day) {
         System.out.printf("Opening... (current budget $%.2f)\n", budget.getCurrentBalance());
-
         workForceMaintenance(day);
         inventoryMaintenance(day);
         System.out.println();
@@ -171,6 +173,14 @@ public class FNCDAdministration {
         }
         System.out.println();
     }
+    /**
+     * Do racing activity
+     * @param day current day
+     */
+    public void racing(int day){
+        System.out.println("Racing...");
+        Race race = new Race(inventory, this);
+    }
 
     /**
      * Do ending activity
@@ -183,6 +193,8 @@ public class FNCDAdministration {
         allStaffs.addAll(internArrayList);
         allStaffs.addAll(mechanicArrayList);
         allStaffs.addAll(salesPersonArrayList);
+        allStaffs.addAll(driverArrayList);
+        allStaffs.addAll(injuredDriverArrayList);
 
         budget.addSalariesPayout(day,allStaffs);
         budget.addBonusesPayout(day, allStaffs);
@@ -214,6 +226,22 @@ public class FNCDAdministration {
             departedStaffs.add(salesperson);
             salesPersonArrayList.remove(salesperson);
         }
+        ArrayList<Driver> dummyDriverArrayList = new ArrayList<Driver>();
+        for (Driver driver:driverArrayList) {
+            dummyDriverArrayList.add(driver);
+        }
+
+        for (Driver driver:dummyDriverArrayList) {
+            if (driver.isInjured()) {
+            injuredDriverArrayList.add(driver);
+            driverArrayList.remove(driver);
+        }}
+
+        if(budget.getCurrentBalance() < 0) {
+            budget.useReserve(day);
+        }
+
+
 
         System.out.println();
     }
@@ -241,6 +269,13 @@ public class FNCDAdministration {
                 hireIntern(day);
             }
         }
+
+        if (driverArrayList.size() < numStaffEach) {
+            int driverShortage = numStaffEach - driverArrayList.size();
+            for (int i=0; i< driverShortage; i++) {
+                hireDriver(day);
+            }
+        }
     }
 
     /**
@@ -254,6 +289,9 @@ public class FNCDAdministration {
         double numPerformanceCar = 0;
         double numCar = 0;
         double numPickup = 0;
+        double numElectricCar = 0;
+        double numMotorcycle = 0;
+        double numMonsterTruck = 0;
         for (Vehicle vehicle : workingInventory) {
             switch (vehicle.getVehicleType()) {
                 case PERFORMANCE_CAR:
@@ -264,6 +302,15 @@ public class FNCDAdministration {
                     continue;
                 case PICKUP:
                     numPickup++;
+                    continue;
+                case ELECTRIC_CAR:
+                    numElectricCar++;
+                    continue;
+                case MONSTER_TRUCK:
+                    numMonsterTruck++;
+                    continue;
+                case MOTORCYCLE:
+                    numMotorcycle++;
                     continue;
                 default:
             }
@@ -278,9 +325,25 @@ public class FNCDAdministration {
                 purchaseVehicle(new Car(day));
             }
         }
-        if (numPickup < numPickup) {
+        if (numPickup < numVehicleEach) {
             for (int i = 0; i < (numVehicleEach - numPickup); i++) {
                 purchaseVehicle(new Pickup(day));
+            }
+
+        }
+        if (numMotorcycle < numVehicleEach) {
+            for (int i = 0; i < (numVehicleEach - numMotorcycle); i++) {
+                purchaseVehicle(new MotorCycle(day));
+            }
+        }
+        if (numMonsterTruck < numVehicleEach) {
+            for (int i = 0; i < (numVehicleEach - numMonsterTruck); i++) {
+                purchaseVehicle(new MonsterTruck(day));
+            }
+        }
+        if (numElectricCar < numVehicleEach) {
+            for (int i = 0; i < (numVehicleEach - numElectricCar); i++) {
+                purchaseVehicle(new ElectricCar(day));
             }
         }
     }
@@ -313,6 +376,16 @@ public class FNCDAdministration {
         Salesperson salesperson = new Salesperson(day);
         inputHireRegistry(salesperson);
         salesPersonArrayList.add(salesperson);
+    }
+
+    /**
+     * method for hiring new driver
+     * @param day: provided by the administration
+     */
+    public void hireDriver(int day){
+        Driver driver = new Driver(day);
+        inputHireRegistry(driver);
+        driverArrayList.add(driver);
     }
 
     /**
@@ -382,6 +455,8 @@ public class FNCDAdministration {
         allStaffs.addAll(internArrayList);
         allStaffs.addAll(mechanicArrayList);
         allStaffs.addAll(salesPersonArrayList);
+        allStaffs.addAll(driverArrayList);
+        allStaffs.addAll(injuredDriverArrayList);
         allStaffs.addAll(departedStaffs);
         for (Staff staff : allStaffs) {
             System.out.printf("%s | %s | %d | %.2f | %.2f | %s\n",

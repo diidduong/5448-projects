@@ -19,7 +19,7 @@ public abstract class Vehicle {
     }
 
     public enum VehicleType {
-        PERFORMANCE_CAR, CAR, PICKUP
+        PERFORMANCE_CAR, CAR, PICKUP, ELECTRIC_CAR, MOTORCYCLE, MONSTER_TRUCK
     }
 
     private String name;
@@ -33,6 +33,10 @@ public abstract class Vehicle {
     private VehicleCondition vehicleCondition;
     private VehicleType vehicleType;
 
+
+
+    private int racesWon = 0;
+
     /**
      * Constructor to intialize vehicle with type and with a random cost
      *
@@ -41,9 +45,30 @@ public abstract class Vehicle {
      * @param highestCost highest cost
      * @param day current day
      */
+
     public Vehicle(VehicleType type, double lowestCost, double highestCost, int day) {
         this.vehicleType = type;
-        this.name = RandomGenerator.pickupCarNameGenerator();
+        switch (type){
+            case PERFORMANCE_CAR:
+                this.name = RandomGenerator.performanceCarNameGenerator();
+                break;
+            case CAR:
+                this.name = RandomGenerator.normalCarNameGenerator();
+                break;
+            case PICKUP:
+                this.name = RandomGenerator.pickupCarNameGenerator();
+                break;
+            case ELECTRIC_CAR:
+                this.name = RandomGenerator.electricCarNameGenerator();
+                break;
+            case MOTORCYCLE:
+                this.name = RandomGenerator.motorcycleNameGenerator();
+                break;
+            case MONSTER_TRUCK:
+                this.name = RandomGenerator.monsterTruckNameGenerator();
+                break;
+        }
+
         this.cleanliness = RandomGenerator.RandomCleanlinessGenerator();
         this.vehicleCondition = RandomGenerator.RandomConditionGenerator();
         this.isInStock = true;
@@ -141,6 +166,10 @@ public abstract class Vehicle {
     public void setVehicleType(VehicleType vehicleType) {
         this.vehicleType = vehicleType;
     }
+
+    public int getRacesWon() {return racesWon;}
+
+    public void setRacesWon(int racesWon) {this.racesWon = racesWon;}
 
     /**
      * Upgrade Vehicle Condition to the next class

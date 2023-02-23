@@ -15,6 +15,9 @@ import java.util.ArrayList;
  * Subclass of Activity which allows ability to perform sale action
  */
 public class Sale extends Activity {
+    public enum AddOnType{
+        UNDER_COATING, EXTENDED_WARRANTY, ROAD_RESCUE_COVERAGE, SATELLITE_RADIO
+    }
 
     /**
      * Constructor to initialize sale activity which requires inventory, buyers, and budget
@@ -26,6 +29,9 @@ public class Sale extends Activity {
      */
     public Sale(Staff provider, Inventory inventory, ArrayList<Buyer> buyers, Budget budget) {
         super(provider, inventory, buyers, budget);
+    }
+    public void addOn(){
+
     }
 
     /**
@@ -175,6 +181,12 @@ public class Sale extends Activity {
                 return 160;
             case PICKUP:
                 return 220;
+            case ELECTRIC_CAR:
+                return 300;
+            case MOTORCYCLE:
+                return 150;
+            case MONSTER_TRUCK:
+                return 500;
             default:
                 return 0;
         }

@@ -13,6 +13,21 @@ import java.util.ArrayList;
  * Subclass of Activity which allow ability to perform Wash action
  */
 public class Wash extends Activity {
+    public enum WashingMethod {
+        CHEMICAL, ELBOW_GREASE, DETAILED
+    }
+    private WashingMethod washingMethodUsed;
+
+    public WashingMethod getWashingMethodUsed() {
+        return washingMethodUsed;
+    }
+
+    public void setWashingMethodUsed(WashingMethod washingMethodUsed) {
+        this.washingMethodUsed = washingMethodUsed;
+    }
+
+
+
 
     /**
      * Constructor that requires inventory
@@ -46,32 +61,47 @@ public class Wash extends Activity {
      * @param vehicle selected vehicle
      */
     public void washVehicle(Vehicle vehicle) {
-        if (vehicle.getCleanliness() == Vehicle.Cleanliness.DIRTY) {
-            vehicle.setCleanliness(RandomGenerator.getRandomCleanliness(new double[]{0.1, 0.8, 0.1}));
-        } else if (vehicle.getCleanliness() == Vehicle.Cleanliness.CLEAN) {
-            vehicle.setCleanliness(RandomGenerator.getRandomCleanliness(new double[]{0.3, 0.65, 0.05}));
-        }
+        int randomWashingMethodSelector = RandomGenerator.randomIntGenerator(0,100);
+
+            if (randomWashingMethodSelector <= 33){
+                ChemicalWashing chemicalWashing = new ChemicalWashing();
+                chemicalWashing.wash(vehicle);
+                setWashingMethodUsed(WashingMethod.CHEMICAL);
+            } else if (randomWashingMethodSelector <= 66){
+                ElbowGreaseWashing elbowGreaseWashing = new ElbowGreaseWashing();
+                elbowGreaseWashing.wash(vehicle);
+                setWashingMethodUsed(WashingMethod.ELBOW_GREASE);
+            } else{
+                DetailedWashing detailedWashing = new DetailedWashing();
+                detailedWashing.wash(vehicle);
+                setWashingMethodUsed(WashingMethod.DETAILED);
+            }
         if (vehicle.getCleanliness() == Vehicle.Cleanliness.SPARKING) {
             double bonus = getBonusByType(vehicle);
             getProvider().addBonus(bonus);
-            System.out.printf("%s %s wash %s %s and made it %s (earned %.2f bonus)\n",
+            System.out.printf("%s %s washed (%s) %s %s and made it %s (earned %.2f bonus)\n",
                     getProvider().getJobTitle(),
                     getProvider().getName(),
+                    getWashingMethodUsed(),
                     vehicle.getVehicleType(),
                     vehicle.getName(),
                     vehicle.getCleanliness(),
                     bonus
             );
         } else {
-            System.out.printf("%s %s wash %s %s and made it %s\n",
+            System.out.printf("%s %s washed (%s) %s %s and made it %s\n",
                     getProvider().getJobTitle(),
                     getProvider().getName(),
+                    getWashingMethodUsed(),
                     vehicle.getVehicleType(),
                     vehicle.getName(),
                     vehicle.getCleanliness()
             );
         }
     }
+
+
+
 
     /**
      * Find next Dirty Vehicle to work on. If there isn't, find Clean Vehicle
@@ -122,6 +152,12 @@ public class Wash extends Activity {
                 return 50;
             case PICKUP:
                 return 100;
+            case MOTORCYCLE:
+                return 25;
+            case MONSTER_TRUCK:
+                return 200;
+            case ELECTRIC_CAR:
+                return 120;
             default:
                 return 0;
         }

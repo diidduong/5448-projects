@@ -77,4 +77,20 @@ public class Inventory {
         workingInventory.remove(vehicle);
         soldVehicles.add(vehicle);
     }
+    /**
+     * Get vehicles with a specified type
+     *
+     *
+     * @param type: the required vehicle type
+     * @return vehiclesArrayList that includes the vehicles with the required type
+     */
+    public ArrayList<Vehicle> getVehiclesByType(Vehicle.VehicleType type){
+        ArrayList<Vehicle> vehiclesArrayList = new ArrayList<Vehicle>();
+        for (Vehicle vehicle: getWorkingInventory()){
+            if (vehicle.getVehicleType()  == type){
+                vehiclesArrayList.add(vehicle);
+            }else{;}
+        }
+        return vehiclesArrayList;
+    }
 }
