@@ -1,8 +1,9 @@
 package vehicle;
 
+import staff.Staff;
 import utilities.RandomGenerator;
 
-import java.util.HashMap;
+import java.util.ArrayList;
 
 /**
  * @author Duy Duong, Ahmed.H.Biby
@@ -15,7 +16,7 @@ public abstract class Vehicle {
     }
 
     public enum Cleanliness {
-        DIRTY, CLEAN, SPARKING
+        DIRTY, CLEAN, SPARKLING
     }
 
     public enum VehicleType {
@@ -24,8 +25,6 @@ public abstract class Vehicle {
 
     private String name;
     private double initialCost;
-    private double lowestCost;
-    private double highestCost;
     private double salePrice;  //NEW
     private double repairingBonus;
     private boolean isInStock;
@@ -39,29 +38,21 @@ public abstract class Vehicle {
      * @param type Vehicle Type
      * @param lowestCost lowest cost
      * @param highestCost highest cost
-     * @param day current day
      */
-    public Vehicle(VehicleType type, double lowestCost, double highestCost, int day) {
+    public Vehicle(VehicleType type, double lowestCost, double highestCost) {
         this.vehicleType = type;
         this.name = RandomGenerator.pickupCarNameGenerator();
         this.cleanliness = RandomGenerator.RandomCleanlinessGenerator();
         this.vehicleCondition = RandomGenerator.RandomConditionGenerator();
         this.isInStock = true;
-        this.lowestCost = lowestCost;
-        this.highestCost = highestCost;
         // initialCost from cost range
-        this.initialCost = RandomGenerator.randomIntGenerator(getLowestCost(),getHighestCost());
+        this.initialCost = RandomGenerator.randomIntGenerator(lowestCost,highestCost);
         // discounted initialCost after condition evaluation
-        this.initialCost = VehicleInspector.calculateCost(getVehicleCondition(), getInitialCost());
-        this.salePrice = VehicleInspector.calculatePrice(getInitialCost());
+        this.initialCost = VehicleInspector.calculateCost(vehicleCondition, initialCost);
+        this.salePrice = VehicleInspector.calculatePrice(initialCost);
 
-        HashMap<String, String> registryAction = new HashMap<>();
         System.out.printf("\nA %s and %s %s (%s) is available in the inventory.\n", getCleanliness(), getVehicleCondition(), type, getName());
-        registryAction.put("name", getName());
-        registryAction.put("condition", String.valueOf(getVehicleCondition()));
-        registryAction.put("cleanliness", String.valueOf(getCleanliness()));
-        String formattedDay = String.format("Day_%d_%s_%s", day, getVehicleType(), getName().replace(' ', '_'));
-
+        System.out.println(initialCost);
     }
 
     public String getName() {
@@ -78,22 +69,6 @@ public abstract class Vehicle {
 
     public void setInitialCost(double initialCost) {
         this.initialCost = initialCost;
-    }
-
-    public double getLowestCost() {
-        return lowestCost;
-    }
-
-    public void setLowestCost(double lowestCost) {
-        this.lowestCost = lowestCost;
-    }
-
-    public double getHighestCost() {
-        return highestCost;
-    }
-
-    public void setHighestCost(double highestCost) {
-        this.highestCost = highestCost;
     }
 
     public double getSalePrice() {
@@ -143,6 +118,40 @@ public abstract class Vehicle {
     }
 
     /**
+     *
+     * @param type
+     * @return
+     */
+    public static Vehicle createVehicleByType(VehicleType type) {
+        switch (type) {
+            case PERFORMANCE_CAR:
+                return new PerformanceCar();
+            case CAR:
+                return new Car();
+            case PICKUP:
+                return new Pickup();
+            default:
+                throw new IllegalArgumentException("Unknown vehicle type [" + type + "]");
+        }
+    }
+
+    /**
+     *
+     * @param vehicles
+     * @param type
+     * @return
+     */
+    public static int countVehicleByType(ArrayList<Vehicle> vehicles, VehicleType type) {
+        int count = 0;
+        for (Vehicle vehicle : vehicles) {
+            if (vehicle.vehicleType == type) {
+                count++;
+            }
+        }
+        return count;
+    }
+
+    /**
      * Upgrade Vehicle Condition to the next class
      * Broken to Used
      * Used to Like New
@@ -161,7 +170,7 @@ public abstract class Vehicle {
      * Clean to Dirty
      */
     public void downgradeCleanliness() {
-        if (cleanliness == Cleanliness.SPARKING) {
+        if (cleanliness == Cleanliness.SPARKLING) {
             cleanliness = Cleanliness.CLEAN;
         } else if (cleanliness == Cleanliness.CLEAN) {
             cleanliness = Cleanliness.DIRTY;

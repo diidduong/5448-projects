@@ -6,8 +6,8 @@ package vehicle;
  * Subclass of Vehicle
  */
 public class Pickup extends Vehicle {
-    public Pickup(int day) {
-        super(VehicleType.PICKUP, 10000, 40000, day);
+    public Pickup() {
+        super(VehicleType.PICKUP, 10000, 40000);
     }
 
 }

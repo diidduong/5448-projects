@@ -1,20 +1,12 @@
 package utilities;
 
-import activity.Repair;
-import activity.Sale;
-import activity.Wash;
 import customer.Buyer;
 import staff.Intern;
 import staff.Mechanic;
-import staff.Salesperson;
 import staff.Staff;
-import vehicle.Car;
-import vehicle.PerformanceCar;
-import vehicle.Pickup;
 import vehicle.Vehicle;
 
 import java.util.ArrayList;
-import java.util.HashMap;
 
 /**
  * @author Duy Duong, Ahmed.H.Biby
@@ -23,23 +15,18 @@ import java.util.HashMap;
  * This class is to be instantiated only once in the main.
  */
 public class FNCDAdministration {
-    private boolean workingStatus = true;
     private int day = 1;
-    private final int endDay = 30; // 30-day simulation
-    private final int numStaffEach = 3;
-    private final int numVehicleEach = 4;
+    private final int END_DAY = 30; // 30-day simulation
+    private final int NUM_STAFF_EACH = 3;
+    private final int NUM_VEHICLE_EACH = 4;
+    private final double INITIAL_BALANCE = 500000;
+    private final double RESERVE_BALANCE = 250000;
 
+    ArrayList<Staff> staffs = new ArrayList<>();
+    ArrayList<Staff> departedStaffs = new ArrayList<>();
 
-    public Registry internRegistry= new Registry();
-    public ArrayList<Intern> internArrayList = new ArrayList();
-    public Registry mechanicRegistry= new Registry();
-    public ArrayList<Mechanic> mechanicArrayList = new ArrayList();
-    public Registry salesPersonRegistry= new Registry();
-    public ArrayList<Salesperson> salesPersonArrayList = new ArrayList();
-    public ArrayList<Staff> departedStaffs = new ArrayList<>();
-
-    public Budget budget = new Budget();
-    public Inventory inventory = new Inventory();
+    Budget budget = new Budget(INITIAL_BALANCE);
+    Inventory inventory = new Inventory();
 
     /**
      * Start up FNCD simulation which has pre-event when FNCD hires staffs
@@ -52,20 +39,21 @@ public class FNCDAdministration {
         System.out.println("********** Inauguration day ************");
 
         // Hire all staffs
-        for (int i = 0; i < numStaffEach; i++){
-            hireIntern(day);
-            hireMechanic(day);
-            hireSalesperson(day);
+        for (Staff.JobTitle title : Staff.JobTitle.values()) {
+            for (int i = 0; i < NUM_STAFF_EACH; i++){
+                hireStaff(title);
+            }
         }
 
         // Purchases all vehicles
-        for (int i = 0; i < numVehicleEach; i++){
-            purchaseVehicle(new PerformanceCar(day));
-            purchaseVehicle(new Car(day));
-            purchaseVehicle(new Pickup(day));
+        for (Vehicle.VehicleType type : Vehicle.VehicleType.values()) {
+            System.out.println(budget.getCurrentBalance());
+            for (int i = 0; i < NUM_VEHICLE_EACH; i++){
+                purchaseVehicle(type);
+            }
         }
 
-        dailyReport(day);
+        dailyReport();
         System.out.println("********** End of the Inauguration day ************");
 
         // Start 30 days simulation
@@ -73,12 +61,35 @@ public class FNCDAdministration {
     }
 
     /**
-     * Purchase vehicle at current day and add to working inventory
-     * @param vehicle new vehicle
+     * Purchase vehicle with given type and add to working inventory. If low fund,
+     * add reserve fund before purchasing
+     *
+     * @param type vehicle type
      */
-    public void purchaseVehicle(Vehicle vehicle) {
-        budget.purchaseVehicle(vehicle, day);
+    public void purchaseVehicle(Vehicle.VehicleType type) {
+        Vehicle vehicle = Vehicle.createVehicleByType(type);
+
+        double salePrice = vehicle.getSalePrice();
+        // add reserve balance if not enough money
+        if (budget.getCurrentBalance() < salePrice) {
+            budget.addBalance(RESERVE_BALANCE);
+            // Announce "Adding money to the FNCD budget due to low funds"
+            System.out.printf("\nReserve balance %f is used", RESERVE_BALANCE);
+            System.out.printf("\nCurrent balance is $ %f \n", budget.getCurrentBalance());
+        }
+        // subtract vehicle sale price from balance
+        budget.subtractBalance(salePrice);
+
+        // add vehicle to working inventory
         inventory.getWorkingInventory().add(vehicle);
+
+        // output purchase vehicle event
+        System.out.printf("Purchased %s, %s %s for $ %f\n",
+                vehicle.getVehicleCondition(),
+                vehicle.getCleanliness(),
+                vehicle.getName(),
+                salePrice
+        );
     }
 
     /**
@@ -87,24 +98,24 @@ public class FNCDAdministration {
      *
      */
     public void operate() {
-        for (int day = 1; day <= endDay; day++) {
+        while (day <= END_DAY) {
             if (day % 7 != 0) {
-                workingStatus = true;
                 System.out.printf("\n********** day %d ************\n", day);
                 System.out.println("********** Working day ************");
 
-                opening(day);
-                washing(day);
-                repairing(day);
-                selling(day);
-                ending(day);
+                opening();
+                washing();
+                repairing();
+                selling();
+                ending();
 
-                dailyReport(day);
+                dailyReport();
             } else {
-                workingStatus = false;
                 System.out.printf("\n********** day %d ************\n", day);
                 System.out.println("********** Weekend ************");
             }
+
+            day++; // next day work
         }
         System.out.println("********** End of FNCD operation simulation  ************");
         System.out.println("********** End of FNCD simulation  ************");
@@ -113,47 +124,43 @@ public class FNCDAdministration {
     /**
      * Do opening on given day
      *
-     * @param day current day
      */
-    public void opening(int day) {
+    public void opening() {
         System.out.printf("Opening... (current budget $%.2f)\n", budget.getCurrentBalance());
 
-        workForceMaintenance(day);
-        inventoryMaintenance(day);
+        workForceMaintenance();
+        inventoryMaintenance();
         System.out.println();
     }
 
     /**
      * Do washing activity
-     * @param day current day
      */
-    public void washing(int day) {
+    public void washing() {
         System.out.println("Washing...");
-        for (Intern intern : internArrayList) {
-            intern.setActivity(new Wash(intern, inventory));
-            intern.getActivity().performWork();
+        ArrayList<Staff> interns = Staff.getStaffListByType(staffs, Staff.JobTitle.INTERN);
+        for (Staff intern : interns) {
+            ((Intern) intern).washVehicles(inventory.getWorkingInventory());
         }
         System.out.println();
     }
 
     /**
      * Do repairing activity
-     * @param day current day
      */
-    public void repairing(int day) {
+    public void repairing() {
         System.out.println("Repairing...");
-        for (Mechanic mechanic : mechanicArrayList) {
-            mechanic.setActivity(new Repair(mechanic, inventory));
-            mechanic.getActivity().performWork();
+        ArrayList<Staff> mechanics = Staff.getStaffListByType(staffs, Staff.JobTitle.MECHANIC);
+        for (Staff mechanic : mechanics) {
+            ((Mechanic) mechanic).repairVehicles(inventory.getWorkingInventory());
         }
         System.out.println();
     }
 
     /**
      * Do selling activity
-     * @param day current day
      */
-    public void selling(int day) {
+    public void selling() {
         System.out.println("Selling...");
         int numBuyers = (day % 7 == 6) ?
                 RandomGenerator.randomIntGenerator(2, 8) :
@@ -165,80 +172,66 @@ public class FNCDAdministration {
             buyers.add(new Buyer());
         }
 
-        for (Salesperson salesperson : salesPersonArrayList) {
-            salesperson.setActivity(new Sale(salesperson, inventory, buyers, budget));
-            salesperson.getActivity().performWork();
-        }
         System.out.println();
+
+        //TODO: Need to move sold vehicle to sold inventory
+        //TODO: Add sale income to budget
     }
 
     /**
      * Do ending activity
-     * @param day current day
      */
-    public void ending(int day) {
+    public void ending() {
         System.out.println("Ending...");
-        // Paying all salaries
-        ArrayList<Staff> allStaffs = new ArrayList<>();
-        allStaffs.addAll(internArrayList);
-        allStaffs.addAll(mechanicArrayList);
-        allStaffs.addAll(salesPersonArrayList);
 
-        budget.addSalariesPayout(day,allStaffs);
-        budget.addBonusesPayout(day, allStaffs);
-        for (Staff staff : allStaffs) {
+        // Add work day and pay all salaries
+        budget.addSalariesPayout(staffs);
+        budget.addBonusesPayout(staffs);
+        for (Staff staff : staffs) {
+            staff.addWorkDay();
             staff.addSalary();
             staff.addTotalBonus();
         }
 
-        // 10% one Intern quits
-        Intern intern = internArrayList.get(0);
-        intern.workOrQuit(day);
-        if (!intern.isWorking()) {
-            departedStaffs.add(intern);
-            internArrayList.remove(intern);
-        }
-
-        // 10% one Mechanic quits
-        Mechanic mechanic = mechanicArrayList.get(0);
-        mechanic.workOrQuit(day);
-        if (!mechanic.isWorking()) {
-            departedStaffs.add(mechanic);
-            mechanicArrayList.remove(mechanic);
-        }
-
-        // 10% one Intern quits
-        Salesperson salesperson = salesPersonArrayList.get(0);
-        salesperson.workOrQuit(day);
-        if (!salesperson.isWorking()) {
-            departedStaffs.add(salesperson);
-            salesPersonArrayList.remove(salesperson);
-        }
+        // TODO: 10% each employee quit
 
         System.out.println();
     }
 
     /**
      * method that checks if there is any shortage in any of the workforce and hire if shortage exists
-     * @param day: provided by the administration
      */
-    public void workForceMaintenance(int day) {
-        if (mechanicArrayList.size() < numStaffEach) {
-            int mechanicShortage = numStaffEach - mechanicArrayList.size();
-            for (int i=0; i<mechanicShortage; i++) {
-                promoteInternToMechanic(day);
+    public void workForceMaintenance() {
+        ArrayList<Staff> interns = Staff.getStaffListByType(staffs, Staff.JobTitle.INTERN);
+        int numMechanic = Staff.countStaffByType(staffs, Staff.JobTitle.MECHANIC);
+        int numSalesperson = Staff.countStaffByType(staffs, Staff.JobTitle.SALESPERSON);
+
+        // Promote existing interns to mechanic if shortage
+        int mechanicShortage = NUM_STAFF_EACH - numMechanic;
+        for (int i=0; i<mechanicShortage; i++) {
+            if (interns.size() > 0) {
+                Staff promotingIntern = interns.get(0);
+                interns.remove(promotingIntern);
+                promoteStaff(promotingIntern, Staff.JobTitle.MECHANIC);
             }
         }
-        if (salesPersonArrayList.size() < numStaffEach) {
-            int salesPersonShortage = numStaffEach - salesPersonArrayList.size();
-            for (int i=0; i<salesPersonShortage; i++) {
-                promoteInternToSalesperson(day);
+
+        // Promote existing interns to salesperson if shortage
+        int salesPersonShortage = NUM_STAFF_EACH - numSalesperson;
+        for (int i=0; i<salesPersonShortage; i++) {
+            if (interns.size() > 0) {
+                Staff promotingIntern = interns.get(0);
+                interns.remove(promotingIntern);
+                promoteStaff(promotingIntern, Staff.JobTitle.SALESPERSON);
             }
         }
-        if (internArrayList.size() < numStaffEach) {
-            int interShortage = numStaffEach - internArrayList.size();
-            for (int i=0; i< interShortage; i++) {
-                hireIntern(day);
+
+        // Hire all missing staff
+        for (Staff.JobTitle title : Staff.JobTitle.values()) {
+            int numStaff = Staff.countStaffByType(staffs, title);
+            int staffShortage = NUM_STAFF_EACH - numStaff;
+            for (int i = 0; i < staffShortage; i++) {
+                hireStaff(title);
             }
         }
     }
@@ -246,142 +239,57 @@ public class FNCDAdministration {
     /**
      * Check if there is shortage of a vehicleType. If there is, purchase new vehicle
      * of that type and add them to working inventory
-     *
-     * @param day current day
      */
-    public void inventoryMaintenance(int day) {
+    public void inventoryMaintenance() {
         ArrayList<Vehicle> workingInventory = inventory.getWorkingInventory();
-        double numPerformanceCar = 0;
-        double numCar = 0;
-        double numPickup = 0;
-        for (Vehicle vehicle : workingInventory) {
-            switch (vehicle.getVehicleType()) {
-                case PERFORMANCE_CAR:
-                    numPerformanceCar++;
-                    continue;
-                case CAR:
-                    numCar++;
-                    continue;
-                case PICKUP:
-                    numPickup++;
-                    continue;
-                default:
-            }
-        }
-        if (numPerformanceCar < numVehicleEach) {
-            for (int i = 0; i < (numVehicleEach - numPerformanceCar); i++) {
-                purchaseVehicle(new PerformanceCar(day));
-            }
-        }
-        if (numCar < numVehicleEach) {
-            for (int i = 0; i < (numVehicleEach - numCar); i++) {
-                purchaseVehicle(new Car(day));
-            }
-        }
-        if (numPickup < numPickup) {
-            for (int i = 0; i < (numVehicleEach - numPickup); i++) {
-                purchaseVehicle(new Pickup(day));
+        for (Vehicle.VehicleType type : Vehicle.VehicleType.values()) {
+            int numVehicleShortage = NUM_VEHICLE_EACH - Vehicle.countVehicleByType(workingInventory, type);
+            for (int i = 0; i < numVehicleShortage; i++) {
+                purchaseVehicle(type);
             }
         }
     }
 
     /**
-     * method for hiring new intern
-     * @param day: provided by the administration
+     * method for hiring new staff
      */
-    public void hireIntern(int day){
-        Intern intern = new Intern(day);
-        inputHireRegistry(intern);
-        internArrayList.add(intern);
-    }
+    public void hireStaff(Staff.JobTitle title){
+        Staff newStaff = Staff.createStaffByType(title);
+        staffs.add(newStaff);
 
-    /**
-     * method for hiring new mechanic
-     * @param day: provided by the administration
-     */
-    public void hireMechanic(int day){
-        Mechanic mechanic = new Mechanic(day);
-        inputHireRegistry(mechanic);
-        mechanicArrayList.add(mechanic);
-    }
-
-    /**
-     * method for hiring new salesperson
-     * @param day: provided by the administration
-     */
-    public void hireSalesperson(int day){
-        Salesperson salesperson = new Salesperson(day);
-        inputHireRegistry(salesperson);
-        salesPersonArrayList.add(salesperson);
-    }
-
-    /**
-     * This is to save registry of hiring new staff
-     *
-     * @param staff new hired staff
-     */
-    public void inputHireRegistry(Staff staff) {
-        HashMap<String, String> registryAction = new HashMap<>();
-        System.out.printf("Hired %s %s.\n", staff.getJobTitle(), staff.getName());
-        registryAction.put("name", staff.getName());
-        String formattedDay = String.format("Day_%d_%s_%s", day, staff.getJobTitle(), staff.getName().replace(' ', '_'));
-        staff.getRegistry().add(formattedDay, registryAction);
+        // Output new hire event
+        System.out.printf("Hired %s %s\n", title, newStaff.getName());
     }
 
     /**
      * method that promotes an intern in case of a given mechanic quited
-     * @param day: provided by the administration
      */
-    public void promoteInternToSalesperson(int day){
-        Salesperson salesperson = new Salesperson(day);
-        Intern interTobePromoted = internArrayList.get(0);
-        salesperson.setName(interTobePromoted.getName());
-        salesperson.setSalary(interTobePromoted.getSalary());
-        salesperson.setDaysOfWork(interTobePromoted.getDaysOfWork());
-        salesperson.setTotalBonus(interTobePromoted.getTotalBonus());
-        HashMap<String, String> registryAction = new HashMap<>();
-        System.out.printf("\n%s is promoted from Intern to Salesperson.\n", interTobePromoted.getName());
-        registryAction.put("name", salesperson.getName());
-        String formattedDay = String.format("Day_%d_salesperson_%s", day, interTobePromoted.getName().replace(' ', '_'));
-//        FNCDAdministration.mechanicRegistry.add(formattedDay, registryAction);
-        salesPersonArrayList.add(salesperson);
-        internArrayList.remove(interTobePromoted);
-    }
+    public void promoteStaff(Staff staff, Staff.JobTitle title){
+        Staff newStaff = Staff.createStaffByType(title);
 
-    /**
-     * method that promotes an intern in case of a given mechanic quited
-     * @param day: provided by the administration
-     */
-    public void promoteInternToMechanic(int day){
-        Mechanic mechanic = new Mechanic(day);
-        Intern interTobePromoted = internArrayList.get(0);
-        mechanic.setName(interTobePromoted.getName());
-        mechanic.setSalary(interTobePromoted.getSalary());
-        mechanic.setDaysOfWork(interTobePromoted.getDaysOfWork());
-        mechanic.setBonus(interTobePromoted.getBonus());
-        HashMap<String, String> registryAction = new HashMap<String, String>();
-        System.out.printf("\n%s is promoted from intern to Salesperson.\n", interTobePromoted.getName());
-        registryAction.put("name", mechanic.getName());
-        String formattedDay = String.format("Day_%d_salesperson_%s", day, interTobePromoted.getName().replace(' ', '_'));
-//        FNCDAdministration.mechanicRegistry.add(formattedDay, registryAction);
-        mechanicArrayList.add(mechanic);
-        internArrayList.remove(interTobePromoted);
+        newStaff.setName(staff.getName());
+        newStaff.setSalary(staff.getSalary());
+        newStaff.setDaysOfWork(staff.getDaysOfWork());
+        newStaff.setBonus(staff.getBonus());
+
+        // output promote event
+        System.out.printf("\n%s is promoted from intern to Salesperson.\n", staff.getName());
+
+        staffs.add(newStaff);
+        staffs.remove(staff);
     }
 
     /**
      * This method is the daily report generator that summarizes all the necessary operational details.
      *
-     * @param day: the day that is provided by the FNCDadministration for the FNCD operation simulation.
      */
-    public void dailyReport(int day) {
+    public void dailyReport() {
         // Print out staffs
         System.out.println("Staff members");
         System.out.println("Title | Name | TotalDaysWorked | TotalNormalPay | TotalBonusPay | Working");
         System.out.println("------------------------------------------------------------------------");
         ArrayList<Staff> allStaffs = new ArrayList<>();
-        allStaffs.addAll(internArrayList);
-        allStaffs.addAll(mechanicArrayList);
-        allStaffs.addAll(salesPersonArrayList);
+        allStaffs.addAll(staffs);
         allStaffs.addAll(departedStaffs);
         for (Staff staff : allStaffs) {
             System.out.printf("%s | %s | %d | %.2f | %.2f | %s\n",

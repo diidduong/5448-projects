@@ -15,8 +15,6 @@ public class Inventory {
     private ArrayList<Vehicle> workingInventory= new ArrayList<>();
     private ArrayList<Vehicle> soldVehicles = new ArrayList<>();
 
-    static public Registry inventoryRegistry= new Registry();
-
     public ArrayList<Vehicle> getWorkingInventory() {
         return workingInventory;
     }

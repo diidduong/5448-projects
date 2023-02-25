@@ -225,7 +225,7 @@ public class RandomGenerator {
         Random random = new Random();
         double randomNum = random.nextDouble();
         if (randomNum <= probs[0]) {
-            return Vehicle.Cleanliness.SPARKING;
+            return Vehicle.Cleanliness.SPARKLING;
         } else if (randomNum <= probs[0] + probs[1]) {
             return Vehicle.Cleanliness.CLEAN;
         } else {
@@ -243,7 +243,7 @@ public class RandomGenerator {
         Random random = new Random();
         double randomNum = random.nextInt(101);
         if (randomNum <= 5) {
-            return Vehicle.Cleanliness.SPARKING;
+            return Vehicle.Cleanliness.SPARKLING;
         } else if (randomNum <= 40) {
             return Vehicle.Cleanliness.CLEAN;
         } else {
