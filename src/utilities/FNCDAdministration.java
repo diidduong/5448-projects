@@ -47,7 +47,6 @@ public class FNCDAdministration {
 
         // Purchases all vehicles
         for (Vehicle.VehicleType type : Vehicle.VehicleType.values()) {
-            System.out.println(budget.getCurrentBalance());
             for (int i = 0; i < NUM_VEHICLE_EACH; i++){
                 purchaseVehicle(type);
             }

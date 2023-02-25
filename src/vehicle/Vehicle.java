@@ -52,7 +52,6 @@ public abstract class Vehicle {
         this.salePrice = VehicleInspector.calculatePrice(initialCost);
 
         System.out.printf("\nA %s and %s %s (%s) is available in the inventory.\n", getCleanliness(), getVehicleCondition(), type, getName());
-        System.out.println(initialCost);
     }
 
     public String getName() {

@@ -104,7 +104,7 @@ public class Budget {
      *  @param amount: dollar amount to be subtracted from balance
      */
     public void subtractBalance(double amount){
-        currentBalance =- amount;
+        currentBalance -= amount;
     }
 
     /**
