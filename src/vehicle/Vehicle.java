@@ -1,6 +1,5 @@
 package vehicle;
 
-import staff.Staff;
 import utilities.RandomGenerator;
 
 import java.util.ArrayList;
@@ -41,15 +40,15 @@ public abstract class Vehicle {
      */
     public Vehicle(VehicleType type, double lowestCost, double highestCost) {
         this.vehicleType = type;
-        this.name = RandomGenerator.pickupCarNameGenerator();
+        this.name = RandomGenerator.vehicleNameGenerator(type);
         this.cleanliness = RandomGenerator.RandomCleanlinessGenerator();
         this.vehicleCondition = RandomGenerator.RandomConditionGenerator();
         this.isInStock = true;
         // initialCost from cost range
-        this.initialCost = RandomGenerator.randomIntGenerator(lowestCost,highestCost);
+        double initialCost = RandomGenerator.randomIntGenerator(lowestCost,highestCost);
         // discounted initialCost after condition evaluation
-        this.initialCost = VehicleInspector.calculateCost(vehicleCondition, initialCost);
-        this.salePrice = VehicleInspector.calculatePrice(initialCost);
+        this.initialCost = calculateCost(vehicleCondition, initialCost);
+        this.salePrice = calculatePrice(initialCost);
 
         System.out.printf("\nA %s and %s %s (%s) is available in the inventory.\n", getCleanliness(), getVehicleCondition(), type, getName());
     }
@@ -117,9 +116,10 @@ public abstract class Vehicle {
     }
 
     /**
+     * Util to create vehicle instance by type
      *
-     * @param type
-     * @return
+     * @param type vehicle type
+     * @return vehicle instance
      */
     public static Vehicle createVehicleByType(VehicleType type) {
         switch (type) {
@@ -135,10 +135,11 @@ public abstract class Vehicle {
     }
 
     /**
+     * Util to count a given vehicle type in the list
      *
-     * @param vehicles
-     * @param type
-     * @return
+     * @param vehicles list of vehicle
+     * @param type vehicle type
+     * @return count of vehicle that matches given type
      */
     public static int countVehicleByType(ArrayList<Vehicle> vehicles, VehicleType type) {
         int count = 0;
@@ -174,5 +175,34 @@ public abstract class Vehicle {
         } else if (cleanliness == Cleanliness.CLEAN) {
             cleanliness = Cleanliness.DIRTY;
         }
+    }
+
+    /**
+     * Calculate vehicle initial cost based on vehicle condition.
+     * - Reduced by 20% if vehicle is Used
+     * - Reduced by 50% if vehicle is Broken
+     *
+     * @param condition current Vehicle Condition
+     * @return actual initialCost with appropriate discount
+     */
+    public static double calculateCost(Vehicle.VehicleCondition condition, double initialCost) {
+        switch (condition) {
+            case USED:
+                return initialCost * 0.8; //reduced 20%
+            case BROKEN:
+                return initialCost * 0.5; //reduced 50%
+            default:
+                return initialCost;
+        }
+    }
+
+    /**
+     * Calculate price which equals 2x initial cost
+     *
+     * @param initialCost vehicle initial cost, positive
+     * @return sale price
+     */
+    public static double calculatePrice(double initialCost) {
+        return initialCost * 2;
     }
 }

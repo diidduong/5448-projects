@@ -5,8 +5,6 @@ import utilities.Inventory;
 import utilities.RandomGenerator;
 import vehicle.Vehicle;
 
-import java.util.ArrayList;
-
 /**
  * @author Duy Duong, Ahmed.H.Biby
  *
@@ -17,7 +15,13 @@ public class Salesperson extends Staff {
         super(JobTitle.SALESPERSON, 150);
     }
 
-    public Vehicle sellVehicleToBuyer(Buyer buyer, Inventory inventory) {
+    /**
+     *
+     * @param buyer
+     * @param inventory
+     * @return
+     */
+    public Vehicle sellVehicles(Buyer buyer, Inventory inventory) {
         if (buyer == null) {
             return null; // No buyer coming today
         }
@@ -25,7 +29,7 @@ public class Salesperson extends Staff {
         if (selectedVehicle == null) {
             return null; // No vehicle for sale today
         }
-        return sellVehicleToBuyer(selectedVehicle, buyer);
+        return sellVehicles(selectedVehicle, buyer);
     }
 
     /**
@@ -36,7 +40,7 @@ public class Salesperson extends Staff {
      * @param selectedVehicle not null Vehicle
      * @param buyer not null Buyer
      */
-    public Vehicle sellVehicleToBuyer(Vehicle selectedVehicle, Buyer buyer) {
+    public Vehicle sellVehicles(Vehicle selectedVehicle, Buyer buyer) {
         double successfulSaleProbs = buyer.getBuyingType().getProbability();
         boolean sellable = false;
 
@@ -49,6 +53,7 @@ public class Salesperson extends Staff {
         // check if successful sale by probability
         sellable = RandomGenerator.probabilisticOutcomeGenerator(successfulSaleProbs);
         if (sellable) {
+            selectedVehicle.setInStock(false); // mark vehicle as sold
             double bonus = getBonusByType(selectedVehicle);
             // give bonus to Salesperson
             addBonus(bonus);
@@ -96,7 +101,7 @@ public class Salesperson extends Staff {
      * method that calculates the bonus chance for selling a car
      * @param vehicle to be sold
      * @param isWantedType buyer type
-     * @return
+     * @return calculated sale chance bonus
      */
     private double getSaleChanceBonus(Vehicle vehicle, boolean isWantedType) {
         double bonusChance = 0;

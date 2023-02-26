@@ -3,7 +3,6 @@ package staff;
 import utilities.RandomGenerator;
 
 import java.util.ArrayList;
-import java.util.HashMap;
 
 /**
  * @author Duy Duong, Ahmed.H.Biby
@@ -25,7 +24,7 @@ public abstract class Staff {
 
     private boolean isWorking = true;
 
-    private double turnOverProbability = 0.1;  // 3% for each employee, which is about 10% for each three
+    private final static double TURNOVER_PROBABILITY = 0.1;  // 3% for each employee, which is about 10% for each three
 
     public Staff(JobTitle jobTitle, double dailyRate) {
         setName(RandomGenerator.nameGenerator());
@@ -79,14 +78,6 @@ public abstract class Staff {
 
     public void setDaysOfWork(int daysOfWork) {
         this.daysOfWork = daysOfWork;
-    }
-
-    public double getTurnOverProbability() {
-        return turnOverProbability;
-    }
-
-    public void setTurnOverProbability(double turnOverProbability) {
-        this.turnOverProbability = turnOverProbability;
     }
 
     public boolean isWorking() {
@@ -177,15 +168,12 @@ public abstract class Staff {
 
     /**
      * method that check if the staff member will continue to work or will quit and add Salaries/workdays
-     * @param day: a given day by the administration
      */
-    public void workOrQuit(int day) {
-        boolean isQuit = RandomGenerator.probabilisticOutcomeGenerator(getTurnOverProbability());
+    public void workOrQuit() {
+        boolean isQuit = RandomGenerator.probabilisticOutcomeGenerator(TURNOVER_PROBABILITY);
         if (isQuit) {
             quit();
             System.out.printf("\n%s (%s) quited.\n", getName(), getJobTitle());
-            HashMap<String, String> registryAction = new HashMap<>();
-            String formattedDay = String.format("Day_%d_%s_%s_quited", day, getJobTitle(), getName().replace(' ', '_'));
         }
     }
 }

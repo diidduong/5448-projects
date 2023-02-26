@@ -71,7 +71,6 @@ public class Inventory {
      * @param vehicle moving Vehicle
      */
     public void moveVehicleToSoldVehicles(Vehicle vehicle) {
-        vehicle.setInStock(false);
         workingInventory.remove(vehicle);
         soldVehicles.add(vehicle);
     }

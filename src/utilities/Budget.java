@@ -1,8 +1,8 @@
 package utilities;
-import java.util.ArrayList;
-import java.util.HashMap;
-import vehicle.Vehicle;
+
 import staff.Staff;
+
+import java.util.ArrayList;
 
 /**
  * @author Duy Duong, Ahmed.H.Biby
@@ -13,12 +13,9 @@ import staff.Staff;
 public class Budget {
     private double currentBalance;
     private double salesIncome;
-    private double serviceIncome;
-    private double washingIncome;
     private double totalIncome;
     private double salaries;
     private double bonuses;
-    private double vehicleAssets;
 
     public Budget(double currentBalance) {
         this.currentBalance = currentBalance;
@@ -38,22 +35,6 @@ public class Budget {
 
     public void setSalesIncome(double salesIncome) {
         this.salesIncome = salesIncome;
-    }
-
-    public double getServiceIncome() {
-        return serviceIncome;
-    }
-
-    public void setServiceIncome(double serviceIncome) {
-        this.serviceIncome = serviceIncome;
-    }
-
-    public double getWashingIncome() {
-        return washingIncome;
-    }
-
-    public void setWashingIncome(double washingIncome) {
-        this.washingIncome = washingIncome;
     }
 
     public double getTotalIncome() {
@@ -80,14 +61,6 @@ public class Budget {
         this.bonuses = bonuses;
     }
 
-    public double getVehicleAssets() {
-        return vehicleAssets;
-    }
-
-    public void setVehicleAssets(double vehicleAssets) {
-        this.vehicleAssets = vehicleAssets;
-    }
-
 
     /**
      * This method aims at deposit money to balance
@@ -108,6 +81,15 @@ public class Budget {
     }
 
     /**
+     * This method is to add money to sale income for keeptracking
+     *
+     * @param amount sale amount
+     */
+    public void addSaleIncome(double amount) {
+        salesIncome += amount;
+    }
+
+    /**
      * This method aims at subtracting the new salary from the currentBalance.
      * @param staffs who receives new salary to be subtracted from the currentBalance.
      */
@@ -116,10 +98,10 @@ public class Budget {
         for (Staff staff : staffs) {
             dailyRate += staff.getDailyRate();
         }
-        System.out.printf("\nTotal salary payout increased by $ %f\n", dailyRate);
-        setSalaries(this.getSalaries()+ dailyRate);
-        setCurrentBalance(this.getCurrentBalance() - dailyRate);
-        System.out.printf("\nCurrent balance is $ %f \n", this.getCurrentBalance());
+        System.out.printf("Total salary payout increased by $ %.2f\n", dailyRate);
+        currentBalance -= dailyRate;
+        salaries += dailyRate;
+        System.out.printf("Current balance is $ %.2f \n", this.getCurrentBalance());
     }
 
     /**
@@ -131,10 +113,10 @@ public class Budget {
         for (Staff staff : staffs) {
             bonus += staff.getBonus();
         }
-        System.out.printf("\nTotal bonuses payout increased by $ %f\n", bonus);
-        setBonuses(getBonuses() + bonus);
-        setCurrentBalance(getCurrentBalance() - bonus);
-        System.out.printf("\nCurrent balance is $ %f \n", getCurrentBalance());
+        System.out.printf("Total bonuses payout increased by $ %.2f\n", bonus);
+        currentBalance -= bonus;
+        bonuses += bonus;
+        System.out.printf("Current balance is $ %.2f \n", getCurrentBalance());
     }
 
     /**

@@ -87,6 +87,25 @@ public class RandomGenerator {
     }
 
     /**
+     * Generate random vehicle name by type
+     *
+     * @param type vehicle type
+     * @return vehicle name in string
+     */
+    public static String vehicleNameGenerator(Vehicle.VehicleType type) {
+        switch (type) {
+            case PERFORMANCE_CAR:
+                return performanceCarNameGenerator();
+            case CAR:
+                return normalCarNameGenerator();
+            case PICKUP:
+                return pickupCarNameGenerator();
+            default:
+                return "No Name";
+        }
+    }
+
+    /**
      * 1) Method that generates random normal car names using a combination of a random car name from normalCarName array
      * and a random year from carYear array.
      *
