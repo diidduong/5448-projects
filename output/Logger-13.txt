@@ -1,37 +1,30 @@
-Purchased BROKEN, DIRTY PICKUP Ford F-150 Lightning 2010 for $ 30980.94
-Purchased LIKE_NEW, CLEAN MOTORCYCLE Yamaha 2019 (909 CC engine) for $ 26717.32
-INTERN Maxwell Hess wash (ElbowGreaseWashing) PICKUP Ford F-150 Lightning 2010 and made it CLEAN
-INTERN Maxwell Hess wash (ElbowGreaseWashing) PICKUP GMC Hummer EV 2018 and made it CLEAN
-INTERN Logan Frazier wash (ElbowGreaseWashing) PICKUP GMC Hummer EV 2018 and made it CLEAN
-INTERN Logan Frazier wash (ElbowGreaseWashing) PICKUP GMC Hummer EV 2018 and made it DIRTY
-INTERN Alaia Rangel wash (DetailedWashing) PICKUP GMC Hummer EV 2018 and made it SPARKLING (earned 100.00 bonus)
-INTERN Alaia Rangel wash (DetailedWashing) ELECTRIC_CAR Kia Niro EV 2021 (169 miles) and made it SPARKLING (earned 120.00 bonus)
-MECHANIC Leonard Vincent repaired BROKEN PICKUP Ford F-150 Lightning 2010 and made it USED (earned $150.00 bonus)
-MECHANIC Leonard Vincent repaired USED PICKUP Ford F-150 Lightning 2010 unsuccessfully
-MECHANIC Haven Person repaired USED PICKUP Ford F-150 Lightning 2010 unsuccessfully
-MECHANIC Haven Person repaired USED PICKUP Ford F-150 Lightning 2010 and made it LIKE_NEW (earned $150.00 bonus)
-SALESPERSON Frances Vaughn sold SPARKLING LIKE_NEW Ducati 2023 (407 CC engine) to Buyer unsuccessfully
-SALESPERSON Elaina Simpson (earned $350.00 bonus) sold SPARKLING LIKE_NEW (PERFORMANCE_CAR) Ferrari Daytona 2019 to Buyer for $123603.57 + $27192.78 (ExtendedWarranty, RoadRescueCoverage (addOns)).
-Added sale income $150796.35 to current balance
-SALESPERSON Frances Vaughn (earned $220.00 bonus) sold DIRTY LIKE_NEW (PICKUP) Ford F-150 Lightning 2010 to Buyer for $58089.26 + $1161.79 (RoadRescueCoverage (addOns)).
-Added sale income $59251.04 to current balance
-SALESPERSON Elaina Simpson sold CLEAN LIKE_NEW Predator 14 to Buyer unsuccessfully
-SALESPERSON Frances Vaughn (earned $220.00 bonus) sold SPARKLING LIKE_NEW (PICKUP) Ford Velociraptor 6×6 2011 to Buyer for $49333.20 + $5919.98 (Undercoating, RoadRescueCoverage, SatelliteRadio (addOns)).
-Added sale income $55253.18 to current balance
-SALESPERSON Elaina Simpson sold CLEAN LIKE_NEW Predator 14 to Buyer unsuccessfully
-SALESPERSON Elaina Simpson sold SPARKLING LIKE_NEW GMC Hummer EV 2018 to Buyer unsuccessfully
-SALESPERSON Andrew Carroll sold SPARKLING LIKE_NEW Ducati 2023 (407 CC engine) to Buyer unsuccessfully
+INTERN Salvatore Vincent wash (ChemicalWashing) PICKUP Dodge Ram 1500 TRX 2016 and made it CLEAN
+INTERN Salvatore Vincent wash (ChemicalWashing) MONSTER_TRUCK Swamp Thing 2 and made it CLEAN
+INTERN Samson Chase wash (DetailedWashing) PERFORMANCE_CAR Mazda MX-5 Miata 2019 and made it DIRTY
+INTERN Samson Chase wash (DetailedWashing) PERFORMANCE_CAR Mazda MX-5 Miata 2019 and made it CLEAN
+INTERN Dilan Jensen wash (DetailedWashing) PERFORMANCE_CAR Mazda MX-5 Miata 2019 and made it CLEAN
+INTERN Dilan Jensen wash (DetailedWashing) PERFORMANCE_CAR Mazda MX-5 Miata 2019 and made it DIRTY
+SALESPERSON Macie Chase (earned $220.00 bonus) sold CLEAN LIKE_NEW (PICKUP) Dodge Ram 1500 TRX 2016 to Buyer for $52545.63 + $6305.48 (Undercoating, RoadRescueCoverage, SatelliteRadio (addOns)).
+Added sale income $58851.11 to current balance
+SALESPERSON Macie Chase sold CLEAN LIKE_NEW Hyundai Sonata 2018 to Buyer for $48286.87 without any addOns (earned $160.00 bonus)
+Added sale income $48286.87 to current balance
+SALESPERSON Macie Chase (earned $300.00 bonus) sold CLEAN LIKE_NEW (ELECTRIC_CAR) Hyundai Kona Electric 2013 (444 miles) to Buyer for $83467.93 + $5842.76 (RoadRescueCoverage, SatelliteRadio (addOns)).
+Added sale income $89310.69 to current balance
+SALESPERSON Amayah Case (earned $220.00 bonus) sold CLEAN LIKE_NEW (PICKUP) Nissan Frontier 2011 to Buyer for $34654.32 + $693.09 (RoadRescueCoverage (addOns)).
+Added sale income $35347.41 to current balance
+SALESPERSON Macie Chase (earned $300.00 bonus) sold SPARKLING LIKE_NEW (ELECTRIC_CAR) Subaru Solterra 2022 (186 miles) to Buyer for $74859.91 + $14971.98 (ExtendedWarranty (addOns)).
+Added sale income $89831.90 to current balance
 Total salary payout increased by $1500.00
-Total bonuses payout increased by $1310.00
-MECHANIC Leonard Vincent received $120.00 (salary) and $150.00 (bonuses)
-MECHANIC Haven Person received $120.00 (salary) and $150.00 (bonuses)
-DRIVER Claire Maldonado received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Gerardo Norris received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Cash Ho received $150.00 (salary) and $0.00 (bonuses)
-MECHANIC Fernando Alexander received $120.00 (salary) and $0.00 (bonuses)
-SALESPERSON Elaina Simpson received $150.00 (salary) and $350.00 (bonuses)
-SALESPERSON Andrew Carroll received $150.00 (salary) and $0.00 (bonuses)
-INTERN Maxwell Hess received $80.00 (salary) and $0.00 (bonuses)
-INTERN Logan Frazier received $80.00 (salary) and $0.00 (bonuses)
-SALESPERSON Frances Vaughn received $150.00 (salary) and $440.00 (bonuses)
-INTERN Alaia Rangel received $80.00 (salary) and $220.00 (bonuses)
+Total bonuses payout increased by $1200.00
+SALESPERSON Amayah Case received $150.00 (salary) and $220.00 (bonuses)
+DRIVER Macie Mayo received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Angie Fuller received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Samson Moody received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Kiana Wilkinson received $120.00 (salary) and $0.00 (bonuses)
+SALESPERSON Macie Chase received $150.00 (salary) and $980.00 (bonuses)
+SALESPERSON Easton Ramos received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Cade Rivers received $120.00 (salary) and $0.00 (bonuses)
+INTERN Salvatore Vincent received $80.00 (salary) and $0.00 (bonuses)
+INTERN Samson Chase received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Royalty Ryan received $120.00 (salary) and $0.00 (bonuses)
+INTERN Dilan Jensen received $80.00 (salary) and $0.00 (bonuses)

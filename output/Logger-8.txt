@@ -1,34 +1,34 @@
-Purchased BROKEN, SPARKLING MOTORCYCLE BMW 2021 (693 CC engine) for $ 43391.03
-Purchased BROKEN, SPARKLING MONSTER_TRUCK Predator 14 for $ 94944.25
-INTERN Dalton Jordan wash (DetailedWashing) PERFORMANCE_CAR Ford Mustang 2015 and made it DIRTY
-INTERN Dalton Jordan wash (DetailedWashing) PERFORMANCE_CAR Ford Mustang 2015 and made it CLEAN
-INTERN Andrew Carroll wash (ElbowGreaseWashing) PERFORMANCE_CAR Ford Mustang 2015 and made it SPARKLING (earned 75.00 bonus)
-INTERN Andrew Carroll wash (ElbowGreaseWashing) PERFORMANCE_CAR McLaren 720S 2015 and made it DIRTY
-INTERN Leonard O’Connell wash (ElbowGreaseWashing) PERFORMANCE_CAR McLaren 720S 2015 and made it CLEAN
-INTERN Leonard O’Connell wash (ElbowGreaseWashing) PERFORMANCE_CAR McLaren 720S 2015 and made it CLEAN
-MECHANIC Leonard Vincent repaired BROKEN MOTORCYCLE BMW 2021 (693 CC engine) and made it USED (earned $80.00 bonus)
-MECHANIC Leonard Vincent repaired USED MOTORCYCLE BMW 2021 (693 CC engine) unsuccessfully
-MECHANIC Haven Person repaired USED MOTORCYCLE BMW 2021 (693 CC engine) and made it LIKE_NEW (earned $80.00 bonus)
-MECHANIC Haven Person repaired BROKEN MONSTER_TRUCK Predator 14 and made it USED (earned $500.00 bonus)
-MECHANIC Fernando Alexander repaired USED MONSTER_TRUCK Predator 14 and made it LIKE_NEW (earned $500.00 bonus)
-SALESPERSON Octavia Fuller sold CLEAN LIKE_NEW Mercedes-Benz S-class 2015 to Buyer unsuccessfully
-SALESPERSON Elaina Simpson sold CLEAN LIKE_NEW McLaren 720S 2015 to Buyer unsuccessfully
-SALESPERSON Elaina Simpson (earned $150.00 bonus) sold DIRTY LIKE_NEW (MOTORCYCLE) BMW 2021 (693 CC engine) to Buyer for $81358.18 + $4067.91 (SatelliteRadio (addOns)).
-Added sale income $85426.09 to current balance
-Claire Maldonado (Driver) raced with Ford Velociraptor 6×6 2011 (PICKUP) and achieved rank no. 5.
-Gerardo Norris (Driver) raced with GMC Hummer EV 2018 (PICKUP) and achieved rank no. 10.
-Cash Ho (Driver) raced with Rivian R1T 2013 (PICKUP) and achieved rank no. 13.
+Purchased LIKE_NEW, DIRTY PICKUP Jeep Gladiator 2014 for $ 60815.60
+Purchased LIKE_NEW, DIRTY ELECTRIC_CAR Nissan Ariya 2021 (384 miles) for $ 59530.87
+INTERN Eric Stuart wash (ChemicalWashing) PERFORMANCE_CAR Porsche 718 Cayman 2017 and made it CLEAN
+INTERN Eric Stuart wash (ChemicalWashing) MONSTER_TRUCK Zombie 6 and made it CLEAN
+INTERN Royalty Ryan wash (ElbowGreaseWashing) PICKUP Jeep Gladiator 2014 and made it DIRTY
+INTERN Royalty Ryan wash (ElbowGreaseWashing) PICKUP Jeep Gladiator 2014 and made it CLEAN
+INTERN Salvatore Vincent wash (ChemicalWashing) ELECTRIC_CAR Nissan Ariya 2021 (384 miles) and made it CLEAN
+INTERN Salvatore Vincent wash (ChemicalWashing) PERFORMANCE_CAR Mazda MX-5 Miata 2019 and made it CLEAN
+SALESPERSON Macie Chase (earned $220.00 bonus) sold CLEAN LIKE_NEW (PICKUP) Jeep Gladiator 2014 to Buyer for $60815.60 + $12163.12 (ExtendedWarranty (addOns)).
+Added sale income $72978.72 to current balance
+SALESPERSON Easton Ramos sold CLEAN LIKE_NEW Zombie 13 to Buyer unsuccessfully
+SALESPERSON Macie Chase (earned $500.00 bonus) sold CLEAN LIKE_NEW (MONSTER_TRUCK) Zombie 13 to Buyer for $165206.02 + $11564.42 (Undercoating, RoadRescueCoverage (addOns)).
+Added sale income $176770.45 to current balance
+SALESPERSON Macie Chase (earned $150.00 bonus) sold CLEAN LIKE_NEW (MOTORCYCLE) Victory 2018 (949 CC engine) to Buyer for $56414.63 + $2820.73 (SatelliteRadio (addOns)).
+Added sale income $59235.36 to current balance
+Macie Mayo (Driver) raced with Harley-Davidson 2016 (879 CC engine) (MOTORCYCLE) and achieved rank no. 16.
+Harley-Davidson 2016 (879 CC engine) (MOTORCYCLE) went BROKEN.
+Angie Fuller (Driver) raced with Buell 2022 (755 CC engine) (MOTORCYCLE) and achieved rank no. 2.
+Angie Fuller (Driver) won with Buell 2022 (755 CC engine) (MOTORCYCLE) (earned $ 1000 bonus)!
+Samson Moody (Driver) raced with CCW 2014 (1143 CC engine) (MOTORCYCLE) and achieved rank no. 5.
 Total salary payout increased by $1500.00
-Total bonuses payout increased by $1385.00
-MECHANIC Leonard Vincent received $120.00 (salary) and $80.00 (bonuses)
-MECHANIC Haven Person received $120.00 (salary) and $580.00 (bonuses)
-SALESPERSON Octavia Fuller received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Claire Maldonado received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Gerardo Norris received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Cash Ho received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Leroy Blair received $150.00 (salary) and $0.00 (bonuses)
-MECHANIC Fernando Alexander received $120.00 (salary) and $500.00 (bonuses)
-INTERN Dalton Jordan received $80.00 (salary) and $0.00 (bonuses)
-SALESPERSON Elaina Simpson received $150.00 (salary) and $150.00 (bonuses)
-INTERN Andrew Carroll received $80.00 (salary) and $75.00 (bonuses)
-INTERN Leonard O’Connell received $80.00 (salary) and $0.00 (bonuses)
+Total bonuses payout increased by $1870.00
+MECHANIC Ridge Fernandez received $120.00 (salary) and $0.00 (bonuses)
+SALESPERSON Amayah Case received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Macie Mayo received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Angie Fuller received $150.00 (salary) and $1000.00 (bonuses)
+DRIVER Samson Moody received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Kiana Wilkinson received $120.00 (salary) and $0.00 (bonuses)
+SALESPERSON Macie Chase received $150.00 (salary) and $870.00 (bonuses)
+SALESPERSON Easton Ramos received $150.00 (salary) and $0.00 (bonuses)
+INTERN Eric Stuart received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Cade Rivers received $120.00 (salary) and $0.00 (bonuses)
+INTERN Royalty Ryan received $80.00 (salary) and $0.00 (bonuses)
+INTERN Salvatore Vincent received $80.00 (salary) and $0.00 (bonuses)

@@ -1,30 +1,36 @@
-INTERN Maxwell Hess wash (ElbowGreaseWashing) PICKUP GMC Hummer EV 2018 and made it CLEAN
-INTERN Maxwell Hess wash (ElbowGreaseWashing) PICKUP Ford Maverick 2011 and made it CLEAN
-INTERN Logan Frazier wash (ElbowGreaseWashing) PICKUP GMC Hummer EV 2018 and made it CLEAN
-INTERN Logan Frazier wash (ElbowGreaseWashing) PICKUP GMC Hummer EV 2018 and made it SPARKLING (earned 100.00 bonus)
-INTERN Alaia Rangel wash (DetailedWashing) MONSTER_TRUCK Backwards Bob 11 and made it CLEAN
-INTERN Alaia Rangel wash (DetailedWashing) MONSTER_TRUCK Backwards Bob 11 and made it CLEAN
-MECHANIC Leonard Vincent repaired USED PICKUP Ford Maverick 2011 and made it LIKE_NEW (earned $150.00 bonus)
-SALESPERSON Andrew Carroll sold CLEAN LIKE_NEW Backwards Bob 11 to Buyer for $255097.98 without any addOns (earned $500.00 bonus)
-Added sale income $255097.98 to current balance
-SALESPERSON Andrew Carroll (earned $220.00 bonus) sold DIRTY LIKE_NEW (PICKUP) Ford Maverick 2011 to Buyer for $145376.12 + $29075.22 (ExtendedWarranty (addOns)).
-Added sale income $174451.34 to current balance
-SALESPERSON Frances Vaughn sold SPARKLING LIKE_NEW Kia K5 2014 to Buyer unsuccessfully
-SALESPERSON Elaina Simpson sold CLEAN LIKE_NEW Royal Enfield 2014 (959 CC engine) to Buyer unsuccessfully
-SALESPERSON Elaina Simpson sold SPARKLING LIKE_NEW Kia K5 2014 to Buyer unsuccessfully
-SALESPERSON Elaina Simpson (earned $500.00 bonus) sold CLEAN LIKE_NEW (MONSTER_TRUCK) Captain's Curse 5 to Buyer for $164841.38 + $19780.97 (Undercoating, RoadRescueCoverage, SatelliteRadio (addOns)).
-Added sale income $184622.35 to current balance
+Purchased BROKEN, CLEAN CAR Mitsubishi Eclipse 2020 for $ 24824.60
+Purchased USED, DIRTY ELECTRIC_CAR Volkswagen ID4 2023 (79 miles) for $ 69100.57
+INTERN Salvatore Vincent wash (ChemicalWashing) MONSTER_TRUCK Bear Foot (Silverado) 11 and made it CLEAN
+INTERN Salvatore Vincent wash (ChemicalWashing) PICKUP Toyota Tacoma TRD Pro 2015 and made it DIRTY
+INTERN Samson Chase wash (DetailedWashing) PICKUP Toyota Tacoma TRD Pro 2015 and made it DIRTY
+INTERN Samson Chase wash (DetailedWashing) PICKUP Toyota Tacoma TRD Pro 2015 and made it CLEAN
+INTERN Dilan Jensen wash (DetailedWashing) ELECTRIC_CAR Volkswagen ID4 2023 (79 miles) and made it CLEAN
+INTERN Dilan Jensen wash (DetailedWashing) PICKUP Mahindra Bolero Camper 2012 and made it CLEAN
+MECHANIC Kiana Wilkinson repaired BROKEN CAR Mitsubishi Eclipse 2020 and made it USED (earned $100.00 bonus)
+MECHANIC Kiana Wilkinson repaired USED CAR Mitsubishi Eclipse 2020 unsuccessfully
+MECHANIC Cade Rivers repaired USED CAR Mitsubishi Eclipse 2020 and made it LIKE_NEW (earned $100.00 bonus)
+MECHANIC Cade Rivers repaired USED ELECTRIC_CAR Volkswagen ID4 2023 (79 miles) and made it LIKE_NEW (earned $300.00 bonus)
+SALESPERSON Macie Chase (earned $350.00 bonus) sold SPARKLING LIKE_NEW (PERFORMANCE_CAR) Lamborghini Countach 2012 to Buyer for $233280.22 + $4665.60 (RoadRescueCoverage (addOns)).
+Added sale income $237945.82 to current balance
+SALESPERSON Easton Ramos sold DIRTY LIKE_NEW Volkswagen ID4 2023 (179 miles) to Buyer unsuccessfully
+SALESPERSON Macie Chase sold CLEAN LIKE_NEW Porsche 718 Cayman 2017 to Buyer unsuccessfully
+SALESPERSON Easton Ramos (earned $500.00 bonus) sold CLEAN LIKE_NEW (MONSTER_TRUCK) Bear Foot (Silverado) 11 to Buyer for $161953.80 + $11336.77 (Undercoating, RoadRescueCoverage (addOns)).
+Added sale income $173290.57 to current balance
+SALESPERSON Amayah Case (earned $220.00 bonus) sold CLEAN LIKE_NEW (PICKUP) Toyota Tacoma TRD Pro 2015 to Buyer for $113937.81 + $25066.32 (ExtendedWarranty, RoadRescueCoverage (addOns)).
+Added sale income $139004.13 to current balance
+SALESPERSON Macie Chase sold DIRTY LIKE_NEW Mitsubishi Eclipse 2020 to Buyer for $46546.13 without any addOns (earned $160.00 bonus)
+Added sale income $46546.13 to current balance
 Total salary payout increased by $1500.00
-Total bonuses payout increased by $1470.00
-MECHANIC Leonard Vincent received $120.00 (salary) and $150.00 (bonuses)
-MECHANIC Haven Person received $120.00 (salary) and $0.00 (bonuses)
-DRIVER Gerardo Norris received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Cash Ho received $150.00 (salary) and $0.00 (bonuses)
-MECHANIC Fernando Alexander received $120.00 (salary) and $0.00 (bonuses)
-SALESPERSON Elaina Simpson received $150.00 (salary) and $500.00 (bonuses)
-SALESPERSON Andrew Carroll received $150.00 (salary) and $720.00 (bonuses)
-INTERN Maxwell Hess received $80.00 (salary) and $0.00 (bonuses)
-INTERN Logan Frazier received $80.00 (salary) and $100.00 (bonuses)
-SALESPERSON Frances Vaughn received $150.00 (salary) and $0.00 (bonuses)
-INTERN Alaia Rangel received $80.00 (salary) and $0.00 (bonuses)
-DRIVER Harry O’brien received $150.00 (salary) and $0.00 (bonuses)
+Total bonuses payout increased by $1730.00
+SALESPERSON Amayah Case received $150.00 (salary) and $220.00 (bonuses)
+DRIVER Samson Moody received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Kiana Wilkinson received $120.00 (salary) and $100.00 (bonuses)
+SALESPERSON Macie Chase received $150.00 (salary) and $510.00 (bonuses)
+SALESPERSON Easton Ramos received $150.00 (salary) and $500.00 (bonuses)
+MECHANIC Cade Rivers received $120.00 (salary) and $400.00 (bonuses)
+INTERN Salvatore Vincent received $80.00 (salary) and $0.00 (bonuses)
+INTERN Samson Chase received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Royalty Ryan received $120.00 (salary) and $0.00 (bonuses)
+INTERN Dilan Jensen received $80.00 (salary) and $0.00 (bonuses)
+DRIVER Macie Cardenas received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Riley Frazier received $150.00 (salary) and $0.00 (bonuses)

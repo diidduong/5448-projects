@@ -1,25 +1,31 @@
-INTERN Maxwell Hess wash (ElbowGreaseWashing) MOTORCYCLE Cagiva 2017 (618 CC engine) and made it DIRTY
-INTERN Maxwell Hess wash (ElbowGreaseWashing) MOTORCYCLE Cagiva 2017 (618 CC engine) and made it CLEAN
-INTERN Logan Frazier wash (ElbowGreaseWashing) MOTORCYCLE Cagiva 2017 (618 CC engine) and made it CLEAN
-INTERN Logan Frazier wash (ElbowGreaseWashing) MOTORCYCLE Cagiva 2017 (618 CC engine) and made it DIRTY
-INTERN Alaia Rangel wash (DetailedWashing) MOTORCYCLE Cagiva 2017 (618 CC engine) and made it CLEAN
-INTERN Alaia Rangel wash (DetailedWashing) MOTORCYCLE Cagiva 2017 (618 CC engine) and made it CLEAN
-Gerardo Norris (Driver) raced with GMC Hummer EV 2018 (PICKUP) and achieved rank no. 20.
-GMC Hummer EV 2018 (PICKUP) went BROKEN.
-Cash Ho (Driver) raced with Ford Ranger 2022 (PICKUP) and achieved rank no. 11.
-Harry O’brien (Driver) raced with Ford Maverick 2011 (PICKUP) and achieved rank no. 19.
-Ford Maverick 2011 (PICKUP) went BROKEN.
-Total salary payout increased by $1500.00
-Total bonuses payout increased by $0.00
-MECHANIC Leonard Vincent received $120.00 (salary) and $0.00 (bonuses)
-MECHANIC Haven Person received $120.00 (salary) and $0.00 (bonuses)
-DRIVER Gerardo Norris received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Cash Ho received $150.00 (salary) and $0.00 (bonuses)
-MECHANIC Fernando Alexander received $120.00 (salary) and $0.00 (bonuses)
-SALESPERSON Elaina Simpson received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Andrew Carroll received $150.00 (salary) and $0.00 (bonuses)
-INTERN Maxwell Hess received $80.00 (salary) and $0.00 (bonuses)
-INTERN Logan Frazier received $80.00 (salary) and $0.00 (bonuses)
-SALESPERSON Frances Vaughn received $150.00 (salary) and $0.00 (bonuses)
-INTERN Alaia Rangel received $80.00 (salary) and $0.00 (bonuses)
-DRIVER Harry O’brien received $150.00 (salary) and $0.00 (bonuses)
+Purchased BROKEN, DIRTY CAR Chevrolet Bolt 2011 for $ 32359.31
+INTERN Salvatore Vincent wash (ChemicalWashing) PERFORMANCE_CAR Lamborghini Countach 2012 and made it CLEAN
+INTERN Salvatore Vincent wash (ChemicalWashing) CAR Chevrolet Bolt 2011 and made it CLEAN
+INTERN Samson Chase wash (DetailedWashing) PERFORMANCE_CAR Lamborghini Countach 2012 and made it SPARKLING (earned 75.00 bonus)
+INTERN Samson Chase wash (DetailedWashing) CAR Honda Odyssey 2013 and made it CLEAN
+INTERN Dilan Jensen wash (DetailedWashing) CAR Honda Odyssey 2013 and made it DIRTY
+INTERN Dilan Jensen wash (DetailedWashing) CAR Honda Odyssey 2013 and made it CLEAN
+MECHANIC Kiana Wilkinson repaired BROKEN CAR Chevrolet Bolt 2011 and made it USED (earned $100.00 bonus)
+MECHANIC Kiana Wilkinson repaired USED CAR Chevrolet Bolt 2011 unsuccessfully
+MECHANIC Cade Rivers repaired USED CAR Chevrolet Bolt 2011 and made it LIKE_NEW (earned $100.00 bonus)
+SALESPERSON Macie Chase sold CLEAN LIKE_NEW Tesla Model 3 2013 (359 miles) to Buyer unsuccessfully
+SALESPERSON Macie Chase (earned $220.00 bonus) sold CLEAN LIKE_NEW (PICKUP) Chevrolet Colorado ZR2 2018 to Buyer for $148829.38 + $40183.93 (ExtendedWarranty, RoadRescueCoverage, SatelliteRadio (addOns)).
+Added sale income $189013.32 to current balance
+Angie Fuller (Driver) raced with Bear Foot (Silverado) 11 (MONSTER_TRUCK) and achieved rank no. 16.
+DRIVER Angie Fuller got injured!
+Bear Foot (Silverado) 11 (MONSTER_TRUCK) went BROKEN.
+Samson Moody (Driver) raced with Lucas Oil Crusader 4 (MONSTER_TRUCK) and achieved rank no. 11.
+Macie Cardenas (Driver) raced with Swamp Thing 2 (MONSTER_TRUCK) and achieved rank no. 8.
+Total salary payout increased by $1350.00
+Total bonuses payout increased by $495.00
+SALESPERSON Amayah Case received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Samson Moody received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Kiana Wilkinson received $120.00 (salary) and $100.00 (bonuses)
+SALESPERSON Macie Chase received $150.00 (salary) and $220.00 (bonuses)
+SALESPERSON Easton Ramos received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Cade Rivers received $120.00 (salary) and $100.00 (bonuses)
+INTERN Salvatore Vincent received $80.00 (salary) and $0.00 (bonuses)
+INTERN Samson Chase received $80.00 (salary) and $75.00 (bonuses)
+MECHANIC Royalty Ryan received $120.00 (salary) and $0.00 (bonuses)
+INTERN Dilan Jensen received $80.00 (salary) and $0.00 (bonuses)
+DRIVER Macie Cardenas received $150.00 (salary) and $0.00 (bonuses)

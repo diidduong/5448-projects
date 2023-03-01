@@ -1,23 +1,30 @@
-INTERN Ariyah Fleming wash (ElbowGreaseWashing) PERFORMANCE_CAR Porsche 718 Boxster 2018 and made it CLEAN
-INTERN Ariyah Fleming wash (ElbowGreaseWashing) PERFORMANCE_CAR Porsche 718 Boxster 2018 and made it CLEAN
-INTERN Elaine Reed wash (ChemicalWashing) PERFORMANCE_CAR Porsche 718 Boxster 2018 and made it CLEAN
-INTERN Elaine Reed wash (ChemicalWashing) PERFORMANCE_CAR Porsche 718 Boxster 2018 and made it CLEAN
-INTERN Alaia Smith wash (ElbowGreaseWashing) PERFORMANCE_CAR Porsche 718 Boxster 2018 and made it CLEAN
-INTERN Alaia Smith wash (ElbowGreaseWashing) PERFORMANCE_CAR Porsche 718 Boxster 2018 and made it CLEAN
-MECHANIC Logan Frazier repaired BROKEN PICKUP GMC Sierra Supercharged 2021 and made it USED (earned $150.00 bonus)
-MECHANIC Logan Frazier repaired USED PICKUP GMC Sierra Supercharged 2021 and made it LIKE_NEW (earned $150.00 bonus)
-SALESPERSON Andrew Carroll sold CLEAN LIKE_NEW Tesla Model S 2013 to Buyer unsuccessfully
+Purchased USED, CLEAN CAR Honda Civic 2016 for $ 38593.67
+INTERN Tiffany Maldonado wash (ElbowGreaseWashing) MONSTER_TRUCK Bigfoot 12 and made it DIRTY
+INTERN Tiffany Maldonado wash (ElbowGreaseWashing) MONSTER_TRUCK Bigfoot 12 and made it DIRTY
+INTERN Anaya Giles wash (ChemicalWashing) MONSTER_TRUCK Bigfoot 12 and made it CLEAN
+INTERN Anaya Giles wash (ChemicalWashing) MONSTER_TRUCK Bigfoot 12 and made it CLEAN
+INTERN Charlee Herman wash (DetailedWashing) MONSTER_TRUCK Bigfoot 12 and made it CLEAN
+INTERN Charlee Herman wash (DetailedWashing) MONSTER_TRUCK Bigfoot 12 and made it CLEAN
+MECHANIC Kiana Wilkinson repaired BROKEN PICKUP Toyota Hilux 2020 unsuccessfully
+MECHANIC Kiana Wilkinson repaired BROKEN PICKUP Toyota Hilux 2020 and made it USED (earned $150.00 bonus)
+MECHANIC Cade Rivers repaired USED PICKUP Toyota Hilux 2020 and made it LIKE_NEW (earned $150.00 bonus)
+MECHANIC Cade Rivers repaired USED CAR Honda Civic 2016 and made it LIKE_NEW (earned $100.00 bonus)
+SALESPERSON Macie Chase sold CLEAN LIKE_NEW Bigfoot 12 to Buyer unsuccessfully
+SALESPERSON Macie Chase sold CLEAN LIKE_NEW Bigfoot 12 to Buyer unsuccessfully
+SALESPERSON Salvatore Vincent sold DIRTY LIKE_NEW Honda Civic 2016 to Buyer unsuccessfully
+SALESPERSON Easton Ramos (earned $150.00 bonus) sold CLEAN LIKE_NEW (MOTORCYCLE) Benelli 2022 (911 CC engine) to Buyer for $68630.45 + $1372.61 (RoadRescueCoverage (addOns)).
+Added sale income $70003.06 to current balance
 Total salary payout increased by $1500.00
-Total bonuses payout increased by $300.00
-DRIVER Gerardo Norris received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Cash Ho received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Elaina Simpson received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Andrew Carroll received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Frances Vaughn received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Harry O’brien received $150.00 (salary) and $0.00 (bonuses)
-MECHANIC Logan Frazier received $120.00 (salary) and $300.00 (bonuses)
-INTERN Ariyah Fleming received $80.00 (salary) and $0.00 (bonuses)
-MECHANIC Alaia Rangel received $120.00 (salary) and $0.00 (bonuses)
-INTERN Elaine Reed received $80.00 (salary) and $0.00 (bonuses)
-MECHANIC Rhett Hayden received $120.00 (salary) and $0.00 (bonuses)
-INTERN Alaia Smith received $80.00 (salary) and $0.00 (bonuses)
+Total bonuses payout increased by $550.00
+MECHANIC Kiana Wilkinson received $120.00 (salary) and $150.00 (bonuses)
+SALESPERSON Macie Chase received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Easton Ramos received $150.00 (salary) and $150.00 (bonuses)
+MECHANIC Cade Rivers received $120.00 (salary) and $250.00 (bonuses)
+MECHANIC Royalty Ryan received $120.00 (salary) and $0.00 (bonuses)
+DRIVER Riley Frazier received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Salvatore Vincent received $150.00 (salary) and $0.00 (bonuses)
+INTERN Tiffany Maldonado received $80.00 (salary) and $0.00 (bonuses)
+INTERN Anaya Giles received $80.00 (salary) and $0.00 (bonuses)
+DRIVER Charlee Benton received $150.00 (salary) and $0.00 (bonuses)
+INTERN Charlee Herman received $80.00 (salary) and $0.00 (bonuses)
+DRIVER Ismael Kennedy received $150.00 (salary) and $0.00 (bonuses)

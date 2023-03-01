@@ -1,32 +1,33 @@
-INTERN Frances Vaughn wash (DetailedWashing) CAR Mercedes-Benz S-class 2015 and made it CLEAN
-INTERN Frances Vaughn wash (DetailedWashing) PERFORMANCE_CAR Porsche 911 2019 and made it DIRTY
-INTERN Maxwell Hess wash (ElbowGreaseWashing) PERFORMANCE_CAR Porsche 911 2019 and made it CLEAN
-INTERN Maxwell Hess wash (ElbowGreaseWashing) CAR Mercedes-Benz S-class 2015 and made it SPARKLING (earned 50.00 bonus)
-INTERN Logan Frazier wash (ElbowGreaseWashing) CAR Audi A3 2021 and made it SPARKLING (earned 50.00 bonus)
-INTERN Logan Frazier wash (ElbowGreaseWashing) CAR Kia K5 2014 and made it CLEAN
-SALESPERSON Andrew Carroll sold CLEAN LIKE_NEW Kawasaki 2022 (623 CC engine) to Buyer unsuccessfully
-SALESPERSON Elaina Simpson (earned $160.00 bonus) sold SPARKLING LIKE_NEW (CAR) Mercedes-Benz S-class 2015 to Buyer for $69461.45 + $1389.23 (RoadRescueCoverage (addOns)).
-Added sale income $70850.68 to current balance
-SALESPERSON Elaina Simpson sold CLEAN LIKE_NEW Predator 14 to Buyer unsuccessfully
-SALESPERSON Leroy Blair sold CLEAN LIKE_NEW Kawasaki 2022 (623 CC engine) to Buyer unsuccessfully
-SALESPERSON Leroy Blair (earned $150.00 bonus) sold CLEAN LIKE_NEW (MOTORCYCLE) Kawasaki 2022 (623 CC engine) to Buyer for $54922.42 + $2746.12 (SatelliteRadio (addOns)).
-Added sale income $57668.54 to current balance
-Claire Maldonado (Driver) raced with Cagiva 2017 (618 CC engine) (MOTORCYCLE) and achieved rank no. 9.
-Gerardo Norris (Driver) raced with Can-Am 2015 (937 CC engine) (MOTORCYCLE) and achieved rank no. 1.
-Gerardo Norris (Driver) won with Can-Am 2015 (937 CC engine) (MOTORCYCLE) (earned $ 1000 bonus)!
-Cash Ho (Driver) raced with Kawasaki 2013 (393 CC engine) (MOTORCYCLE) and achieved rank no. 19.
-Kawasaki 2013 (393 CC engine) (MOTORCYCLE) went BROKEN.
+INTERN Salvatore Vincent wash (ChemicalWashing) MONSTER_TRUCK Raminator 12 and made it DIRTY
+INTERN Salvatore Vincent wash (ChemicalWashing) MONSTER_TRUCK Raminator 12 and made it CLEAN
+INTERN Samson Chase wash (DetailedWashing) PICKUP GMC Sierra Supercharged 2015 and made it SPARKLING (earned 100.00 bonus)
+INTERN Samson Chase wash (DetailedWashing) MONSTER_TRUCK Lucas Oil Crusader 4 and made it CLEAN
+INTERN Dilan Jensen wash (DetailedWashing) PERFORMANCE_CAR Mazda MX-5 Miata 2019 and made it CLEAN
+INTERN Dilan Jensen wash (DetailedWashing) PERFORMANCE_CAR Mazda MX-5 Miata 2019 and made it CLEAN
+MECHANIC Kiana Wilkinson repaired BROKEN MONSTER_TRUCK Raminator 12 and made it USED (earned $500.00 bonus)
+MECHANIC Kiana Wilkinson repaired USED MONSTER_TRUCK Raminator 12 and made it LIKE_NEW (earned $500.00 bonus)
+SALESPERSON Easton Ramos (earned $220.00 bonus) sold SPARKLING LIKE_NEW (PICKUP) GMC Sierra Supercharged 2015 to Buyer for $66391.44 + $4647.40 (RoadRescueCoverage, SatelliteRadio (addOns)).
+Added sale income $71038.85 to current balance
+SALESPERSON Easton Ramos sold CLEAN LIKE_NEW Hyundai Sonata 2018 to Buyer unsuccessfully
+SALESPERSON Easton Ramos sold CLEAN LIKE_NEW Nissan Frontier 2011 to Buyer unsuccessfully
+SALESPERSON Easton Ramos sold CLEAN LIKE_NEW Nissan Frontier 2011 to Buyer unsuccessfully
+SALESPERSON Macie Chase sold DIRTY LIKE_NEW Raminator 12 to Buyer for $176546.85 without any addOns (earned $500.00 bonus)
+Added sale income $176546.85 to current balance
+SALESPERSON Amayah Case sold CLEAN LIKE_NEW Harley-Davidson 2016 (879 CC engine) to Buyer unsuccessfully
+Macie Mayo (Driver) raced with Nissan Frontier 2011 (PICKUP) and achieved rank no. 7.
+Angie Fuller (Driver) raced with Mahindra Bolero Camper 2012 (PICKUP) and achieved rank no. 12.
+Samson Moody (Driver) raced with Toyota Hilux 2020 (PICKUP) and achieved rank no. 9.
 Total salary payout increased by $1500.00
-Total bonuses payout increased by $1410.00
-MECHANIC Leonard Vincent received $120.00 (salary) and $0.00 (bonuses)
-MECHANIC Haven Person received $120.00 (salary) and $0.00 (bonuses)
-DRIVER Claire Maldonado received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Gerardo Norris received $150.00 (salary) and $1000.00 (bonuses)
-DRIVER Cash Ho received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Leroy Blair received $150.00 (salary) and $150.00 (bonuses)
-MECHANIC Fernando Alexander received $120.00 (salary) and $0.00 (bonuses)
-SALESPERSON Elaina Simpson received $150.00 (salary) and $160.00 (bonuses)
-SALESPERSON Andrew Carroll received $150.00 (salary) and $0.00 (bonuses)
-INTERN Frances Vaughn received $80.00 (salary) and $0.00 (bonuses)
-INTERN Maxwell Hess received $80.00 (salary) and $50.00 (bonuses)
-INTERN Logan Frazier received $80.00 (salary) and $50.00 (bonuses)
+Total bonuses payout increased by $1820.00
+SALESPERSON Amayah Case received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Macie Mayo received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Angie Fuller received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Samson Moody received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Kiana Wilkinson received $120.00 (salary) and $1000.00 (bonuses)
+SALESPERSON Macie Chase received $150.00 (salary) and $500.00 (bonuses)
+SALESPERSON Easton Ramos received $150.00 (salary) and $220.00 (bonuses)
+MECHANIC Cade Rivers received $120.00 (salary) and $0.00 (bonuses)
+INTERN Salvatore Vincent received $80.00 (salary) and $0.00 (bonuses)
+INTERN Samson Chase received $80.00 (salary) and $100.00 (bonuses)
+MECHANIC Royalty Ryan received $120.00 (salary) and $0.00 (bonuses)
+INTERN Dilan Jensen received $80.00 (salary) and $0.00 (bonuses)

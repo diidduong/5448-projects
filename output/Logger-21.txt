@@ -1,27 +1,37 @@
-Purchased BROKEN, CLEAN PICKUP GMC Sierra Supercharged 2021 for $ 35823.09
-Purchased USED, CLEAN MONSTER_TRUCK Predator 7 for $ 82102.37
-Purchased LIKE_NEW, CLEAN MONSTER_TRUCK Monster Mutt 13 for $ 77303.09
-INTERN Maxwell Hess wash (ElbowGreaseWashing) MONSTER_TRUCK Lucas Oil Crusader 1 and made it CLEAN
-INTERN Maxwell Hess wash (ElbowGreaseWashing) MONSTER_TRUCK Lucas Oil Crusader 1 and made it CLEAN
-INTERN Logan Frazier wash (ElbowGreaseWashing) MONSTER_TRUCK Lucas Oil Crusader 1 and made it CLEAN
-INTERN Logan Frazier wash (ElbowGreaseWashing) MONSTER_TRUCK Lucas Oil Crusader 1 and made it CLEAN
-INTERN Alaia Rangel wash (DetailedWashing) MONSTER_TRUCK Lucas Oil Crusader 1 and made it CLEAN
-INTERN Alaia Rangel wash (DetailedWashing) MONSTER_TRUCK Lucas Oil Crusader 1 and made it CLEAN
-MECHANIC Leonard Vincent repaired BROKEN PICKUP GMC Sierra Supercharged 2021 and made it USED (earned $150.00 bonus)
-MECHANIC Leonard Vincent repaired USED PICKUP GMC Sierra Supercharged 2021 and made it LIKE_NEW (earned $150.00 bonus)
-MECHANIC Haven Person repaired USED MONSTER_TRUCK Predator 7 and made it LIKE_NEW (earned $500.00 bonus)
-SALESPERSON Elaina Simpson sold CLEAN LIKE_NEW Lucas Oil Crusader 1 to Buyer unsuccessfully
+Purchased BROKEN, DIRTY PERFORMANCE_CAR Ferrari F8 2013 for $ 65183.73
+Purchased USED, DIRTY CAR Volvo XC70 2014 for $ 31383.59
+Purchased BROKEN, CLEAN PICKUP Chevrolet Colorado ZR2 2013 for $ 34644.08
+Purchased BROKEN, DIRTY MONSTER_TRUCK Bigfoot 1 for $ 64091.07
+INTERN Salvatore Vincent wash (ChemicalWashing) ELECTRIC_CAR Volkswagen ID4 2023 (179 miles) and made it CLEAN
+INTERN Salvatore Vincent wash (ChemicalWashing) PERFORMANCE_CAR Ferrari F8 2013 and made it CLEAN
+INTERN Samson Chase wash (DetailedWashing) CAR Volvo XC70 2014 and made it CLEAN
+INTERN Samson Chase wash (DetailedWashing) MONSTER_TRUCK Bigfoot 1 and made it SPARKLING (earned 200.00 bonus)
+INTERN Dilan Jensen wash (DetailedWashing) PICKUP Mahindra Bolero Camper 2012 and made it CLEAN
+INTERN Dilan Jensen wash (DetailedWashing) PICKUP Mahindra Bolero Camper 2012 and made it DIRTY
+MECHANIC Kiana Wilkinson repaired BROKEN PERFORMANCE_CAR Ferrari F8 2013 and made it USED (earned $200.00 bonus)
+MECHANIC Kiana Wilkinson repaired USED PERFORMANCE_CAR Ferrari F8 2013 unsuccessfully
+MECHANIC Cade Rivers repaired USED PERFORMANCE_CAR Ferrari F8 2013 and made it LIKE_NEW (earned $200.00 bonus)
+MECHANIC Cade Rivers repaired USED CAR Volvo XC70 2014 and made it LIKE_NEW (earned $100.00 bonus)
+MECHANIC Royalty Ryan repaired BROKEN PICKUP Chevrolet Colorado ZR2 2013 and made it USED (earned $150.00 bonus)
+MECHANIC Royalty Ryan repaired USED PICKUP Chevrolet Colorado ZR2 2013 unsuccessfully
+SALESPERSON Easton Ramos (earned $500.00 bonus) sold CLEAN LIKE_NEW (MONSTER_TRUCK) Lucas Oil Crusader 4 to Buyer for $121096.15 + $8476.73 (RoadRescueCoverage, SatelliteRadio (addOns)).
+Added sale income $129572.88 to current balance
+SALESPERSON Easton Ramos (earned $500.00 bonus) sold CLEAN LIKE_NEW (MONSTER_TRUCK) Swamp Thing 2 to Buyer for $109423.10 + $5471.15 (SatelliteRadio (addOns)).
+Added sale income $114894.25 to current balance
+SALESPERSON Easton Ramos (earned $150.00 bonus) sold CLEAN LIKE_NEW (MOTORCYCLE) Harley-Davidson 2016 (879 CC engine) to Buyer for $103689.96 + $27996.29 (ExtendedWarranty, Undercoating, RoadRescueCoverage (addOns)).
+Added sale income $131686.25 to current balance
+SALESPERSON Amayah Case sold CLEAN LIKE_NEW Dodge Ram 1500 TRX 2011 to Buyer unsuccessfully
 Total salary payout increased by $1500.00
-Total bonuses payout increased by $800.00
-MECHANIC Leonard Vincent received $120.00 (salary) and $300.00 (bonuses)
-MECHANIC Haven Person received $120.00 (salary) and $500.00 (bonuses)
-DRIVER Gerardo Norris received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Cash Ho received $150.00 (salary) and $0.00 (bonuses)
-MECHANIC Fernando Alexander received $120.00 (salary) and $0.00 (bonuses)
-SALESPERSON Elaina Simpson received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Andrew Carroll received $150.00 (salary) and $0.00 (bonuses)
-INTERN Maxwell Hess received $80.00 (salary) and $0.00 (bonuses)
-INTERN Logan Frazier received $80.00 (salary) and $0.00 (bonuses)
-SALESPERSON Frances Vaughn received $150.00 (salary) and $0.00 (bonuses)
-INTERN Alaia Rangel received $80.00 (salary) and $0.00 (bonuses)
-DRIVER Harry O’brien received $150.00 (salary) and $0.00 (bonuses)
+Total bonuses payout increased by $2000.00
+SALESPERSON Amayah Case received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Samson Moody received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Kiana Wilkinson received $120.00 (salary) and $200.00 (bonuses)
+SALESPERSON Macie Chase received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Easton Ramos received $150.00 (salary) and $1150.00 (bonuses)
+MECHANIC Cade Rivers received $120.00 (salary) and $300.00 (bonuses)
+INTERN Salvatore Vincent received $80.00 (salary) and $0.00 (bonuses)
+INTERN Samson Chase received $80.00 (salary) and $200.00 (bonuses)
+MECHANIC Royalty Ryan received $120.00 (salary) and $150.00 (bonuses)
+INTERN Dilan Jensen received $80.00 (salary) and $0.00 (bonuses)
+DRIVER Macie Cardenas received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Riley Frazier received $150.00 (salary) and $0.00 (bonuses)
