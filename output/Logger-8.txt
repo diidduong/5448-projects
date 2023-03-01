@@ -1,0 +1,26 @@
+Purchased LIKE_NEW, DIRTY PERFORMANCE_CAR Acura NSX 2016 for $ 70816.25
+Purchased LIKE_NEW, CLEAN PICKUP Ford F-150 Lightning 2014 for $ 36397.66
+INTERN Bristol Giles wash (ChemicalWashing) MOTORCYCLE Husqvarna 2020 (646 CC engine) and made it CLEAN
+INTERN Bristol Giles wash (ChemicalWashing) MOTORCYCLE Harley-Davidson 2018 (963 CC engine) and made it CLEAN
+INTERN Claire Blair wash (ChemicalWashing) MOTORCYCLE Hyosung 2014 (712 CC engine) and made it CLEAN
+INTERN Claire Blair wash (ChemicalWashing) MONSTER_TRUCK Bigfoot 6 and made it CLEAN
+INTERN Bristol Thomas wash (ElbowGreaseWashing) PERFORMANCE_CAR Acura NSX 2016 and made it CLEAN
+INTERN Bristol Thomas wash (ElbowGreaseWashing) PERFORMANCE_CAR Dodge Viper 2010 and made it DIRTY
+MECHANIC Olivia Cabrera repaired USED MONSTER_TRUCK Bigfoot 6 and made it LIKE_NEW (earned $500.00 bonus)
+MECHANIC Olivia Cabrera repaired BROKEN CAR Honda Civic 2011 and made it USED (earned $100.00 bonus)
+MECHANIC Elaina Galindo repaired USED CAR Honda Civic 2011 and made it LIKE_NEW (earned $100.00 bonus)
+MECHANIC Elaina Galindo repaired BROKEN PICKUP GMC Canyon 2015 and made it USED (earned $150.00 bonus)
+MECHANIC Demi Parsons repaired USED PICKUP GMC Canyon 2015 unsuccessfully
+MECHANIC Demi Parsons repaired USED PICKUP GMC Canyon 2015 and made it LIKE_NEW (earned $150.00 bonus)
+SALESPERSON Navy Case sold DIRTY LIKE_NEW Dodge Viper 2010 to Buyer unsuccessfully
+SALESPERSON Joel Acevedo (earned $350.00 bonus) sold DIRTY LIKE_NEW (PERFORMANCE_CAR) Dodge Viper 2010 to Buyer for $79796.95 + $15959.39 (ExtendedWarranty (addOns)).
+Added sale income $95756.34 to current balance
+SALESPERSON Louis Rivers (earned $220.00 bonus) sold CLEAN LIKE_NEW (PICKUP) Tesla Cybertruck 2018 to Buyer for $51772.53 + $1035.45 (RoadRescueCoverage (addOns)).
+Added sale income $52807.98 to current balance
+Maxwell Singh (Driver) raced with Madusa 3 (MONSTER_TRUCK) and achieved rank no. 2.
+Maxwell Singh (Driver) won with Madusa 3 (MONSTER_TRUCK) (earned $ 1000 bonus)!
+Amara Reid (Driver) raced with Bigfoot 6 (MONSTER_TRUCK) and achieved rank no. 17.
+DRIVER Amara Reid got injured!
+Bigfoot 6 (MONSTER_TRUCK) went BROKEN.
+Logan Herman (Driver) raced with Raminator 1 (MONSTER_TRUCK) and achieved rank no. 14.
+Total salary payout increased by $1350.00Total bonuses payout increased by $2570.00MECHANIC Olivia Cabrera received $120.00 (salary) and $600.00 (bonuses)MECHANIC Elaina Galindo received $120.00 (salary) and $250.00 (bonuses)SALESPERSON Navy Case received $150.00 (salary) and $0.00 (bonuses)SALESPERSON Joel Acevedo received $150.00 (salary) and $350.00 (bonuses)DRIVER Maxwell Singh received $150.00 (salary) and $1000.00 (bonuses)DRIVER Logan Herman received $150.00 (salary) and $0.00 (bonuses)INTERN Bristol Giles received $80.00 (salary) and $0.00 (bonuses)MECHANIC Demi Parsons received $120.00 (salary) and $150.00 (bonuses)INTERN Claire Blair received $80.00 (salary) and $0.00 (bonuses)SALESPERSON Louis Rivers received $150.00 (salary) and $220.00 (bonuses)INTERN Bristol Thomas received $80.00 (salary) and $0.00 (bonuses)

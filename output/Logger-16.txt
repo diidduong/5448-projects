@@ -1,0 +1,25 @@
+Purchased BROKEN, DIRTY PERFORMANCE_CAR Acura NSX 2020 for $ 68443.68
+Purchased USED, DIRTY CAR Lucid Air 2014 for $ 35520.11
+INTERN Bristol Thomas wash (ElbowGreaseWashing) PERFORMANCE_CAR Acura NSX 2020 and made it CLEAN
+INTERN Bristol Thomas wash (ElbowGreaseWashing) CAR Lucid Air 2014 and made it CLEAN
+INTERN Remy Alexander wash (DetailedWashing) ELECTRIC_CAR MINI Cooper SE 2010 (552 miles) and made it CLEAN
+INTERN Remy Alexander wash (DetailedWashing) ELECTRIC_CAR MINI Cooper SE 2010 (552 miles) and made it CLEAN
+INTERN Claire Foley wash (ElbowGreaseWashing) ELECTRIC_CAR MINI Cooper SE 2010 (552 miles) and made it CLEAN
+INTERN Claire Foley wash (ElbowGreaseWashing) ELECTRIC_CAR MINI Cooper SE 2010 (552 miles) and made it SPARKLING (earned 120.00 bonus)
+MECHANIC Demi Parsons repaired BROKEN MONSTER_TRUCK Bigfoot 6 and made it USED (earned $500.00 bonus)
+MECHANIC Demi Parsons repaired USED MONSTER_TRUCK Bigfoot 6 and made it LIKE_NEW (earned $500.00 bonus)
+MECHANIC Bristol Giles repaired BROKEN MONSTER_TRUCK Raminator 1 unsuccessfully
+MECHANIC Bristol Giles repaired BROKEN MONSTER_TRUCK Raminator 1 unsuccessfully
+MECHANIC Claire Blair repaired BROKEN MONSTER_TRUCK Raminator 1 and made it USED (earned $500.00 bonus)
+MECHANIC Claire Blair repaired USED MONSTER_TRUCK Raminator 1 and made it LIKE_NEW (earned $500.00 bonus)
+SALESPERSON Louis Rivers (earned $350.00 bonus) sold CLEAN LIKE_NEW (PERFORMANCE_CAR) Dodge Viper 2017 to Buyer for $79068.75 + $1581.37 (RoadRescueCoverage (addOns)).
+Added sale income $80650.12 to current balance
+SALESPERSON Navy Case (earned $350.00 bonus) sold CLEAN LIKE_NEW (PERFORMANCE_CAR) Porsche 718 Cayman 2019 to Buyer for $66463.57 + $4652.45 (RoadRescueCoverage, SatelliteRadio (addOns)).
+Added sale income $71116.02 to current balance
+SALESPERSON Louis Rivers (earned $350.00 bonus) sold CLEAN LIKE_NEW (PERFORMANCE_CAR) Nissan Z-Car 2011 to Buyer for $44646.65 + $2232.33 (SatelliteRadio (addOns)).
+Added sale income $46878.99 to current balance
+SALESPERSON Navy Case sold CLEAN USED Lucid Air 2014 to Buyer unsuccessfully
+SALESPERSON Joel Acevedo (earned $500.00 bonus) sold DIRTY LIKE_NEW (MONSTER_TRUCK) Bigfoot 6 to Buyer for $1136321.76 + $284080.44 (ExtendedWarranty, SatelliteRadio (addOns)).
+Added sale income $1420402.20 to current balance
+SALESPERSON Joel Acevedo sold CLEAN LIKE_NEW GMC Canyon 2015 to Buyer unsuccessfully
+Total salary payout increased by $1500.00Total bonuses payout increased by $3670.00SALESPERSON Navy Case received $150.00 (salary) and $350.00 (bonuses)SALESPERSON Joel Acevedo received $150.00 (salary) and $500.00 (bonuses)DRIVER Maxwell Singh received $150.00 (salary) and $0.00 (bonuses)DRIVER Logan Herman received $150.00 (salary) and $0.00 (bonuses)MECHANIC Demi Parsons received $120.00 (salary) and $1000.00 (bonuses)SALESPERSON Louis Rivers received $150.00 (salary) and $700.00 (bonuses)INTERN Bristol Thomas received $80.00 (salary) and $0.00 (bonuses)DRIVER Kiana Tate received $150.00 (salary) and $0.00 (bonuses)MECHANIC Bristol Giles received $120.00 (salary) and $0.00 (bonuses)INTERN Remy Alexander received $80.00 (salary) and $0.00 (bonuses)MECHANIC Claire Blair received $120.00 (salary) and $1000.00 (bonuses)INTERN Claire Foley received $80.00 (salary) and $120.00 (bonuses)

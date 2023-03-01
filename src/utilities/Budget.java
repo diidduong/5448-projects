@@ -1,6 +1,8 @@
 package utilities;
 
 import staff.Staff;
+import tracking.EventPublisher;
+import tracking.Message;
 
 import java.util.ArrayList;
 
@@ -93,30 +95,35 @@ public class Budget {
      * This method aims at subtracting the new salary from the currentBalance.
      * @param staffs who receives new salary to be subtracted from the currentBalance.
      */
-    public void addSalariesPayout(ArrayList<Staff> staffs){
+    public void addSalariesPayout(ArrayList<Staff> staffs, EventPublisher publisher){
         double dailyRate = 0;
         for (Staff staff : staffs) {
             dailyRate += staff.getDailyRate();
         }
-        System.out.printf("Total salary payout increased by $ %.2f\n", dailyRate);
         currentBalance -= dailyRate;
         salaries += dailyRate;
-        System.out.printf("Current balance is $ %.2f \n", this.getCurrentBalance());
+
+        String msg = String.format("Total salary payout increased by $%.2f", dailyRate);
+        publisher.notifySubscribers(new Message(msg, 0, 0));
+
+        System.out.printf("Current balance is $%.2f\n", currentBalance);
     }
 
     /**
      * This method aims at subtracting the new bonus from the currentBalance.
      * @param staffs : who receives new bonus to be subtracted from the currentBalance.
      */
-    public void addBonusesPayout(ArrayList<Staff> staffs){
+    public void addBonusesPayout(ArrayList<Staff> staffs, EventPublisher publisher){
         double bonus = 0;
         for (Staff staff : staffs) {
             bonus += staff.getBonus();
         }
-        System.out.printf("Total bonuses payout increased by $ %.2f\n", bonus);
         currentBalance -= bonus;
         bonuses += bonus;
-        System.out.printf("Current balance is $ %.2f \n", getCurrentBalance());
+        String msg = String.format("Total bonuses payout increased by $%.2f", bonus);
+        publisher.notifySubscribers(new Message(msg, 0, 0));
+
+        System.out.printf("Current balance is $%.2f\n", currentBalance);
     }
 
     /**

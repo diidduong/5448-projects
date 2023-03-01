@@ -11,7 +11,7 @@ import java.util.ArrayList;
  */
 public abstract class Staff {
     public enum JobTitle {
-        INTERN, MECHANIC, SALESPERSON
+        INTERN, MECHANIC, SALESPERSON, DRIVER
     }
     
     private String name;
@@ -27,7 +27,7 @@ public abstract class Staff {
     private final static double TURNOVER_PROBABILITY = 0.1;  // 3% for each employee, which is about 10% for each three
 
     public Staff(JobTitle jobTitle, double dailyRate) {
-        setName(RandomGenerator.nameGenerator());
+        name = RandomGenerator.personNameGenerator();
         this.jobTitle = jobTitle;
         this.dailyRate = dailyRate;
     }
@@ -129,6 +129,8 @@ public abstract class Staff {
                 return new Salesperson();
             case INTERN:
                 return new Intern();
+            case DRIVER:
+                return new Driver();
             default:
                 throw new IllegalArgumentException("Unknown staff title + [" + title + "]");
         }

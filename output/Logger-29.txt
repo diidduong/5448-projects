@@ -1,0 +1,18 @@
+Purchased LIKE_NEW, DIRTY PERFORMANCE_CAR Porsche 718 Boxster 2022 for $ 40914.71
+Purchased LIKE_NEW, DIRTY CAR Mercedes-Benz G-class 2019 for $ 29368.67
+Purchased BROKEN, CLEAN CAR Honda Civic 2020 for $ 20708.48
+Purchased USED, DIRTY PICKUP Mahindra Bolero Camper 2011 for $ 42049.61
+INTERN Leyla Dickson wash (ElbowGreaseWashing) PERFORMANCE_CAR Porsche 718 Boxster 2022 and made it CLEAN
+INTERN Leyla Dickson wash (ElbowGreaseWashing) CAR Mercedes-Benz G-class 2019 and made it CLEAN
+INTERN Emmalynn Reed wash (DetailedWashing) PICKUP Mahindra Bolero Camper 2011 and made it CLEAN
+INTERN Emmalynn Reed wash (DetailedWashing) MONSTER_TRUCK Madusa 3 and made it DIRTY
+INTERN Ridge Petersen wash (DetailedWashing) MONSTER_TRUCK Madusa 3 and made it DIRTY
+INTERN Ridge Petersen wash (DetailedWashing) MONSTER_TRUCK Madusa 3 and made it CLEAN
+MECHANIC Bristol Giles repaired BROKEN CAR Honda Civic 2020 and made it USED (earned $100.00 bonus)
+MECHANIC Bristol Giles repaired USED CAR Honda Civic 2020 and made it LIKE_NEW (earned $100.00 bonus)
+MECHANIC Claire Blair repaired USED PICKUP Mahindra Bolero Camper 2011 and made it LIKE_NEW (earned $150.00 bonus)
+Maxwell Singh (Driver) raced with Dodge Ram 1500 TRX 2020 (PICKUP) and achieved rank no. 15.
+Logan Herman (Driver) raced with Chevrolet Colorado ZR2 2018 (PICKUP) and achieved rank no. 17.
+Chevrolet Colorado ZR2 2018 (PICKUP) went BROKEN.
+Kiana Tate (Driver) raced with Mahindra Bolero Camper 2011 (PICKUP) and achieved rank no. 13.
+Total salary payout increased by $1500.00Total bonuses payout increased by $350.00SALESPERSON Navy Case received $150.00 (salary) and $0.00 (bonuses)SALESPERSON Joel Acevedo received $150.00 (salary) and $0.00 (bonuses)DRIVER Maxwell Singh received $150.00 (salary) and $0.00 (bonuses)DRIVER Logan Herman received $150.00 (salary) and $0.00 (bonuses)SALESPERSON Louis Rivers received $150.00 (salary) and $0.00 (bonuses)DRIVER Kiana Tate received $150.00 (salary) and $0.00 (bonuses)MECHANIC Bristol Giles received $120.00 (salary) and $200.00 (bonuses)MECHANIC Claire Blair received $120.00 (salary) and $150.00 (bonuses)INTERN Leyla Dickson received $80.00 (salary) and $0.00 (bonuses)INTERN Emmalynn Reed received $80.00 (salary) and $0.00 (bonuses)MECHANIC Claire Foley received $120.00 (salary) and $0.00 (bonuses)INTERN Ridge Petersen received $80.00 (salary) and $0.00 (bonuses)

@@ -1,0 +1,19 @@
+INTERN Emmalynn Reed wash (DetailedWashing) CAR Honda Civic 2020 and made it DIRTY
+INTERN Emmalynn Reed wash (DetailedWashing) CAR Honda Civic 2020 and made it SPARKLING (earned 50.00 bonus)
+INTERN Ridge Petersen wash (DetailedWashing) PICKUP Mahindra Bolero Camper 2011 and made it SPARKLING (earned 100.00 bonus)
+INTERN Ridge Petersen wash (DetailedWashing) MONSTER_TRUCK Madusa 3 and made it CLEAN
+INTERN Remy Rowland wash (ChemicalWashing) MONSTER_TRUCK Madusa 3 and made it CLEAN
+INTERN Remy Rowland wash (ChemicalWashing) MONSTER_TRUCK Madusa 3 and made it CLEAN
+MECHANIC Claire Blair repaired BROKEN PICKUP Chevrolet Colorado ZR2 2018 unsuccessfully
+MECHANIC Claire Blair repaired BROKEN PICKUP Chevrolet Colorado ZR2 2018 and made it USED (earned $150.00 bonus)
+MECHANIC Claire Foley repaired USED PICKUP Chevrolet Colorado ZR2 2018 and made it LIKE_NEW (earned $150.00 bonus)
+SALESPERSON Louis Rivers sold DIRTY LIKE_NEW Chevrolet Colorado ZR2 2018 to Buyer unsuccessfully
+SALESPERSON Navy Case (earned $350.00 bonus) sold CLEAN LIKE_NEW (PERFORMANCE_CAR) Ford Mustang 2019 to Buyer for $61768.68 + $1235.37 (RoadRescueCoverage (addOns)).
+Added sale income $63004.06 to current balance
+SALESPERSON Louis Rivers sold DIRTY LIKE_NEW Chevrolet Colorado ZR2 2018 to Buyer unsuccessfully
+SALESPERSON Louis Rivers sold CLEAN LIKE_NEW Maserati MC20 2021 to Buyer unsuccessfully
+SALESPERSON Navy Case sold DIRTY LIKE_NEW Chevrolet Colorado ZR2 2018 to Buyer for $132301.84 without any addOns (earned $220.00 bonus)
+Added sale income $132301.84 to current balance
+SALESPERSON Louis Rivers (earned $160.00 bonus) sold SPARKLING LIKE_NEW (CAR) Honda Civic 2020 to Buyer for $38828.39 + $776.57 (RoadRescueCoverage (addOns)).
+Added sale income $39604.96 to current balance
+Total salary payout increased by $1500.00Total bonuses payout increased by $1180.00SALESPERSON Navy Case received $150.00 (salary) and $570.00 (bonuses)SALESPERSON Joel Acevedo received $150.00 (salary) and $0.00 (bonuses)DRIVER Maxwell Singh received $150.00 (salary) and $0.00 (bonuses)DRIVER Logan Herman received $150.00 (salary) and $0.00 (bonuses)SALESPERSON Louis Rivers received $150.00 (salary) and $160.00 (bonuses)DRIVER Kiana Tate received $150.00 (salary) and $0.00 (bonuses)MECHANIC Claire Blair received $120.00 (salary) and $150.00 (bonuses)INTERN Emmalynn Reed received $80.00 (salary) and $50.00 (bonuses)MECHANIC Claire Foley received $120.00 (salary) and $150.00 (bonuses)INTERN Ridge Petersen received $80.00 (salary) and $100.00 (bonuses)MECHANIC Leyla Dickson received $120.00 (salary) and $0.00 (bonuses)INTERN Remy Rowland received $80.00 (salary) and $0.00 (bonuses)

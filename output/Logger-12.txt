@@ -1,0 +1,11 @@
+Purchased LIKE_NEW, CLEAN PERFORMANCE_CAR Nissan Z-Car 2011 for $ 44646.65
+INTERN Bristol Giles wash (ChemicalWashing) CAR Volvo XC70 2017 and made it CLEAN
+INTERN Bristol Giles wash (ChemicalWashing) CAR Mercedes-Benz AMG-class 2015 and made it CLEAN
+INTERN Claire Blair wash (ChemicalWashing) CAR Volvo XC70 2017 and made it CLEAN
+INTERN Claire Blair wash (ChemicalWashing) CAR Volvo XC70 2017 and made it DIRTY
+INTERN Bristol Thomas wash (ElbowGreaseWashing) CAR Volvo XC70 2017 and made it CLEAN
+INTERN Bristol Thomas wash (ElbowGreaseWashing) CAR Volvo XC70 2017 and made it CLEAN
+MECHANIC Olivia Cabrera repaired BROKEN MONSTER_TRUCK Bigfoot 6 and made it USED (earned $500.00 bonus)
+MECHANIC Olivia Cabrera repaired USED MONSTER_TRUCK Bigfoot 6 unsuccessfully
+MECHANIC Elaina Galindo repaired USED MONSTER_TRUCK Bigfoot 6 and made it LIKE_NEW (earned $500.00 bonus)
+Total salary payout increased by $1500.00Total bonuses payout increased by $1000.00MECHANIC Olivia Cabrera received $120.00 (salary) and $500.00 (bonuses)MECHANIC Elaina Galindo received $120.00 (salary) and $500.00 (bonuses)SALESPERSON Navy Case received $150.00 (salary) and $0.00 (bonuses)SALESPERSON Joel Acevedo received $150.00 (salary) and $0.00 (bonuses)DRIVER Maxwell Singh received $150.00 (salary) and $0.00 (bonuses)DRIVER Logan Herman received $150.00 (salary) and $0.00 (bonuses)INTERN Bristol Giles received $80.00 (salary) and $0.00 (bonuses)MECHANIC Demi Parsons received $120.00 (salary) and $0.00 (bonuses)INTERN Claire Blair received $80.00 (salary) and $0.00 (bonuses)SALESPERSON Louis Rivers received $150.00 (salary) and $0.00 (bonuses)INTERN Bristol Thomas received $80.00 (salary) and $0.00 (bonuses)DRIVER Kiana Tate received $150.00 (salary) and $0.00 (bonuses)

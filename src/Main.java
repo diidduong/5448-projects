@@ -1,7 +1,5 @@
-import tracking.EventPublisher;
-import tracking.Logger;
-import tracking.Subscriber;
-import tracking.Tracker;
+import tracking.*;
+import utilities.FNCDAdministration;
 
 /**
  * @author Duy Duong, Ahmed.H.Biby
@@ -10,15 +8,9 @@ import tracking.Tracker;
 public class Main {
 
     public static void main(String[] args) {
-//        FNCDAdministration fncd = new FNCDAdministration();
-//        fncd.start(); // run simulation
+        FNCDAdministration fncd = new FNCDAdministration();
+        fncd.start(); // run simulation
 
-        EventPublisher publisher = new EventPublisher();
-        Logger logger = new Logger();
-        Tracker tracker = new Tracker();
 
-        publisher.addSubscriber(logger);
-        publisher.addSubscriber(tracker);
-        publisher.notifySubscribers();
     }
 }

@@ -1,0 +1,23 @@
+INTERN Bristol Giles wash (ChemicalWashing) MONSTER_TRUCK Bigfoot 6 and made it CLEAN
+INTERN Bristol Giles wash (ChemicalWashing) CAR Volvo XC70 2017 and made it CLEAN
+INTERN Claire Blair wash (ChemicalWashing) CAR Volvo XC70 2017 and made it SPARKLING (earned 50.00 bonus)
+INTERN Claire Blair wash (ChemicalWashing) CAR Mercedes-Benz AMG-class 2015 and made it CLEAN
+INTERN Bristol Thomas wash (ElbowGreaseWashing) CAR Mercedes-Benz AMG-class 2015 and made it CLEAN
+INTERN Bristol Thomas wash (ElbowGreaseWashing) CAR Mercedes-Benz AMG-class 2015 and made it CLEAN
+MECHANIC Olivia Cabrera repaired BROKEN CAR Volvo XC70 2017 and made it USED (earned $100.00 bonus)
+MECHANIC Olivia Cabrera repaired USED CAR Volvo XC70 2017 and made it LIKE_NEW (earned $100.00 bonus)
+SALESPERSON Joel Acevedo sold CLEAN LIKE_NEW Acura NSX 2016 to Buyer for $70816.25 without any addOns (earned $350.00 bonus)
+Added sale income $70816.25 to current balance
+SALESPERSON Louis Rivers sold CLEAN LIKE_NEW Jeep Gladiator 2018 to Buyer for $69623.27 without any addOns (earned $220.00 bonus)
+Added sale income $69623.27 to current balance
+SALESPERSON Joel Acevedo (earned $350.00 bonus) sold CLEAN LIKE_NEW (PERFORMANCE_CAR) Ford Mustang Shelby GT500 2020 to Buyer for $67430.42 + $13486.08 (ExtendedWarranty (addOns)).
+Added sale income $80916.50 to current balance
+SALESPERSON Louis Rivers (earned $160.00 bonus) sold DIRTY LIKE_NEW (CAR) Volvo XC70 2017 to Buyer for $119905.88 + $8393.41 (Undercoating, RoadRescueCoverage (addOns)).
+Added sale income $128299.30 to current balance
+SALESPERSON Navy Case (earned $160.00 bonus) sold CLEAN LIKE_NEW (CAR) Honda Civic 2011 to Buyer for $69850.69 + $4889.55 (RoadRescueCoverage, SatelliteRadio (addOns)).
+Added sale income $74740.24 to current balance
+SALESPERSON Navy Case sold CLEAN LIKE_NEW Porsche 718 Cayman 2019 to Buyer unsuccessfully
+SALESPERSON Louis Rivers (earned $160.00 bonus) sold CLEAN LIKE_NEW (CAR) Mercedes-Benz AMG-class 2015 to Buyer for $28952.75 + $1447.64 (SatelliteRadio (addOns)).
+Added sale income $30400.39 to current balance
+SALESPERSON Louis Rivers sold SPARKLING LIKE_NEW Volvo XC70 2018 to Buyer unsuccessfully
+Total salary payout increased by $1500.00Total bonuses payout increased by $1650.00MECHANIC Olivia Cabrera received $120.00 (salary) and $200.00 (bonuses)MECHANIC Elaina Galindo received $120.00 (salary) and $0.00 (bonuses)SALESPERSON Navy Case received $150.00 (salary) and $160.00 (bonuses)SALESPERSON Joel Acevedo received $150.00 (salary) and $700.00 (bonuses)DRIVER Maxwell Singh received $150.00 (salary) and $0.00 (bonuses)DRIVER Logan Herman received $150.00 (salary) and $0.00 (bonuses)INTERN Bristol Giles received $80.00 (salary) and $0.00 (bonuses)MECHANIC Demi Parsons received $120.00 (salary) and $0.00 (bonuses)INTERN Claire Blair received $80.00 (salary) and $50.00 (bonuses)SALESPERSON Louis Rivers received $150.00 (salary) and $540.00 (bonuses)INTERN Bristol Thomas received $80.00 (salary) and $0.00 (bonuses)DRIVER Kiana Tate received $150.00 (salary) and $0.00 (bonuses)

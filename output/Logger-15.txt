@@ -1,0 +1,22 @@
+Purchased USED, DIRTY PERFORMANCE_CAR Chevrolet Camaro 2014 for $ 65174.78
+INTERN Bristol Thomas wash (ElbowGreaseWashing) CAR Dodge Charger 2014 and made it CLEAN
+INTERN Bristol Thomas wash (ElbowGreaseWashing) PICKUP Ford Velociraptor 6×6 2011 and made it CLEAN
+INTERN Remy Alexander wash (DetailedWashing) PERFORMANCE_CAR Chevrolet Camaro 2014 and made it DIRTY
+INTERN Remy Alexander wash (DetailedWashing) PERFORMANCE_CAR Chevrolet Camaro 2014 and made it CLEAN
+INTERN Claire Foley wash (ElbowGreaseWashing) ELECTRIC_CAR MINI Cooper SE 2010 (552 miles) and made it CLEAN
+INTERN Claire Foley wash (ElbowGreaseWashing) ELECTRIC_CAR MINI Cooper SE 2010 (552 miles) and made it CLEAN
+MECHANIC Demi Parsons repaired USED PERFORMANCE_CAR Chevrolet Camaro 2014 and made it LIKE_NEW (earned $200.00 bonus)
+SALESPERSON Joel Acevedo sold DIRTY LIKE_NEW Chevrolet Camaro 2014 to Buyer unsuccessfully
+SALESPERSON Navy Case sold DIRTY LIKE_NEW Chevrolet Camaro 2014 to Buyer unsuccessfully
+SALESPERSON Joel Acevedo sold CLEAN LIKE_NEW Dodge Charger 2014 to Buyer unsuccessfully
+SALESPERSON Navy Case (earned $160.00 bonus) sold CLEAN LIKE_NEW (CAR) Dodge Charger 2014 to Buyer for $37256.58 + $4470.79 (Undercoating, RoadRescueCoverage, SatelliteRadio (addOns)).
+Added sale income $41727.37 to current balance
+SALESPERSON Joel Acevedo sold DIRTY LIKE_NEW Chevrolet Camaro 2014 to Buyer unsuccessfully
+SALESPERSON Joel Acevedo (earned $350.00 bonus) sold DIRTY LIKE_NEW (PERFORMANCE_CAR) Chevrolet Camaro 2014 to Buyer for $81468.47 + $4073.42 (Undercoating (addOns)).
+Added sale income $85541.89 to current balance
+Maxwell Singh (Driver) raced with Madusa 3 (MONSTER_TRUCK) and achieved rank no. 11.
+Logan Herman (Driver) raced with Bigfoot 6 (MONSTER_TRUCK) and achieved rank no. 20.
+Bigfoot 6 (MONSTER_TRUCK) went BROKEN.
+Kiana Tate (Driver) raced with Raminator 1 (MONSTER_TRUCK) and achieved rank no. 17.
+Raminator 1 (MONSTER_TRUCK) went BROKEN.
+Total salary payout increased by $1500.00Total bonuses payout increased by $710.00SALESPERSON Navy Case received $150.00 (salary) and $160.00 (bonuses)SALESPERSON Joel Acevedo received $150.00 (salary) and $350.00 (bonuses)DRIVER Maxwell Singh received $150.00 (salary) and $0.00 (bonuses)DRIVER Logan Herman received $150.00 (salary) and $0.00 (bonuses)MECHANIC Demi Parsons received $120.00 (salary) and $200.00 (bonuses)SALESPERSON Louis Rivers received $150.00 (salary) and $0.00 (bonuses)INTERN Bristol Thomas received $80.00 (salary) and $0.00 (bonuses)DRIVER Kiana Tate received $150.00 (salary) and $0.00 (bonuses)MECHANIC Bristol Giles received $120.00 (salary) and $0.00 (bonuses)INTERN Remy Alexander received $80.00 (salary) and $0.00 (bonuses)MECHANIC Claire Blair received $120.00 (salary) and $0.00 (bonuses)INTERN Claire Foley received $80.00 (salary) and $0.00 (bonuses)

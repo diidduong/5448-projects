@@ -1,0 +1,19 @@
+Purchased BROKEN, DIRTY PERFORMANCE_CAR Subaru BRZ 2021 for $ 60802.70
+Purchased LIKE_NEW, CLEAN PERFORMANCE_CAR Dodge Viper 2017 for $ 79068.75
+Purchased LIKE_NEW, DIRTY CAR Nissan Leaf 2021 for $ 34853.08
+Purchased USED, DIRTY CAR Dodge Charger 2014 for $ 29805.27
+Purchased LIKE_NEW, DIRTY CAR Mercedes-Benz S-class 2016 for $ 25008.16
+Purchased USED, CLEAN PICKUP Ford Velociraptor 6×6 2011 for $ 30745.00
+INTERN Claire Blair wash (ChemicalWashing) PERFORMANCE_CAR Subaru BRZ 2021 and made it CLEAN
+INTERN Claire Blair wash (ChemicalWashing) CAR Nissan Leaf 2021 and made it CLEAN
+INTERN Bristol Thomas wash (ElbowGreaseWashing) CAR Dodge Charger 2014 and made it DIRTY
+INTERN Bristol Thomas wash (ElbowGreaseWashing) CAR Dodge Charger 2014 and made it CLEAN
+INTERN Remy Alexander wash (DetailedWashing) CAR Mercedes-Benz S-class 2016 and made it DIRTY
+INTERN Remy Alexander wash (DetailedWashing) CAR Mercedes-Benz S-class 2016 and made it CLEAN
+MECHANIC Elaina Galindo repaired BROKEN PERFORMANCE_CAR Subaru BRZ 2021 and made it USED (earned $200.00 bonus)
+MECHANIC Elaina Galindo repaired USED PERFORMANCE_CAR Subaru BRZ 2021 and made it LIKE_NEW (earned $200.00 bonus)
+MECHANIC Demi Parsons repaired USED CAR Dodge Charger 2014 and made it LIKE_NEW (earned $100.00 bonus)
+MECHANIC Demi Parsons repaired USED PICKUP Ford Velociraptor 6×6 2011 and made it LIKE_NEW (earned $150.00 bonus)
+SALESPERSON Navy Case (earned $350.00 bonus) sold DIRTY LIKE_NEW (PERFORMANCE_CAR) Subaru BRZ 2021 to Buyer for $114005.06 + $5700.25 (SatelliteRadio (addOns)).
+Added sale income $119705.31 to current balance
+Total salary payout increased by $1500.00Total bonuses payout increased by $1000.00MECHANIC Elaina Galindo received $120.00 (salary) and $400.00 (bonuses)SALESPERSON Navy Case received $150.00 (salary) and $350.00 (bonuses)SALESPERSON Joel Acevedo received $150.00 (salary) and $0.00 (bonuses)DRIVER Maxwell Singh received $150.00 (salary) and $0.00 (bonuses)DRIVER Logan Herman received $150.00 (salary) and $0.00 (bonuses)MECHANIC Demi Parsons received $120.00 (salary) and $250.00 (bonuses)INTERN Claire Blair received $80.00 (salary) and $0.00 (bonuses)SALESPERSON Louis Rivers received $150.00 (salary) and $0.00 (bonuses)INTERN Bristol Thomas received $80.00 (salary) and $0.00 (bonuses)DRIVER Kiana Tate received $150.00 (salary) and $0.00 (bonuses)MECHANIC Bristol Giles received $120.00 (salary) and $0.00 (bonuses)INTERN Remy Alexander received $80.00 (salary) and $0.00 (bonuses)

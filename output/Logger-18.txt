@@ -1,0 +1,17 @@
+INTERN Bristol Thomas wash (ElbowGreaseWashing) PERFORMANCE_CAR Acura NSX 2020 and made it CLEAN
+INTERN Bristol Thomas wash (ElbowGreaseWashing) CAR Lucid Air 2014 and made it CLEAN
+INTERN Remy Alexander wash (DetailedWashing) PERFORMANCE_CAR Lamborghini Countach 2019 and made it SPARKLING (earned 75.00 bonus)
+INTERN Remy Alexander wash (DetailedWashing) ELECTRIC_CAR Fiat 500e 2021 (352 miles) and made it SPARKLING (earned 120.00 bonus)
+INTERN Claire Foley wash (ElbowGreaseWashing) MOTORCYCLE Moto Guzzi 2017 (612 CC engine) and made it CLEAN
+INTERN Claire Foley wash (ElbowGreaseWashing) MOTORCYCLE Moto Guzzi 2017 (612 CC engine) and made it SPARKLING (earned 25.00 bonus)
+SALESPERSON Navy Case sold CLEAN LIKE_NEW GMC Canyon 2015 to Buyer for $48867.75 without any addOns (earned $220.00 bonus)
+Added sale income $48867.75 to current balance
+SALESPERSON Navy Case (earned $220.00 bonus) sold CLEAN LIKE_NEW (PICKUP) Mahindra Bolero Camper 2020 to Buyer for $41357.43 + $2067.87 (SatelliteRadio (addOns)).
+Added sale income $43425.30 to current balance
+SALESPERSON Navy Case sold CLEAN LIKE_NEW Acura NSX 2020 to Buyer unsuccessfully
+SALESPERSON Navy Case (earned $350.00 bonus) sold CLEAN LIKE_NEW (PERFORMANCE_CAR) Acura NSX 2020 to Buyer for $128331.90 + $6416.60 (SatelliteRadio (addOns)).
+Added sale income $134748.50 to current balance
+Maxwell Singh (Driver) raced with Ford F-150 Lightning 2014 (PICKUP) and achieved rank no. 7.
+Logan Herman (Driver) raced with Ford Velociraptor 6×6 2011 (PICKUP) and achieved rank no. 3.
+Logan Herman (Driver) won with Ford Velociraptor 6×6 2011 (PICKUP) (earned $ 1000 bonus)!
+Total salary payout increased by $1500.00Total bonuses payout increased by $2010.00SALESPERSON Navy Case received $150.00 (salary) and $790.00 (bonuses)SALESPERSON Joel Acevedo received $150.00 (salary) and $0.00 (bonuses)DRIVER Maxwell Singh received $150.00 (salary) and $0.00 (bonuses)DRIVER Logan Herman received $150.00 (salary) and $1000.00 (bonuses)MECHANIC Demi Parsons received $120.00 (salary) and $0.00 (bonuses)SALESPERSON Louis Rivers received $150.00 (salary) and $0.00 (bonuses)INTERN Bristol Thomas received $80.00 (salary) and $0.00 (bonuses)DRIVER Kiana Tate received $150.00 (salary) and $0.00 (bonuses)MECHANIC Bristol Giles received $120.00 (salary) and $0.00 (bonuses)INTERN Remy Alexander received $80.00 (salary) and $195.00 (bonuses)MECHANIC Claire Blair received $120.00 (salary) and $0.00 (bonuses)INTERN Claire Foley received $80.00 (salary) and $25.00 (bonuses)

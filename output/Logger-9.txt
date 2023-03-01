@@ -1,0 +1,14 @@
+Purchased LIKE_NEW, DIRTY PERFORMANCE_CAR MG MGB 2013 for $ 76711.65
+Purchased USED, DIRTY PICKUP Jeep Gladiator 2018 for $ 55698.62
+INTERN Bristol Giles wash (ChemicalWashing) MONSTER_TRUCK Bigfoot 6 and made it CLEAN
+INTERN Bristol Giles wash (ChemicalWashing) CAR Honda Civic 2011 and made it CLEAN
+INTERN Claire Blair wash (ChemicalWashing) PICKUP GMC Canyon 2015 and made it CLEAN
+INTERN Claire Blair wash (ChemicalWashing) PERFORMANCE_CAR MG MGB 2013 and made it DIRTY
+INTERN Bristol Thomas wash (ElbowGreaseWashing) PERFORMANCE_CAR MG MGB 2013 and made it DIRTY
+INTERN Bristol Thomas wash (ElbowGreaseWashing) PERFORMANCE_CAR MG MGB 2013 and made it CLEAN
+MECHANIC Olivia Cabrera repaired BROKEN MONSTER_TRUCK Bigfoot 6 unsuccessfully
+MECHANIC Olivia Cabrera repaired BROKEN MONSTER_TRUCK Bigfoot 6 and made it USED (earned $500.00 bonus)
+MECHANIC Elaina Galindo repaired USED MONSTER_TRUCK Bigfoot 6 and made it LIKE_NEW (earned $500.00 bonus)
+MECHANIC Elaina Galindo repaired USED PERFORMANCE_CAR Porsche 718 Cayman 2019 and made it LIKE_NEW (earned $200.00 bonus)
+MECHANIC Demi Parsons repaired USED PICKUP Jeep Gladiator 2018 and made it LIKE_NEW (earned $150.00 bonus)
+Total salary payout increased by $1500.00Total bonuses payout increased by $1350.00MECHANIC Olivia Cabrera received $120.00 (salary) and $500.00 (bonuses)MECHANIC Elaina Galindo received $120.00 (salary) and $700.00 (bonuses)SALESPERSON Navy Case received $150.00 (salary) and $0.00 (bonuses)SALESPERSON Joel Acevedo received $150.00 (salary) and $0.00 (bonuses)DRIVER Maxwell Singh received $150.00 (salary) and $0.00 (bonuses)DRIVER Logan Herman received $150.00 (salary) and $0.00 (bonuses)INTERN Bristol Giles received $80.00 (salary) and $0.00 (bonuses)MECHANIC Demi Parsons received $120.00 (salary) and $150.00 (bonuses)INTERN Claire Blair received $80.00 (salary) and $0.00 (bonuses)SALESPERSON Louis Rivers received $150.00 (salary) and $0.00 (bonuses)INTERN Bristol Thomas received $80.00 (salary) and $0.00 (bonuses)DRIVER Kiana Tate received $150.00 (salary) and $0.00 (bonuses)

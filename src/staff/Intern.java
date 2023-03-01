@@ -1,5 +1,11 @@
 package staff;
 
+import activity.ChemicalWashing;
+import activity.DetailedWashing;
+import activity.ElbowGreaseWashing;
+import activity.WashMethod;
+import tracking.EventPublisher;
+import tracking.Message;
 import utilities.RandomGenerator;
 import vehicle.Vehicle;
 
@@ -11,15 +17,36 @@ import java.util.ArrayList;
  * Intern is subclass of Staff with JobTitle and daily Rate
  */
 public class Intern extends Staff {
+    WashMethod washMethod;
+
     public Intern(){
         super(JobTitle.INTERN, 80);
+        washMethod = randomWashingMethod(); // assign random wash method when initialize an intern
     }
 
-    public void washVehicles(ArrayList<Vehicle> vehicles) {
+    /**
+     * randomly choose the washing method
+     */
+    public WashMethod randomWashingMethod(){
+        int randomWashingMethodSelector = RandomGenerator.randomIntGenerator(0, 100);
+        if (randomWashingMethodSelector <= 33) {
+            return new ChemicalWashing();
+        } else if (randomWashingMethodSelector <= 66) {
+            return new ElbowGreaseWashing();
+        } else {
+            return  new DetailedWashing();
+        }
+    }
+
+    /**
+     *
+     * @param vehicles
+     */
+    public void washVehicles(ArrayList<Vehicle> vehicles, EventPublisher publisher) {
         for (int i = 0; i < 2; i++) {
             Vehicle selectedVehicle = getNextVehicle(vehicles);
             if (selectedVehicle == null) break; // no dirty/clean vehicle to wash
-            washVehicle(selectedVehicle);
+            washVehicle(selectedVehicle, publisher);
         }
     }
 
@@ -31,31 +58,38 @@ public class Intern extends Staff {
      *
      * @param vehicle selected vehicle
      */
-    public void washVehicle(Vehicle vehicle) {
-        if (vehicle.getCleanliness() == Vehicle.Cleanliness.DIRTY) {
-            vehicle.setCleanliness(RandomGenerator.getRandomCleanliness(new double[]{0.1, 0.8, 0.1}));
-        } else if (vehicle.getCleanliness() == Vehicle.Cleanliness.CLEAN) {
-            vehicle.setCleanliness(RandomGenerator.getRandomCleanliness(new double[]{0.3, 0.65, 0.05}));
-        }
+    public void washVehicle(Vehicle vehicle, EventPublisher publisher) {
+//        if (vehicle.getCleanliness() == Vehicle.Cleanliness.DIRTY) {
+//            vehicle.setCleanliness(RandomGenerator.getRandomCleanliness(new double[]{0.1, 0.8, 0.1}));
+//        } else if (vehicle.getCleanliness() == Vehicle.Cleanliness.CLEAN) {
+//            vehicle.setCleanliness(RandomGenerator.getRandomCleanliness(new double[]{0.3, 0.65, 0.05}));
+//        }
+        //TODO: remove comments when new code working
+
+        washMethod.washVehicle(vehicle); // wash vehicle with given method
         if (vehicle.getCleanliness() == Vehicle.Cleanliness.SPARKLING) {
             double bonus = getBonusByType(vehicle);
             addBonus(bonus);
-            System.out.printf("%s %s wash %s %s and made it %s (earned %.2f bonus)\n",
+            String msg = String.format("%s %s wash (%s) %s %s and made it %s (earned %.2f bonus)\n",
                     getJobTitle(),
                     getName(),
+                    washMethod.getClass().getSimpleName(),
                     vehicle.getVehicleType(),
                     vehicle.getName(),
                     vehicle.getCleanliness(),
                     bonus
             );
+            publisher.notifySubscribers(new Message(msg, bonus, 0));
         } else {
-            System.out.printf("%s %s wash %s %s and made it %s\n",
+            String msg = String.format("%s %s wash (%s) %s %s and made it %s\n",
                     getJobTitle(),
                     getName(),
+                    washMethod.getClass().getSimpleName(),
                     vehicle.getVehicleType(),
                     vehicle.getName(),
                     vehicle.getCleanliness()
             );
+            publisher.notifySubscribers(new Message(msg, 0, 0));
         }
     }
 
@@ -69,7 +103,7 @@ public class Intern extends Staff {
      */
     private Vehicle getNextVehicle(ArrayList<Vehicle> vehicles) {
         Vehicle selectedVehicle = getFirstVehicleByCleanliness(vehicles, Vehicle.Cleanliness.DIRTY);
-        if (selectedVehicle != null) {
+        if (selectedVehicle == null) {
             selectedVehicle = getFirstVehicleByCleanliness(vehicles, Vehicle.Cleanliness.CLEAN);
         }
         return selectedVehicle;
@@ -108,6 +142,12 @@ public class Intern extends Staff {
                 return 50;
             case PICKUP:
                 return 100;
+            case MOTORCYCLE:
+                return 25;
+            case MONSTER_TRUCK:
+                return 200;
+            case ELECTRIC_CAR:
+                return 120;
             default:
                 return 0;
         }

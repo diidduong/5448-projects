@@ -1,0 +1,19 @@
+INTERN Bristol Giles wash (ChemicalWashing) CAR Volvo XC70 2017 and made it CLEAN
+INTERN Bristol Giles wash (ChemicalWashing) CAR Volvo XC70 2017 and made it CLEAN
+INTERN Claire Blair wash (ChemicalWashing) CAR Volvo XC70 2017 and made it SPARKLING (earned 50.00 bonus)
+INTERN Claire Blair wash (ChemicalWashing) CAR Volvo XC70 2018 and made it SPARKLING (earned 50.00 bonus)
+INTERN Bristol Thomas wash (ElbowGreaseWashing) CAR Mercedes-Benz AMG-class 2015 and made it DIRTY
+INTERN Bristol Thomas wash (ElbowGreaseWashing) CAR Mercedes-Benz AMG-class 2015 and made it DIRTY
+MECHANIC Olivia Cabrera repaired BROKEN CAR Volvo XC70 2017 and made it USED (earned $100.00 bonus)
+MECHANIC Olivia Cabrera repaired USED CAR Volvo XC70 2017 unsuccessfully
+MECHANIC Elaina Galindo repaired USED CAR Volvo XC70 2017 unsuccessfully
+MECHANIC Elaina Galindo repaired USED CAR Volvo XC70 2017 and made it LIKE_NEW (earned $100.00 bonus)
+SALESPERSON Louis Rivers sold CLEAN LIKE_NEW Honda Civic 2011 to Buyer unsuccessfully
+SALESPERSON Louis Rivers sold CLEAN LIKE_NEW MG MGB 2013 to Buyer unsuccessfully
+SALESPERSON Navy Case (earned $350.00 bonus) sold CLEAN LIKE_NEW (PERFORMANCE_CAR) MG MGB 2013 to Buyer for $76711.65 + $7671.17 (Undercoating, SatelliteRadio (addOns)).
+Added sale income $84382.82 to current balance
+Maxwell Singh (Driver) raced with Madusa 3 (MONSTER_TRUCK) and achieved rank no. 14.
+Logan Herman (Driver) raced with Bigfoot 6 (MONSTER_TRUCK) and achieved rank no. 16.
+Bigfoot 6 (MONSTER_TRUCK) went BROKEN.
+Kiana Tate (Driver) raced with Raminator 1 (MONSTER_TRUCK) and achieved rank no. 10.
+Total salary payout increased by $1500.00Total bonuses payout increased by $650.00MECHANIC Olivia Cabrera received $120.00 (salary) and $100.00 (bonuses)MECHANIC Elaina Galindo received $120.00 (salary) and $100.00 (bonuses)SALESPERSON Navy Case received $150.00 (salary) and $350.00 (bonuses)SALESPERSON Joel Acevedo received $150.00 (salary) and $0.00 (bonuses)DRIVER Maxwell Singh received $150.00 (salary) and $0.00 (bonuses)DRIVER Logan Herman received $150.00 (salary) and $0.00 (bonuses)INTERN Bristol Giles received $80.00 (salary) and $0.00 (bonuses)MECHANIC Demi Parsons received $120.00 (salary) and $0.00 (bonuses)INTERN Claire Blair received $80.00 (salary) and $100.00 (bonuses)SALESPERSON Louis Rivers received $150.00 (salary) and $0.00 (bonuses)INTERN Bristol Thomas received $80.00 (salary) and $0.00 (bonuses)DRIVER Kiana Tate received $150.00 (salary) and $0.00 (bonuses)

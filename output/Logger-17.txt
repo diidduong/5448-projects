@@ -1,0 +1,16 @@
+Purchased USED, CLEAN PERFORMANCE_CAR Lamborghini Countach 2019 for $ 69933.33
+Purchased BROKEN, DIRTY PERFORMANCE_CAR McLaren 720S 2010 for $ 58256.76
+Purchased LIKE_NEW, CLEAN PERFORMANCE_CAR Toyota GR86 2018 for $ 44863.47
+Purchased LIKE_NEW, DIRTY MONSTER_TRUCK USA-1 4 for $ 79334.96
+INTERN Bristol Thomas wash (ElbowGreaseWashing) MONSTER_TRUCK Raminator 1 and made it CLEAN
+INTERN Bristol Thomas wash (ElbowGreaseWashing) PERFORMANCE_CAR McLaren 720S 2010 and made it CLEAN
+INTERN Remy Alexander wash (DetailedWashing) MONSTER_TRUCK USA-1 4 and made it CLEAN
+INTERN Remy Alexander wash (DetailedWashing) ELECTRIC_CAR Mercedes-Benz EQS-Class 2014 (399 miles) and made it CLEAN
+INTERN Claire Foley wash (ElbowGreaseWashing) ELECTRIC_CAR Mercedes-Benz EQS-Class 2014 (399 miles) and made it CLEAN
+INTERN Claire Foley wash (ElbowGreaseWashing) ELECTRIC_CAR Mercedes-Benz EQS-Class 2014 (399 miles) and made it SPARKLING (earned 120.00 bonus)
+MECHANIC Demi Parsons repaired BROKEN PERFORMANCE_CAR Acura NSX 2020 and made it USED (earned $200.00 bonus)
+MECHANIC Demi Parsons repaired USED PERFORMANCE_CAR Acura NSX 2020 and made it LIKE_NEW (earned $200.00 bonus)
+MECHANIC Bristol Giles repaired USED CAR Lucid Air 2014 and made it LIKE_NEW (earned $100.00 bonus)
+MECHANIC Bristol Giles repaired USED PERFORMANCE_CAR Lamborghini Countach 2019 and made it LIKE_NEW (earned $200.00 bonus)
+SALESPERSON Joel Acevedo sold DIRTY LIKE_NEW Acura NSX 2020 to Buyer unsuccessfully
+Total salary payout increased by $1500.00Total bonuses payout increased by $820.00SALESPERSON Navy Case received $150.00 (salary) and $0.00 (bonuses)SALESPERSON Joel Acevedo received $150.00 (salary) and $0.00 (bonuses)DRIVER Maxwell Singh received $150.00 (salary) and $0.00 (bonuses)DRIVER Logan Herman received $150.00 (salary) and $0.00 (bonuses)MECHANIC Demi Parsons received $120.00 (salary) and $400.00 (bonuses)SALESPERSON Louis Rivers received $150.00 (salary) and $0.00 (bonuses)INTERN Bristol Thomas received $80.00 (salary) and $0.00 (bonuses)DRIVER Kiana Tate received $150.00 (salary) and $0.00 (bonuses)MECHANIC Bristol Giles received $120.00 (salary) and $300.00 (bonuses)INTERN Remy Alexander received $80.00 (salary) and $0.00 (bonuses)MECHANIC Claire Blair received $120.00 (salary) and $0.00 (bonuses)INTERN Claire Foley received $80.00 (salary) and $120.00 (bonuses)

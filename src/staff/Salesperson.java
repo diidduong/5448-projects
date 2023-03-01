@@ -1,9 +1,17 @@
 package staff;
 
+import activity.ExtendedWarrantyAddOn;
+import activity.RoadRescueCoverageAddOn;
+import activity.SatelliteRadioAddOn;
+import activity.UnderCoatingAddOn;
 import customer.Buyer;
+import tracking.EventPublisher;
+import tracking.Message;
 import utilities.Inventory;
 import utilities.RandomGenerator;
 import vehicle.Vehicle;
+
+import java.util.HashMap;
 
 /**
  * @author Duy Duong, Ahmed.H.Biby
@@ -21,7 +29,7 @@ public class Salesperson extends Staff {
      * @param inventory
      * @return
      */
-    public Vehicle sellVehicles(Buyer buyer, Inventory inventory) {
+    public Vehicle sellVehicles(Buyer buyer, Inventory inventory, EventPublisher publisher) {
         if (buyer == null) {
             return null; // No buyer coming today
         }
@@ -29,7 +37,7 @@ public class Salesperson extends Staff {
         if (selectedVehicle == null) {
             return null; // No vehicle for sale today
         }
-        return sellVehicles(selectedVehicle, buyer);
+        return sellVehicle(selectedVehicle, buyer, publisher);
     }
 
     /**
@@ -40,9 +48,11 @@ public class Salesperson extends Staff {
      * @param selectedVehicle not null Vehicle
      * @param buyer not null Buyer
      */
-    public Vehicle sellVehicles(Vehicle selectedVehicle, Buyer buyer) {
+    public Vehicle sellVehicle(Vehicle selectedVehicle, Buyer buyer, EventPublisher publisher) {
         double successfulSaleProbs = buyer.getBuyingType().getProbability();
-        boolean sellable = false;
+        boolean sellable;
+        String addOns = "";
+        double totalAdoOnPrice = 0;
 
         // get bonus chance of sale
         successfulSaleProbs += getSaleChanceBonus(
@@ -53,30 +63,56 @@ public class Salesperson extends Staff {
         // check if successful sale by probability
         sellable = RandomGenerator.probabilisticOutcomeGenerator(successfulSaleProbs);
         if (sellable) {
+            HashMap<String, Double> randomAddOn = randomAddOn(selectedVehicle);
+            for (String name : randomAddOn.keySet()) {
+                addOns = name;
+                totalAdoOnPrice = randomAddOn.get(name);
+            }
+
             selectedVehicle.setInStock(false); // mark vehicle as sold
             double bonus = getBonusByType(selectedVehicle);
             // give bonus to Salesperson
             addBonus(bonus);
 
-            System.out.printf("%s %s sold %s %s %s to Buyer for $%.2f (earned $%.2f bonus)\n",
-                    getJobTitle(),
-                    getName(),
-                    selectedVehicle.getCleanliness(),
-                    selectedVehicle.getVehicleCondition(),
-                    selectedVehicle.getName(),
-                    selectedVehicle.getSalePrice(),
-                    bonus
-            );
+            String msg = "";
+            if (totalAdoOnPrice != 0) {
+                msg = String.format("%s %s (earned $%.2f bonus) sold %s %s (%s) %s to Buyer for $%.2f + $%.2f (%s (addOns)).\n",
+                        getJobTitle(),
+                        getName(),
+                        bonus,
+                        selectedVehicle.getCleanliness(),
+                        selectedVehicle.getVehicleCondition(),
+                        selectedVehicle.getVehicleType(),
+                        selectedVehicle.getName(),
+                        selectedVehicle.getSalePrice(),
+                        totalAdoOnPrice,
+                        addOns
 
+                );
+                // Update sale price to include addons
+                selectedVehicle.setSalePrice(selectedVehicle.getSalePrice() + totalAdoOnPrice);
+            } else {
+                msg = String.format("%s %s sold %s %s %s to Buyer for $%.2f without any addOns (earned $%.2f bonus)\n",
+                        getJobTitle(),
+                        getName(),
+                        selectedVehicle.getCleanliness(),
+                        selectedVehicle.getVehicleCondition(),
+                        selectedVehicle.getName(),
+                        selectedVehicle.getSalePrice(),
+                        bonus
+                );
+            }
+            publisher.notifySubscribers(new Message(msg, bonus, 0));
             return selectedVehicle;
         } else {
-            System.out.printf("%s %s sold %s %s %s to Buyer unsuccessfully\n",
+            String msg = String.format("%s %s sold %s %s %s to Buyer unsuccessfully\n",
                     getJobTitle(),
                     getName(),
                     selectedVehicle.getCleanliness(),
                     selectedVehicle.getVehicleCondition(),
                     selectedVehicle.getName()
             );
+            publisher.notifySubscribers(new Message(msg, 0, 0));
             return null;
         }
     }
@@ -95,6 +131,62 @@ public class Salesperson extends Staff {
             selectedVehicle = inventory.getMostExpensiveVehicleForSale();
         }
         return selectedVehicle;
+    }
+
+    /**
+     * randomly select a combination of addOns, if any, and calculates their price
+     * @param vehicle to be sold
+     * @return addOnSummary: hashmap with addOns as a key and Total addOnPrice as value
+     */
+
+    public HashMap <String, Double> randomAddOn(Vehicle vehicle){
+        boolean randomExtendedWarrantyAddOnPurchase = RandomGenerator.probabilisticOutcomeGenerator(0.25);
+        boolean randomUndercoatingAddOnPurchase = RandomGenerator.probabilisticOutcomeGenerator(0.10);
+        boolean randomRoadRescueCoverageAddOnPurchase = RandomGenerator.probabilisticOutcomeGenerator(0.5);
+        boolean randomSatelliteRadioAddOnPurchase = RandomGenerator.probabilisticOutcomeGenerator(0.40);
+        HashMap <String, Double> addOnSummary  = new HashMap<>();
+        String addOnString = "";
+        double addOnTotalPrice = 0;
+
+        if (randomExtendedWarrantyAddOnPurchase){
+            ExtendedWarrantyAddOn extendedWarrantyAddOn = new ExtendedWarrantyAddOn(vehicle);
+            addOnTotalPrice = addOnTotalPrice + extendedWarrantyAddOn.getAddOnPrice();
+            addOnString = addOnString.concat("ExtendedWarranty");
+
+        }
+        if (randomUndercoatingAddOnPurchase){
+            UnderCoatingAddOn underCoatingAddOn= new UnderCoatingAddOn(vehicle);
+            addOnTotalPrice = addOnTotalPrice + underCoatingAddOn.getAddOnPrice();
+            if (addOnString.isEmpty()) {
+                addOnString = addOnString.concat("Undercoating");
+            }
+            else{
+                addOnString = addOnString.concat(", Undercoating");
+            }
+        }
+        if (randomRoadRescueCoverageAddOnPurchase){
+            RoadRescueCoverageAddOn roadRescueCoverageAddOn= new RoadRescueCoverageAddOn(vehicle);
+            addOnTotalPrice = addOnTotalPrice + roadRescueCoverageAddOn.getAddOnPrice();
+            if (addOnString.isEmpty()) {
+                addOnString = addOnString.concat("RoadRescueCoverage");
+            }
+            else{
+                addOnString = addOnString.concat(", RoadRescueCoverage");
+            }
+        }
+        if (randomSatelliteRadioAddOnPurchase){
+            SatelliteRadioAddOn satelliteRadioAddOn = new SatelliteRadioAddOn(vehicle);
+            addOnTotalPrice = addOnTotalPrice + satelliteRadioAddOn.getAddOnPrice();
+            if (addOnString.isEmpty()) {
+                addOnString = addOnString.concat("SatelliteRadio");
+            }
+            else{
+                addOnString = addOnString.concat(", SatelliteRadio");
+            }
+        }
+
+        addOnSummary.put(addOnString, addOnTotalPrice);
+        return addOnSummary;
     }
 
     /**
@@ -134,6 +226,12 @@ public class Salesperson extends Staff {
                 return 160;
             case PICKUP:
                 return 220;
+            case ELECTRIC_CAR:
+                return 300;
+            case MOTORCYCLE:
+                return 150;
+            case MONSTER_TRUCK:
+                return 500;
             default:
                 return 0;
         }

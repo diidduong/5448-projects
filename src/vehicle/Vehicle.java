@@ -1,5 +1,6 @@
 package vehicle;
 
+import staff.Staff;
 import utilities.RandomGenerator;
 
 import java.util.ArrayList;
@@ -19,7 +20,7 @@ public abstract class Vehicle {
     }
 
     public enum VehicleType {
-        PERFORMANCE_CAR, CAR, PICKUP
+        PERFORMANCE_CAR, CAR, PICKUP, ELECTRIC_CAR, MOTORCYCLE, MONSTER_TRUCK
     }
 
     private String name;
@@ -30,6 +31,7 @@ public abstract class Vehicle {
     private Cleanliness cleanliness;
     private VehicleCondition vehicleCondition;
     private VehicleType vehicleType;
+    private int racesWon;
 
     /**
      * Constructor to intialize vehicle with type and with a random cost
@@ -50,7 +52,7 @@ public abstract class Vehicle {
         this.initialCost = calculateCost(vehicleCondition, initialCost);
         this.salePrice = calculatePrice(initialCost);
 
-        System.out.printf("\nA %s and %s %s (%s) is available in the inventory.\n", getCleanliness(), getVehicleCondition(), type, getName());
+//        System.out.printf("\nA %s and %s %s (%s) is available in the inventory.\n", getCleanliness(), getVehicleCondition(), type, getName());
     }
 
     public String getName() {
@@ -115,6 +117,14 @@ public abstract class Vehicle {
         this.vehicleType = vehicleType;
     }
 
+    public int getRacesWon() {
+        return racesWon;
+    }
+
+    public void setRacesWon(int racesWon) {
+        this.racesWon = racesWon;
+    }
+
     /**
      * Util to create vehicle instance by type
      *
@@ -129,6 +139,12 @@ public abstract class Vehicle {
                 return new Car();
             case PICKUP:
                 return new Pickup();
+            case ELECTRIC_CAR:
+                return new ElectricCar();
+            case MOTORCYCLE:
+                return new MotorCycle();
+            case MONSTER_TRUCK:
+                return new MonsterTruck();
             default:
                 throw new IllegalArgumentException("Unknown vehicle type [" + type + "]");
         }
@@ -149,6 +165,22 @@ public abstract class Vehicle {
             }
         }
         return count;
+    }
+
+    /**
+     * Get vehicle list by given type
+     * @param vehicles
+     * @param type
+     * @return
+     */
+    public static ArrayList<Vehicle> getVehicleListByType(ArrayList<Vehicle> vehicles, VehicleType type) {
+        ArrayList<Vehicle> vehicleList = new ArrayList<>();
+        for (Vehicle v : vehicles) {
+            if (v.vehicleType == type) {
+                vehicleList.add(v);
+            }
+        }
+        return vehicleList;
     }
 
     /**

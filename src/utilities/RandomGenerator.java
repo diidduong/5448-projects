@@ -53,37 +53,47 @@ public class RandomGenerator {
             "Volvo XC70", "Mazda3", "Dodge Charger", "Chevrolet Bolt", "Chevrolet Spark", "Lexus RC 300",
             "Lexus RX 350", "Renault Logan", "Mitsubishi Eclipse"};
 
+    private static String[] monsterTruckNames = {"Air Force Afterburner", "Avenger", "Bad News Travels Fast", "Batman",
+            "Backwards Bob", "Bear Foot (1979)", "Bear Foot (F-150)", "Bear Foot (2xtreme)", "Bear Foot (Silverado)", "Bear Foot USA",
+            "Bigfoot", "Black Stallion", "Blacksmith", "Blue Thunder", "Bounty Hunter", "Brutus", "Bulldozer", "Captain's Curse",
+            "Cyborg", "El Toro Loco", "Grave Digger", "Grinder", "Gunslinger", "Jurassic Attack", "King Krunch", "Lucas Oil Crusader",
+            "Madusa", "Maximum Destruction (Max-D)", "Mohawk Warrior", "Monster Mutt", "Monster Mutt", "Monster Mutt Dalmatian",
+            "Predator", "Shell Camino",  "Raminator", "Snake Bite", "Stone Crusher", "Sudden Impact", "Swamp Thing", "The Destroyer",
+            "The Felon", "USA-1", "War Wizard", "WCW Nitro Machine", "Zombie"};
+
+    private static String[] motorcycleNames = {"Aprilia", "Benelli", "Beta", "Bimota", "BMW", "Brammo", "Buell", "Cagiva",
+            "Can-Am", "CCW", "Ducati", "EBR", "Harley-Davidson", "Honda", "Husaberg", "Husqvarna", "Hyosung", "Indian", "Kawasaki",
+            "KTM", "Kymco", "Laverda", "LiveWire", "Moto Guzzi", "MV Agusta", "Norton", "Phantom", "Piaggio", "Polaris Slingshot",
+            "Ridley", "Roehr", "Royal Enfield", "Suzuki", "Triumph", "Ural", "Vespa", "Victory", "Yamaha", "Zero"};
+
+    private static String[] electricCarNames = {"Lucid Air", "Nissan Leaf", "Tesla Model 3", "Tesla Model S", "Chevrolet Spark",
+            "Fiat 500e", "Kia Niro EV", "Hyundai Ioniq 5", "Kia EV6", "Ford Mustang Mach-E", "Mercedes-Benz EQS-Class","Tesla Model Y",
+            "Genesis GV60", "Volvo XC40 Recharge", "Audi E-Tron Sportback", "BMW iX", "Lucid Gravity", "MINI Cooper SE", "Volkswagen ID4",
+            "Hyundai Kona Electric", "Toyota bZ4X", "Nissan Ariya", "Subaru Solterra", "Karma GSe-6", "Polestar"};
 
     private static String[] carYears = {"2010", "2011", "2012", "2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020",
             "2021", "2022", "2023"};
+
+    private static String[] numbers = {"1", "2", "3", "4", "5", "6", "7", "8", "9", "10", "11",
+            "12", "13", "14", "15"};
 
     private static ArrayList<String> usedNames = new ArrayList<>();
     private static ArrayList<String> usedNormalCarNames = new ArrayList<>();
     private static ArrayList<String> usedPerformanceCarNames = new ArrayList<>();
     private static ArrayList<String> usedPickupCarNames = new ArrayList<>();
 
+    private static ArrayList<String> usedMotorcycleNames = new ArrayList<>();
+    private static ArrayList<String> usedElectricCarNames = new ArrayList<>();
+    private static ArrayList<String> usedMonsterTruckNames = new ArrayList<>();
+
+
     /**
-     * 1) Method that generates random person names using a combination of a random name from names1 array, as first name,
-     * and a random name from names2 array, as last name.
+     * Generate random person name
      *
-     * 2) can generate up to 9702 names
-     *
-     * 3) may encounter infinite while loop issue
-     * @return random person name
+     * @return person name in string
      */
-    public static String nameGenerator(){
-        Random random = new Random();
-        int rand_int1 = random.nextInt(firstNames.length);
-        int rand_int2 = random.nextInt(lastNames.length);
-        String name;
-        name = firstNames[rand_int1] + " " + lastNames[rand_int2];
-        while(usedNames.contains(name)) {
-            int rand_int3 = random.nextInt(firstNames.length);
-            int rand_int4 = random.nextInt(lastNames.length);
-            name = firstNames[rand_int3] + " " + lastNames[rand_int4];
-        }
-        usedNames.add(name);
-        return name;
+    public static String personNameGenerator() {
+        return nameGenerator(firstNames, lastNames, usedNames);
     }
 
     /**
@@ -95,96 +105,62 @@ public class RandomGenerator {
     public static String vehicleNameGenerator(Vehicle.VehicleType type) {
         switch (type) {
             case PERFORMANCE_CAR:
-                return performanceCarNameGenerator();
+                return nameGenerator(performanceCarName, carYears, usedPerformanceCarNames);
             case CAR:
-                return normalCarNameGenerator();
+                return nameGenerator(normalCarNames, carYears, usedNormalCarNames);
             case PICKUP:
-                return pickupCarNameGenerator();
+                return nameGenerator(pickupCarNames, carYears, usedPickupCarNames);
+            case ELECTRIC_CAR:
+                return nameGenerator(electricCarNames, carYears, usedElectricCarNames);
+            case MONSTER_TRUCK:
+                return nameGenerator(monsterTruckNames, numbers, usedMotorcycleNames);
+            case MOTORCYCLE:
+                return nameGenerator(motorcycleNames, carYears, usedMotorcycleNames);
             default:
                 return "No Name";
         }
     }
 
     /**
-     * 1) Method that generates random normal car names using a combination of a random car name from normalCarName array
-     * and a random year from carYear array.
+     * 1) Method that generates random name with two part, first and second. This can be used to
+     * generate name for person or vehicle. Names are not duplicated. Can generate up to
+     * first * second possible names
      *
      * 2) can generate up to (need to be tested) names
      *
-     * 3) may encounter infinite while loop issue
+     * 3) if run out of name, return null
      *
-     * @return random normal car name
+     * @return random name in string, null if run out of name
+     *
+     * @param firstNameList first part
+     * @param secondNameList second part
+     * @param usedNameList list to store used names
      */
-    public static String normalCarNameGenerator(){
+    public static String nameGenerator(String[] firstNameList, String[] secondNameList, ArrayList<String> usedNameList){
+        //TODO: update UML
         Random random = new Random();
-        int rand_int1 = random.nextInt(normalCarNames.length);
-        int rand_int2 = random.nextInt(carYears.length);
-        String name;
-        name = normalCarNames[rand_int1] + " " + carYears[rand_int2];
-        while(usedNormalCarNames.contains(name)) {
-            int rand_int3 = random.nextInt(normalCarNames.length);
-            int rand_int4 = random.nextInt(carYears.length);
-            name = normalCarNames[rand_int3] +" " + carYears[rand_int4];
+        String name = null;
+        int possibleNumNames = firstNameList.length * secondNameList.length;
+
+        while(usedNameList.size() < possibleNumNames) {
+            int rand_int1 = random.nextInt(firstNameList.length);
+            int rand_int2 = random.nextInt(secondNameList.length);
+            String newName = firstNameList[rand_int1] +" " + secondNameList[rand_int2];
+            if (!usedNameList.contains(newName)) {
+                name = newName;
+                break;
+            }
         }
-        usedNormalCarNames.add(name);
+
+        // Add created name to used name
+        if (name != null) {
+            usedNameList.add(name);
+        }
         return name;
     }
 
     /**
-     * 1) Method that generates random performance car names using a combination of a random pickup name from performanceCarName array
-     * and a random year from carYear array.
-     *
-     * 2) can generate up to 294 names
-     *
-     * 3) may encounter infinite while loop issue
-     *
-     * @return random performance car name
-     */
-
-    public static String performanceCarNameGenerator(){
-        Random random = new Random();
-        int rand_int1 = random.nextInt(performanceCarName.length);
-        int rand_int2 = random.nextInt(carYears.length);
-        String name = new String();
-        name = performanceCarName[rand_int1] +" " + carYears[rand_int2];
-        while(usedPerformanceCarNames.contains(name)) {
-            int rand_int3 = random.nextInt(performanceCarName.length);
-            int rand_int4 = random.nextInt(carYears.length);
-            name = performanceCarName[rand_int3] +" " + carYears[rand_int4];
-        }
-        usedPerformanceCarNames.add(name);
-
-        return name;
-    }
-
-    /**
-     * 1) Method that generates random pickup car names using a combination of a random pickup name from pickupCarName array
-     * and a random year from carYear array.
-     *
-     * 2) can generate up to 336 names
-     *
-     * 3) may encounter infinite while loop issue
-     *
-     * @return random pickup car name
-     */
-
-    public static String pickupCarNameGenerator(){
-        Random random = new Random();
-        int rand_int1 = random.nextInt(pickupCarNames.length);
-        int rand_int2 = random.nextInt(carYears.length);
-        String name = new String();
-        name = pickupCarNames[rand_int1] +" " + carYears[rand_int2];
-        while(usedPickupCarNames.contains(name) == true) {
-            int rand_int3 = random.nextInt(pickupCarNames.length);
-            int rand_int4 = random.nextInt(carYears.length);
-            name = pickupCarNames[rand_int3] +" " + carYears[rand_int4];
-        }
-        usedPickupCarNames.add(name);
-        return name;
-    }
-
-    /**
-     * Method that generates a int random number within a range.
+     * Method that generates an int random number within a range.
      *
      * @param min: lowerbound of the range (inclusive)
      *
@@ -212,6 +188,21 @@ public class RandomGenerator {
         double randomNum = random.nextDouble() * (max - min) + min;
         //System.out.println(randomNum);
         return randomNum;
+    }
+
+    /**
+     *  Method that generates random int from normal distribution with mean and std given a minimum value
+     *
+     * @return random int
+     */
+    public static int randomIntFromNormalDistributionWithMeanAndStdWithMinimum(int mean, int std, int min){
+        Random random = new Random();
+        double randomInt = random.nextGaussian()*std+mean;
+        while ((int)randomInt < min){
+            randomInt = random.nextGaussian()*std+mean;
+        }
+//        System.out.println((int)randomInt); //for testing
+        return (int) randomInt;
     }
 
     /**

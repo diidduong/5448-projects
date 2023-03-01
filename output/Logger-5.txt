@@ -1,0 +1,19 @@
+Purchased LIKE_NEW, DIRTY PICKUP Mahindra Bolero Camper 2020 for $ 41357.43
+INTERN Demi Parsons wash (ChemicalWashing) PICKUP Tesla Cybertruck 2018 and made it CLEAN
+INTERN Demi Parsons wash (ChemicalWashing) ELECTRIC_CAR MINI Cooper SE 2010 (452 miles) and made it CLEAN
+INTERN Louis Rivers wash (ElbowGreaseWashing) ELECTRIC_CAR Mercedes-Benz EQS-Class 2014 (299 miles) and made it CLEAN
+INTERN Louis Rivers wash (ElbowGreaseWashing) MONSTER_TRUCK Madusa 3 and made it DIRTY
+INTERN Bristol Giles wash (ChemicalWashing) MONSTER_TRUCK Madusa 3 and made it CLEAN
+INTERN Bristol Giles wash (ChemicalWashing) MONSTER_TRUCK Raminator 1 and made it CLEAN
+MECHANIC Keyla Chang repaired BROKEN ELECTRIC_CAR MINI Cooper SE 2010 (452 miles) and made it USED (earned $300.00 bonus)
+MECHANIC Keyla Chang repaired USED ELECTRIC_CAR MINI Cooper SE 2010 (452 miles) and made it LIKE_NEW (earned $300.00 bonus)
+MECHANIC Olivia Cabrera repaired USED ELECTRIC_CAR Mercedes-Benz EQS-Class 2014 (299 miles) and made it LIKE_NEW (earned $300.00 bonus)
+MECHANIC Olivia Cabrera repaired USED ELECTRIC_CAR Lucid Gravity 2023 (283 miles) unsuccessfully
+MECHANIC Elaina Galindo repaired USED ELECTRIC_CAR Lucid Gravity 2023 (283 miles) and made it LIKE_NEW (earned $300.00 bonus)
+MECHANIC Elaina Galindo repaired BROKEN ELECTRIC_CAR Fiat 500e 2021 (252 miles) and made it USED (earned $300.00 bonus)
+SALESPERSON Navy Case (earned $350.00 bonus) sold CLEAN LIKE_NEW (PERFORMANCE_CAR) Acura NSX 2018 to Buyer for $126850.38 + $34249.60 (ExtendedWarranty, RoadRescueCoverage, SatelliteRadio (addOns)).
+Added sale income $161099.98 to current balance
+SALESPERSON Bentlee Duran sold CLEAN LIKE_NEW Toyota GR86 2016 to Buyer unsuccessfully
+SALESPERSON Joel Acevedo sold CLEAN USED GMC Canyon 2022 to Buyer for $57542.38 without any addOns (earned $220.00 bonus)
+Added sale income $57542.38 to current balance
+Total salary payout increased by $1500.00Total bonuses payout increased by $2070.00INTERN Demi Parsons received $80.00 (salary) and $0.00 (bonuses)INTERN Louis Rivers received $80.00 (salary) and $0.00 (bonuses)MECHANIC Keyla Chang received $120.00 (salary) and $600.00 (bonuses)MECHANIC Olivia Cabrera received $120.00 (salary) and $300.00 (bonuses)MECHANIC Elaina Galindo received $120.00 (salary) and $600.00 (bonuses)SALESPERSON Bentlee Duran received $150.00 (salary) and $0.00 (bonuses)SALESPERSON Navy Case received $150.00 (salary) and $350.00 (bonuses)SALESPERSON Joel Acevedo received $150.00 (salary) and $220.00 (bonuses)DRIVER Maxwell Singh received $150.00 (salary) and $0.00 (bonuses)DRIVER Amara Reid received $150.00 (salary) and $0.00 (bonuses)DRIVER Logan Herman received $150.00 (salary) and $0.00 (bonuses)INTERN Bristol Giles received $80.00 (salary) and $0.00 (bonuses)

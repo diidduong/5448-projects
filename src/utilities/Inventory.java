@@ -74,4 +74,31 @@ public class Inventory {
         workingInventory.remove(vehicle);
         soldVehicles.add(vehicle);
     }
+
+    /**
+     * Gets the three vehicles belonging to a rondomly selected vehicle type if they are not broken,
+     * they will participate in the race
+     *
+     * @param numVehiclesRequired: the max. number of vehicles required to participate in a given race
+     * @return Arraylist of the qualified vehicles for a randomly selected vehicle type
+     */
+    public ArrayList<Vehicle> getVehiclesForRace(int numVehiclesRequired){
+        Vehicle.VehicleType[] availableVehicleTypesforRacing = {Vehicle.VehicleType.MONSTER_TRUCK,
+                Vehicle.VehicleType.MOTORCYCLE, Vehicle.VehicleType.PERFORMANCE_CAR, Vehicle.VehicleType.PICKUP};
+        int randomInt = RandomGenerator.randomIntGenerator(0,availableVehicleTypesforRacing.length-1);
+        Vehicle.VehicleType randomlySelectedVehicleTypeforRacing = availableVehicleTypesforRacing[randomInt];
+        ArrayList<Vehicle> availableVehiclesByTypeArrayList =
+                Vehicle.getVehicleListByType(workingInventory, randomlySelectedVehicleTypeforRacing);
+        ArrayList<Vehicle> dummyAvailableVehiclesByTypeArrayList = new ArrayList<>(availableVehiclesByTypeArrayList);
+
+        for (Vehicle vehicle: dummyAvailableVehiclesByTypeArrayList) {
+            if (vehicle.getVehicleCondition() == Vehicle.VehicleCondition.BROKEN){
+                availableVehiclesByTypeArrayList.remove(vehicle);
+            }
+        }
+        while (availableVehiclesByTypeArrayList.size() > numVehiclesRequired){
+            availableVehiclesByTypeArrayList.remove(availableVehiclesByTypeArrayList.get(0));
+        }
+        return availableVehiclesByTypeArrayList;
+    }
 }

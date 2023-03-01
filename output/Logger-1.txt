@@ -1,0 +1,17 @@
+INTERN Aarav Benton wash (ChemicalWashing) PERFORMANCE_CAR Mazda MX-5 Miata 2016 and made it CLEAN
+INTERN Aarav Benton wash (ChemicalWashing) PERFORMANCE_CAR Toyota GR86 2016 and made it CLEAN
+INTERN Demi Parsons wash (ChemicalWashing) PERFORMANCE_CAR Acura NSX 2018 and made it SPARKLING (earned 75.00 bonus)
+INTERN Demi Parsons wash (ChemicalWashing) CAR Lexus RX 350 2018 and made it CLEAN
+INTERN Louis Rivers wash (ElbowGreaseWashing) CAR Volvo XC70 2017 and made it CLEAN
+INTERN Louis Rivers wash (ElbowGreaseWashing) CAR Mercedes-Benz AMG-class 2015 and made it CLEAN
+MECHANIC Keyla Chang repaired USED PERFORMANCE_CAR Mazda MX-5 Miata 2016 and made it LIKE_NEW (earned $200.00 bonus)
+MECHANIC Keyla Chang repaired BROKEN PERFORMANCE_CAR Dodge Viper 2010 and made it USED (earned $200.00 bonus)
+MECHANIC Olivia Cabrera repaired USED PERFORMANCE_CAR Dodge Viper 2010 and made it LIKE_NEW (earned $200.00 bonus)
+MECHANIC Olivia Cabrera repaired BROKEN PERFORMANCE_CAR Toyota GR86 2016 and made it USED (earned $200.00 bonus)
+MECHANIC Elaina Galindo repaired USED PERFORMANCE_CAR Toyota GR86 2016 and made it LIKE_NEW (earned $200.00 bonus)
+MECHANIC Elaina Galindo repaired BROKEN PERFORMANCE_CAR Acura NSX 2018 and made it USED (earned $200.00 bonus)
+Maxwell Singh (Driver) raced with Dodge Ram 1500 TRX 2014 (PICKUP) and achieved rank no. 19.
+Dodge Ram 1500 TRX 2014 (PICKUP) went BROKEN.
+Amara Reid (Driver) raced with Tesla Cybertruck 2018 (PICKUP) and achieved rank no. 8.
+Logan Herman (Driver) raced with Ford F-150 Raptor 2018 (PICKUP) and achieved rank no. 5.
+Total salary payout increased by $1500.00Total bonuses payout increased by $1275.00INTERN Aarav Benton received $80.00 (salary) and $0.00 (bonuses)INTERN Demi Parsons received $80.00 (salary) and $75.00 (bonuses)INTERN Louis Rivers received $80.00 (salary) and $0.00 (bonuses)MECHANIC Keyla Chang received $120.00 (salary) and $400.00 (bonuses)MECHANIC Olivia Cabrera received $120.00 (salary) and $400.00 (bonuses)MECHANIC Elaina Galindo received $120.00 (salary) and $400.00 (bonuses)SALESPERSON Bentlee Duran received $150.00 (salary) and $0.00 (bonuses)SALESPERSON Navy Case received $150.00 (salary) and $0.00 (bonuses)SALESPERSON Joel Acevedo received $150.00 (salary) and $0.00 (bonuses)DRIVER Maxwell Singh received $150.00 (salary) and $0.00 (bonuses)DRIVER Amara Reid received $150.00 (salary) and $0.00 (bonuses)DRIVER Logan Herman received $150.00 (salary) and $0.00 (bonuses)

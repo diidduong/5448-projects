@@ -1,0 +1,21 @@
+Purchased LIKE_NEW, CLEAN PERFORMANCE_CAR Ford Mustang Shelby GT500 2020 for $ 67430.42
+INTERN Louis Rivers wash (ElbowGreaseWashing) ELECTRIC_CAR Fiat 500e 2021 (352 miles) and made it CLEAN
+INTERN Louis Rivers wash (ElbowGreaseWashing) MOTORCYCLE Moto Guzzi 2017 (612 CC engine) and made it CLEAN
+INTERN Bristol Giles wash (ChemicalWashing) MOTORCYCLE Husqvarna 2020 (646 CC engine) and made it CLEAN
+INTERN Bristol Giles wash (ChemicalWashing) PICKUP Mahindra Bolero Camper 2020 and made it CLEAN
+INTERN Claire Blair wash (ChemicalWashing) PICKUP Tesla Cybertruck 2017 and made it CLEAN
+INTERN Claire Blair wash (ChemicalWashing) PERFORMANCE_CAR Mazda MX-5 Miata 2016 and made it DIRTY
+MECHANIC Olivia Cabrera repaired BROKEN MOTORCYCLE Husqvarna 2020 (646 CC engine) and made it USED (earned $80.00 bonus)
+MECHANIC Olivia Cabrera repaired USED MOTORCYCLE Husqvarna 2020 (646 CC engine) and made it LIKE_NEW (earned $80.00 bonus)
+MECHANIC Elaina Galindo repaired USED MOTORCYCLE Harley-Davidson 2018 (963 CC engine) unsuccessfully
+MECHANIC Elaina Galindo repaired USED MOTORCYCLE Harley-Davidson 2018 (963 CC engine) and made it LIKE_NEW (earned $80.00 bonus)
+MECHANIC Demi Parsons repaired USED MOTORCYCLE Hyosung 2014 (712 CC engine) and made it LIKE_NEW (earned $80.00 bonus)
+MECHANIC Demi Parsons repaired BROKEN MONSTER_TRUCK Bigfoot 6 and made it USED (earned $500.00 bonus)
+SALESPERSON Navy Case sold DIRTY LIKE_NEW Mazda MX-5 Miata 2016 to Buyer unsuccessfully
+SALESPERSON Bentlee Duran (earned $350.00 bonus) sold DIRTY LIKE_NEW (PERFORMANCE_CAR) Mazda MX-5 Miata 2016 to Buyer for $88955.95 + $6226.92 (RoadRescueCoverage, SatelliteRadio (addOns)).
+Added sale income $95182.86 to current balance
+SALESPERSON Joel Acevedo sold CLEAN USED Tesla Cybertruck 2017 to Buyer unsuccessfully
+SALESPERSON Joel Acevedo (earned $220.00 bonus) sold CLEAN USED (PICKUP) Tesla Cybertruck 2017 to Buyer for $75146.60 + $5260.26 (RoadRescueCoverage, SatelliteRadio (addOns)).
+Added sale income $80406.86 to current balance
+SALESPERSON Bentlee Duran sold CLEAN LIKE_NEW Tesla Cybertruck 2018 to Buyer unsuccessfully
+Total salary payout increased by $1500.00Total bonuses payout increased by $1390.00INTERN Louis Rivers received $80.00 (salary) and $0.00 (bonuses)MECHANIC Olivia Cabrera received $120.00 (salary) and $160.00 (bonuses)MECHANIC Elaina Galindo received $120.00 (salary) and $80.00 (bonuses)SALESPERSON Bentlee Duran received $150.00 (salary) and $350.00 (bonuses)SALESPERSON Navy Case received $150.00 (salary) and $0.00 (bonuses)SALESPERSON Joel Acevedo received $150.00 (salary) and $220.00 (bonuses)DRIVER Maxwell Singh received $150.00 (salary) and $0.00 (bonuses)DRIVER Amara Reid received $150.00 (salary) and $0.00 (bonuses)DRIVER Logan Herman received $150.00 (salary) and $0.00 (bonuses)INTERN Bristol Giles received $80.00 (salary) and $0.00 (bonuses)MECHANIC Demi Parsons received $120.00 (salary) and $580.00 (bonuses)INTERN Claire Blair received $80.00 (salary) and $0.00 (bonuses)

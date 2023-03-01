@@ -1,10 +1,11 @@
 package utilities;
 
 import customer.Buyer;
-import staff.Intern;
-import staff.Mechanic;
-import staff.Salesperson;
-import staff.Staff;
+import staff.*;
+import tracking.EventPublisher;
+import tracking.Logger;
+import tracking.Message;
+import tracking.Tracker;
 import vehicle.Vehicle;
 
 import java.util.ArrayList;
@@ -20,6 +21,7 @@ public class FNCDAdministration {
     private final int END_DAY = 30; // 30-day simulation
     private final int NUM_STAFF_EACH = 3;
     private final int NUM_VEHICLE_EACH = 4;
+    private final int NUM_RACE_VEHICLE = 3;
     private final double INITIAL_BALANCE = 500000;
     private final double RESERVE_BALANCE = 250000;
 
@@ -28,6 +30,10 @@ public class FNCDAdministration {
 
     Budget budget = new Budget(INITIAL_BALANCE);
     Inventory inventory = new Inventory();
+
+    EventPublisher publisher;
+    Logger logger;
+    Tracker tracker;
 
     /**
      * Start up FNCD simulation which has pre-event when FNCD hires staffs
@@ -38,6 +44,11 @@ public class FNCDAdministration {
         System.out.println("****************************************");
         System.out.println("    Welcome to the FNCD simulation");
         System.out.println("********** Inauguration day ************");
+
+        // Subscribe tracker at the beginning of simulation
+        publisher = new EventPublisher();
+        tracker = new Tracker();
+        publisher.addSubscriber(tracker);
 
         // Hire all staffs
         for (Staff.JobTitle title : Staff.JobTitle.values()) {
@@ -58,6 +69,8 @@ public class FNCDAdministration {
 
         // Start 30 days simulation
         operate();
+
+        publisher.removeSubscriber(tracker); // remove tracker subscription at the end of simulation
     }
 
     /**
@@ -74,8 +87,12 @@ public class FNCDAdministration {
         if (budget.getCurrentBalance() < salePrice) {
             budget.addBalance(RESERVE_BALANCE);
             // Announce "Adding money to the FNCD budget due to low funds"
-            System.out.printf("\nReserve balance %.2f is used", RESERVE_BALANCE);
-            System.out.printf("\nCurrent balance is $ %.2f \n", budget.getCurrentBalance());
+
+            String msg = String.format("\nReserve balance %.2f is used, current balance is %.2f\n",
+                    RESERVE_BALANCE,
+                    budget.getCurrentBalance()
+            );
+            publisher.notifySubscribers(new Message(msg, 0, 0));
         }
         // subtract vehicle sale price from balance
         budget.subtractBalance(salePrice);
@@ -84,12 +101,14 @@ public class FNCDAdministration {
         inventory.getWorkingInventory().add(vehicle);
 
         // output purchase vehicle event
-        System.out.printf("Purchased %s, %s %s for $ %.2f\n",
+        String msg = String.format("Purchased %s, %s %s %s for $ %.2f\n",
                 vehicle.getVehicleCondition(),
                 vehicle.getCleanliness(),
+                vehicle.getVehicleType(),
                 vehicle.getName(),
                 salePrice
         );
+        publisher.notifySubscribers(new Message(msg, 0, 0));
     }
 
     /**
@@ -99,14 +118,32 @@ public class FNCDAdministration {
      */
     public void operate() {
         while (day <= END_DAY) {
-            day++; // next day work
+            // initialization of daily logger
+            logger = new Logger(day);
+            publisher.addSubscriber(logger);
+            // Set day for logger and tracker
+            logger.setDay(day);
+            tracker.setDay(day);
+
 
             // Increase num work day of all staffs
             for (Staff staff : staffs) {
                 staff.addWorkDay();
             }
 
-            if (day % 7 != 0) {
+            if (day % 7 == 1 || day % 7 == 4) {
+                System.out.printf("\n********** day %d ************\n", day);
+                System.out.println("********** Working & Racing day ************");
+
+                opening();
+                washing();
+                repairing();
+                selling();
+                racing();
+                ending();
+
+                dailyReport();
+            } else {
                 System.out.printf("\n********** day %d ************\n", day);
                 System.out.println("********** Working day ************");
 
@@ -117,11 +154,12 @@ public class FNCDAdministration {
                 ending();
 
                 dailyReport();
-            } else {
-                System.out.printf("\n********** day %d ************\n", day);
-                System.out.println("********** Weekend ************");
             }
 
+            publisher.removeSubscriber(logger); // remove logger at the end of each day
+            tracker.printDailySummary();
+
+            day++; // next day work
         }
         System.out.println("********** End of FNCD operation simulation  ************");
         System.out.println("********** End of FNCD simulation  ************");
@@ -145,7 +183,7 @@ public class FNCDAdministration {
         System.out.println("\nWashing...");
         ArrayList<Staff> interns = Staff.getStaffListByType(staffs, Staff.JobTitle.INTERN);
         for (Staff intern : interns) {
-            ((Intern) intern).washVehicles(inventory.getWorkingInventory());
+            ((Intern) intern).washVehicles(inventory.getWorkingInventory(), publisher);
         }
     }
 
@@ -156,7 +194,7 @@ public class FNCDAdministration {
         System.out.println("\nRepairing...");
         ArrayList<Staff> mechanics = Staff.getStaffListByType(staffs, Staff.JobTitle.MECHANIC);
         for (Staff mechanic : mechanics) {
-            ((Mechanic) mechanic).repairVehicles(inventory.getWorkingInventory());
+            ((Mechanic) mechanic).repairVehicles(inventory.getWorkingInventory(), publisher);
         }
     }
 
@@ -172,13 +210,84 @@ public class FNCDAdministration {
         ArrayList<Staff> salespersonList = Staff.getStaffListByType(staffs, Staff.JobTitle.SALESPERSON);
         for (Buyer buyer : buyers) {
             int randomIdx = RandomGenerator.randomIntGenerator(0,salespersonList.size()-1);
-            Vehicle vehicle = ((Salesperson) salespersonList.get(randomIdx)).sellVehicles(buyer, inventory);
+            Vehicle vehicle = ((Salesperson) salespersonList.get(randomIdx)).sellVehicles(buyer, inventory, publisher);
             if (vehicle != null) {
                 inventory.moveVehicleToSoldVehicles(vehicle);
                 budget.addBalance(vehicle.getSalePrice());
                 budget.addSaleIncome(vehicle.getSalePrice());
                 // Announce change in money for FNCD
-                System.out.printf("Added sale income %.2f to current balance\n", vehicle.getSalePrice());
+                String msg = String.format("Added sale income $%.2f to current balance\n", vehicle.getSalePrice());
+                publisher.notifySubscribers(new Message(msg, 0, vehicle.getSalePrice()));
+            }
+        }
+    }
+
+    /**
+     * Do racing activity
+     */
+    public void racing() {
+        System.out.println("\nRacing...");
+
+        ArrayList<Vehicle> vehiclesForRacing = inventory.getVehiclesForRace(NUM_RACE_VEHICLE);
+        if (vehiclesForRacing.size() == 0){
+            System.out.println("FNCD is unable to participate in the race today due to the lack of running vehicles");
+        } else {
+            participateInRace(vehiclesForRacing);
+        }
+    }
+
+    /**
+     * simulates the race results of given Vehicles and their associated drivers.
+     * Update the states for drivers (winning and injury) and vehicles (winning and being Broken)
+     * depending on their rank in the races
+     *
+     * @param vehiclesForRacing: available vehicles for racing
+     */
+    public void participateInRace(ArrayList<Vehicle> vehiclesForRacing){
+        ArrayList<Staff> availableDrivers = Staff.getStaffListByType(staffs, Staff.JobTitle.DRIVER);
+        ArrayList<Integer> disposableRanks = new ArrayList<>();
+        for (int i = 0; i < vehiclesForRacing.size(); i++){
+            Driver driver = (Driver) availableDrivers.get(i);
+            Vehicle vehicle = vehiclesForRacing.get(i);
+
+
+            int rank = RandomGenerator.randomIntGenerator(1,20);
+            disposableRanks.add(rank);
+            while(disposableRanks.contains(rank)){
+                rank = RandomGenerator.randomIntGenerator(1,20);
+            }
+            disposableRanks.add(rank);
+
+            String msg = String.format("%s (Driver) raced with %s (%s) and achieved rank no. %d.\n", driver.getName(),
+                    vehicle.getName(), vehicle.getVehicleType(), rank
+            );
+            publisher.notifySubscribers(new Message(msg, 0, 0));
+
+            if (rank <= 3) {
+                msg = String.format("%s (Driver) won with %s (%s) (earned $ 1000 bonus)!\n",driver.getName(), vehicle.getName(),
+                        vehicle.getVehicleType());
+                publisher.notifySubscribers(new Message(msg, 1000, 0));
+
+                driver.setRacesWon(driver.getRacesWon() + 1); // increase driver win count
+                driver.addBonus(1000); // Add bonus to Driver that drove the winning vehicle
+                vehicle.setRacesWon(vehicle.getRacesWon() + 1); // increase vehicle win count
+
+                // Increase sale price
+                if (vehicle.getRacesWon() == 1) {
+                    vehicle.setSalePrice(vehicle.getSalePrice() * 1.1);
+                }
+            } else if (rank >= 16){
+                driver.injury(publisher);
+                // If driver is injured, Driver leave FNCD or move to departed staff
+                if (driver.isInjured()) {
+                    driver.setWorking(false);
+                    staffs.remove(driver);
+                    departedStaffs.add(driver);
+                }
+                // Vehicles become Broken if they lose
+                vehicle.setVehicleCondition(Vehicle.VehicleCondition.BROKEN);
+                msg = String.format("%s (%s) went BROKEN.\n", vehicle.getName(), vehicle.getVehicleType());
+                publisher.notifySubscribers(new Message(msg, 0, 0));
             }
         }
     }
@@ -188,17 +297,28 @@ public class FNCDAdministration {
      */
     public void ending() {
         System.out.println("\nEnding...");
-
+        String msg = "";
         // pay all salaries
-        budget.addSalariesPayout(staffs);
-        budget.addBonusesPayout(staffs);
+        budget.addSalariesPayout(staffs, publisher);
+        budget.addBonusesPayout(staffs, publisher);
+
         for (Staff staff : staffs) {
+            // Output payout for each staff including daily rate and bonuses
+            msg = String.format("%s %s received $%.2f (salary) and $%.2f (bonuses)",
+                    staff.getJobTitle(),
+                    staff.getName(),
+                    staff.getDailyRate(),
+                    staff.getBonus()
+            );
+            publisher.notifySubscribers(new Message(msg, staff.getSalary() + staff.getBonus(), 0));
+
             staff.addSalary();
             staff.addTotalBonus();
         }
 
         // One member of each type can quit at 10%, if quit, move staff to departed staff list
         for (Staff.JobTitle title : Staff.JobTitle.values()) {
+            if (title == Staff.JobTitle.DRIVER) continue; // Drivers don't quit
             ArrayList<Staff> staffList = Staff.getStaffListByType(staffs, title);
             Staff staff = staffList.get(0);
             staff.workOrQuit(); // staff going to quit
@@ -347,17 +467,19 @@ public class FNCDAdministration {
 
         // Print out inventory
         System.out.println("Inventory");
-        System.out.println("Type | Name | Cost | SalePrice | Condition | Cleanliness | InStock");
+        System.out.println("Type | Name | Cost | SalePrice | Condition | Cleanliness | InStock | RacesWon");
         System.out.println("------------------------------------------------------------------------");
         for (Vehicle vehicle : allVehicles) {
-            System.out.printf("%s | %s | %.2f | %.2f | %s | %s | %s\n",
+            System.out.printf("%s | %s | %.2f | %.2f | %s | %s | %s | %d\n",
                     vehicle.getVehicleType(),
                     vehicle.getName(),
                     vehicle.getInitialCost(),
                     vehicle.getSalePrice(),
                     vehicle.getVehicleCondition(),
                     vehicle.getCleanliness(),
-                    vehicle.isInStock());
+                    vehicle.isInStock(),
+                    vehicle.getRacesWon()
+            );
         }
 
         System.out.println();

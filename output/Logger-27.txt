@@ -1,0 +1,18 @@
+Purchased LIKE_NEW, DIRTY PERFORMANCE_CAR Maserati MC20 2021 for $ 56022.87
+Purchased USED, DIRTY CAR Toyota Corolla 2017 for $ 22095.94
+INTERN Leyla Dickson wash (ElbowGreaseWashing) MONSTER_TRUCK Madusa 3 and made it CLEAN
+INTERN Leyla Dickson wash (ElbowGreaseWashing) PERFORMANCE_CAR Toyota GR86 2018 and made it DIRTY
+INTERN Emmalynn Reed wash (DetailedWashing) PERFORMANCE_CAR Toyota GR86 2018 and made it SPARKLING (earned 75.00 bonus)
+INTERN Emmalynn Reed wash (DetailedWashing) PICKUP Rivian R1T 2012 and made it DIRTY
+INTERN Ridge Petersen wash (DetailedWashing) PICKUP Rivian R1T 2012 and made it CLEAN
+INTERN Ridge Petersen wash (DetailedWashing) PERFORMANCE_CAR Maserati MC20 2021 and made it CLEAN
+MECHANIC Bristol Giles repaired USED CAR Toyota Corolla 2017 and made it LIKE_NEW (earned $100.00 bonus)
+SALESPERSON Navy Case sold CLEAN LIKE_NEW Mercedes-Benz S-class 2013 to Buyer unsuccessfully
+SALESPERSON Louis Rivers (earned $220.00 bonus) sold CLEAN LIKE_NEW (PICKUP) Rivian R1T 2012 to Buyer for $92860.03 + $6500.20 (RoadRescueCoverage, SatelliteRadio (addOns)).
+Added sale income $99360.24 to current balance
+SALESPERSON Louis Rivers sold CLEAN LIKE_NEW Ford Velociraptor 6×6 2011 to Buyer for $42274.38 without any addOns (earned $220.00 bonus)
+Added sale income $42274.38 to current balance
+SALESPERSON Louis Rivers (earned $350.00 bonus) sold SPARKLING LIKE_NEW (PERFORMANCE_CAR) Toyota GR86 2018 to Buyer for $84119.01 + $4205.95 (SatelliteRadio (addOns)).
+Added sale income $88324.96 to current balance
+SALESPERSON Joel Acevedo sold CLEAN LIKE_NEW Ford Mustang 2019 to Buyer unsuccessfully
+Total salary payout increased by $1500.00Total bonuses payout increased by $965.00SALESPERSON Navy Case received $150.00 (salary) and $0.00 (bonuses)SALESPERSON Joel Acevedo received $150.00 (salary) and $0.00 (bonuses)DRIVER Maxwell Singh received $150.00 (salary) and $0.00 (bonuses)DRIVER Logan Herman received $150.00 (salary) and $0.00 (bonuses)SALESPERSON Louis Rivers received $150.00 (salary) and $790.00 (bonuses)DRIVER Kiana Tate received $150.00 (salary) and $0.00 (bonuses)MECHANIC Bristol Giles received $120.00 (salary) and $100.00 (bonuses)MECHANIC Claire Blair received $120.00 (salary) and $0.00 (bonuses)INTERN Leyla Dickson received $80.00 (salary) and $0.00 (bonuses)INTERN Emmalynn Reed received $80.00 (salary) and $75.00 (bonuses)MECHANIC Claire Foley received $120.00 (salary) and $0.00 (bonuses)INTERN Ridge Petersen received $80.00 (salary) and $0.00 (bonuses)

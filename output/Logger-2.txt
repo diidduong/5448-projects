@@ -1,0 +1,19 @@
+INTERN Aarav Benton wash (ChemicalWashing) PERFORMANCE_CAR Mazda MX-5 Miata 2016 and made it CLEAN
+INTERN Aarav Benton wash (ChemicalWashing) PERFORMANCE_CAR Dodge Viper 2010 and made it CLEAN
+INTERN Demi Parsons wash (ChemicalWashing) PERFORMANCE_CAR Toyota GR86 2016 and made it CLEAN
+INTERN Demi Parsons wash (ChemicalWashing) PICKUP Dodge Ram 1500 TRX 2014 and made it SPARKLING (earned 100.00 bonus)
+INTERN Louis Rivers wash (ElbowGreaseWashing) ELECTRIC_CAR MINI Cooper SE 2010 (352 miles) and made it CLEAN
+INTERN Louis Rivers wash (ElbowGreaseWashing) ELECTRIC_CAR Mercedes-Benz EQS-Class 2014 (299 miles) and made it CLEAN
+MECHANIC Keyla Chang repaired USED PERFORMANCE_CAR Acura NSX 2018 unsuccessfully
+MECHANIC Keyla Chang repaired USED PERFORMANCE_CAR Acura NSX 2018 and made it LIKE_NEW (earned $200.00 bonus)
+MECHANIC Olivia Cabrera repaired USED CAR Lexus RX 350 2018 and made it LIKE_NEW (earned $100.00 bonus)
+MECHANIC Olivia Cabrera repaired USED CAR Volvo XC70 2017 unsuccessfully
+MECHANIC Elaina Galindo repaired USED CAR Volvo XC70 2017 and made it LIKE_NEW (earned $100.00 bonus)
+MECHANIC Elaina Galindo repaired USED CAR Volvo XC70 2018 unsuccessfully
+SALESPERSON Joel Acevedo sold DIRTY LIKE_NEW Acura NSX 2018 to Buyer unsuccessfully
+SALESPERSON Bentlee Duran sold CLEAN LIKE_NEW Ford F-150 Raptor 2018 to Buyer unsuccessfully
+SALESPERSON Bentlee Duran (earned $220.00 bonus) sold CLEAN LIKE_NEW (PICKUP) Ford F-150 Raptor 2018 to Buyer for $52576.68 + $1051.53 (RoadRescueCoverage (addOns)).
+Added sale income $53628.21 to current balance
+SALESPERSON Bentlee Duran (earned $160.00 bonus) sold DIRTY LIKE_NEW (CAR) Lexus RX 350 2018 to Buyer for $36443.50 + $728.87 (RoadRescueCoverage (addOns)).
+Added sale income $37172.37 to current balance
+Total salary payout increased by $1500.00Total bonuses payout increased by $880.00INTERN Aarav Benton received $80.00 (salary) and $0.00 (bonuses)INTERN Demi Parsons received $80.00 (salary) and $100.00 (bonuses)INTERN Louis Rivers received $80.00 (salary) and $0.00 (bonuses)MECHANIC Keyla Chang received $120.00 (salary) and $200.00 (bonuses)MECHANIC Olivia Cabrera received $120.00 (salary) and $100.00 (bonuses)MECHANIC Elaina Galindo received $120.00 (salary) and $100.00 (bonuses)SALESPERSON Bentlee Duran received $150.00 (salary) and $380.00 (bonuses)SALESPERSON Navy Case received $150.00 (salary) and $0.00 (bonuses)SALESPERSON Joel Acevedo received $150.00 (salary) and $0.00 (bonuses)DRIVER Maxwell Singh received $150.00 (salary) and $0.00 (bonuses)DRIVER Amara Reid received $150.00 (salary) and $0.00 (bonuses)DRIVER Logan Herman received $150.00 (salary) and $0.00 (bonuses)
