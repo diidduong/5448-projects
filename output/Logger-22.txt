@@ -1,14 +1,31 @@
-INTERN Remy Alexander wash (DetailedWashing) PICKUP Toyota Hilux 2011 and made it CLEAN
-INTERN Remy Alexander wash (DetailedWashing) PERFORMANCE_CAR Dodge Viper 2015 and made it SPARKLING (earned 75.00 bonus)
-INTERN Claire Foley wash (ElbowGreaseWashing) MOTORCYCLE Hyosung 2014 (712 CC engine) and made it CLEAN
-INTERN Claire Foley wash (ElbowGreaseWashing) MOTORCYCLE Hyosung 2014 (712 CC engine) and made it CLEAN
-INTERN Leyla Dickson wash (ElbowGreaseWashing) MOTORCYCLE Hyosung 2014 (712 CC engine) and made it CLEAN
-INTERN Leyla Dickson wash (ElbowGreaseWashing) MOTORCYCLE Hyosung 2014 (712 CC engine) and made it DIRTY
-SALESPERSON Louis Rivers sold SPARKLING LIKE_NEW Honda Ridgeline 2023 to Buyer unsuccessfully
-SALESPERSON Louis Rivers sold SPARKLING LIKE_NEW Dodge Viper 2015 to Buyer unsuccessfully
-Maxwell Singh (Driver) raced with Madusa 3 (MONSTER_TRUCK) and achieved rank no. 7.
-Logan Herman (Driver) raced with Raminator 1 (MONSTER_TRUCK) and achieved rank no. 16.
-Raminator 1 (MONSTER_TRUCK) went BROKEN.
-Kiana Tate (Driver) raced with USA-1 4 (MONSTER_TRUCK) and achieved rank no. 2.
-Kiana Tate (Driver) won with USA-1 4 (MONSTER_TRUCK) (earned $ 1000 bonus)!
-Total salary payout increased by $1500.00Total bonuses payout increased by $1075.00SALESPERSON Navy Case received $150.00 (salary) and $0.00 (bonuses)SALESPERSON Joel Acevedo received $150.00 (salary) and $0.00 (bonuses)DRIVER Maxwell Singh received $150.00 (salary) and $0.00 (bonuses)DRIVER Logan Herman received $150.00 (salary) and $0.00 (bonuses)MECHANIC Demi Parsons received $120.00 (salary) and $0.00 (bonuses)SALESPERSON Louis Rivers received $150.00 (salary) and $0.00 (bonuses)DRIVER Kiana Tate received $150.00 (salary) and $1000.00 (bonuses)MECHANIC Bristol Giles received $120.00 (salary) and $0.00 (bonuses)INTERN Remy Alexander received $80.00 (salary) and $75.00 (bonuses)MECHANIC Claire Blair received $120.00 (salary) and $0.00 (bonuses)INTERN Claire Foley received $80.00 (salary) and $0.00 (bonuses)INTERN Leyla Dickson received $80.00 (salary) and $0.00 (bonuses)
+INTERN Maxwell Hess wash (ElbowGreaseWashing) PICKUP GMC Sierra Supercharged 2021 and made it CLEAN
+INTERN Maxwell Hess wash (ElbowGreaseWashing) MONSTER_TRUCK Predator 7 and made it CLEAN
+INTERN Logan Frazier wash (ElbowGreaseWashing) MONSTER_TRUCK Lucas Oil Crusader 1 and made it DIRTY
+INTERN Logan Frazier wash (ElbowGreaseWashing) MONSTER_TRUCK Lucas Oil Crusader 1 and made it DIRTY
+INTERN Alaia Rangel wash (DetailedWashing) MONSTER_TRUCK Lucas Oil Crusader 1 and made it CLEAN
+INTERN Alaia Rangel wash (DetailedWashing) MONSTER_TRUCK Lucas Oil Crusader 1 and made it DIRTY
+SALESPERSON Elaina Simpson sold CLEAN LIKE_NEW Ford Ranger 2022 to Buyer unsuccessfully
+SALESPERSON Elaina Simpson (earned $160.00 bonus) sold SPARKLING LIKE_NEW (CAR) Kia K5 2014 to Buyer for $64865.64 + $16216.41 (ExtendedWarranty, SatelliteRadio (addOns)).
+Added sale income $81082.05 to current balance
+SALESPERSON Andrew Carroll sold DIRTY LIKE_NEW Lucas Oil Crusader 1 to Buyer unsuccessfully
+SALESPERSON Elaina Simpson (earned $300.00 bonus) sold SPARKLING LIKE_NEW (ELECTRIC_CAR) Tesla Model S 2011 (214 miles) to Buyer for $69136.95 + $17284.24 (ExtendedWarranty, SatelliteRadio (addOns)).
+Added sale income $86421.18 to current balance
+Gerardo Norris (Driver) raced with Can-Am 2015 (937 CC engine) (MOTORCYCLE) and achieved rank no. 8.
+Cash Ho (Driver) raced with Yamaha 2019 (909 CC engine) (MOTORCYCLE) and achieved rank no. 2.
+Cash Ho (Driver) won with Yamaha 2019 (909 CC engine) (MOTORCYCLE) (earned $ 1000 bonus)!
+Harry O’brien (Driver) raced with Royal Enfield 2014 (959 CC engine) (MOTORCYCLE) and achieved rank no. 3.
+Harry O’brien (Driver) won with Royal Enfield 2014 (959 CC engine) (MOTORCYCLE) (earned $ 1000 bonus)!
+Total salary payout increased by $1500.00
+Total bonuses payout increased by $2460.00
+MECHANIC Leonard Vincent received $120.00 (salary) and $0.00 (bonuses)
+MECHANIC Haven Person received $120.00 (salary) and $0.00 (bonuses)
+DRIVER Gerardo Norris received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Cash Ho received $150.00 (salary) and $1000.00 (bonuses)
+MECHANIC Fernando Alexander received $120.00 (salary) and $0.00 (bonuses)
+SALESPERSON Elaina Simpson received $150.00 (salary) and $460.00 (bonuses)
+SALESPERSON Andrew Carroll received $150.00 (salary) and $0.00 (bonuses)
+INTERN Maxwell Hess received $80.00 (salary) and $0.00 (bonuses)
+INTERN Logan Frazier received $80.00 (salary) and $0.00 (bonuses)
+SALESPERSON Frances Vaughn received $150.00 (salary) and $0.00 (bonuses)
+INTERN Alaia Rangel received $80.00 (salary) and $0.00 (bonuses)
+DRIVER Harry O’brien received $150.00 (salary) and $1000.00 (bonuses)

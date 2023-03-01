@@ -1,17 +1,29 @@
-INTERN Aarav Benton wash (ChemicalWashing) PERFORMANCE_CAR Mazda MX-5 Miata 2016 and made it CLEAN
-INTERN Aarav Benton wash (ChemicalWashing) PERFORMANCE_CAR Toyota GR86 2016 and made it CLEAN
-INTERN Demi Parsons wash (ChemicalWashing) PERFORMANCE_CAR Acura NSX 2018 and made it SPARKLING (earned 75.00 bonus)
-INTERN Demi Parsons wash (ChemicalWashing) CAR Lexus RX 350 2018 and made it CLEAN
-INTERN Louis Rivers wash (ElbowGreaseWashing) CAR Volvo XC70 2017 and made it CLEAN
-INTERN Louis Rivers wash (ElbowGreaseWashing) CAR Mercedes-Benz AMG-class 2015 and made it CLEAN
-MECHANIC Keyla Chang repaired USED PERFORMANCE_CAR Mazda MX-5 Miata 2016 and made it LIKE_NEW (earned $200.00 bonus)
-MECHANIC Keyla Chang repaired BROKEN PERFORMANCE_CAR Dodge Viper 2010 and made it USED (earned $200.00 bonus)
-MECHANIC Olivia Cabrera repaired USED PERFORMANCE_CAR Dodge Viper 2010 and made it LIKE_NEW (earned $200.00 bonus)
-MECHANIC Olivia Cabrera repaired BROKEN PERFORMANCE_CAR Toyota GR86 2016 and made it USED (earned $200.00 bonus)
-MECHANIC Elaina Galindo repaired USED PERFORMANCE_CAR Toyota GR86 2016 and made it LIKE_NEW (earned $200.00 bonus)
-MECHANIC Elaina Galindo repaired BROKEN PERFORMANCE_CAR Acura NSX 2018 and made it USED (earned $200.00 bonus)
-Maxwell Singh (Driver) raced with Dodge Ram 1500 TRX 2014 (PICKUP) and achieved rank no. 19.
-Dodge Ram 1500 TRX 2014 (PICKUP) went BROKEN.
-Amara Reid (Driver) raced with Tesla Cybertruck 2018 (PICKUP) and achieved rank no. 8.
-Logan Herman (Driver) raced with Ford F-150 Raptor 2018 (PICKUP) and achieved rank no. 5.
-Total salary payout increased by $1500.00Total bonuses payout increased by $1275.00INTERN Aarav Benton received $80.00 (salary) and $0.00 (bonuses)INTERN Demi Parsons received $80.00 (salary) and $75.00 (bonuses)INTERN Louis Rivers received $80.00 (salary) and $0.00 (bonuses)MECHANIC Keyla Chang received $120.00 (salary) and $400.00 (bonuses)MECHANIC Olivia Cabrera received $120.00 (salary) and $400.00 (bonuses)MECHANIC Elaina Galindo received $120.00 (salary) and $400.00 (bonuses)SALESPERSON Bentlee Duran received $150.00 (salary) and $0.00 (bonuses)SALESPERSON Navy Case received $150.00 (salary) and $0.00 (bonuses)SALESPERSON Joel Acevedo received $150.00 (salary) and $0.00 (bonuses)DRIVER Maxwell Singh received $150.00 (salary) and $0.00 (bonuses)DRIVER Amara Reid received $150.00 (salary) and $0.00 (bonuses)DRIVER Logan Herman received $150.00 (salary) and $0.00 (bonuses)
+INTERN Leroy Blair wash (ElbowGreaseWashing) PERFORMANCE_CAR Ford Mustang 2015 and made it CLEAN
+INTERN Leroy Blair wash (ElbowGreaseWashing) CAR Kia K5 2014 and made it CLEAN
+INTERN Fernando Alexander wash (ElbowGreaseWashing) CAR Honda Odyssey 2022 and made it DIRTY
+INTERN Fernando Alexander wash (ElbowGreaseWashing) CAR Honda Odyssey 2022 and made it SPARKLING (earned 50.00 bonus)
+INTERN Elaina Simpson wash (DetailedWashing) PICKUP GMC Hummer EV 2016 and made it CLEAN
+INTERN Elaina Simpson wash (DetailedWashing) PICKUP Ford Velociraptor 6×6 2011 and made it CLEAN
+MECHANIC Braelynn Jensen repaired USED PERFORMANCE_CAR McLaren 720S 2012 and made it LIKE_NEW (earned $200.00 bonus)
+MECHANIC Braelynn Jensen repaired BROKEN PERFORMANCE_CAR McLaren 720S 2015 and made it USED (earned $200.00 bonus)
+MECHANIC Leonard Vincent repaired USED PERFORMANCE_CAR McLaren 720S 2015 and made it LIKE_NEW (earned $200.00 bonus)
+MECHANIC Leonard Vincent repaired BROKEN CAR Mercedes-Benz S-class 2015 and made it USED (earned $100.00 bonus)
+MECHANIC Haven Person repaired USED CAR Mercedes-Benz S-class 2015 and made it LIKE_NEW (earned $100.00 bonus)
+MECHANIC Haven Person repaired BROKEN CAR Audi A3 2021 and made it USED (earned $100.00 bonus)
+SALESPERSON Paulina Calhoun sold DIRTY LIKE_NEW Karma GSe-6 2020 (484 miles) to Buyer unsuccessfully
+Claire Maldonado (Driver) raced with GMC Hummer EV 2016 (PICKUP) and achieved rank no. 9.
+Gerardo Norris (Driver) raced with Ford Velociraptor 6×6 2011 (PICKUP) and achieved rank no. 6.
+Total salary payout increased by $1500.00
+Total bonuses payout increased by $950.00
+INTERN Leroy Blair received $80.00 (salary) and $0.00 (bonuses)
+INTERN Fernando Alexander received $80.00 (salary) and $50.00 (bonuses)
+INTERN Elaina Simpson received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Braelynn Jensen received $120.00 (salary) and $400.00 (bonuses)
+MECHANIC Leonard Vincent received $120.00 (salary) and $300.00 (bonuses)
+MECHANIC Haven Person received $120.00 (salary) and $200.00 (bonuses)
+SALESPERSON Paulina Calhoun received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Gary O’brien received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Octavia Fuller received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Claire Maldonado received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Gerardo Norris received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Cash Ho received $150.00 (salary) and $0.00 (bonuses)

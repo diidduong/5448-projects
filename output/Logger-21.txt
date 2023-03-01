@@ -1,12 +1,27 @@
-Purchased BROKEN, DIRTY PERFORMANCE_CAR Dodge Viper 2015 for $ 51615.42
-INTERN Remy Alexander wash (DetailedWashing) CAR Dodge Charger 2020 and made it CLEAN
-INTERN Remy Alexander wash (DetailedWashing) CAR Mercedes-Benz S-class 2013 and made it CLEAN
-INTERN Claire Foley wash (ElbowGreaseWashing) PICKUP Honda Ridgeline 2023 and made it SPARKLING (earned 100.00 bonus)
-INTERN Claire Foley wash (ElbowGreaseWashing) PERFORMANCE_CAR Dodge Viper 2015 and made it CLEAN
-INTERN Leyla Dickson wash (ElbowGreaseWashing) MOTORCYCLE Harley-Davidson 2018 (963 CC engine) and made it SPARKLING (earned 25.00 bonus)
-INTERN Leyla Dickson wash (ElbowGreaseWashing) MOTORCYCLE Hyosung 2014 (712 CC engine) and made it CLEAN
-MECHANIC Demi Parsons repaired USED PICKUP Toyota Hilux 2011 unsuccessfully
-MECHANIC Demi Parsons repaired USED PICKUP Toyota Hilux 2011 and made it LIKE_NEW (earned $150.00 bonus)
-MECHANIC Bristol Giles repaired BROKEN PERFORMANCE_CAR Dodge Viper 2015 and made it USED (earned $200.00 bonus)
-MECHANIC Bristol Giles repaired USED PERFORMANCE_CAR Dodge Viper 2015 and made it LIKE_NEW (earned $200.00 bonus)
-Total salary payout increased by $1500.00Total bonuses payout increased by $675.00SALESPERSON Navy Case received $150.00 (salary) and $0.00 (bonuses)SALESPERSON Joel Acevedo received $150.00 (salary) and $0.00 (bonuses)DRIVER Maxwell Singh received $150.00 (salary) and $0.00 (bonuses)DRIVER Logan Herman received $150.00 (salary) and $0.00 (bonuses)MECHANIC Demi Parsons received $120.00 (salary) and $150.00 (bonuses)SALESPERSON Louis Rivers received $150.00 (salary) and $0.00 (bonuses)DRIVER Kiana Tate received $150.00 (salary) and $0.00 (bonuses)MECHANIC Bristol Giles received $120.00 (salary) and $400.00 (bonuses)INTERN Remy Alexander received $80.00 (salary) and $0.00 (bonuses)MECHANIC Claire Blair received $120.00 (salary) and $0.00 (bonuses)INTERN Claire Foley received $80.00 (salary) and $100.00 (bonuses)INTERN Leyla Dickson received $80.00 (salary) and $25.00 (bonuses)
+Purchased BROKEN, CLEAN PICKUP GMC Sierra Supercharged 2021 for $ 35823.09
+Purchased USED, CLEAN MONSTER_TRUCK Predator 7 for $ 82102.37
+Purchased LIKE_NEW, CLEAN MONSTER_TRUCK Monster Mutt 13 for $ 77303.09
+INTERN Maxwell Hess wash (ElbowGreaseWashing) MONSTER_TRUCK Lucas Oil Crusader 1 and made it CLEAN
+INTERN Maxwell Hess wash (ElbowGreaseWashing) MONSTER_TRUCK Lucas Oil Crusader 1 and made it CLEAN
+INTERN Logan Frazier wash (ElbowGreaseWashing) MONSTER_TRUCK Lucas Oil Crusader 1 and made it CLEAN
+INTERN Logan Frazier wash (ElbowGreaseWashing) MONSTER_TRUCK Lucas Oil Crusader 1 and made it CLEAN
+INTERN Alaia Rangel wash (DetailedWashing) MONSTER_TRUCK Lucas Oil Crusader 1 and made it CLEAN
+INTERN Alaia Rangel wash (DetailedWashing) MONSTER_TRUCK Lucas Oil Crusader 1 and made it CLEAN
+MECHANIC Leonard Vincent repaired BROKEN PICKUP GMC Sierra Supercharged 2021 and made it USED (earned $150.00 bonus)
+MECHANIC Leonard Vincent repaired USED PICKUP GMC Sierra Supercharged 2021 and made it LIKE_NEW (earned $150.00 bonus)
+MECHANIC Haven Person repaired USED MONSTER_TRUCK Predator 7 and made it LIKE_NEW (earned $500.00 bonus)
+SALESPERSON Elaina Simpson sold CLEAN LIKE_NEW Lucas Oil Crusader 1 to Buyer unsuccessfully
+Total salary payout increased by $1500.00
+Total bonuses payout increased by $800.00
+MECHANIC Leonard Vincent received $120.00 (salary) and $300.00 (bonuses)
+MECHANIC Haven Person received $120.00 (salary) and $500.00 (bonuses)
+DRIVER Gerardo Norris received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Cash Ho received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Fernando Alexander received $120.00 (salary) and $0.00 (bonuses)
+SALESPERSON Elaina Simpson received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Andrew Carroll received $150.00 (salary) and $0.00 (bonuses)
+INTERN Maxwell Hess received $80.00 (salary) and $0.00 (bonuses)
+INTERN Logan Frazier received $80.00 (salary) and $0.00 (bonuses)
+SALESPERSON Frances Vaughn received $150.00 (salary) and $0.00 (bonuses)
+INTERN Alaia Rangel received $80.00 (salary) and $0.00 (bonuses)
+DRIVER Harry O’brien received $150.00 (salary) and $0.00 (bonuses)

@@ -104,7 +104,7 @@ public class Budget {
         currentBalance -= dailyRate;
         salaries += dailyRate;
 
-        String msg = String.format("Total salary payout increased by $%.2f", dailyRate);
+        String msg = String.format("Total salary payout increased by $%.2f\n", dailyRate);
         publisher.notifySubscribers(new Message(msg, 0, 0));
 
         System.out.printf("Current balance is $%.2f\n", currentBalance);
@@ -122,7 +122,7 @@ public class Budget {
         }
         currentBalance -= bonus;
         bonuses += bonus;
-        String msg = String.format("Total bonuses payout increased by $%.2f", bonus);
+        String msg = String.format("Total bonuses payout increased by $%.2f\n", bonus);
         publisher.notifySubscribers(new Message(msg, 0, 0));
 
         System.out.printf("Current balance is $%.2f\n", currentBalance);

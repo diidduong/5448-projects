@@ -1,23 +1,36 @@
-Purchased BROKEN, SPARKLING CAR Honda Civic 2011 for $ 37253.70
-Purchased USED, CLEAN PICKUP GMC Canyon 2022 for $ 57542.38
-INTERN Aarav Benton wash (ChemicalWashing) PERFORMANCE_CAR Acura NSX 2018 and made it CLEAN
-INTERN Aarav Benton wash (ChemicalWashing) CAR Volvo XC70 2017 and made it DIRTY
-INTERN Demi Parsons wash (ChemicalWashing) CAR Volvo XC70 2017 and made it CLEAN
-INTERN Demi Parsons wash (ChemicalWashing) CAR Volvo XC70 2018 and made it CLEAN
-INTERN Louis Rivers wash (ElbowGreaseWashing) ELECTRIC_CAR Fiat 500e 2021 (252 miles) and made it CLEAN
-INTERN Louis Rivers wash (ElbowGreaseWashing) MOTORCYCLE Moto Guzzi 2017 (612 CC engine) and made it CLEAN
-MECHANIC Keyla Chang repaired USED CAR Volvo XC70 2018 and made it LIKE_NEW (earned $100.00 bonus)
-MECHANIC Keyla Chang repaired USED CAR Mercedes-Benz AMG-class 2015 and made it LIKE_NEW (earned $100.00 bonus)
-MECHANIC Olivia Cabrera repaired BROKEN PICKUP Dodge Ram 1500 TRX 2014 unsuccessfully
-MECHANIC Olivia Cabrera repaired BROKEN PICKUP Dodge Ram 1500 TRX 2014 and made it USED (earned $150.00 bonus)
-MECHANIC Elaina Galindo repaired USED PICKUP Dodge Ram 1500 TRX 2014 and made it LIKE_NEW (earned $150.00 bonus)
-MECHANIC Elaina Galindo repaired BROKEN PICKUP Rivian R1T 2011 and made it USED (earned $150.00 bonus)
-SALESPERSON Bentlee Duran (earned $220.00 bonus) sold DIRTY LIKE_NEW (PICKUP) Dodge Ram 1500 TRX 2014 to Buyer for $115589.85 + $2311.80 (RoadRescueCoverage (addOns)).
-Added sale income $117901.65 to current balance
-SALESPERSON Navy Case sold CLEAN LIKE_NEW Acura NSX 2018 to Buyer unsuccessfully
-SALESPERSON Bentlee Duran sold CLEAN LIKE_NEW Acura NSX 2018 to Buyer unsuccessfully
-SALESPERSON Joel Acevedo sold CLEAN LIKE_NEW Acura NSX 2018 to Buyer unsuccessfully
-SALESPERSON Bentlee Duran sold CLEAN LIKE_NEW Volvo XC70 2017 to Buyer unsuccessfully
-SALESPERSON Bentlee Duran (earned $220.00 bonus) sold DIRTY USED (PICKUP) Rivian R1T 2011 to Buyer for $89512.97 + $1790.26 (RoadRescueCoverage (addOns)).
-Added sale income $91303.23 to current balance
-Total salary payout increased by $1500.00Total bonuses payout increased by $1090.00INTERN Aarav Benton received $80.00 (salary) and $0.00 (bonuses)INTERN Demi Parsons received $80.00 (salary) and $0.00 (bonuses)INTERN Louis Rivers received $80.00 (salary) and $0.00 (bonuses)MECHANIC Keyla Chang received $120.00 (salary) and $200.00 (bonuses)MECHANIC Olivia Cabrera received $120.00 (salary) and $150.00 (bonuses)MECHANIC Elaina Galindo received $120.00 (salary) and $300.00 (bonuses)SALESPERSON Bentlee Duran received $150.00 (salary) and $440.00 (bonuses)SALESPERSON Navy Case received $150.00 (salary) and $0.00 (bonuses)SALESPERSON Joel Acevedo received $150.00 (salary) and $0.00 (bonuses)DRIVER Maxwell Singh received $150.00 (salary) and $0.00 (bonuses)DRIVER Amara Reid received $150.00 (salary) and $0.00 (bonuses)DRIVER Logan Herman received $150.00 (salary) and $0.00 (bonuses)
+Purchased LIKE_NEW, CLEAN MONSTER_TRUCK The Destroyer 13 for $ 97023.30
+INTERN Elaina Simpson wash (DetailedWashing) CAR Audi A3 2021 and made it DIRTY
+INTERN Elaina Simpson wash (DetailedWashing) CAR Audi A3 2021 and made it DIRTY
+INTERN Leroy Reed wash (ElbowGreaseWashing) CAR Audi A3 2021 and made it CLEAN
+INTERN Leroy Reed wash (ElbowGreaseWashing) CAR Kia K5 2014 and made it CLEAN
+INTERN Dalton Jordan wash (DetailedWashing) PICKUP Tesla Cybertruck 2016 and made it DIRTY
+INTERN Dalton Jordan wash (DetailedWashing) PICKUP Tesla Cybertruck 2016 and made it CLEAN
+MECHANIC Leonard Vincent repaired BROKEN PICKUP GMC Hummer EV 2018 and made it USED (earned $150.00 bonus)
+MECHANIC Leonard Vincent repaired USED PICKUP GMC Hummer EV 2018 unsuccessfully
+MECHANIC Haven Person repaired USED PICKUP GMC Hummer EV 2018 and made it LIKE_NEW (earned $150.00 bonus)
+MECHANIC Haven Person repaired USED MOTORCYCLE Moto Guzzi 2011 (725 CC engine) and made it LIKE_NEW (earned $80.00 bonus)
+MECHANIC Fernando Alexander repaired USED MOTORCYCLE LiveWire 2012 (472 CC engine) unsuccessfully
+MECHANIC Fernando Alexander repaired USED MOTORCYCLE LiveWire 2012 (472 CC engine) and made it LIKE_NEW (earned $80.00 bonus)
+SALESPERSON Octavia Fuller sold DIRTY LIKE_NEW LiveWire 2012 (472 CC engine) to Buyer for $51391.80 without any addOns (earned $150.00 bonus)
+Added sale income $51391.80 to current balance
+SALESPERSON Leroy Blair sold DIRTY LIKE_NEW Karma GSe-6 2020 (484 miles) to Buyer unsuccessfully
+SALESPERSON Gary O’brien (earned $500.00 bonus) sold CLEAN LIKE_NEW (MONSTER_TRUCK) The Destroyer 13 to Buyer for $97023.30 + $1940.47 (RoadRescueCoverage (addOns)).
+Added sale income $98963.76 to current balance
+SALESPERSON Leroy Blair sold CLEAN USED Lucas Oil Crusader 1 to Buyer unsuccessfully
+SALESPERSON Octavia Fuller sold CLEAN USED Lucas Oil Crusader 1 to Buyer unsuccessfully
+SALESPERSON Octavia Fuller (earned $220.00 bonus) sold CLEAN LIKE_NEW (PICKUP) Tesla Cybertruck 2016 to Buyer for $107797.33 + $26949.33 (ExtendedWarranty, SatelliteRadio (addOns)).
+Added sale income $134746.67 to current balance
+Total salary payout increased by $1500.00
+Total bonuses payout increased by $1330.00
+INTERN Elaina Simpson received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Leonard Vincent received $120.00 (salary) and $150.00 (bonuses)
+MECHANIC Haven Person received $120.00 (salary) and $230.00 (bonuses)
+SALESPERSON Gary O’brien received $150.00 (salary) and $500.00 (bonuses)
+SALESPERSON Octavia Fuller received $150.00 (salary) and $370.00 (bonuses)
+DRIVER Claire Maldonado received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Gerardo Norris received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Cash Ho received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Leroy Blair received $150.00 (salary) and $0.00 (bonuses)
+INTERN Leroy Reed received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Fernando Alexander received $120.00 (salary) and $80.00 (bonuses)
+INTERN Dalton Jordan received $80.00 (salary) and $0.00 (bonuses)

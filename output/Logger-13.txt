@@ -1,23 +1,37 @@
-INTERN Bristol Giles wash (ChemicalWashing) MONSTER_TRUCK Bigfoot 6 and made it CLEAN
-INTERN Bristol Giles wash (ChemicalWashing) CAR Volvo XC70 2017 and made it CLEAN
-INTERN Claire Blair wash (ChemicalWashing) CAR Volvo XC70 2017 and made it SPARKLING (earned 50.00 bonus)
-INTERN Claire Blair wash (ChemicalWashing) CAR Mercedes-Benz AMG-class 2015 and made it CLEAN
-INTERN Bristol Thomas wash (ElbowGreaseWashing) CAR Mercedes-Benz AMG-class 2015 and made it CLEAN
-INTERN Bristol Thomas wash (ElbowGreaseWashing) CAR Mercedes-Benz AMG-class 2015 and made it CLEAN
-MECHANIC Olivia Cabrera repaired BROKEN CAR Volvo XC70 2017 and made it USED (earned $100.00 bonus)
-MECHANIC Olivia Cabrera repaired USED CAR Volvo XC70 2017 and made it LIKE_NEW (earned $100.00 bonus)
-SALESPERSON Joel Acevedo sold CLEAN LIKE_NEW Acura NSX 2016 to Buyer for $70816.25 without any addOns (earned $350.00 bonus)
-Added sale income $70816.25 to current balance
-SALESPERSON Louis Rivers sold CLEAN LIKE_NEW Jeep Gladiator 2018 to Buyer for $69623.27 without any addOns (earned $220.00 bonus)
-Added sale income $69623.27 to current balance
-SALESPERSON Joel Acevedo (earned $350.00 bonus) sold CLEAN LIKE_NEW (PERFORMANCE_CAR) Ford Mustang Shelby GT500 2020 to Buyer for $67430.42 + $13486.08 (ExtendedWarranty (addOns)).
-Added sale income $80916.50 to current balance
-SALESPERSON Louis Rivers (earned $160.00 bonus) sold DIRTY LIKE_NEW (CAR) Volvo XC70 2017 to Buyer for $119905.88 + $8393.41 (Undercoating, RoadRescueCoverage (addOns)).
-Added sale income $128299.30 to current balance
-SALESPERSON Navy Case (earned $160.00 bonus) sold CLEAN LIKE_NEW (CAR) Honda Civic 2011 to Buyer for $69850.69 + $4889.55 (RoadRescueCoverage, SatelliteRadio (addOns)).
-Added sale income $74740.24 to current balance
-SALESPERSON Navy Case sold CLEAN LIKE_NEW Porsche 718 Cayman 2019 to Buyer unsuccessfully
-SALESPERSON Louis Rivers (earned $160.00 bonus) sold CLEAN LIKE_NEW (CAR) Mercedes-Benz AMG-class 2015 to Buyer for $28952.75 + $1447.64 (SatelliteRadio (addOns)).
-Added sale income $30400.39 to current balance
-SALESPERSON Louis Rivers sold SPARKLING LIKE_NEW Volvo XC70 2018 to Buyer unsuccessfully
-Total salary payout increased by $1500.00Total bonuses payout increased by $1650.00MECHANIC Olivia Cabrera received $120.00 (salary) and $200.00 (bonuses)MECHANIC Elaina Galindo received $120.00 (salary) and $0.00 (bonuses)SALESPERSON Navy Case received $150.00 (salary) and $160.00 (bonuses)SALESPERSON Joel Acevedo received $150.00 (salary) and $700.00 (bonuses)DRIVER Maxwell Singh received $150.00 (salary) and $0.00 (bonuses)DRIVER Logan Herman received $150.00 (salary) and $0.00 (bonuses)INTERN Bristol Giles received $80.00 (salary) and $0.00 (bonuses)MECHANIC Demi Parsons received $120.00 (salary) and $0.00 (bonuses)INTERN Claire Blair received $80.00 (salary) and $50.00 (bonuses)SALESPERSON Louis Rivers received $150.00 (salary) and $540.00 (bonuses)INTERN Bristol Thomas received $80.00 (salary) and $0.00 (bonuses)DRIVER Kiana Tate received $150.00 (salary) and $0.00 (bonuses)
+Purchased BROKEN, DIRTY PICKUP Ford F-150 Lightning 2010 for $ 30980.94
+Purchased LIKE_NEW, CLEAN MOTORCYCLE Yamaha 2019 (909 CC engine) for $ 26717.32
+INTERN Maxwell Hess wash (ElbowGreaseWashing) PICKUP Ford F-150 Lightning 2010 and made it CLEAN
+INTERN Maxwell Hess wash (ElbowGreaseWashing) PICKUP GMC Hummer EV 2018 and made it CLEAN
+INTERN Logan Frazier wash (ElbowGreaseWashing) PICKUP GMC Hummer EV 2018 and made it CLEAN
+INTERN Logan Frazier wash (ElbowGreaseWashing) PICKUP GMC Hummer EV 2018 and made it DIRTY
+INTERN Alaia Rangel wash (DetailedWashing) PICKUP GMC Hummer EV 2018 and made it SPARKLING (earned 100.00 bonus)
+INTERN Alaia Rangel wash (DetailedWashing) ELECTRIC_CAR Kia Niro EV 2021 (169 miles) and made it SPARKLING (earned 120.00 bonus)
+MECHANIC Leonard Vincent repaired BROKEN PICKUP Ford F-150 Lightning 2010 and made it USED (earned $150.00 bonus)
+MECHANIC Leonard Vincent repaired USED PICKUP Ford F-150 Lightning 2010 unsuccessfully
+MECHANIC Haven Person repaired USED PICKUP Ford F-150 Lightning 2010 unsuccessfully
+MECHANIC Haven Person repaired USED PICKUP Ford F-150 Lightning 2010 and made it LIKE_NEW (earned $150.00 bonus)
+SALESPERSON Frances Vaughn sold SPARKLING LIKE_NEW Ducati 2023 (407 CC engine) to Buyer unsuccessfully
+SALESPERSON Elaina Simpson (earned $350.00 bonus) sold SPARKLING LIKE_NEW (PERFORMANCE_CAR) Ferrari Daytona 2019 to Buyer for $123603.57 + $27192.78 (ExtendedWarranty, RoadRescueCoverage (addOns)).
+Added sale income $150796.35 to current balance
+SALESPERSON Frances Vaughn (earned $220.00 bonus) sold DIRTY LIKE_NEW (PICKUP) Ford F-150 Lightning 2010 to Buyer for $58089.26 + $1161.79 (RoadRescueCoverage (addOns)).
+Added sale income $59251.04 to current balance
+SALESPERSON Elaina Simpson sold CLEAN LIKE_NEW Predator 14 to Buyer unsuccessfully
+SALESPERSON Frances Vaughn (earned $220.00 bonus) sold SPARKLING LIKE_NEW (PICKUP) Ford Velociraptor 6×6 2011 to Buyer for $49333.20 + $5919.98 (Undercoating, RoadRescueCoverage, SatelliteRadio (addOns)).
+Added sale income $55253.18 to current balance
+SALESPERSON Elaina Simpson sold CLEAN LIKE_NEW Predator 14 to Buyer unsuccessfully
+SALESPERSON Elaina Simpson sold SPARKLING LIKE_NEW GMC Hummer EV 2018 to Buyer unsuccessfully
+SALESPERSON Andrew Carroll sold SPARKLING LIKE_NEW Ducati 2023 (407 CC engine) to Buyer unsuccessfully
+Total salary payout increased by $1500.00
+Total bonuses payout increased by $1310.00
+MECHANIC Leonard Vincent received $120.00 (salary) and $150.00 (bonuses)
+MECHANIC Haven Person received $120.00 (salary) and $150.00 (bonuses)
+DRIVER Claire Maldonado received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Gerardo Norris received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Cash Ho received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Fernando Alexander received $120.00 (salary) and $0.00 (bonuses)
+SALESPERSON Elaina Simpson received $150.00 (salary) and $350.00 (bonuses)
+SALESPERSON Andrew Carroll received $150.00 (salary) and $0.00 (bonuses)
+INTERN Maxwell Hess received $80.00 (salary) and $0.00 (bonuses)
+INTERN Logan Frazier received $80.00 (salary) and $0.00 (bonuses)
+SALESPERSON Frances Vaughn received $150.00 (salary) and $440.00 (bonuses)
+INTERN Alaia Rangel received $80.00 (salary) and $220.00 (bonuses)

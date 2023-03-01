@@ -1,25 +1,28 @@
-Purchased USED, DIRTY PERFORMANCE_CAR Ford Mustang 2019 for $ 44922.68
-Purchased LIKE_NEW, DIRTY CAR Toyota Corolla 2014 for $ 31691.06
-Purchased LIKE_NEW, DIRTY PICKUP Honda Ridgeline 2018 for $ 59037.10
-INTERN Claire Foley wash (ElbowGreaseWashing) PERFORMANCE_CAR Ford Mustang 2019 and made it DIRTY
-INTERN Claire Foley wash (ElbowGreaseWashing) PERFORMANCE_CAR Ford Mustang 2019 and made it CLEAN
-INTERN Leyla Dickson wash (ElbowGreaseWashing) CAR Toyota Corolla 2014 and made it CLEAN
-INTERN Leyla Dickson wash (ElbowGreaseWashing) PICKUP Honda Ridgeline 2018 and made it CLEAN
-INTERN Emmalynn Reed wash (DetailedWashing) MONSTER_TRUCK Blue Thunder 5 and made it CLEAN
-INTERN Emmalynn Reed wash (DetailedWashing) MONSTER_TRUCK Blue Thunder 5 and made it CLEAN
-MECHANIC Demi Parsons repaired USED PERFORMANCE_CAR Ford Mustang 2019 unsuccessfully
-MECHANIC Demi Parsons repaired USED PERFORMANCE_CAR Ford Mustang 2019 and made it LIKE_NEW (earned $200.00 bonus)
-SALESPERSON Joel Acevedo (earned $350.00 bonus) sold SPARKLING LIKE_NEW (PERFORMANCE_CAR) Ferrari F8 2017 to Buyer for $60529.42 + $1210.59 (RoadRescueCoverage (addOns)).
-Added sale income $61740.01 to current balance
-SALESPERSON Louis Rivers sold CLEAN LIKE_NEW Mercedes-Benz S-class 2015 to Buyer unsuccessfully
-SALESPERSON Joel Acevedo (earned $220.00 bonus) sold CLEAN LIKE_NEW (PICKUP) Toyota Hilux 2011 to Buyer for $89457.24 + $1789.14 (RoadRescueCoverage (addOns)).
-Added sale income $91246.38 to current balance
-SALESPERSON Joel Acevedo (earned $220.00 bonus) sold CLEAN LIKE_NEW (PICKUP) Honda Ridgeline 2018 to Buyer for $59037.10 + $2951.86 (SatelliteRadio (addOns)).
-Added sale income $61988.96 to current balance
-Maxwell Singh (Driver) raced with McLaren 720S 2010 (PERFORMANCE_CAR) and achieved rank no. 16.
-McLaren 720S 2010 (PERFORMANCE_CAR) went BROKEN.
-Logan Herman (Driver) raced with Toyota GR86 2018 (PERFORMANCE_CAR) and achieved rank no. 17.
-Toyota GR86 2018 (PERFORMANCE_CAR) went BROKEN.
-Kiana Tate (Driver) raced with Ford Mustang 2019 (PERFORMANCE_CAR) and achieved rank no. 2.
-Kiana Tate (Driver) won with Ford Mustang 2019 (PERFORMANCE_CAR) (earned $ 1000 bonus)!
-Total salary payout increased by $1500.00Total bonuses payout increased by $1990.00SALESPERSON Navy Case received $150.00 (salary) and $0.00 (bonuses)SALESPERSON Joel Acevedo received $150.00 (salary) and $790.00 (bonuses)DRIVER Maxwell Singh received $150.00 (salary) and $0.00 (bonuses)DRIVER Logan Herman received $150.00 (salary) and $0.00 (bonuses)MECHANIC Demi Parsons received $120.00 (salary) and $200.00 (bonuses)SALESPERSON Louis Rivers received $150.00 (salary) and $0.00 (bonuses)DRIVER Kiana Tate received $150.00 (salary) and $1000.00 (bonuses)MECHANIC Bristol Giles received $120.00 (salary) and $0.00 (bonuses)MECHANIC Claire Blair received $120.00 (salary) and $0.00 (bonuses)INTERN Claire Foley received $80.00 (salary) and $0.00 (bonuses)INTERN Leyla Dickson received $80.00 (salary) and $0.00 (bonuses)INTERN Emmalynn Reed received $80.00 (salary) and $0.00 (bonuses)
+INTERN Maxwell Hess wash (ElbowGreaseWashing) CAR Hyundai Sonata 2017 and made it CLEAN
+INTERN Maxwell Hess wash (ElbowGreaseWashing) PICKUP Chevrolet Silverado 1500 2014 and made it CLEAN
+INTERN Logan Frazier wash (ElbowGreaseWashing) MOTORCYCLE Ducati 2016 (983 CC engine) and made it DIRTY
+INTERN Logan Frazier wash (ElbowGreaseWashing) MOTORCYCLE Ducati 2016 (983 CC engine) and made it CLEAN
+INTERN Alaia Rangel wash (DetailedWashing) CAR Mitsubishi Eclipse 2014 and made it CLEAN
+INTERN Alaia Rangel wash (DetailedWashing) CAR Mitsubishi Eclipse 2014 and made it CLEAN
+SALESPERSON Frances Vaughn sold CLEAN LIKE_NEW Ducati 2016 (983 CC engine) to Buyer unsuccessfully
+SALESPERSON Andrew Carroll (earned $160.00 bonus) sold CLEAN LIKE_NEW (CAR) Hyundai Sonata 2017 to Buyer for $66015.28 + $14523.36 (ExtendedWarranty, RoadRescueCoverage (addOns)).
+Added sale income $80538.64 to current balance
+SALESPERSON Frances Vaughn sold SPARKLING LIKE_NEW Audi E-Tron Sportback 2014 (497 miles) to Buyer unsuccessfully
+SALESPERSON Frances Vaughn sold SPARKLING LIKE_NEW Audi E-Tron Sportback 2014 (497 miles) to Buyer unsuccessfully
+Gerardo Norris (Driver) raced with McLaren 720S 2012 (PERFORMANCE_CAR) and achieved rank no. 8.
+Cash Ho (Driver) raced with Porsche 911 2019 (PERFORMANCE_CAR) and achieved rank no. 13.
+Harry O’brien (Driver) raced with Porsche 718 Boxster 2018 (PERFORMANCE_CAR) and achieved rank no. 6.
+Total salary payout increased by $1500.00
+Total bonuses payout increased by $160.00
+MECHANIC Leonard Vincent received $120.00 (salary) and $0.00 (bonuses)
+MECHANIC Haven Person received $120.00 (salary) and $0.00 (bonuses)
+DRIVER Gerardo Norris received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Cash Ho received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Fernando Alexander received $120.00 (salary) and $0.00 (bonuses)
+SALESPERSON Elaina Simpson received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Andrew Carroll received $150.00 (salary) and $160.00 (bonuses)
+INTERN Maxwell Hess received $80.00 (salary) and $0.00 (bonuses)
+INTERN Logan Frazier received $80.00 (salary) and $0.00 (bonuses)
+SALESPERSON Frances Vaughn received $150.00 (salary) and $0.00 (bonuses)
+INTERN Alaia Rangel received $80.00 (salary) and $0.00 (bonuses)
+DRIVER Harry O’brien received $150.00 (salary) and $0.00 (bonuses)

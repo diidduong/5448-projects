@@ -306,7 +306,7 @@ public class FNCDAdministration {
 
         for (Staff staff : staffs) {
             // Output payout for each staff including daily rate and bonuses
-            msg = String.format("%s %s received $%.2f (salary) and $%.2f (bonuses)",
+            msg = String.format("%s %s received $%.2f (salary) and $%.2f (bonuses)\n",
                     staff.getJobTitle(),
                     staff.getName(),
                     staff.getDailyRate(),

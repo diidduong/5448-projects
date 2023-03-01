@@ -1,21 +1,30 @@
-Purchased USED, CLEAN CAR Dodge Charger 2020 for $ 33189.24
-Purchased LIKE_NEW, DIRTY CAR Hyundai Sonata 2019 for $ 37435.04
-Purchased USED, CLEAN CAR Mercedes-Benz S-class 2013 for $ 27846.68
-Purchased BROKEN, DIRTY PICKUP Honda Ridgeline 2023 for $ 63219.83
-Purchased USED, SPARKLING PICKUP Toyota Hilux 2011 for $ 71565.79
-INTERN Remy Alexander wash (DetailedWashing) CAR Hyundai Sonata 2019 and made it CLEAN
-INTERN Remy Alexander wash (DetailedWashing) PICKUP Honda Ridgeline 2023 and made it CLEAN
-INTERN Claire Foley wash (ElbowGreaseWashing) MOTORCYCLE Husqvarna 2020 (646 CC engine) and made it SPARKLING (earned 25.00 bonus)
-INTERN Claire Foley wash (ElbowGreaseWashing) MOTORCYCLE Harley-Davidson 2018 (963 CC engine) and made it DIRTY
-INTERN Leyla Dickson wash (ElbowGreaseWashing) MOTORCYCLE Harley-Davidson 2018 (963 CC engine) and made it CLEAN
-INTERN Leyla Dickson wash (ElbowGreaseWashing) MOTORCYCLE Harley-Davidson 2018 (963 CC engine) and made it CLEAN
-MECHANIC Demi Parsons repaired USED CAR Dodge Charger 2020 and made it LIKE_NEW (earned $100.00 bonus)
-MECHANIC Demi Parsons repaired USED CAR Mercedes-Benz S-class 2013 unsuccessfully
-MECHANIC Bristol Giles repaired USED CAR Mercedes-Benz S-class 2013 and made it LIKE_NEW (earned $100.00 bonus)
-MECHANIC Bristol Giles repaired BROKEN PICKUP Honda Ridgeline 2023 and made it USED (earned $150.00 bonus)
-MECHANIC Claire Blair repaired USED PICKUP Honda Ridgeline 2023 and made it LIKE_NEW (earned $150.00 bonus)
-MECHANIC Claire Blair repaired USED PICKUP Toyota Hilux 2011 unsuccessfully
-SALESPERSON Navy Case (earned $350.00 bonus) sold SPARKLING LIKE_NEW (PERFORMANCE_CAR) Lamborghini Countach 2019 to Buyer for $87416.66 + $6119.17 (RoadRescueCoverage, SatelliteRadio (addOns)).
-Added sale income $93535.83 to current balance
-SALESPERSON Joel Acevedo sold DIRTY LIKE_NEW Honda Ridgeline 2023 to Buyer unsuccessfully
-Total salary payout increased by $1500.00Total bonuses payout increased by $875.00SALESPERSON Navy Case received $150.00 (salary) and $350.00 (bonuses)SALESPERSON Joel Acevedo received $150.00 (salary) and $0.00 (bonuses)DRIVER Maxwell Singh received $150.00 (salary) and $0.00 (bonuses)DRIVER Logan Herman received $150.00 (salary) and $0.00 (bonuses)MECHANIC Demi Parsons received $120.00 (salary) and $100.00 (bonuses)SALESPERSON Louis Rivers received $150.00 (salary) and $0.00 (bonuses)DRIVER Kiana Tate received $150.00 (salary) and $0.00 (bonuses)MECHANIC Bristol Giles received $120.00 (salary) and $250.00 (bonuses)INTERN Remy Alexander received $80.00 (salary) and $0.00 (bonuses)MECHANIC Claire Blair received $120.00 (salary) and $150.00 (bonuses)INTERN Claire Foley received $80.00 (salary) and $25.00 (bonuses)INTERN Leyla Dickson received $80.00 (salary) and $0.00 (bonuses)
+INTERN Maxwell Hess wash (ElbowGreaseWashing) PICKUP GMC Hummer EV 2018 and made it CLEAN
+INTERN Maxwell Hess wash (ElbowGreaseWashing) PICKUP Ford Maverick 2011 and made it CLEAN
+INTERN Logan Frazier wash (ElbowGreaseWashing) PICKUP GMC Hummer EV 2018 and made it CLEAN
+INTERN Logan Frazier wash (ElbowGreaseWashing) PICKUP GMC Hummer EV 2018 and made it SPARKLING (earned 100.00 bonus)
+INTERN Alaia Rangel wash (DetailedWashing) MONSTER_TRUCK Backwards Bob 11 and made it CLEAN
+INTERN Alaia Rangel wash (DetailedWashing) MONSTER_TRUCK Backwards Bob 11 and made it CLEAN
+MECHANIC Leonard Vincent repaired USED PICKUP Ford Maverick 2011 and made it LIKE_NEW (earned $150.00 bonus)
+SALESPERSON Andrew Carroll sold CLEAN LIKE_NEW Backwards Bob 11 to Buyer for $255097.98 without any addOns (earned $500.00 bonus)
+Added sale income $255097.98 to current balance
+SALESPERSON Andrew Carroll (earned $220.00 bonus) sold DIRTY LIKE_NEW (PICKUP) Ford Maverick 2011 to Buyer for $145376.12 + $29075.22 (ExtendedWarranty (addOns)).
+Added sale income $174451.34 to current balance
+SALESPERSON Frances Vaughn sold SPARKLING LIKE_NEW Kia K5 2014 to Buyer unsuccessfully
+SALESPERSON Elaina Simpson sold CLEAN LIKE_NEW Royal Enfield 2014 (959 CC engine) to Buyer unsuccessfully
+SALESPERSON Elaina Simpson sold SPARKLING LIKE_NEW Kia K5 2014 to Buyer unsuccessfully
+SALESPERSON Elaina Simpson (earned $500.00 bonus) sold CLEAN LIKE_NEW (MONSTER_TRUCK) Captain's Curse 5 to Buyer for $164841.38 + $19780.97 (Undercoating, RoadRescueCoverage, SatelliteRadio (addOns)).
+Added sale income $184622.35 to current balance
+Total salary payout increased by $1500.00
+Total bonuses payout increased by $1470.00
+MECHANIC Leonard Vincent received $120.00 (salary) and $150.00 (bonuses)
+MECHANIC Haven Person received $120.00 (salary) and $0.00 (bonuses)
+DRIVER Gerardo Norris received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Cash Ho received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Fernando Alexander received $120.00 (salary) and $0.00 (bonuses)
+SALESPERSON Elaina Simpson received $150.00 (salary) and $500.00 (bonuses)
+SALESPERSON Andrew Carroll received $150.00 (salary) and $720.00 (bonuses)
+INTERN Maxwell Hess received $80.00 (salary) and $0.00 (bonuses)
+INTERN Logan Frazier received $80.00 (salary) and $100.00 (bonuses)
+SALESPERSON Frances Vaughn received $150.00 (salary) and $0.00 (bonuses)
+INTERN Alaia Rangel received $80.00 (salary) and $0.00 (bonuses)
+DRIVER Harry O’brien received $150.00 (salary) and $0.00 (bonuses)

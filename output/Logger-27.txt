@@ -1,18 +1,33 @@
-Purchased LIKE_NEW, DIRTY PERFORMANCE_CAR Maserati MC20 2021 for $ 56022.87
-Purchased USED, DIRTY CAR Toyota Corolla 2017 for $ 22095.94
-INTERN Leyla Dickson wash (ElbowGreaseWashing) MONSTER_TRUCK Madusa 3 and made it CLEAN
-INTERN Leyla Dickson wash (ElbowGreaseWashing) PERFORMANCE_CAR Toyota GR86 2018 and made it DIRTY
-INTERN Emmalynn Reed wash (DetailedWashing) PERFORMANCE_CAR Toyota GR86 2018 and made it SPARKLING (earned 75.00 bonus)
-INTERN Emmalynn Reed wash (DetailedWashing) PICKUP Rivian R1T 2012 and made it DIRTY
-INTERN Ridge Petersen wash (DetailedWashing) PICKUP Rivian R1T 2012 and made it CLEAN
-INTERN Ridge Petersen wash (DetailedWashing) PERFORMANCE_CAR Maserati MC20 2021 and made it CLEAN
-MECHANIC Bristol Giles repaired USED CAR Toyota Corolla 2017 and made it LIKE_NEW (earned $100.00 bonus)
-SALESPERSON Navy Case sold CLEAN LIKE_NEW Mercedes-Benz S-class 2013 to Buyer unsuccessfully
-SALESPERSON Louis Rivers (earned $220.00 bonus) sold CLEAN LIKE_NEW (PICKUP) Rivian R1T 2012 to Buyer for $92860.03 + $6500.20 (RoadRescueCoverage, SatelliteRadio (addOns)).
-Added sale income $99360.24 to current balance
-SALESPERSON Louis Rivers sold CLEAN LIKE_NEW Ford Velociraptor 6×6 2011 to Buyer for $42274.38 without any addOns (earned $220.00 bonus)
-Added sale income $42274.38 to current balance
-SALESPERSON Louis Rivers (earned $350.00 bonus) sold SPARKLING LIKE_NEW (PERFORMANCE_CAR) Toyota GR86 2018 to Buyer for $84119.01 + $4205.95 (SatelliteRadio (addOns)).
-Added sale income $88324.96 to current balance
-SALESPERSON Joel Acevedo sold CLEAN LIKE_NEW Ford Mustang 2019 to Buyer unsuccessfully
-Total salary payout increased by $1500.00Total bonuses payout increased by $965.00SALESPERSON Navy Case received $150.00 (salary) and $0.00 (bonuses)SALESPERSON Joel Acevedo received $150.00 (salary) and $0.00 (bonuses)DRIVER Maxwell Singh received $150.00 (salary) and $0.00 (bonuses)DRIVER Logan Herman received $150.00 (salary) and $0.00 (bonuses)SALESPERSON Louis Rivers received $150.00 (salary) and $790.00 (bonuses)DRIVER Kiana Tate received $150.00 (salary) and $0.00 (bonuses)MECHANIC Bristol Giles received $120.00 (salary) and $100.00 (bonuses)MECHANIC Claire Blair received $120.00 (salary) and $0.00 (bonuses)INTERN Leyla Dickson received $80.00 (salary) and $0.00 (bonuses)INTERN Emmalynn Reed received $80.00 (salary) and $75.00 (bonuses)MECHANIC Claire Foley received $120.00 (salary) and $0.00 (bonuses)INTERN Ridge Petersen received $80.00 (salary) and $0.00 (bonuses)
+Purchased USED, CLEAN PICKUP Honda Ridgeline 2022 for $ 28283.74
+INTERN Alaia Rangel wash (DetailedWashing) CAR Chevrolet Bolt 2021 and made it SPARKLING (earned 50.00 bonus)
+INTERN Alaia Rangel wash (DetailedWashing) MOTORCYCLE Yamaha 2019 (909 CC engine) and made it CLEAN
+INTERN Rhett Hayden wash (ElbowGreaseWashing) MOTORCYCLE Yamaha 2019 (909 CC engine) and made it CLEAN
+INTERN Rhett Hayden wash (ElbowGreaseWashing) MOTORCYCLE Yamaha 2019 (909 CC engine) and made it DIRTY
+INTERN Ariyah Fleming wash (ElbowGreaseWashing) MOTORCYCLE Yamaha 2019 (909 CC engine) and made it CLEAN
+INTERN Ariyah Fleming wash (ElbowGreaseWashing) MOTORCYCLE Yamaha 2019 (909 CC engine) and made it CLEAN
+MECHANIC Haven Person repaired USED PICKUP Honda Ridgeline 2022 and made it LIKE_NEW (earned $150.00 bonus)
+SALESPERSON Frances Vaughn sold SPARKLING LIKE_NEW Porsche 911 2019 to Buyer unsuccessfully
+SALESPERSON Frances Vaughn sold SPARKLING LIKE_NEW Lucas Oil Crusader 1 to Buyer unsuccessfully
+SALESPERSON Andrew Carroll sold CLEAN LIKE_NEW GMC Sierra Supercharged 2021 to Buyer unsuccessfully
+SALESPERSON Elaina Simpson sold SPARKLING LIKE_NEW Audi E-Tron Sportback 2014 (497 miles) to Buyer unsuccessfully
+SALESPERSON Andrew Carroll sold CLEAN LIKE_NEW Ducati 2016 (983 CC engine) to Buyer for $35066.57 without any addOns (earned $150.00 bonus)
+Added sale income $35066.57 to current balance
+SALESPERSON Elaina Simpson (earned $160.00 bonus) sold SPARKLING LIKE_NEW (CAR) Chevrolet Bolt 2021 to Buyer for $44635.86 + $892.72 (RoadRescueCoverage (addOns)).
+Added sale income $45528.58 to current balance
+SALESPERSON Andrew Carroll (earned $350.00 bonus) sold SPARKLING LIKE_NEW (PERFORMANCE_CAR) Porsche 911 2019 to Buyer for $101606.01 + $7112.42 (RoadRescueCoverage, SatelliteRadio (addOns)).
+Added sale income $108718.43 to current balance
+SALESPERSON Andrew Carroll sold CLEAN LIKE_NEW Porsche 718 Boxster 2018 to Buyer unsuccessfully
+Total salary payout increased by $1500.00
+Total bonuses payout increased by $860.00
+MECHANIC Haven Person received $120.00 (salary) and $150.00 (bonuses)
+DRIVER Gerardo Norris received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Cash Ho received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Fernando Alexander received $120.00 (salary) and $0.00 (bonuses)
+SALESPERSON Elaina Simpson received $150.00 (salary) and $160.00 (bonuses)
+SALESPERSON Andrew Carroll received $150.00 (salary) and $500.00 (bonuses)
+SALESPERSON Frances Vaughn received $150.00 (salary) and $0.00 (bonuses)
+INTERN Alaia Rangel received $80.00 (salary) and $50.00 (bonuses)
+DRIVER Harry O’brien received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Logan Frazier received $120.00 (salary) and $0.00 (bonuses)
+INTERN Rhett Hayden received $80.00 (salary) and $0.00 (bonuses)
+INTERN Ariyah Fleming received $80.00 (salary) and $0.00 (bonuses)

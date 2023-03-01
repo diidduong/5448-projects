@@ -1,18 +1,26 @@
-Purchased LIKE_NEW, DIRTY PERFORMANCE_CAR Porsche 718 Boxster 2022 for $ 40914.71
-Purchased LIKE_NEW, DIRTY CAR Mercedes-Benz G-class 2019 for $ 29368.67
-Purchased BROKEN, CLEAN CAR Honda Civic 2020 for $ 20708.48
-Purchased USED, DIRTY PICKUP Mahindra Bolero Camper 2011 for $ 42049.61
-INTERN Leyla Dickson wash (ElbowGreaseWashing) PERFORMANCE_CAR Porsche 718 Boxster 2022 and made it CLEAN
-INTERN Leyla Dickson wash (ElbowGreaseWashing) CAR Mercedes-Benz G-class 2019 and made it CLEAN
-INTERN Emmalynn Reed wash (DetailedWashing) PICKUP Mahindra Bolero Camper 2011 and made it CLEAN
-INTERN Emmalynn Reed wash (DetailedWashing) MONSTER_TRUCK Madusa 3 and made it DIRTY
-INTERN Ridge Petersen wash (DetailedWashing) MONSTER_TRUCK Madusa 3 and made it DIRTY
-INTERN Ridge Petersen wash (DetailedWashing) MONSTER_TRUCK Madusa 3 and made it CLEAN
-MECHANIC Bristol Giles repaired BROKEN CAR Honda Civic 2020 and made it USED (earned $100.00 bonus)
-MECHANIC Bristol Giles repaired USED CAR Honda Civic 2020 and made it LIKE_NEW (earned $100.00 bonus)
-MECHANIC Claire Blair repaired USED PICKUP Mahindra Bolero Camper 2011 and made it LIKE_NEW (earned $150.00 bonus)
-Maxwell Singh (Driver) raced with Dodge Ram 1500 TRX 2020 (PICKUP) and achieved rank no. 15.
-Logan Herman (Driver) raced with Chevrolet Colorado ZR2 2018 (PICKUP) and achieved rank no. 17.
-Chevrolet Colorado ZR2 2018 (PICKUP) went BROKEN.
-Kiana Tate (Driver) raced with Mahindra Bolero Camper 2011 (PICKUP) and achieved rank no. 13.
-Total salary payout increased by $1500.00Total bonuses payout increased by $350.00SALESPERSON Navy Case received $150.00 (salary) and $0.00 (bonuses)SALESPERSON Joel Acevedo received $150.00 (salary) and $0.00 (bonuses)DRIVER Maxwell Singh received $150.00 (salary) and $0.00 (bonuses)DRIVER Logan Herman received $150.00 (salary) and $0.00 (bonuses)SALESPERSON Louis Rivers received $150.00 (salary) and $0.00 (bonuses)DRIVER Kiana Tate received $150.00 (salary) and $0.00 (bonuses)MECHANIC Bristol Giles received $120.00 (salary) and $200.00 (bonuses)MECHANIC Claire Blair received $120.00 (salary) and $150.00 (bonuses)INTERN Leyla Dickson received $80.00 (salary) and $0.00 (bonuses)INTERN Emmalynn Reed received $80.00 (salary) and $0.00 (bonuses)MECHANIC Claire Foley received $120.00 (salary) and $0.00 (bonuses)INTERN Ridge Petersen received $80.00 (salary) and $0.00 (bonuses)
+INTERN Ariyah Fleming wash (ElbowGreaseWashing) PERFORMANCE_CAR Maserati MC20 2015 and made it CLEAN
+INTERN Ariyah Fleming wash (ElbowGreaseWashing) CAR Tesla Model S 2013 and made it CLEAN
+INTERN Elaine Reed wash (ChemicalWashing) PERFORMANCE_CAR Porsche 718 Boxster 2018 and made it CLEAN
+INTERN Elaine Reed wash (ChemicalWashing) PERFORMANCE_CAR Porsche 718 Boxster 2018 and made it CLEAN
+INTERN Alaia Smith wash (ElbowGreaseWashing) PERFORMANCE_CAR Porsche 718 Boxster 2018 and made it CLEAN
+INTERN Alaia Smith wash (ElbowGreaseWashing) PERFORMANCE_CAR Porsche 718 Boxster 2018 and made it DIRTY
+MECHANIC Logan Frazier repaired BROKEN PERFORMANCE_CAR Porsche 718 Boxster 2018 and made it USED (earned $200.00 bonus)
+MECHANIC Logan Frazier repaired USED PERFORMANCE_CAR Porsche 718 Boxster 2018 and made it LIKE_NEW (earned $200.00 bonus)
+Gerardo Norris (Driver) raced with GMC Sierra Supercharged 2021 (PICKUP) and achieved rank no. 19.
+GMC Sierra Supercharged 2021 (PICKUP) went BROKEN.
+Cash Ho (Driver) raced with Mahindra Bolero Camper 2018 (PICKUP) and achieved rank no. 13.
+Harry O’brien (Driver) raced with Honda Ridgeline 2022 (PICKUP) and achieved rank no. 11.
+Total salary payout increased by $1500.00
+Total bonuses payout increased by $400.00
+DRIVER Gerardo Norris received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Cash Ho received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Elaina Simpson received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Andrew Carroll received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Frances Vaughn received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Harry O’brien received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Logan Frazier received $120.00 (salary) and $400.00 (bonuses)
+INTERN Ariyah Fleming received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Alaia Rangel received $120.00 (salary) and $0.00 (bonuses)
+INTERN Elaine Reed received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Rhett Hayden received $120.00 (salary) and $0.00 (bonuses)
+INTERN Alaia Smith received $80.00 (salary) and $0.00 (bonuses)

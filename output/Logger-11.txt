@@ -1,19 +1,32 @@
-INTERN Bristol Giles wash (ChemicalWashing) CAR Volvo XC70 2017 and made it CLEAN
-INTERN Bristol Giles wash (ChemicalWashing) CAR Volvo XC70 2017 and made it CLEAN
-INTERN Claire Blair wash (ChemicalWashing) CAR Volvo XC70 2017 and made it SPARKLING (earned 50.00 bonus)
-INTERN Claire Blair wash (ChemicalWashing) CAR Volvo XC70 2018 and made it SPARKLING (earned 50.00 bonus)
-INTERN Bristol Thomas wash (ElbowGreaseWashing) CAR Mercedes-Benz AMG-class 2015 and made it DIRTY
-INTERN Bristol Thomas wash (ElbowGreaseWashing) CAR Mercedes-Benz AMG-class 2015 and made it DIRTY
-MECHANIC Olivia Cabrera repaired BROKEN CAR Volvo XC70 2017 and made it USED (earned $100.00 bonus)
-MECHANIC Olivia Cabrera repaired USED CAR Volvo XC70 2017 unsuccessfully
-MECHANIC Elaina Galindo repaired USED CAR Volvo XC70 2017 unsuccessfully
-MECHANIC Elaina Galindo repaired USED CAR Volvo XC70 2017 and made it LIKE_NEW (earned $100.00 bonus)
-SALESPERSON Louis Rivers sold CLEAN LIKE_NEW Honda Civic 2011 to Buyer unsuccessfully
-SALESPERSON Louis Rivers sold CLEAN LIKE_NEW MG MGB 2013 to Buyer unsuccessfully
-SALESPERSON Navy Case (earned $350.00 bonus) sold CLEAN LIKE_NEW (PERFORMANCE_CAR) MG MGB 2013 to Buyer for $76711.65 + $7671.17 (Undercoating, SatelliteRadio (addOns)).
-Added sale income $84382.82 to current balance
-Maxwell Singh (Driver) raced with Madusa 3 (MONSTER_TRUCK) and achieved rank no. 14.
-Logan Herman (Driver) raced with Bigfoot 6 (MONSTER_TRUCK) and achieved rank no. 16.
-Bigfoot 6 (MONSTER_TRUCK) went BROKEN.
-Kiana Tate (Driver) raced with Raminator 1 (MONSTER_TRUCK) and achieved rank no. 10.
-Total salary payout increased by $1500.00Total bonuses payout increased by $650.00MECHANIC Olivia Cabrera received $120.00 (salary) and $100.00 (bonuses)MECHANIC Elaina Galindo received $120.00 (salary) and $100.00 (bonuses)SALESPERSON Navy Case received $150.00 (salary) and $350.00 (bonuses)SALESPERSON Joel Acevedo received $150.00 (salary) and $0.00 (bonuses)DRIVER Maxwell Singh received $150.00 (salary) and $0.00 (bonuses)DRIVER Logan Herman received $150.00 (salary) and $0.00 (bonuses)INTERN Bristol Giles received $80.00 (salary) and $0.00 (bonuses)MECHANIC Demi Parsons received $120.00 (salary) and $0.00 (bonuses)INTERN Claire Blair received $80.00 (salary) and $100.00 (bonuses)SALESPERSON Louis Rivers received $150.00 (salary) and $0.00 (bonuses)INTERN Bristol Thomas received $80.00 (salary) and $0.00 (bonuses)DRIVER Kiana Tate received $150.00 (salary) and $0.00 (bonuses)
+INTERN Frances Vaughn wash (DetailedWashing) CAR Mercedes-Benz S-class 2015 and made it CLEAN
+INTERN Frances Vaughn wash (DetailedWashing) PERFORMANCE_CAR Porsche 911 2019 and made it DIRTY
+INTERN Maxwell Hess wash (ElbowGreaseWashing) PERFORMANCE_CAR Porsche 911 2019 and made it CLEAN
+INTERN Maxwell Hess wash (ElbowGreaseWashing) CAR Mercedes-Benz S-class 2015 and made it SPARKLING (earned 50.00 bonus)
+INTERN Logan Frazier wash (ElbowGreaseWashing) CAR Audi A3 2021 and made it SPARKLING (earned 50.00 bonus)
+INTERN Logan Frazier wash (ElbowGreaseWashing) CAR Kia K5 2014 and made it CLEAN
+SALESPERSON Andrew Carroll sold CLEAN LIKE_NEW Kawasaki 2022 (623 CC engine) to Buyer unsuccessfully
+SALESPERSON Elaina Simpson (earned $160.00 bonus) sold SPARKLING LIKE_NEW (CAR) Mercedes-Benz S-class 2015 to Buyer for $69461.45 + $1389.23 (RoadRescueCoverage (addOns)).
+Added sale income $70850.68 to current balance
+SALESPERSON Elaina Simpson sold CLEAN LIKE_NEW Predator 14 to Buyer unsuccessfully
+SALESPERSON Leroy Blair sold CLEAN LIKE_NEW Kawasaki 2022 (623 CC engine) to Buyer unsuccessfully
+SALESPERSON Leroy Blair (earned $150.00 bonus) sold CLEAN LIKE_NEW (MOTORCYCLE) Kawasaki 2022 (623 CC engine) to Buyer for $54922.42 + $2746.12 (SatelliteRadio (addOns)).
+Added sale income $57668.54 to current balance
+Claire Maldonado (Driver) raced with Cagiva 2017 (618 CC engine) (MOTORCYCLE) and achieved rank no. 9.
+Gerardo Norris (Driver) raced with Can-Am 2015 (937 CC engine) (MOTORCYCLE) and achieved rank no. 1.
+Gerardo Norris (Driver) won with Can-Am 2015 (937 CC engine) (MOTORCYCLE) (earned $ 1000 bonus)!
+Cash Ho (Driver) raced with Kawasaki 2013 (393 CC engine) (MOTORCYCLE) and achieved rank no. 19.
+Kawasaki 2013 (393 CC engine) (MOTORCYCLE) went BROKEN.
+Total salary payout increased by $1500.00
+Total bonuses payout increased by $1410.00
+MECHANIC Leonard Vincent received $120.00 (salary) and $0.00 (bonuses)
+MECHANIC Haven Person received $120.00 (salary) and $0.00 (bonuses)
+DRIVER Claire Maldonado received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Gerardo Norris received $150.00 (salary) and $1000.00 (bonuses)
+DRIVER Cash Ho received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Leroy Blair received $150.00 (salary) and $150.00 (bonuses)
+MECHANIC Fernando Alexander received $120.00 (salary) and $0.00 (bonuses)
+SALESPERSON Elaina Simpson received $150.00 (salary) and $160.00 (bonuses)
+SALESPERSON Andrew Carroll received $150.00 (salary) and $0.00 (bonuses)
+INTERN Frances Vaughn received $80.00 (salary) and $0.00 (bonuses)
+INTERN Maxwell Hess received $80.00 (salary) and $50.00 (bonuses)
+INTERN Logan Frazier received $80.00 (salary) and $50.00 (bonuses)

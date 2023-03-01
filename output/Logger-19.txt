@@ -1,25 +1,26 @@
-Purchased LIKE_NEW, SPARKLING PERFORMANCE_CAR Ferrari F8 2017 for $ 60529.42
-Purchased BROKEN, CLEAN PICKUP Toyota Hilux 2018 for $ 53903.20
-Purchased BROKEN, CLEAN PICKUP Ford F-150 Lightning 2015 for $ 26662.79
-INTERN Bristol Thomas wash (ElbowGreaseWashing) MOTORCYCLE Husqvarna 2020 (646 CC engine) and made it CLEAN
-INTERN Bristol Thomas wash (ElbowGreaseWashing) MOTORCYCLE Husqvarna 2020 (646 CC engine) and made it CLEAN
-INTERN Remy Alexander wash (DetailedWashing) MOTORCYCLE Husqvarna 2020 (646 CC engine) and made it CLEAN
-INTERN Remy Alexander wash (DetailedWashing) MOTORCYCLE Husqvarna 2020 (646 CC engine) and made it CLEAN
-INTERN Claire Foley wash (ElbowGreaseWashing) MOTORCYCLE Husqvarna 2020 (646 CC engine) and made it CLEAN
-INTERN Claire Foley wash (ElbowGreaseWashing) MOTORCYCLE Husqvarna 2020 (646 CC engine) and made it CLEAN
-MECHANIC Demi Parsons repaired BROKEN PICKUP Toyota Hilux 2018 and made it USED (earned $150.00 bonus)
-MECHANIC Demi Parsons repaired USED PICKUP Toyota Hilux 2018 and made it LIKE_NEW (earned $150.00 bonus)
-MECHANIC Bristol Giles repaired BROKEN PICKUP Ford F-150 Lightning 2015 and made it USED (earned $150.00 bonus)
-MECHANIC Bristol Giles repaired USED PICKUP Ford F-150 Lightning 2015 and made it LIKE_NEW (earned $150.00 bonus)
-SALESPERSON Louis Rivers (earned $160.00 bonus) sold CLEAN LIKE_NEW (CAR) Lucid Air 2014 to Buyer for $44400.14 + $888.00 (RoadRescueCoverage (addOns)).
-Added sale income $45288.14 to current balance
-SALESPERSON Louis Rivers (earned $160.00 bonus) sold CLEAN LIKE_NEW (CAR) Nissan Leaf 2021 to Buyer for $34853.08 + $2439.72 (RoadRescueCoverage, SatelliteRadio (addOns)).
-Added sale income $37292.80 to current balance
-SALESPERSON Navy Case (earned $220.00 bonus) sold DIRTY LIKE_NEW (PICKUP) Toyota Hilux 2018 to Buyer for $101068.50 + $25267.12 (ExtendedWarranty, SatelliteRadio (addOns)).
-Added sale income $126335.62 to current balance
-SALESPERSON Joel Acevedo sold SPARKLING LIKE_NEW Lamborghini Countach 2019 to Buyer unsuccessfully
-SALESPERSON Louis Rivers (earned $160.00 bonus) sold SPARKLING LIKE_NEW (CAR) Volvo XC70 2018 to Buyer for $26248.18 + $3149.78 (Undercoating, RoadRescueCoverage, SatelliteRadio (addOns)).
-Added sale income $29397.96 to current balance
-SALESPERSON Navy Case sold DIRTY LIKE_NEW Ford F-150 Lightning 2015 to Buyer for $49992.73 without any addOns (earned $220.00 bonus)
-Added sale income $49992.73 to current balance
-Total salary payout increased by $1500.00Total bonuses payout increased by $1520.00SALESPERSON Navy Case received $150.00 (salary) and $440.00 (bonuses)SALESPERSON Joel Acevedo received $150.00 (salary) and $0.00 (bonuses)DRIVER Maxwell Singh received $150.00 (salary) and $0.00 (bonuses)DRIVER Logan Herman received $150.00 (salary) and $0.00 (bonuses)MECHANIC Demi Parsons received $120.00 (salary) and $300.00 (bonuses)SALESPERSON Louis Rivers received $150.00 (salary) and $480.00 (bonuses)INTERN Bristol Thomas received $80.00 (salary) and $0.00 (bonuses)DRIVER Kiana Tate received $150.00 (salary) and $0.00 (bonuses)MECHANIC Bristol Giles received $120.00 (salary) and $300.00 (bonuses)INTERN Remy Alexander received $80.00 (salary) and $0.00 (bonuses)MECHANIC Claire Blair received $120.00 (salary) and $0.00 (bonuses)INTERN Claire Foley received $80.00 (salary) and $0.00 (bonuses)
+INTERN Maxwell Hess wash (ElbowGreaseWashing) MOTORCYCLE Cagiva 2017 (618 CC engine) and made it CLEAN
+INTERN Maxwell Hess wash (ElbowGreaseWashing) MOTORCYCLE Cagiva 2017 (618 CC engine) and made it CLEAN
+INTERN Logan Frazier wash (ElbowGreaseWashing) MOTORCYCLE Cagiva 2017 (618 CC engine) and made it SPARKLING (earned 25.00 bonus)
+INTERN Logan Frazier wash (ElbowGreaseWashing) MOTORCYCLE Can-Am 2015 (937 CC engine) and made it CLEAN
+INTERN Alaia Rangel wash (DetailedWashing) MOTORCYCLE Can-Am 2015 (937 CC engine) and made it SPARKLING (earned 25.00 bonus)
+INTERN Alaia Rangel wash (DetailedWashing) MONSTER_TRUCK Backwards Bob 11 and made it CLEAN
+MECHANIC Leonard Vincent repaired BROKEN PICKUP GMC Hummer EV 2018 unsuccessfully
+MECHANIC Leonard Vincent repaired BROKEN PICKUP GMC Hummer EV 2018 and made it USED (earned $150.00 bonus)
+MECHANIC Haven Person repaired USED PICKUP GMC Hummer EV 2018 and made it LIKE_NEW (earned $150.00 bonus)
+MECHANIC Haven Person repaired BROKEN PICKUP Ford Maverick 2011 unsuccessfully
+MECHANIC Fernando Alexander repaired BROKEN PICKUP Ford Maverick 2011 and made it USED (earned $150.00 bonus)
+MECHANIC Fernando Alexander repaired USED PICKUP Ford Maverick 2011 unsuccessfully
+Total salary payout increased by $1500.00
+Total bonuses payout increased by $500.00
+MECHANIC Leonard Vincent received $120.00 (salary) and $150.00 (bonuses)
+MECHANIC Haven Person received $120.00 (salary) and $150.00 (bonuses)
+DRIVER Gerardo Norris received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Cash Ho received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Fernando Alexander received $120.00 (salary) and $150.00 (bonuses)
+SALESPERSON Elaina Simpson received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Andrew Carroll received $150.00 (salary) and $0.00 (bonuses)
+INTERN Maxwell Hess received $80.00 (salary) and $0.00 (bonuses)
+INTERN Logan Frazier received $80.00 (salary) and $25.00 (bonuses)
+SALESPERSON Frances Vaughn received $150.00 (salary) and $0.00 (bonuses)
+INTERN Alaia Rangel received $80.00 (salary) and $25.00 (bonuses)
+DRIVER Harry O’brien received $150.00 (salary) and $0.00 (bonuses)

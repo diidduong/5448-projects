@@ -1,21 +1,29 @@
-Purchased LIKE_NEW, DIRTY PERFORMANCE_CAR Porsche 718 Cayman 2012 for $ 53391.66
-Purchased LIKE_NEW, CLEAN PICKUP Dodge Ram 1500 TRX 2020 for $ 39618.64
-Purchased USED, DIRTY PICKUP Rivian R1T 2012 for $ 74288.03
-INTERN Claire Foley wash (ElbowGreaseWashing) PERFORMANCE_CAR Ford Mustang 2019 and made it CLEAN
-INTERN Claire Foley wash (ElbowGreaseWashing) PERFORMANCE_CAR Porsche 718 Cayman 2012 and made it CLEAN
-INTERN Leyla Dickson wash (ElbowGreaseWashing) PICKUP Rivian R1T 2012 and made it CLEAN
-INTERN Leyla Dickson wash (ElbowGreaseWashing) MONSTER_TRUCK Blue Thunder 5 and made it SPARKLING (earned 200.00 bonus)
-INTERN Emmalynn Reed wash (DetailedWashing) MONSTER_TRUCK Madusa 3 and made it CLEAN
-INTERN Emmalynn Reed wash (DetailedWashing) MONSTER_TRUCK Madusa 3 and made it DIRTY
-MECHANIC Demi Parsons repaired BROKEN PERFORMANCE_CAR McLaren 720S 2010 and made it USED (earned $200.00 bonus)
-MECHANIC Demi Parsons repaired USED PERFORMANCE_CAR McLaren 720S 2010 and made it LIKE_NEW (earned $200.00 bonus)
-MECHANIC Bristol Giles repaired BROKEN PERFORMANCE_CAR Toyota GR86 2018 and made it USED (earned $200.00 bonus)
-MECHANIC Bristol Giles repaired USED PERFORMANCE_CAR Toyota GR86 2018 and made it LIKE_NEW (earned $200.00 bonus)
-MECHANIC Claire Blair repaired USED PICKUP Rivian R1T 2012 unsuccessfully
-MECHANIC Claire Blair repaired USED PICKUP Rivian R1T 2012 and made it LIKE_NEW (earned $150.00 bonus)
-SALESPERSON Joel Acevedo (earned $350.00 bonus) sold DIRTY LIKE_NEW (PERFORMANCE_CAR) McLaren 720S 2010 to Buyer for $109231.42 + $7646.20 (RoadRescueCoverage, SatelliteRadio (addOns)).
-Added sale income $116877.62 to current balance
-SALESPERSON Navy Case sold DIRTY LIKE_NEW Toyota GR86 2018 to Buyer unsuccessfully
-SALESPERSON Joel Acevedo (earned $160.00 bonus) sold CLEAN LIKE_NEW (CAR) Mercedes-Benz S-class 2015 to Buyer for $36343.39 + $7995.55 (ExtendedWarranty, RoadRescueCoverage (addOns)).
-Added sale income $44338.94 to current balance
-Total salary payout increased by $1500.00Total bonuses payout increased by $1660.00SALESPERSON Navy Case received $150.00 (salary) and $0.00 (bonuses)SALESPERSON Joel Acevedo received $150.00 (salary) and $510.00 (bonuses)DRIVER Maxwell Singh received $150.00 (salary) and $0.00 (bonuses)DRIVER Logan Herman received $150.00 (salary) and $0.00 (bonuses)MECHANIC Demi Parsons received $120.00 (salary) and $400.00 (bonuses)SALESPERSON Louis Rivers received $150.00 (salary) and $0.00 (bonuses)DRIVER Kiana Tate received $150.00 (salary) and $0.00 (bonuses)MECHANIC Bristol Giles received $120.00 (salary) and $400.00 (bonuses)MECHANIC Claire Blair received $120.00 (salary) and $150.00 (bonuses)INTERN Claire Foley received $80.00 (salary) and $0.00 (bonuses)INTERN Leyla Dickson received $80.00 (salary) and $200.00 (bonuses)INTERN Emmalynn Reed received $80.00 (salary) and $0.00 (bonuses)
+Purchased BROKEN, DIRTY CAR Chevrolet Bolt 2021 for $ 23805.79
+INTERN Alaia Rangel wash (DetailedWashing) CAR Chevrolet Bolt 2021 and made it SPARKLING (earned 50.00 bonus)
+INTERN Alaia Rangel wash (DetailedWashing) CAR Mitsubishi Eclipse 2014 and made it CLEAN
+INTERN Rhett Hayden wash (ElbowGreaseWashing) CAR Mitsubishi Eclipse 2014 and made it SPARKLING (earned 50.00 bonus)
+INTERN Rhett Hayden wash (ElbowGreaseWashing) MOTORCYCLE Yamaha 2019 (909 CC engine) and made it CLEAN
+INTERN Ariyah Fleming wash (ElbowGreaseWashing) MOTORCYCLE Yamaha 2019 (909 CC engine) and made it CLEAN
+INTERN Ariyah Fleming wash (ElbowGreaseWashing) MOTORCYCLE Yamaha 2019 (909 CC engine) and made it CLEAN
+MECHANIC Haven Person repaired BROKEN CAR Chevrolet Bolt 2021 unsuccessfully
+MECHANIC Haven Person repaired BROKEN CAR Chevrolet Bolt 2021 unsuccessfully
+MECHANIC Fernando Alexander repaired BROKEN CAR Chevrolet Bolt 2021 and made it USED (earned $100.00 bonus)
+MECHANIC Fernando Alexander repaired USED CAR Chevrolet Bolt 2021 and made it LIKE_NEW (earned $100.00 bonus)
+SALESPERSON Andrew Carroll sold CLEAN LIKE_NEW Ducati 2016 (983 CC engine) to Buyer unsuccessfully
+SALESPERSON Frances Vaughn sold CLEAN LIKE_NEW Ducati 2016 (983 CC engine) to Buyer unsuccessfully
+SALESPERSON Andrew Carroll sold CLEAN LIKE_NEW Chevrolet Silverado 1500 2014 to Buyer for $129346.54 without any addOns (earned $220.00 bonus)
+Added sale income $129346.54 to current balance
+Total salary payout increased by $1500.00
+Total bonuses payout increased by $520.00
+MECHANIC Haven Person received $120.00 (salary) and $0.00 (bonuses)
+DRIVER Gerardo Norris received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Cash Ho received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Fernando Alexander received $120.00 (salary) and $200.00 (bonuses)
+SALESPERSON Elaina Simpson received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Andrew Carroll received $150.00 (salary) and $220.00 (bonuses)
+SALESPERSON Frances Vaughn received $150.00 (salary) and $0.00 (bonuses)
+INTERN Alaia Rangel received $80.00 (salary) and $50.00 (bonuses)
+DRIVER Harry O’brien received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Logan Frazier received $120.00 (salary) and $0.00 (bonuses)
+INTERN Rhett Hayden received $80.00 (salary) and $50.00 (bonuses)
+INTERN Ariyah Fleming received $80.00 (salary) and $0.00 (bonuses)

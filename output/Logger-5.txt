@@ -1,19 +1,27 @@
-Purchased LIKE_NEW, DIRTY PICKUP Mahindra Bolero Camper 2020 for $ 41357.43
-INTERN Demi Parsons wash (ChemicalWashing) PICKUP Tesla Cybertruck 2018 and made it CLEAN
-INTERN Demi Parsons wash (ChemicalWashing) ELECTRIC_CAR MINI Cooper SE 2010 (452 miles) and made it CLEAN
-INTERN Louis Rivers wash (ElbowGreaseWashing) ELECTRIC_CAR Mercedes-Benz EQS-Class 2014 (299 miles) and made it CLEAN
-INTERN Louis Rivers wash (ElbowGreaseWashing) MONSTER_TRUCK Madusa 3 and made it DIRTY
-INTERN Bristol Giles wash (ChemicalWashing) MONSTER_TRUCK Madusa 3 and made it CLEAN
-INTERN Bristol Giles wash (ChemicalWashing) MONSTER_TRUCK Raminator 1 and made it CLEAN
-MECHANIC Keyla Chang repaired BROKEN ELECTRIC_CAR MINI Cooper SE 2010 (452 miles) and made it USED (earned $300.00 bonus)
-MECHANIC Keyla Chang repaired USED ELECTRIC_CAR MINI Cooper SE 2010 (452 miles) and made it LIKE_NEW (earned $300.00 bonus)
-MECHANIC Olivia Cabrera repaired USED ELECTRIC_CAR Mercedes-Benz EQS-Class 2014 (299 miles) and made it LIKE_NEW (earned $300.00 bonus)
-MECHANIC Olivia Cabrera repaired USED ELECTRIC_CAR Lucid Gravity 2023 (283 miles) unsuccessfully
-MECHANIC Elaina Galindo repaired USED ELECTRIC_CAR Lucid Gravity 2023 (283 miles) and made it LIKE_NEW (earned $300.00 bonus)
-MECHANIC Elaina Galindo repaired BROKEN ELECTRIC_CAR Fiat 500e 2021 (252 miles) and made it USED (earned $300.00 bonus)
-SALESPERSON Navy Case (earned $350.00 bonus) sold CLEAN LIKE_NEW (PERFORMANCE_CAR) Acura NSX 2018 to Buyer for $126850.38 + $34249.60 (ExtendedWarranty, RoadRescueCoverage, SatelliteRadio (addOns)).
-Added sale income $161099.98 to current balance
-SALESPERSON Bentlee Duran sold CLEAN LIKE_NEW Toyota GR86 2016 to Buyer unsuccessfully
-SALESPERSON Joel Acevedo sold CLEAN USED GMC Canyon 2022 to Buyer for $57542.38 without any addOns (earned $220.00 bonus)
-Added sale income $57542.38 to current balance
-Total salary payout increased by $1500.00Total bonuses payout increased by $2070.00INTERN Demi Parsons received $80.00 (salary) and $0.00 (bonuses)INTERN Louis Rivers received $80.00 (salary) and $0.00 (bonuses)MECHANIC Keyla Chang received $120.00 (salary) and $600.00 (bonuses)MECHANIC Olivia Cabrera received $120.00 (salary) and $300.00 (bonuses)MECHANIC Elaina Galindo received $120.00 (salary) and $600.00 (bonuses)SALESPERSON Bentlee Duran received $150.00 (salary) and $0.00 (bonuses)SALESPERSON Navy Case received $150.00 (salary) and $350.00 (bonuses)SALESPERSON Joel Acevedo received $150.00 (salary) and $220.00 (bonuses)DRIVER Maxwell Singh received $150.00 (salary) and $0.00 (bonuses)DRIVER Amara Reid received $150.00 (salary) and $0.00 (bonuses)DRIVER Logan Herman received $150.00 (salary) and $0.00 (bonuses)INTERN Bristol Giles received $80.00 (salary) and $0.00 (bonuses)
+Purchased USED, CLEAN MOTORCYCLE Kawasaki 2013 (393 CC engine) for $ 31501.78
+INTERN Dalton Jordan wash (DetailedWashing) MONSTER_TRUCK Backwards Bob 11 and made it CLEAN
+INTERN Dalton Jordan wash (DetailedWashing) MONSTER_TRUCK Captain's Curse 5 and made it CLEAN
+INTERN Andrew Carroll wash (ElbowGreaseWashing) MONSTER_TRUCK Lucas Oil Crusader 1 and made it CLEAN
+INTERN Andrew Carroll wash (ElbowGreaseWashing) PICKUP Rivian R1T 2013 and made it DIRTY
+INTERN Leonard O’Connell wash (ElbowGreaseWashing) PICKUP Rivian R1T 2013 and made it CLEAN
+INTERN Leonard O’Connell wash (ElbowGreaseWashing) MOTORCYCLE Polaris Slingshot 2017 (994 CC engine) and made it SPARKLING (earned 25.00 bonus)
+MECHANIC Leonard Vincent repaired BROKEN PERFORMANCE_CAR McLaren 720S 2015 and made it USED (earned $200.00 bonus)
+MECHANIC Leonard Vincent repaired USED PERFORMANCE_CAR McLaren 720S 2015 and made it LIKE_NEW (earned $200.00 bonus)
+MECHANIC Haven Person repaired BROKEN PERFORMANCE_CAR Ferrari Daytona 2019 and made it USED (earned $200.00 bonus)
+MECHANIC Haven Person repaired USED PERFORMANCE_CAR Ferrari Daytona 2019 and made it LIKE_NEW (earned $200.00 bonus)
+MECHANIC Fernando Alexander repaired USED MOTORCYCLE Polaris Slingshot 2017 (994 CC engine) and made it LIKE_NEW (earned $80.00 bonus)
+MECHANIC Fernando Alexander repaired BROKEN MONSTER_TRUCK Madusa 4 and made it USED (earned $500.00 bonus)
+Total salary payout increased by $1500.00
+Total bonuses payout increased by $1405.00
+MECHANIC Leonard Vincent received $120.00 (salary) and $400.00 (bonuses)
+MECHANIC Haven Person received $120.00 (salary) and $400.00 (bonuses)
+SALESPERSON Octavia Fuller received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Claire Maldonado received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Gerardo Norris received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Cash Ho received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Leroy Blair received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Fernando Alexander received $120.00 (salary) and $580.00 (bonuses)
+INTERN Dalton Jordan received $80.00 (salary) and $0.00 (bonuses)
+SALESPERSON Elaina Simpson received $150.00 (salary) and $0.00 (bonuses)
+INTERN Andrew Carroll received $80.00 (salary) and $0.00 (bonuses)
+INTERN Leonard O’Connell received $80.00 (salary) and $25.00 (bonuses)

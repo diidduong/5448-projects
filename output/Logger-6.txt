@@ -1,18 +1,30 @@
-Purchased USED, CLEAN PERFORMANCE_CAR Porsche 718 Cayman 2019 for $ 53170.86
-Purchased USED, DIRTY PICKUP Tesla Cybertruck 2017 for $ 75146.60
-INTERN Louis Rivers wash (ElbowGreaseWashing) ELECTRIC_CAR MINI Cooper SE 2010 (552 miles) and made it CLEAN
-INTERN Louis Rivers wash (ElbowGreaseWashing) ELECTRIC_CAR Mercedes-Benz EQS-Class 2014 (399 miles) and made it DIRTY
-INTERN Bristol Giles wash (ChemicalWashing) ELECTRIC_CAR Mercedes-Benz EQS-Class 2014 (399 miles) and made it DIRTY
-INTERN Bristol Giles wash (ChemicalWashing) ELECTRIC_CAR Mercedes-Benz EQS-Class 2014 (399 miles) and made it CLEAN
-INTERN Claire Blair wash (ChemicalWashing) ELECTRIC_CAR Lucid Gravity 2023 (383 miles) and made it SPARKLING (earned 120.00 bonus)
-INTERN Claire Blair wash (ChemicalWashing) ELECTRIC_CAR Fiat 500e 2021 (252 miles) and made it CLEAN
-MECHANIC Olivia Cabrera repaired USED ELECTRIC_CAR Fiat 500e 2021 (252 miles) and made it LIKE_NEW (earned $300.00 bonus)
-MECHANIC Olivia Cabrera repaired BROKEN MOTORCYCLE Moto Guzzi 2017 (612 CC engine) unsuccessfully
-MECHANIC Elaina Galindo repaired BROKEN MOTORCYCLE Moto Guzzi 2017 (612 CC engine) and made it USED (earned $80.00 bonus)
-MECHANIC Elaina Galindo repaired USED MOTORCYCLE Moto Guzzi 2017 (612 CC engine) and made it LIKE_NEW (earned $80.00 bonus)
-MECHANIC Demi Parsons repaired BROKEN MOTORCYCLE Husqvarna 2020 (646 CC engine) unsuccessfully
-MECHANIC Demi Parsons repaired BROKEN MOTORCYCLE Husqvarna 2020 (646 CC engine) unsuccessfully
-SALESPERSON Bentlee Duran sold DIRTY USED Tesla Cybertruck 2017 to Buyer unsuccessfully
-SALESPERSON Bentlee Duran (earned $350.00 bonus) sold CLEAN LIKE_NEW (PERFORMANCE_CAR) Toyota GR86 2016 to Buyer for $105078.29 + $23117.22 (ExtendedWarranty, RoadRescueCoverage (addOns)).
-Added sale income $128195.52 to current balance
-Total salary payout increased by $1500.00Total bonuses payout increased by $930.00INTERN Louis Rivers received $80.00 (salary) and $0.00 (bonuses)MECHANIC Olivia Cabrera received $120.00 (salary) and $300.00 (bonuses)MECHANIC Elaina Galindo received $120.00 (salary) and $160.00 (bonuses)SALESPERSON Bentlee Duran received $150.00 (salary) and $350.00 (bonuses)SALESPERSON Navy Case received $150.00 (salary) and $0.00 (bonuses)SALESPERSON Joel Acevedo received $150.00 (salary) and $0.00 (bonuses)DRIVER Maxwell Singh received $150.00 (salary) and $0.00 (bonuses)DRIVER Amara Reid received $150.00 (salary) and $0.00 (bonuses)DRIVER Logan Herman received $150.00 (salary) and $0.00 (bonuses)INTERN Bristol Giles received $80.00 (salary) and $0.00 (bonuses)MECHANIC Demi Parsons received $120.00 (salary) and $0.00 (bonuses)INTERN Claire Blair received $80.00 (salary) and $120.00 (bonuses)
+INTERN Dalton Jordan wash (DetailedWashing) PERFORMANCE_CAR McLaren 720S 2015 and made it DIRTY
+INTERN Dalton Jordan wash (DetailedWashing) PERFORMANCE_CAR McLaren 720S 2015 and made it CLEAN
+INTERN Andrew Carroll wash (ElbowGreaseWashing) PERFORMANCE_CAR Ferrari Daytona 2019 and made it DIRTY
+INTERN Andrew Carroll wash (ElbowGreaseWashing) PERFORMANCE_CAR Ferrari Daytona 2019 and made it CLEAN
+INTERN Leonard O’Connell wash (ElbowGreaseWashing) MONSTER_TRUCK Madusa 4 and made it CLEAN
+INTERN Leonard O’Connell wash (ElbowGreaseWashing) PERFORMANCE_CAR Ford Mustang 2015 and made it DIRTY
+MECHANIC Leonard Vincent repaired USED MONSTER_TRUCK Madusa 4 and made it LIKE_NEW (earned $500.00 bonus)
+MECHANIC Leonard Vincent repaired USED MOTORCYCLE Kawasaki 2013 (393 CC engine) and made it LIKE_NEW (earned $80.00 bonus)
+SALESPERSON Elaina Simpson sold CLEAN LIKE_NEW Polaris Slingshot 2017 (994 CC engine) to Buyer for $43496.59 without any addOns (earned $150.00 bonus)
+Added sale income $43496.59 to current balance
+SALESPERSON Leroy Blair sold DIRTY LIKE_NEW Madusa 4 to Buyer unsuccessfully
+SALESPERSON Elaina Simpson sold DIRTY LIKE_NEW Kawasaki 2013 (393 CC engine) to Buyer unsuccessfully
+SALESPERSON Leroy Blair sold CLEAN LIKE_NEW McLaren 720S 2015 to Buyer unsuccessfully
+SALESPERSON Leroy Blair (earned $300.00 bonus) sold CLEAN LIKE_NEW (ELECTRIC_CAR) Karma GSe-6 2020 (484 miles) to Buyer for $69411.29 + $4858.79 (RoadRescueCoverage, SatelliteRadio (addOns)).
+Added sale income $74270.08 to current balance
+SALESPERSON Octavia Fuller sold SPARKLING LIKE_NEW Tesla Model S 2011 (214 miles) to Buyer unsuccessfully
+Total salary payout increased by $1500.00
+Total bonuses payout increased by $1030.00
+MECHANIC Leonard Vincent received $120.00 (salary) and $580.00 (bonuses)
+MECHANIC Haven Person received $120.00 (salary) and $0.00 (bonuses)
+SALESPERSON Octavia Fuller received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Claire Maldonado received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Gerardo Norris received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Cash Ho received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Leroy Blair received $150.00 (salary) and $300.00 (bonuses)
+MECHANIC Fernando Alexander received $120.00 (salary) and $0.00 (bonuses)
+INTERN Dalton Jordan received $80.00 (salary) and $0.00 (bonuses)
+SALESPERSON Elaina Simpson received $150.00 (salary) and $150.00 (bonuses)
+INTERN Andrew Carroll received $80.00 (salary) and $0.00 (bonuses)
+INTERN Leonard O’Connell received $80.00 (salary) and $0.00 (bonuses)
