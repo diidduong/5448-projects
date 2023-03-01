@@ -1,27 +1,31 @@
-Purchased USED, CLEAN MOTORCYCLE Kawasaki 2013 (393 CC engine) for $ 31501.78
-INTERN Dalton Jordan wash (DetailedWashing) MONSTER_TRUCK Backwards Bob 11 and made it CLEAN
-INTERN Dalton Jordan wash (DetailedWashing) MONSTER_TRUCK Captain's Curse 5 and made it CLEAN
-INTERN Andrew Carroll wash (ElbowGreaseWashing) MONSTER_TRUCK Lucas Oil Crusader 1 and made it CLEAN
-INTERN Andrew Carroll wash (ElbowGreaseWashing) PICKUP Rivian R1T 2013 and made it DIRTY
-INTERN Leonard O’Connell wash (ElbowGreaseWashing) PICKUP Rivian R1T 2013 and made it CLEAN
-INTERN Leonard O’Connell wash (ElbowGreaseWashing) MOTORCYCLE Polaris Slingshot 2017 (994 CC engine) and made it SPARKLING (earned 25.00 bonus)
-MECHANIC Leonard Vincent repaired BROKEN PERFORMANCE_CAR McLaren 720S 2015 and made it USED (earned $200.00 bonus)
-MECHANIC Leonard Vincent repaired USED PERFORMANCE_CAR McLaren 720S 2015 and made it LIKE_NEW (earned $200.00 bonus)
-MECHANIC Haven Person repaired BROKEN PERFORMANCE_CAR Ferrari Daytona 2019 and made it USED (earned $200.00 bonus)
-MECHANIC Haven Person repaired USED PERFORMANCE_CAR Ferrari Daytona 2019 and made it LIKE_NEW (earned $200.00 bonus)
-MECHANIC Fernando Alexander repaired USED MOTORCYCLE Polaris Slingshot 2017 (994 CC engine) and made it LIKE_NEW (earned $80.00 bonus)
-MECHANIC Fernando Alexander repaired BROKEN MONSTER_TRUCK Madusa 4 and made it USED (earned $500.00 bonus)
+INTERN Easton Ramos wash (ElbowGreaseWashing) MOTORCYCLE CCW 2014 (1143 CC engine) and made it CLEAN
+INTERN Easton Ramos wash (ElbowGreaseWashing) MONSTER_TRUCK Zombie 13 and made it CLEAN
+INTERN Kaliyah Chase wash (ElbowGreaseWashing) MONSTER_TRUCK Bigfoot 12 and made it DIRTY
+INTERN Kaliyah Chase wash (ElbowGreaseWashing) MONSTER_TRUCK Bigfoot 12 and made it CLEAN
+INTERN Cade Rivers wash (ElbowGreaseWashing) MONSTER_TRUCK Bear Foot (Silverado) 11 and made it CLEAN
+INTERN Cade Rivers wash (ElbowGreaseWashing) MONSTER_TRUCK Snake Bite 1 and made it CLEAN
+MECHANIC Easton Meyer repaired USED MONSTER_TRUCK Snake Bite 1 and made it LIKE_NEW (earned $500.00 bonus)
+MECHANIC Easton Meyer repaired USED PICKUP Toyota Tacoma TRD Pro 2018 and made it LIKE_NEW (earned $150.00 bonus)
+MECHANIC Ridge Fernandez repaired USED CAR Hyundai Sonata 2018 and made it LIKE_NEW (earned $100.00 bonus)
+SALESPERSON Amayah Case (earned $220.00 bonus) sold DIRTY LIKE_NEW (PICKUP) Toyota Tacoma TRD Pro 2018 to Buyer for $57775.71 + $15599.44 (ExtendedWarranty, RoadRescueCoverage, SatelliteRadio (addOns)).
+Added sale income $73375.15 to current balance
+SALESPERSON Emery Moody (earned $300.00 bonus) sold CLEAN LIKE_NEW (ELECTRIC_CAR) Hyundai Ioniq 5 2017 (171 miles) to Buyer for $95362.95 + $4768.15 (SatelliteRadio (addOns)).
+Added sale income $100131.09 to current balance
+SALESPERSON Emery Moody sold CLEAN LIKE_NEW Volvo XC40 Recharge 2013 (170 miles) to Buyer unsuccessfully
+SALESPERSON Amayah Case (earned $350.00 bonus) sold CLEAN LIKE_NEW (PERFORMANCE_CAR) Porsche 911 2011 to Buyer for $140688.02 + $2813.76 (RoadRescueCoverage (addOns)).
+Added sale income $143501.78 to current balance
+SALESPERSON Amayah Case sold CLEAN LIKE_NEW Mazda MX-5 Miata 2019 to Buyer unsuccessfully
 Total salary payout increased by $1500.00
-Total bonuses payout increased by $1405.00
-MECHANIC Leonard Vincent received $120.00 (salary) and $400.00 (bonuses)
-MECHANIC Haven Person received $120.00 (salary) and $400.00 (bonuses)
-SALESPERSON Octavia Fuller received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Claire Maldonado received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Gerardo Norris received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Cash Ho received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Leroy Blair received $150.00 (salary) and $0.00 (bonuses)
-MECHANIC Fernando Alexander received $120.00 (salary) and $580.00 (bonuses)
-INTERN Dalton Jordan received $80.00 (salary) and $0.00 (bonuses)
-SALESPERSON Elaina Simpson received $150.00 (salary) and $0.00 (bonuses)
-INTERN Andrew Carroll received $80.00 (salary) and $0.00 (bonuses)
-INTERN Leonard O’Connell received $80.00 (salary) and $25.00 (bonuses)
+Total bonuses payout increased by $1620.00
+INTERN Easton Ramos received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Easton Meyer received $120.00 (salary) and $650.00 (bonuses)
+MECHANIC Ridge Fernandez received $120.00 (salary) and $100.00 (bonuses)
+SALESPERSON Emery Moody received $150.00 (salary) and $300.00 (bonuses)
+SALESPERSON Amayah Case received $150.00 (salary) and $570.00 (bonuses)
+DRIVER Macie Mayo received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Angie Fuller received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Samson Moody received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Kiana Wilkinson received $120.00 (salary) and $0.00 (bonuses)
+INTERN Kaliyah Chase received $80.00 (salary) and $0.00 (bonuses)
+SALESPERSON Macie Chase received $150.00 (salary) and $0.00 (bonuses)
+INTERN Cade Rivers received $80.00 (salary) and $0.00 (bonuses)

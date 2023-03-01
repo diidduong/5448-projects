@@ -1,25 +1,28 @@
-Purchased BROKEN, DIRTY PERFORMANCE_CAR Porsche 911 2019 for $ 54189.87
-INTERN Claire Dickson wash (ChemicalWashing) MOTORCYCLE Kawasaki 2022 (623 CC engine) and made it CLEAN
-INTERN Claire Dickson wash (ChemicalWashing) PERFORMANCE_CAR Porsche 911 2019 and made it CLEAN
-INTERN Frances Vaughn wash (DetailedWashing) CAR Mercedes-Benz S-class 2015 and made it CLEAN
-INTERN Frances Vaughn wash (DetailedWashing) CAR Mercedes-Benz S-class 2015 and made it CLEAN
-INTERN Maxwell Hess wash (ElbowGreaseWashing) CAR Mercedes-Benz S-class 2015 and made it DIRTY
-INTERN Maxwell Hess wash (ElbowGreaseWashing) CAR Mercedes-Benz S-class 2015 and made it DIRTY
-MECHANIC Leonard Vincent repaired BROKEN PERFORMANCE_CAR Porsche 911 2019 and made it USED (earned $200.00 bonus)
-MECHANIC Leonard Vincent repaired USED PERFORMANCE_CAR Porsche 911 2019 unsuccessfully
-MECHANIC Haven Person repaired USED PERFORMANCE_CAR Porsche 911 2019 unsuccessfully
-MECHANIC Haven Person repaired USED PERFORMANCE_CAR Porsche 911 2019 and made it LIKE_NEW (earned $200.00 bonus)
+Purchased BROKEN, DIRTY PICKUP GMC Sierra Supercharged 2015 for $ 35408.77
+Purchased BROKEN, SPARKLING MONSTER_TRUCK Lucas Oil Crusader 4 for $ 64584.61
+INTERN Royalty Ryan wash (ElbowGreaseWashing) PERFORMANCE_CAR Mazda MX-5 Miata 2019 and made it CLEAN
+INTERN Royalty Ryan wash (ElbowGreaseWashing) MOTORCYCLE Harley-Davidson 2016 (879 CC engine) and made it CLEAN
+INTERN Salvatore Vincent wash (ChemicalWashing) MOTORCYCLE Cagiva 2023 (775 CC engine) and made it DIRTY
+INTERN Salvatore Vincent wash (ChemicalWashing) MOTORCYCLE Cagiva 2023 (775 CC engine) and made it CLEAN
+INTERN Samson Chase wash (DetailedWashing) PICKUP GMC Sierra Supercharged 2015 and made it DIRTY
+INTERN Samson Chase wash (DetailedWashing) PICKUP GMC Sierra Supercharged 2015 and made it CLEAN
+MECHANIC Ridge Fernandez repaired USED MONSTER_TRUCK Raminator 12 and made it LIKE_NEW (earned $500.00 bonus)
+MECHANIC Ridge Fernandez repaired BROKEN PICKUP GMC Sierra Supercharged 2015 and made it USED (earned $150.00 bonus)
+MECHANIC Kiana Wilkinson repaired USED PICKUP GMC Sierra Supercharged 2015 and made it LIKE_NEW (earned $150.00 bonus)
+MECHANIC Kiana Wilkinson repaired BROKEN MONSTER_TRUCK Lucas Oil Crusader 4 and made it USED (earned $500.00 bonus)
+MECHANIC Cade Rivers repaired USED MONSTER_TRUCK Lucas Oil Crusader 4 unsuccessfully
+MECHANIC Cade Rivers repaired USED MONSTER_TRUCK Lucas Oil Crusader 4 and made it LIKE_NEW (earned $500.00 bonus)
 Total salary payout increased by $1500.00
-Total bonuses payout increased by $400.00
-MECHANIC Leonard Vincent received $120.00 (salary) and $200.00 (bonuses)
-MECHANIC Haven Person received $120.00 (salary) and $200.00 (bonuses)
-DRIVER Claire Maldonado received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Gerardo Norris received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Cash Ho received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Leroy Blair received $150.00 (salary) and $0.00 (bonuses)
-MECHANIC Fernando Alexander received $120.00 (salary) and $0.00 (bonuses)
-SALESPERSON Elaina Simpson received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Andrew Carroll received $150.00 (salary) and $0.00 (bonuses)
-INTERN Claire Dickson received $80.00 (salary) and $0.00 (bonuses)
-INTERN Frances Vaughn received $80.00 (salary) and $0.00 (bonuses)
-INTERN Maxwell Hess received $80.00 (salary) and $0.00 (bonuses)
+Total bonuses payout increased by $1800.00
+MECHANIC Ridge Fernandez received $120.00 (salary) and $650.00 (bonuses)
+SALESPERSON Amayah Case received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Macie Mayo received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Angie Fuller received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Samson Moody received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Kiana Wilkinson received $120.00 (salary) and $650.00 (bonuses)
+SALESPERSON Macie Chase received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Easton Ramos received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Cade Rivers received $120.00 (salary) and $500.00 (bonuses)
+INTERN Royalty Ryan received $80.00 (salary) and $0.00 (bonuses)
+INTERN Salvatore Vincent received $80.00 (salary) and $0.00 (bonuses)
+INTERN Samson Chase received $80.00 (salary) and $0.00 (bonuses)

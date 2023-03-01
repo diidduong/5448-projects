@@ -88,7 +88,7 @@ public class FNCDAdministration {
             budget.addBalance(RESERVE_BALANCE);
             // Announce "Adding money to the FNCD budget due to low funds"
 
-            String msg = String.format("\nReserve balance %.2f is used, current balance is %.2f\n",
+            String msg = String.format("\nReserve balance $%.2f is used, current balance is $%.2f\n",
                     RESERVE_BALANCE,
                     budget.getCurrentBalance()
             );

@@ -1,26 +1,35 @@
-Purchased USED, DIRTY MOTORCYCLE Kawasaki 2022 (623 CC engine) for $ 43937.93
-INTERN Leonard O’Connell wash (ElbowGreaseWashing) MONSTER_TRUCK Predator 14 and made it CLEAN
-INTERN Leonard O’Connell wash (ElbowGreaseWashing) MOTORCYCLE Kawasaki 2022 (623 CC engine) and made it CLEAN
-INTERN Claire Dickson wash (ChemicalWashing) PERFORMANCE_CAR McLaren 720S 2015 and made it SPARKLING (earned 75.00 bonus)
-INTERN Claire Dickson wash (ChemicalWashing) PERFORMANCE_CAR Ferrari Daytona 2019 and made it SPARKLING (earned 75.00 bonus)
-INTERN Frances Vaughn wash (DetailedWashing) CAR Mercedes-Benz S-class 2015 and made it CLEAN
-INTERN Frances Vaughn wash (DetailedWashing) CAR Mercedes-Benz S-class 2015 and made it CLEAN
-MECHANIC Leonard Vincent repaired USED MOTORCYCLE Kawasaki 2022 (623 CC engine) unsuccessfully
-MECHANIC Leonard Vincent repaired USED MOTORCYCLE Kawasaki 2022 (623 CC engine) and made it LIKE_NEW (earned $80.00 bonus)
-SALESPERSON Andrew Carroll sold CLEAN LIKE_NEW Rivian R1T 2013 to Buyer unsuccessfully
-SALESPERSON Elaina Simpson (earned $350.00 bonus) sold SPARKLING LIKE_NEW (PERFORMANCE_CAR) McLaren 720S 2015 to Buyer for $244756.58 + $12237.83 (SatelliteRadio (addOns)).
-Added sale income $256994.41 to current balance
+Purchased LIKE_NEW, DIRTY PICKUP Isuzu D-Max 2021 for $ 67071.75
+Purchased USED, DIRTY MOTORCYCLE Cagiva 2023 (775 CC engine) for $ 19844.89
+Purchased USED, DIRTY MONSTER_TRUCK Raminator 12 for $ 75326.66
+INTERN Eric Stuart wash (ChemicalWashing) PICKUP Isuzu D-Max 2021 and made it CLEAN
+INTERN Eric Stuart wash (ChemicalWashing) MOTORCYCLE Cagiva 2023 (775 CC engine) and made it CLEAN
+INTERN Royalty Ryan wash (ElbowGreaseWashing) MONSTER_TRUCK Raminator 12 and made it DIRTY
+INTERN Royalty Ryan wash (ElbowGreaseWashing) MONSTER_TRUCK Raminator 12 and made it CLEAN
+INTERN Salvatore Vincent wash (ChemicalWashing) PERFORMANCE_CAR Mazda MX-5 Miata 2019 and made it CLEAN
+INTERN Salvatore Vincent wash (ChemicalWashing) PERFORMANCE_CAR Mazda MX-5 Miata 2019 and made it CLEAN
+MECHANIC Ridge Fernandez repaired BROKEN PERFORMANCE_CAR Mazda MX-5 Miata 2019 and made it USED (earned $200.00 bonus)
+MECHANIC Ridge Fernandez repaired USED PERFORMANCE_CAR Mazda MX-5 Miata 2019 and made it LIKE_NEW (earned $200.00 bonus)
+MECHANIC Kiana Wilkinson repaired BROKEN MOTORCYCLE Harley-Davidson 2016 (879 CC engine) and made it USED (earned $80.00 bonus)
+MECHANIC Kiana Wilkinson repaired USED MOTORCYCLE Harley-Davidson 2016 (879 CC engine) unsuccessfully
+MECHANIC Cade Rivers repaired USED MOTORCYCLE Harley-Davidson 2016 (879 CC engine) and made it LIKE_NEW (earned $80.00 bonus)
+MECHANIC Cade Rivers repaired USED MOTORCYCLE Cagiva 2023 (775 CC engine) and made it LIKE_NEW (earned $80.00 bonus)
+SALESPERSON Macie Chase sold CLEAN LIKE_NEW Hyundai Sonata 2018 to Buyer unsuccessfully
+SALESPERSON Amayah Case sold CLEAN LIKE_NEW Isuzu D-Max 2021 to Buyer unsuccessfully
+SALESPERSON Easton Ramos (earned $220.00 bonus) sold CLEAN LIKE_NEW (PICKUP) Isuzu D-Max 2021 to Buyer for $67071.75 + $1341.44 (RoadRescueCoverage (addOns)).
+Added sale income $68413.19 to current balance
+SALESPERSON Easton Ramos (earned $500.00 bonus) sold CLEAN LIKE_NEW (MONSTER_TRUCK) Zombie 6 to Buyer for $139766.66 + $2795.33 (RoadRescueCoverage (addOns)).
+Added sale income $142562.00 to current balance
 Total salary payout increased by $1500.00
-Total bonuses payout increased by $580.00
-MECHANIC Leonard Vincent received $120.00 (salary) and $80.00 (bonuses)
-MECHANIC Haven Person received $120.00 (salary) and $0.00 (bonuses)
-DRIVER Claire Maldonado received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Gerardo Norris received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Cash Ho received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Leroy Blair received $150.00 (salary) and $0.00 (bonuses)
-MECHANIC Fernando Alexander received $120.00 (salary) and $0.00 (bonuses)
-SALESPERSON Elaina Simpson received $150.00 (salary) and $350.00 (bonuses)
-INTERN Leonard O’Connell received $80.00 (salary) and $0.00 (bonuses)
-SALESPERSON Andrew Carroll received $150.00 (salary) and $0.00 (bonuses)
-INTERN Claire Dickson received $80.00 (salary) and $150.00 (bonuses)
-INTERN Frances Vaughn received $80.00 (salary) and $0.00 (bonuses)
+Total bonuses payout increased by $1360.00
+MECHANIC Ridge Fernandez received $120.00 (salary) and $400.00 (bonuses)
+SALESPERSON Amayah Case received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Macie Mayo received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Angie Fuller received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Samson Moody received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Kiana Wilkinson received $120.00 (salary) and $80.00 (bonuses)
+SALESPERSON Macie Chase received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Easton Ramos received $150.00 (salary) and $720.00 (bonuses)
+INTERN Eric Stuart received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Cade Rivers received $120.00 (salary) and $160.00 (bonuses)
+INTERN Royalty Ryan received $80.00 (salary) and $0.00 (bonuses)
+INTERN Salvatore Vincent received $80.00 (salary) and $0.00 (bonuses)

@@ -50,8 +50,6 @@ public abstract class Vehicle {
         // discounted initialCost after condition evaluation
         this.initialCost = calculateCost(vehicleCondition, initialCost);
         this.salePrice = calculatePrice(initialCost);
-
-        System.out.printf("\nA %s and %s %s (%s) is available in the inventory.\n", getCleanliness(), getVehicleCondition(), type, getName());
     }
 
     public String getName() {

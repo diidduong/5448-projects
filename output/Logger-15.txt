@@ -1,36 +1,36 @@
-Purchased BROKEN, DIRTY MOTORCYCLE Royal Enfield 2014 (959 CC engine) for $ 39474.98
-INTERN Maxwell Hess wash (ElbowGreaseWashing) PERFORMANCE_CAR Maserati MC20 2016 and made it DIRTY
-INTERN Maxwell Hess wash (ElbowGreaseWashing) PERFORMANCE_CAR Maserati MC20 2016 and made it DIRTY
-INTERN Logan Frazier wash (ElbowGreaseWashing) PERFORMANCE_CAR Maserati MC20 2016 and made it DIRTY
-INTERN Logan Frazier wash (ElbowGreaseWashing) PERFORMANCE_CAR Maserati MC20 2016 and made it CLEAN
-INTERN Alaia Rangel wash (DetailedWashing) PICKUP Rivian R1T 2023 and made it SPARKLING (earned 100.00 bonus)
-INTERN Alaia Rangel wash (DetailedWashing) PICKUP Ford Ranger 2022 and made it SPARKLING (earned 100.00 bonus)
-MECHANIC Leonard Vincent repaired USED PICKUP Ford Ranger 2022 and made it LIKE_NEW (earned $150.00 bonus)
-MECHANIC Leonard Vincent repaired BROKEN MOTORCYCLE Royal Enfield 2014 (959 CC engine) and made it USED (earned $80.00 bonus)
-MECHANIC Haven Person repaired USED MOTORCYCLE Royal Enfield 2014 (959 CC engine) and made it LIKE_NEW (earned $80.00 bonus)
-SALESPERSON Frances Vaughn sold CLEAN LIKE_NEW Maserati MC20 2016 to Buyer for $109863.77 without any addOns (earned $350.00 bonus)
-Added sale income $109863.77 to current balance
-SALESPERSON Frances Vaughn (earned $500.00 bonus) sold CLEAN LIKE_NEW (MONSTER_TRUCK) Predator 14 to Buyer for $178020.46 + $8901.02 (Undercoating (addOns)).
-Added sale income $186921.49 to current balance
-SALESPERSON Frances Vaughn sold SPARKLING LIKE_NEW Rivian R1T 2023 to Buyer unsuccessfully
-SALESPERSON Frances Vaughn sold SPARKLING LIKE_NEW Kia K5 2014 to Buyer unsuccessfully
-Claire Maldonado (Driver) raced with Backwards Bob 11 (MONSTER_TRUCK) and achieved rank no. 18.
-DRIVER Claire Maldonado got injured!
-Backwards Bob 11 (MONSTER_TRUCK) went BROKEN.
-Gerardo Norris (Driver) raced with Captain's Curse 5 (MONSTER_TRUCK) and achieved rank no. 1.
-Gerardo Norris (Driver) won with Captain's Curse 5 (MONSTER_TRUCK) (earned $ 1000 bonus)!
-Cash Ho (Driver) raced with Lucas Oil Crusader 1 (MONSTER_TRUCK) and achieved rank no. 17.
-Lucas Oil Crusader 1 (MONSTER_TRUCK) went BROKEN.
+Purchased USED, CLEAN PERFORMANCE_CAR Subaru BRZ 2021 for $ 46218.60
+Purchased LIKE_NEW, DIRTY ELECTRIC_CAR Volkswagen ID4 2017 (369 miles) for $ 51046.72
+Purchased BROKEN, CLEAN ELECTRIC_CAR Kia EV6 2017 (382 miles) for $ 62104.00
+INTERN Salvatore Vincent wash (ChemicalWashing) CAR Lucid Air 2019 and made it CLEAN
+INTERN Salvatore Vincent wash (ChemicalWashing) PICKUP Chevrolet Colorado ZR2 2018 and made it CLEAN
+INTERN Samson Chase wash (DetailedWashing) ELECTRIC_CAR Genesis GV60 2017 (249 miles) and made it DIRTY
+INTERN Samson Chase wash (DetailedWashing) ELECTRIC_CAR Genesis GV60 2017 (249 miles) and made it DIRTY
+INTERN Dilan Jensen wash (DetailedWashing) ELECTRIC_CAR Genesis GV60 2017 (249 miles) and made it DIRTY
+INTERN Dilan Jensen wash (DetailedWashing) ELECTRIC_CAR Genesis GV60 2017 (249 miles) and made it SPARKLING (earned 120.00 bonus)
+MECHANIC Kiana Wilkinson repaired USED PERFORMANCE_CAR Subaru BRZ 2021 and made it LIKE_NEW (earned $200.00 bonus)
+MECHANIC Kiana Wilkinson repaired BROKEN ELECTRIC_CAR Kia EV6 2017 (382 miles) and made it USED (earned $300.00 bonus)
+MECHANIC Cade Rivers repaired USED ELECTRIC_CAR Kia EV6 2017 (382 miles) and made it LIKE_NEW (earned $300.00 bonus)
+SALESPERSON Amayah Case sold DIRTY LIKE_NEW Kia EV6 2017 (482 miles) to Buyer unsuccessfully
+SALESPERSON Amayah Case (earned $300.00 bonus) sold DIRTY LIKE_NEW (ELECTRIC_CAR) Kia EV6 2017 (482 miles) to Buyer for $116445.00 + $8151.15 (RoadRescueCoverage, SatelliteRadio (addOns)).
+Added sale income $124596.15 to current balance
+SALESPERSON Macie Chase sold CLEAN LIKE_NEW Nissan Ariya 2021 (384 miles) to Buyer for $59530.87 without any addOns (earned $300.00 bonus)
+Added sale income $59530.87 to current balance
+SALESPERSON Amayah Case sold CLEAN LIKE_NEW Lucid Air 2019 to Buyer unsuccessfully
+Macie Mayo (Driver) raced with Lamborghini Countach 2012 (PERFORMANCE_CAR) and achieved rank no. 16.
+DRIVER Macie Mayo got injured!
+Lamborghini Countach 2012 (PERFORMANCE_CAR) went BROKEN.
+Angie Fuller (Driver) raced with Porsche 718 Cayman 2017 (PERFORMANCE_CAR) and achieved rank no. 8.
+Samson Moody (Driver) raced with Subaru BRZ 2021 (PERFORMANCE_CAR) and achieved rank no. 4.
 Total salary payout increased by $1350.00
-Total bonuses payout increased by $2360.00
-MECHANIC Leonard Vincent received $120.00 (salary) and $230.00 (bonuses)
-MECHANIC Haven Person received $120.00 (salary) and $80.00 (bonuses)
-DRIVER Gerardo Norris received $150.00 (salary) and $1000.00 (bonuses)
-DRIVER Cash Ho received $150.00 (salary) and $0.00 (bonuses)
-MECHANIC Fernando Alexander received $120.00 (salary) and $0.00 (bonuses)
-SALESPERSON Elaina Simpson received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Andrew Carroll received $150.00 (salary) and $0.00 (bonuses)
-INTERN Maxwell Hess received $80.00 (salary) and $0.00 (bonuses)
-INTERN Logan Frazier received $80.00 (salary) and $0.00 (bonuses)
-SALESPERSON Frances Vaughn received $150.00 (salary) and $850.00 (bonuses)
-INTERN Alaia Rangel received $80.00 (salary) and $200.00 (bonuses)
+Total bonuses payout increased by $1520.00
+SALESPERSON Amayah Case received $150.00 (salary) and $300.00 (bonuses)
+DRIVER Angie Fuller received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Samson Moody received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Kiana Wilkinson received $120.00 (salary) and $500.00 (bonuses)
+SALESPERSON Macie Chase received $150.00 (salary) and $300.00 (bonuses)
+SALESPERSON Easton Ramos received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Cade Rivers received $120.00 (salary) and $300.00 (bonuses)
+INTERN Salvatore Vincent received $80.00 (salary) and $0.00 (bonuses)
+INTERN Samson Chase received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Royalty Ryan received $120.00 (salary) and $0.00 (bonuses)
+INTERN Dilan Jensen received $80.00 (salary) and $120.00 (bonuses)

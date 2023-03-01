@@ -1,22 +1,26 @@
-Purchased BROKEN, DIRTY PICKUP Ford Maverick 2011 for $ 77533.93
-INTERN Maxwell Hess wash (ElbowGreaseWashing) MONSTER_TRUCK Backwards Bob 11 and made it CLEAN
-INTERN Maxwell Hess wash (ElbowGreaseWashing) MONSTER_TRUCK Lucas Oil Crusader 1 and made it CLEAN
-INTERN Logan Frazier wash (ElbowGreaseWashing) PERFORMANCE_CAR Porsche 718 Boxster 2018 and made it CLEAN
-INTERN Logan Frazier wash (ElbowGreaseWashing) PICKUP Ford Maverick 2011 and made it CLEAN
-INTERN Alaia Rangel wash (DetailedWashing) MOTORCYCLE Cagiva 2017 (618 CC engine) and made it CLEAN
-INTERN Alaia Rangel wash (DetailedWashing) MOTORCYCLE Cagiva 2017 (618 CC engine) and made it CLEAN
-SALESPERSON Elaina Simpson sold SPARKLING LIKE_NEW Kia K5 2014 to Buyer unsuccessfully
+INTERN Salvatore Vincent wash (ChemicalWashing) PERFORMANCE_CAR Lamborghini Countach 2012 and made it DIRTY
+INTERN Salvatore Vincent wash (ChemicalWashing) PERFORMANCE_CAR Lamborghini Countach 2012 and made it CLEAN
+INTERN Samson Chase wash (DetailedWashing) ELECTRIC_CAR Tesla Model 3 2013 (359 miles) and made it CLEAN
+INTERN Samson Chase wash (DetailedWashing) PERFORMANCE_CAR Lamborghini Countach 2012 and made it CLEAN
+INTERN Dilan Jensen wash (DetailedWashing) PERFORMANCE_CAR Lamborghini Countach 2012 and made it CLEAN
+INTERN Dilan Jensen wash (DetailedWashing) PERFORMANCE_CAR Lamborghini Countach 2012 and made it SPARKLING (earned 75.00 bonus)
+MECHANIC Kiana Wilkinson repaired BROKEN PERFORMANCE_CAR Lamborghini Countach 2012 and made it USED (earned $200.00 bonus)
+MECHANIC Kiana Wilkinson repaired USED PERFORMANCE_CAR Lamborghini Countach 2012 and made it LIKE_NEW (earned $200.00 bonus)
+SALESPERSON Amayah Case sold CLEAN LIKE_NEW Lucid Air 2019 to Buyer unsuccessfully
+SALESPERSON Easton Ramos (earned $160.00 bonus) sold CLEAN LIKE_NEW (CAR) Lucid Air 2019 to Buyer for $65651.40 + $4595.60 (RoadRescueCoverage, SatelliteRadio (addOns)).
+Added sale income $70247.00 to current balance
+SALESPERSON Easton Ramos sold CLEAN LIKE_NEW Lucas Oil Crusader 4 to Buyer unsuccessfully
 Total salary payout increased by $1500.00
-Total bonuses payout increased by $0.00
-MECHANIC Leonard Vincent received $120.00 (salary) and $0.00 (bonuses)
-MECHANIC Haven Person received $120.00 (salary) and $0.00 (bonuses)
-DRIVER Gerardo Norris received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Cash Ho received $150.00 (salary) and $0.00 (bonuses)
-MECHANIC Fernando Alexander received $120.00 (salary) and $0.00 (bonuses)
-SALESPERSON Elaina Simpson received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Andrew Carroll received $150.00 (salary) and $0.00 (bonuses)
-INTERN Maxwell Hess received $80.00 (salary) and $0.00 (bonuses)
-INTERN Logan Frazier received $80.00 (salary) and $0.00 (bonuses)
-SALESPERSON Frances Vaughn received $150.00 (salary) and $0.00 (bonuses)
-INTERN Alaia Rangel received $80.00 (salary) and $0.00 (bonuses)
-DRIVER Harry O’brien received $150.00 (salary) and $0.00 (bonuses)
+Total bonuses payout increased by $635.00
+SALESPERSON Amayah Case received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Angie Fuller received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Samson Moody received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Kiana Wilkinson received $120.00 (salary) and $400.00 (bonuses)
+SALESPERSON Macie Chase received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Easton Ramos received $150.00 (salary) and $160.00 (bonuses)
+MECHANIC Cade Rivers received $120.00 (salary) and $0.00 (bonuses)
+INTERN Salvatore Vincent received $80.00 (salary) and $0.00 (bonuses)
+INTERN Samson Chase received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Royalty Ryan received $120.00 (salary) and $0.00 (bonuses)
+INTERN Dilan Jensen received $80.00 (salary) and $75.00 (bonuses)
+DRIVER Macie Cardenas received $150.00 (salary) and $0.00 (bonuses)

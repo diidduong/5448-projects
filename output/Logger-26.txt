@@ -1,29 +1,36 @@
-Purchased BROKEN, DIRTY CAR Chevrolet Bolt 2021 for $ 23805.79
-INTERN Alaia Rangel wash (DetailedWashing) CAR Chevrolet Bolt 2021 and made it SPARKLING (earned 50.00 bonus)
-INTERN Alaia Rangel wash (DetailedWashing) CAR Mitsubishi Eclipse 2014 and made it CLEAN
-INTERN Rhett Hayden wash (ElbowGreaseWashing) CAR Mitsubishi Eclipse 2014 and made it SPARKLING (earned 50.00 bonus)
-INTERN Rhett Hayden wash (ElbowGreaseWashing) MOTORCYCLE Yamaha 2019 (909 CC engine) and made it CLEAN
-INTERN Ariyah Fleming wash (ElbowGreaseWashing) MOTORCYCLE Yamaha 2019 (909 CC engine) and made it CLEAN
-INTERN Ariyah Fleming wash (ElbowGreaseWashing) MOTORCYCLE Yamaha 2019 (909 CC engine) and made it CLEAN
-MECHANIC Haven Person repaired BROKEN CAR Chevrolet Bolt 2021 unsuccessfully
-MECHANIC Haven Person repaired BROKEN CAR Chevrolet Bolt 2021 unsuccessfully
-MECHANIC Fernando Alexander repaired BROKEN CAR Chevrolet Bolt 2021 and made it USED (earned $100.00 bonus)
-MECHANIC Fernando Alexander repaired USED CAR Chevrolet Bolt 2021 and made it LIKE_NEW (earned $100.00 bonus)
-SALESPERSON Andrew Carroll sold CLEAN LIKE_NEW Ducati 2016 (983 CC engine) to Buyer unsuccessfully
-SALESPERSON Frances Vaughn sold CLEAN LIKE_NEW Ducati 2016 (983 CC engine) to Buyer unsuccessfully
-SALESPERSON Andrew Carroll sold CLEAN LIKE_NEW Chevrolet Silverado 1500 2014 to Buyer for $129346.54 without any addOns (earned $220.00 bonus)
-Added sale income $129346.54 to current balance
+Purchased USED, CLEAN PERFORMANCE_CAR Dodge Viper 2016 for $ 66298.86
+Purchased USED, DIRTY CAR Mazda3 2014 for $ 24033.49
+Purchased USED, CLEAN PICKUP Honda Ridgeline 2018 for $ 60785.35
+INTERN Aurora Smith wash (ElbowGreaseWashing) CAR Mazda3 2014 and made it CLEAN
+INTERN Aurora Smith wash (ElbowGreaseWashing) PICKUP Mahindra Bolero Camper 2012 and made it SPARKLING (earned 100.00 bonus)
+INTERN Tiffany Maldonado wash (ElbowGreaseWashing) PICKUP Toyota Hilux 2020 and made it DIRTY
+INTERN Tiffany Maldonado wash (ElbowGreaseWashing) PICKUP Toyota Hilux 2020 and made it CLEAN
+INTERN Anaya Giles wash (ChemicalWashing) PICKUP Toyota Hilux 2020 and made it CLEAN
+INTERN Anaya Giles wash (ChemicalWashing) PICKUP Toyota Hilux 2020 and made it SPARKLING (earned 100.00 bonus)
+MECHANIC Kiana Wilkinson repaired BROKEN PERFORMANCE_CAR Porsche 718 Cayman 2017 unsuccessfully
+MECHANIC Kiana Wilkinson repaired BROKEN PERFORMANCE_CAR Porsche 718 Cayman 2017 and made it USED (earned $200.00 bonus)
+MECHANIC Cade Rivers repaired USED PERFORMANCE_CAR Porsche 718 Cayman 2017 unsuccessfully
+MECHANIC Cade Rivers repaired USED PERFORMANCE_CAR Porsche 718 Cayman 2017 and made it LIKE_NEW (earned $200.00 bonus)
+MECHANIC Royalty Ryan repaired USED PERFORMANCE_CAR Dodge Viper 2016 and made it LIKE_NEW (earned $200.00 bonus)
+MECHANIC Royalty Ryan repaired USED CAR Mazda3 2014 and made it LIKE_NEW (earned $100.00 bonus)
+SALESPERSON Easton Ramos sold DIRTY LIKE_NEW Porsche 718 Cayman 2017 to Buyer unsuccessfully
+SALESPERSON Easton Ramos (earned $160.00 bonus) sold SPARKLING LIKE_NEW (CAR) Toyota Corolla 2016 to Buyer for $32411.38 + $2268.80 (RoadRescueCoverage, SatelliteRadio (addOns)).
+Added sale income $34680.18 to current balance
+SALESPERSON Salvatore Vincent sold CLEAN LIKE_NEW Volkswagen ID4 2023 (179 miles) to Buyer unsuccessfully
+SALESPERSON Easton Ramos (earned $220.00 bonus) sold CLEAN LIKE_NEW (PICKUP) Chevrolet Colorado ZR2 2013 to Buyer for $71453.42 + $1429.07 (RoadRescueCoverage (addOns)).
+Added sale income $72882.49 to current balance
+SALESPERSON Easton Ramos sold CLEAN LIKE_NEW Bigfoot 12 to Buyer unsuccessfully
 Total salary payout increased by $1500.00
-Total bonuses payout increased by $520.00
-MECHANIC Haven Person received $120.00 (salary) and $0.00 (bonuses)
-DRIVER Gerardo Norris received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Cash Ho received $150.00 (salary) and $0.00 (bonuses)
-MECHANIC Fernando Alexander received $120.00 (salary) and $200.00 (bonuses)
-SALESPERSON Elaina Simpson received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Andrew Carroll received $150.00 (salary) and $220.00 (bonuses)
-SALESPERSON Frances Vaughn received $150.00 (salary) and $0.00 (bonuses)
-INTERN Alaia Rangel received $80.00 (salary) and $50.00 (bonuses)
-DRIVER Harry O’brien received $150.00 (salary) and $0.00 (bonuses)
-MECHANIC Logan Frazier received $120.00 (salary) and $0.00 (bonuses)
-INTERN Rhett Hayden received $80.00 (salary) and $50.00 (bonuses)
-INTERN Ariyah Fleming received $80.00 (salary) and $0.00 (bonuses)
+Total bonuses payout increased by $1280.00
+DRIVER Samson Moody received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Kiana Wilkinson received $120.00 (salary) and $200.00 (bonuses)
+SALESPERSON Macie Chase received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Easton Ramos received $150.00 (salary) and $380.00 (bonuses)
+MECHANIC Cade Rivers received $120.00 (salary) and $200.00 (bonuses)
+MECHANIC Royalty Ryan received $120.00 (salary) and $300.00 (bonuses)
+DRIVER Riley Frazier received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Salvatore Vincent received $150.00 (salary) and $0.00 (bonuses)
+INTERN Aurora Smith received $80.00 (salary) and $100.00 (bonuses)
+INTERN Tiffany Maldonado received $80.00 (salary) and $0.00 (bonuses)
+INTERN Anaya Giles received $80.00 (salary) and $100.00 (bonuses)
+DRIVER Charlee Benton received $150.00 (salary) and $0.00 (bonuses)

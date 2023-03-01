@@ -1,29 +1,26 @@
-Purchased LIKE_NEW, DIRTY CAR Mitsubishi Eclipse 2014 for $ 32352.69
-Purchased LIKE_NEW, DIRTY MOTORCYCLE Ducati 2023 (407 CC engine) for $ 43584.78
-INTERN Frances Vaughn wash (DetailedWashing) CAR Mitsubishi Eclipse 2014 and made it CLEAN
-INTERN Frances Vaughn wash (DetailedWashing) MOTORCYCLE Ducati 2023 (407 CC engine) and made it SPARKLING (earned 25.00 bonus)
-INTERN Maxwell Hess wash (ElbowGreaseWashing) CAR Kia K5 2014 and made it CLEAN
-INTERN Maxwell Hess wash (ElbowGreaseWashing) CAR Kia K5 2014 and made it SPARKLING (earned 50.00 bonus)
-INTERN Logan Frazier wash (ElbowGreaseWashing) PICKUP GMC Hummer EV 2016 and made it SPARKLING (earned 100.00 bonus)
-INTERN Logan Frazier wash (ElbowGreaseWashing) PICKUP Ford Velociraptor 6×6 2011 and made it SPARKLING (earned 100.00 bonus)
-MECHANIC Leonard Vincent repaired BROKEN MOTORCYCLE Kawasaki 2013 (393 CC engine) and made it USED (earned $80.00 bonus)
-MECHANIC Leonard Vincent repaired USED MOTORCYCLE Kawasaki 2013 (393 CC engine) unsuccessfully
-MECHANIC Haven Person repaired USED MOTORCYCLE Kawasaki 2013 (393 CC engine) and made it LIKE_NEW (earned $80.00 bonus)
-SALESPERSON Leroy Blair (earned $150.00 bonus) sold DIRTY LIKE_NEW (MOTORCYCLE) Kawasaki 2013 (393 CC engine) to Buyer for $73832.30 + $18458.08 (ExtendedWarranty, SatelliteRadio (addOns)).
-Added sale income $92290.38 to current balance
-SALESPERSON Andrew Carroll sold CLEAN LIKE_NEW Rivian R1T 2013 to Buyer for $61598.46 without any addOns (earned $220.00 bonus)
-Added sale income $61598.46 to current balance
+Purchased BROKEN, DIRTY PICKUP Dodge Ram 1500 TRX 2016 for $ 28024.34
+Purchased USED, DIRTY MONSTER_TRUCK Swamp Thing 2 for $ 87538.48
+INTERN Salvatore Vincent wash (ChemicalWashing) PICKUP Dodge Ram 1500 TRX 2016 and made it CLEAN
+INTERN Salvatore Vincent wash (ChemicalWashing) MONSTER_TRUCK Swamp Thing 2 and made it DIRTY
+INTERN Samson Chase wash (DetailedWashing) MONSTER_TRUCK Swamp Thing 2 and made it DIRTY
+INTERN Samson Chase wash (DetailedWashing) MONSTER_TRUCK Swamp Thing 2 and made it DIRTY
+INTERN Dilan Jensen wash (DetailedWashing) MONSTER_TRUCK Swamp Thing 2 and made it DIRTY
+INTERN Dilan Jensen wash (DetailedWashing) MONSTER_TRUCK Swamp Thing 2 and made it CLEAN
+MECHANIC Kiana Wilkinson repaired BROKEN PICKUP Dodge Ram 1500 TRX 2016 and made it USED (earned $150.00 bonus)
+MECHANIC Kiana Wilkinson repaired USED PICKUP Dodge Ram 1500 TRX 2016 and made it LIKE_NEW (earned $150.00 bonus)
+MECHANIC Cade Rivers repaired USED MONSTER_TRUCK Swamp Thing 2 and made it LIKE_NEW (earned $500.00 bonus)
+SALESPERSON Amayah Case sold CLEAN LIKE_NEW Lucas Oil Crusader 4 to Buyer unsuccessfully
 Total salary payout increased by $1500.00
-Total bonuses payout increased by $805.00
-MECHANIC Leonard Vincent received $120.00 (salary) and $80.00 (bonuses)
-MECHANIC Haven Person received $120.00 (salary) and $80.00 (bonuses)
-DRIVER Claire Maldonado received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Gerardo Norris received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Cash Ho received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Leroy Blair received $150.00 (salary) and $150.00 (bonuses)
-MECHANIC Fernando Alexander received $120.00 (salary) and $0.00 (bonuses)
-SALESPERSON Elaina Simpson received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Andrew Carroll received $150.00 (salary) and $220.00 (bonuses)
-INTERN Frances Vaughn received $80.00 (salary) and $25.00 (bonuses)
-INTERN Maxwell Hess received $80.00 (salary) and $50.00 (bonuses)
-INTERN Logan Frazier received $80.00 (salary) and $200.00 (bonuses)
+Total bonuses payout increased by $800.00
+SALESPERSON Amayah Case received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Macie Mayo received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Angie Fuller received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Samson Moody received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Kiana Wilkinson received $120.00 (salary) and $300.00 (bonuses)
+SALESPERSON Macie Chase received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Easton Ramos received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Cade Rivers received $120.00 (salary) and $500.00 (bonuses)
+INTERN Salvatore Vincent received $80.00 (salary) and $0.00 (bonuses)
+INTERN Samson Chase received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Royalty Ryan received $120.00 (salary) and $0.00 (bonuses)
+INTERN Dilan Jensen received $80.00 (salary) and $0.00 (bonuses)
