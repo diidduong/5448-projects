@@ -6,12 +6,8 @@ import vehicle.Vehicle;
  * The abstract class for the decorator pattern.
  * @author Duy Duong, Ahmed.H.Biby
  */
-public class SaleAddOn {
-    public enum AddOnType{
-        UNDER_COATING, EXTENDED_WARRANTY, ROAD_RESCUE_COVERAGE, SATELLITE_RADIO
-    }
-
-    private AddOnType addOn;
+public class SaleAddOn extends Sale {
+    private Sale.AddOnType addOn;
 
     public double getAddOnPrice() {
         return addOnPrice;
@@ -23,15 +19,15 @@ public class SaleAddOn {
 
     private double addOnPrice;
 
-    public AddOnType getAddOn() {
+    public Sale.AddOnType getAddOn() {
         return addOn;
     }
 
-    public void setAddOn(AddOnType addOn) {
+    public void setAddOn(Sale.AddOnType addOn) {
         this.addOn = addOn;
     }
 
-    public SaleAddOn(Vehicle vehicle, AddOnType addOnType){
+    public SaleAddOn(Vehicle vehicle, Sale.AddOnType addOnType){
         addAddOnPrice(vehicle, addOnType);
     }
 
@@ -40,7 +36,8 @@ public class SaleAddOn {
      * @param vehicle current vehicle for sale
      * @param addOnType addon type
      */
-    public void addAddOnPrice(Vehicle vehicle, AddOnType addOnType) {
+    @Override
+    public void addAddOnPrice(Vehicle vehicle, Sale.AddOnType addOnType) {
         switch (addOnType){
             case UNDER_COATING:
                 setAddOnPrice(vehicle.getSalePrice() * 0.05);

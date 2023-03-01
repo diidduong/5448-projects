@@ -1,34 +1,35 @@
-Purchased BROKEN, CLEAN PERFORMANCE_CAR Porsche 718 Cayman 2017 for $ 43557.79
-Purchased BROKEN, SPARKLING MONSTER_TRUCK Zombie 6 for $ 74542.22
-INTERN Eric Stuart wash (ChemicalWashing) PICKUP Rivian R1T 2013 and made it DIRTY
-INTERN Eric Stuart wash (ChemicalWashing) PICKUP Rivian R1T 2013 and made it CLEAN
-INTERN Royalty Ryan wash (ElbowGreaseWashing) ELECTRIC_CAR Hyundai Kona Electric 2013 (444 miles) and made it DIRTY
-INTERN Royalty Ryan wash (ElbowGreaseWashing) ELECTRIC_CAR Hyundai Kona Electric 2013 (444 miles) and made it DIRTY
-INTERN Salvatore Vincent wash (ChemicalWashing) ELECTRIC_CAR Hyundai Kona Electric 2013 (444 miles) and made it CLEAN
-INTERN Salvatore Vincent wash (ChemicalWashing) PERFORMANCE_CAR Mazda MX-5 Miata 2019 and made it CLEAN
-MECHANIC Ridge Fernandez repaired BROKEN PERFORMANCE_CAR Porsche 718 Cayman 2017 and made it USED (earned $200.00 bonus)
-MECHANIC Ridge Fernandez repaired USED PERFORMANCE_CAR Porsche 718 Cayman 2017 and made it LIKE_NEW (earned $200.00 bonus)
-MECHANIC Kiana Wilkinson repaired BROKEN MONSTER_TRUCK Zombie 6 and made it USED (earned $500.00 bonus)
-MECHANIC Kiana Wilkinson repaired USED MONSTER_TRUCK Zombie 6 and made it LIKE_NEW (earned $500.00 bonus)
-SALESPERSON Easton Ramos sold CLEAN LIKE_NEW Hyundai Sonata 2018 to Buyer unsuccessfully
-SALESPERSON Amayah Case sold CLEAN LIKE_NEW Rivian R1T 2013 to Buyer unsuccessfully
-SALESPERSON Macie Chase sold DIRTY LIKE_NEW Porsche 718 Cayman 2017 to Buyer unsuccessfully
-SALESPERSON Macie Chase (earned $300.00 bonus) sold CLEAN LIKE_NEW (ELECTRIC_CAR) Volvo XC40 Recharge 2013 (170 miles) to Buyer for $89767.29 + $6283.71 (RoadRescueCoverage, SatelliteRadio (addOns)).
-Added sale income $96051.00 to current balance
-SALESPERSON Amayah Case sold CLEAN LIKE_NEW Rivian R1T 2013 to Buyer unsuccessfully
-SALESPERSON Macie Chase (earned $220.00 bonus) sold CLEAN LIKE_NEW (PICKUP) Rivian R1T 2013 to Buyer for $80539.15 + $1610.78 (RoadRescueCoverage (addOns)).
-Added sale income $82149.93 to current balance
+Purchased LIKE_NEW, DIRTY PERFORMANCE_CAR Lamborghini Countach 2015 for $ 44777.30
+Purchased USED, DIRTY PERFORMANCE_CAR Acura NSX 2017 for $ 54520.72
+Purchased USED, DIRTY ELECTRIC_CAR Mercedes-Benz EQS-Class 2021 (177 miles) for $ 63551.35
+Purchased USED, DIRTY MOTORCYCLE Norton 2020 (560 CC engine) for $ 23848.51
+Purchased LIKE_NEW, DIRTY MOTORCYCLE Victory 2022 (1130 CC engine) for $ 22040.83
+INTERN Kiana Person wash (ChemicalWashing) MONSTER_TRUCK Grinder 3 and made it CLEAN
+INTERN Kiana Person wash (ChemicalWashing) MONSTER_TRUCK Mohawk Warrior 5 and made it CLEAN
+INTERN Elaine Spence wash (ChemicalWashing) PERFORMANCE_CAR Ford Mustang Shelby GT500 2022 and made it CLEAN
+INTERN Elaine Spence wash (ChemicalWashing) CAR Honda Odyssey 2020 and made it CLEAN
+INTERN Moses Petersen wash (ElbowGreaseWashing) PERFORMANCE_CAR Lamborghini Countach 2015 and made it CLEAN
+INTERN Moses Petersen wash (ElbowGreaseWashing) PERFORMANCE_CAR Acura NSX 2017 and made it CLEAN
+MECHANIC Kingston Vo repaired BROKEN PERFORMANCE_CAR Ford Mustang Shelby GT500 2022 and made it USED (earned $200.00 bonus)
+MECHANIC Kingston Vo repaired USED PERFORMANCE_CAR Ford Mustang Shelby GT500 2022 and made it LIKE_NEW (earned $200.00 bonus)
+MECHANIC Jaycee Faulkner repaired BROKEN CAR Honda Odyssey 2020 unsuccessfully
+MECHANIC Jaycee Faulkner repaired BROKEN CAR Honda Odyssey 2020 and made it USED (earned $100.00 bonus)
+MECHANIC Harry Smith repaired USED CAR Honda Odyssey 2020 and made it LIKE_NEW (earned $100.00 bonus)
+MECHANIC Harry Smith repaired USED PERFORMANCE_CAR Acura NSX 2017 and made it LIKE_NEW (earned $200.00 bonus)
+SALESPERSON Aurora Graham (earned $300.00 bonus) sold CLEAN LIKE_NEW (ELECTRIC_CAR) Audi E-Tron Sportback 2011 (190 miles) to Buyer for $84737.55 + $18642.26 (ExtendedWarranty, RoadRescueCoverage (addOns)).
+Added sale income $103379.82 to current balance
+SALESPERSON Louis Galindo (earned $500.00 bonus) sold CLEAN LIKE_NEW (MONSTER_TRUCK) Grinder 3 to Buyer for $152629.01 + $38157.25 (ExtendedWarranty, SatelliteRadio (addOns)).
+Added sale income $190786.26 to current balance
 Total salary payout increased by $1500.00
-Total bonuses payout increased by $1920.00
-MECHANIC Ridge Fernandez received $120.00 (salary) and $400.00 (bonuses)
-SALESPERSON Amayah Case received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Macie Mayo received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Angie Fuller received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Samson Moody received $150.00 (salary) and $0.00 (bonuses)
-MECHANIC Kiana Wilkinson received $120.00 (salary) and $1000.00 (bonuses)
-SALESPERSON Macie Chase received $150.00 (salary) and $520.00 (bonuses)
-SALESPERSON Easton Ramos received $150.00 (salary) and $0.00 (bonuses)
-INTERN Eric Stuart received $80.00 (salary) and $0.00 (bonuses)
-MECHANIC Cade Rivers received $120.00 (salary) and $0.00 (bonuses)
-INTERN Royalty Ryan received $80.00 (salary) and $0.00 (bonuses)
-INTERN Salvatore Vincent received $80.00 (salary) and $0.00 (bonuses)
+Total bonuses payout increased by $1600.00
+INTERN Kiana Person received $80.00 (salary) and $0.00 (bonuses)
+INTERN Elaine Spence received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Kingston Vo received $120.00 (salary) and $400.00 (bonuses)
+MECHANIC Jaycee Faulkner received $120.00 (salary) and $100.00 (bonuses)
+MECHANIC Harry Smith received $120.00 (salary) and $300.00 (bonuses)
+SALESPERSON Aurora Graham received $150.00 (salary) and $300.00 (bonuses)
+SALESPERSON Louis Galindo received $150.00 (salary) and $500.00 (bonuses)
+DRIVER Lewis Dickson received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Louis Barry received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Calliope Maldonado received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Jovanni Lester received $150.00 (salary) and $0.00 (bonuses)
+INTERN Moses Petersen received $80.00 (salary) and $0.00 (bonuses)

@@ -1,29 +1,30 @@
-Purchased USED, CLEAN PICKUP Toyota Tacoma TRD Pro 2018 for $ 46220.56
-INTERN Macie Chase wash (ElbowGreaseWashing) PERFORMANCE_CAR Lamborghini Countach 2012 and made it CLEAN
-INTERN Macie Chase wash (ElbowGreaseWashing) PERFORMANCE_CAR Porsche 911 2011 and made it CLEAN
-INTERN Easton Ramos wash (ElbowGreaseWashing) CAR Honda Odyssey 2013 and made it DIRTY
-INTERN Easton Ramos wash (ElbowGreaseWashing) CAR Honda Odyssey 2013 and made it CLEAN
-INTERN Kaliyah Chase wash (ElbowGreaseWashing) PICKUP Toyota Hilux 2020 and made it CLEAN
-INTERN Kaliyah Chase wash (ElbowGreaseWashing) ELECTRIC_CAR Subaru Solterra 2022 (86 miles) and made it CLEAN
-MECHANIC Easton Meyer repaired BROKEN CAR Lucid Air 2015 and made it USED (earned $100.00 bonus)
-MECHANIC Easton Meyer repaired USED CAR Lucid Air 2015 and made it LIKE_NEW (earned $100.00 bonus)
-MECHANIC Ridge Fernandez repaired USED CAR BMW i4 2022 and made it LIKE_NEW (earned $100.00 bonus)
-MECHANIC Ridge Fernandez repaired USED ELECTRIC_CAR Subaru Solterra 2022 (86 miles) and made it LIKE_NEW (earned $300.00 bonus)
-MECHANIC Kiana Wilkinson repaired BROKEN ELECTRIC_CAR Volvo XC40 Recharge 2013 (70 miles) and made it USED (earned $300.00 bonus)
-MECHANIC Kiana Wilkinson repaired USED ELECTRIC_CAR Volvo XC40 Recharge 2013 (70 miles) and made it LIKE_NEW (earned $300.00 bonus)
-SALESPERSON Emery Moody (earned $160.00 bonus) sold DIRTY LIKE_NEW (CAR) Lucid Air 2015 to Buyer for $40726.12 + $12217.84 (ExtendedWarranty, Undercoating, SatelliteRadio (addOns)).
-Added sale income $52943.96 to current balance
+Purchased BROKEN, DIRTY ELECTRIC_CAR Volvo XC40 Recharge 2017 (309 miles) for $ 67756.59
+INTERN Jovanni Lester wash (ChemicalWashing) PERFORMANCE_CAR Nissan Z-Car 2022 and made it CLEAN
+INTERN Jovanni Lester wash (ChemicalWashing) PERFORMANCE_CAR Subaru BRZ 2018 and made it SPARKLING (earned 75.00 bonus)
+INTERN Kiana Person wash (ChemicalWashing) PERFORMANCE_CAR McLaren 720S 2013 and made it SPARKLING (earned 75.00 bonus)
+INTERN Kiana Person wash (ChemicalWashing) CAR Mitsubishi Eclipse 2019 and made it CLEAN
+INTERN Elaine Spence wash (ChemicalWashing) CAR Toyota Corolla 2021 and made it DIRTY
+INTERN Elaine Spence wash (ChemicalWashing) CAR Toyota Corolla 2021 and made it CLEAN
+MECHANIC Kingston Vo repaired USED CAR Nissan Sunny 2015 unsuccessfully
+MECHANIC Kingston Vo repaired USED CAR Nissan Sunny 2015 unsuccessfully
+MECHANIC Jaycee Faulkner repaired USED CAR Nissan Sunny 2015 and made it LIKE_NEW (earned $100.00 bonus)
+MECHANIC Jaycee Faulkner repaired BROKEN CAR Toyota Corolla 2021 unsuccessfully
+MECHANIC Harry Smith repaired BROKEN CAR Toyota Corolla 2021 and made it USED (earned $100.00 bonus)
+MECHANIC Harry Smith repaired USED CAR Toyota Corolla 2021 unsuccessfully
+SALESPERSON Keyla Frazier sold CLEAN LIKE_NEW Nissan Z-Car 2022 to Buyer unsuccessfully
+SALESPERSON Aurora Graham sold DIRTY USED Audi E-Tron Sportback 2011 (90 miles) to Buyer unsuccessfully
+SALESPERSON Keyla Frazier sold DIRTY USED Audi E-Tron Sportback 2011 (90 miles) to Buyer unsuccessfully
 Total salary payout increased by $1500.00
-Total bonuses payout increased by $1360.00
-INTERN Macie Chase received $80.00 (salary) and $0.00 (bonuses)
-INTERN Easton Ramos received $80.00 (salary) and $0.00 (bonuses)
-MECHANIC Easton Meyer received $120.00 (salary) and $200.00 (bonuses)
-MECHANIC Ridge Fernandez received $120.00 (salary) and $400.00 (bonuses)
-SALESPERSON Kingston Stuart received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Emery Moody received $150.00 (salary) and $160.00 (bonuses)
-SALESPERSON Amayah Case received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Macie Mayo received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Angie Fuller received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Samson Moody received $150.00 (salary) and $0.00 (bonuses)
-MECHANIC Kiana Wilkinson received $120.00 (salary) and $600.00 (bonuses)
-INTERN Kaliyah Chase received $80.00 (salary) and $0.00 (bonuses)
+Total bonuses payout increased by $350.00
+INTERN Jovanni Lester received $80.00 (salary) and $75.00 (bonuses)
+INTERN Kiana Person received $80.00 (salary) and $75.00 (bonuses)
+INTERN Elaine Spence received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Kingston Vo received $120.00 (salary) and $0.00 (bonuses)
+MECHANIC Jaycee Faulkner received $120.00 (salary) and $100.00 (bonuses)
+MECHANIC Harry Smith received $120.00 (salary) and $100.00 (bonuses)
+SALESPERSON Keyla Frazier received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Aurora Graham received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Louis Galindo received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Lewis Dickson received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Louis Barry received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Calliope Maldonado received $150.00 (salary) and $0.00 (bonuses)

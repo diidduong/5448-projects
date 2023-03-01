@@ -1,32 +1,34 @@
-Purchased BROKEN, CLEAN CAR Dodge Charger 2014 for $ 20395.05
-Purchased BROKEN, DIRTY PICKUP Ford Ranger 2023 for $ 59406.55
-Purchased USED, CLEAN MONSTER_TRUCK Batman 7 for $ 96868.53
-INTERN Dilan Jensen wash (DetailedWashing) PICKUP Ford Ranger 2023 and made it DIRTY
-INTERN Dilan Jensen wash (DetailedWashing) PICKUP Ford Ranger 2023 and made it CLEAN
-INTERN Aurora Smith wash (ElbowGreaseWashing) PICKUP Mahindra Bolero Camper 2012 and made it DIRTY
-INTERN Aurora Smith wash (ElbowGreaseWashing) PICKUP Mahindra Bolero Camper 2012 and made it CLEAN
-INTERN Tiffany Maldonado wash (ElbowGreaseWashing) PICKUP Mahindra Bolero Camper 2012 and made it DIRTY
-INTERN Tiffany Maldonado wash (ElbowGreaseWashing) PICKUP Mahindra Bolero Camper 2012 and made it CLEAN
-MECHANIC Kiana Wilkinson repaired BROKEN CAR Dodge Charger 2014 and made it USED (earned $100.00 bonus)
-MECHANIC Kiana Wilkinson repaired USED CAR Dodge Charger 2014 and made it LIKE_NEW (earned $100.00 bonus)
-MECHANIC Cade Rivers repaired BROKEN PICKUP Ford Ranger 2023 and made it USED (earned $150.00 bonus)
-MECHANIC Cade Rivers repaired USED PICKUP Ford Ranger 2023 and made it LIKE_NEW (earned $150.00 bonus)
-MECHANIC Royalty Ryan repaired USED MONSTER_TRUCK Batman 7 and made it LIKE_NEW (earned $500.00 bonus)
-SALESPERSON Salvatore Vincent (earned $500.00 bonus) sold DIRTY LIKE_NEW (MONSTER_TRUCK) Batman 7 to Buyer for $121085.67 + $26638.85 (ExtendedWarranty, RoadRescueCoverage (addOns)).
-Added sale income $147724.51 to current balance
-SALESPERSON Macie Chase sold CLEAN LIKE_NEW Bigfoot 12 to Buyer unsuccessfully
-SALESPERSON Easton Ramos sold DIRTY LIKE_NEW Ford Ranger 2023 to Buyer unsuccessfully
+Purchased USED, SPARKLING MONSTER_TRUCK Batman 1 for $ 89674.90
+INTERN Gordon Blair wash (ElbowGreaseWashing) ELECTRIC_CAR Lucid Air 2011 (377 miles) and made it SPARKLING (earned 120.00 bonus)
+INTERN Gordon Blair wash (ElbowGreaseWashing) ELECTRIC_CAR Kia EV6 2012 (226 miles) and made it DIRTY
+INTERN Tiffany Jimenez wash (ChemicalWashing) ELECTRIC_CAR Kia EV6 2012 (226 miles) and made it CLEAN
+INTERN Tiffany Jimenez wash (ChemicalWashing) MONSTER_TRUCK Grave Digger 2 and made it CLEAN
+INTERN Calliope Hess wash (ChemicalWashing) MONSTER_TRUCK Grave Digger 2 and made it CLEAN
+INTERN Calliope Hess wash (ChemicalWashing) MONSTER_TRUCK Grave Digger 2 and made it CLEAN
+MECHANIC Kyng Person repaired BROKEN MONSTER_TRUCK Grave Digger 2 unsuccessfully
+MECHANIC Kyng Person repaired BROKEN MONSTER_TRUCK Grave Digger 2 unsuccessfully
+MECHANIC Tiffany Lester repaired BROKEN MONSTER_TRUCK Grave Digger 2 unsuccessfully
+MECHANIC Tiffany Lester repaired BROKEN MONSTER_TRUCK Grave Digger 2 and made it USED (earned $500.00 bonus)
+MECHANIC Kingston Faulkner repaired USED MONSTER_TRUCK Grave Digger 2 unsuccessfully
+MECHANIC Kingston Faulkner repaired USED MONSTER_TRUCK Grave Digger 2 and made it LIKE_NEW (earned $500.00 bonus)
+SALESPERSON Louis Galindo (earned $350.00 bonus) sold SPARKLING LIKE_NEW (PERFORMANCE_CAR) Ferrari Daytona 2020 to Buyer for $145503.68 + $10185.26 (Undercoating, RoadRescueCoverage (addOns)).
+Added sale income $155688.94 to current balance
+SALESPERSON Jovanni Lester sold CLEAN LIKE_NEW Royal Enfield 2020 (1063 CC engine) to Buyer unsuccessfully
+SALESPERSON Gerald Jensen sold DIRTY LIKE_NEW Grave Digger 2 to Buyer unsuccessfully
+SALESPERSON Gerald Jensen (earned $350.00 bonus) sold CLEAN LIKE_NEW (PERFORMANCE_CAR) Ford Mustang 2019 to Buyer for $55570.13 + $3889.91 (RoadRescueCoverage, SatelliteRadio (addOns)).
+Added sale income $59460.04 to current balance
+SALESPERSON Louis Galindo sold CLEAN LIKE_NEW Chevrolet Silverado 1500 2018 to Buyer unsuccessfully
 Total salary payout increased by $1500.00
-Total bonuses payout increased by $1500.00
-DRIVER Samson Moody received $150.00 (salary) and $0.00 (bonuses)
-MECHANIC Kiana Wilkinson received $120.00 (salary) and $200.00 (bonuses)
-SALESPERSON Macie Chase received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Easton Ramos received $150.00 (salary) and $0.00 (bonuses)
-MECHANIC Cade Rivers received $120.00 (salary) and $300.00 (bonuses)
-MECHANIC Royalty Ryan received $120.00 (salary) and $500.00 (bonuses)
-INTERN Dilan Jensen received $80.00 (salary) and $0.00 (bonuses)
-DRIVER Macie Cardenas received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Riley Frazier received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Salvatore Vincent received $150.00 (salary) and $500.00 (bonuses)
-INTERN Aurora Smith received $80.00 (salary) and $0.00 (bonuses)
-INTERN Tiffany Maldonado received $80.00 (salary) and $0.00 (bonuses)
+Total bonuses payout increased by $1820.00
+SALESPERSON Louis Galindo received $150.00 (salary) and $350.00 (bonuses)
+DRIVER Louis Barry received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Jovanni Lester received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Salvatore Fleming received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Kyng Person received $120.00 (salary) and $0.00 (bonuses)
+SALESPERSON Gerald Jensen received $150.00 (salary) and $350.00 (bonuses)
+MECHANIC Tiffany Lester received $120.00 (salary) and $500.00 (bonuses)
+INTERN Gordon Blair received $80.00 (salary) and $120.00 (bonuses)
+DRIVER Macie Cortez received $150.00 (salary) and $0.00 (bonuses)
+INTERN Tiffany Jimenez received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Kingston Faulkner received $120.00 (salary) and $500.00 (bonuses)
+INTERN Calliope Hess received $80.00 (salary) and $0.00 (bonuses)

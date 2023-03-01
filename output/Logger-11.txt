@@ -1,33 +1,30 @@
-INTERN Salvatore Vincent wash (ChemicalWashing) MONSTER_TRUCK Raminator 12 and made it DIRTY
-INTERN Salvatore Vincent wash (ChemicalWashing) MONSTER_TRUCK Raminator 12 and made it CLEAN
-INTERN Samson Chase wash (DetailedWashing) PICKUP GMC Sierra Supercharged 2015 and made it SPARKLING (earned 100.00 bonus)
-INTERN Samson Chase wash (DetailedWashing) MONSTER_TRUCK Lucas Oil Crusader 4 and made it CLEAN
-INTERN Dilan Jensen wash (DetailedWashing) PERFORMANCE_CAR Mazda MX-5 Miata 2019 and made it CLEAN
-INTERN Dilan Jensen wash (DetailedWashing) PERFORMANCE_CAR Mazda MX-5 Miata 2019 and made it CLEAN
-MECHANIC Kiana Wilkinson repaired BROKEN MONSTER_TRUCK Raminator 12 and made it USED (earned $500.00 bonus)
-MECHANIC Kiana Wilkinson repaired USED MONSTER_TRUCK Raminator 12 and made it LIKE_NEW (earned $500.00 bonus)
-SALESPERSON Easton Ramos (earned $220.00 bonus) sold SPARKLING LIKE_NEW (PICKUP) GMC Sierra Supercharged 2015 to Buyer for $66391.44 + $4647.40 (RoadRescueCoverage, SatelliteRadio (addOns)).
-Added sale income $71038.85 to current balance
-SALESPERSON Easton Ramos sold CLEAN LIKE_NEW Hyundai Sonata 2018 to Buyer unsuccessfully
-SALESPERSON Easton Ramos sold CLEAN LIKE_NEW Nissan Frontier 2011 to Buyer unsuccessfully
-SALESPERSON Easton Ramos sold CLEAN LIKE_NEW Nissan Frontier 2011 to Buyer unsuccessfully
-SALESPERSON Macie Chase sold DIRTY LIKE_NEW Raminator 12 to Buyer for $176546.85 without any addOns (earned $500.00 bonus)
-Added sale income $176546.85 to current balance
-SALESPERSON Amayah Case sold CLEAN LIKE_NEW Harley-Davidson 2016 (879 CC engine) to Buyer unsuccessfully
-Macie Mayo (Driver) raced with Nissan Frontier 2011 (PICKUP) and achieved rank no. 7.
-Angie Fuller (Driver) raced with Mahindra Bolero Camper 2012 (PICKUP) and achieved rank no. 12.
-Samson Moody (Driver) raced with Toyota Hilux 2020 (PICKUP) and achieved rank no. 9.
-Total salary payout increased by $1500.00
-Total bonuses payout increased by $1820.00
-SALESPERSON Amayah Case received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Macie Mayo received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Angie Fuller received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Samson Moody received $150.00 (salary) and $0.00 (bonuses)
-MECHANIC Kiana Wilkinson received $120.00 (salary) and $1000.00 (bonuses)
-SALESPERSON Macie Chase received $150.00 (salary) and $500.00 (bonuses)
-SALESPERSON Easton Ramos received $150.00 (salary) and $220.00 (bonuses)
-MECHANIC Cade Rivers received $120.00 (salary) and $0.00 (bonuses)
-INTERN Salvatore Vincent received $80.00 (salary) and $0.00 (bonuses)
-INTERN Samson Chase received $80.00 (salary) and $100.00 (bonuses)
-MECHANIC Royalty Ryan received $120.00 (salary) and $0.00 (bonuses)
-INTERN Dilan Jensen received $80.00 (salary) and $0.00 (bonuses)
+INTERN Elaine Spence wash (ChemicalWashing) ELECTRIC_CAR Toyota bZ4X 2023 (359 miles) and made it CLEAN
+INTERN Elaine Spence wash (ChemicalWashing) MONSTER_TRUCK WCW Nitro Machine 7 and made it DIRTY
+INTERN Moses Petersen wash (ElbowGreaseWashing) MONSTER_TRUCK WCW Nitro Machine 7 and made it SPARKLING (earned 200.00 bonus)
+INTERN Moses Petersen wash (ElbowGreaseWashing) CAR Mitsubishi Eclipse 2019 and made it DIRTY
+INTERN Kyng Person wash (ChemicalWashing) CAR Mitsubishi Eclipse 2019 and made it CLEAN
+INTERN Kyng Person wash (ChemicalWashing) CAR Mitsubishi Eclipse 2019 and made it CLEAN
+MECHANIC Kingston Vo repaired BROKEN CAR Mitsubishi Eclipse 2019 unsuccessfully
+MECHANIC Kingston Vo repaired BROKEN CAR Mitsubishi Eclipse 2019 and made it USED (earned $100.00 bonus)
+MECHANIC Jaycee Faulkner repaired USED CAR Mitsubishi Eclipse 2019 and made it LIKE_NEW (earned $100.00 bonus)
+MECHANIC Jaycee Faulkner repaired BROKEN ELECTRIC_CAR Toyota bZ4X 2023 (359 miles) and made it USED (earned $300.00 bonus)
+MECHANIC Harry Smith repaired USED ELECTRIC_CAR Toyota bZ4X 2023 (359 miles) and made it LIKE_NEW (earned $300.00 bonus)
+Lewis Dickson (Driver) raced with Triumph 2017 (605 CC engine) (MOTORCYCLE) and achieved rank no. 7.
+Louis Barry (Driver) raced with Norton 2020 (560 CC engine) (MOTORCYCLE) and achieved rank no. 3.
+Louis Barry (Driver) won with Norton 2020 (560 CC engine) (MOTORCYCLE) (earned $ 1000 bonus)!
+Calliope Maldonado (Driver) raced with Victory 2022 (1130 CC engine) (MOTORCYCLE) and achieved rank no. 20.
+DRIVER Calliope Maldonado got injured!
+Victory 2022 (1130 CC engine) (MOTORCYCLE) went BROKEN.
+Total salary payout increased by $1350.00
+Total bonuses payout increased by $2000.00
+INTERN Elaine Spence received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Kingston Vo received $120.00 (salary) and $100.00 (bonuses)
+MECHANIC Jaycee Faulkner received $120.00 (salary) and $400.00 (bonuses)
+MECHANIC Harry Smith received $120.00 (salary) and $300.00 (bonuses)
+SALESPERSON Aurora Graham received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Louis Galindo received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Lewis Dickson received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Louis Barry received $150.00 (salary) and $1000.00 (bonuses)
+SALESPERSON Jovanni Lester received $150.00 (salary) and $0.00 (bonuses)
+INTERN Moses Petersen received $80.00 (salary) and $200.00 (bonuses)
+INTERN Kyng Person received $80.00 (salary) and $0.00 (bonuses)

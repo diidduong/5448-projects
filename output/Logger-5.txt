@@ -1,31 +1,33 @@
-INTERN Easton Ramos wash (ElbowGreaseWashing) MOTORCYCLE CCW 2014 (1143 CC engine) and made it CLEAN
-INTERN Easton Ramos wash (ElbowGreaseWashing) MONSTER_TRUCK Zombie 13 and made it CLEAN
-INTERN Kaliyah Chase wash (ElbowGreaseWashing) MONSTER_TRUCK Bigfoot 12 and made it DIRTY
-INTERN Kaliyah Chase wash (ElbowGreaseWashing) MONSTER_TRUCK Bigfoot 12 and made it CLEAN
-INTERN Cade Rivers wash (ElbowGreaseWashing) MONSTER_TRUCK Bear Foot (Silverado) 11 and made it CLEAN
-INTERN Cade Rivers wash (ElbowGreaseWashing) MONSTER_TRUCK Snake Bite 1 and made it CLEAN
-MECHANIC Easton Meyer repaired USED MONSTER_TRUCK Snake Bite 1 and made it LIKE_NEW (earned $500.00 bonus)
-MECHANIC Easton Meyer repaired USED PICKUP Toyota Tacoma TRD Pro 2018 and made it LIKE_NEW (earned $150.00 bonus)
-MECHANIC Ridge Fernandez repaired USED CAR Hyundai Sonata 2018 and made it LIKE_NEW (earned $100.00 bonus)
-SALESPERSON Amayah Case (earned $220.00 bonus) sold DIRTY LIKE_NEW (PICKUP) Toyota Tacoma TRD Pro 2018 to Buyer for $57775.71 + $15599.44 (ExtendedWarranty, RoadRescueCoverage, SatelliteRadio (addOns)).
-Added sale income $73375.15 to current balance
-SALESPERSON Emery Moody (earned $300.00 bonus) sold CLEAN LIKE_NEW (ELECTRIC_CAR) Hyundai Ioniq 5 2017 (171 miles) to Buyer for $95362.95 + $4768.15 (SatelliteRadio (addOns)).
-Added sale income $100131.09 to current balance
-SALESPERSON Emery Moody sold CLEAN LIKE_NEW Volvo XC40 Recharge 2013 (170 miles) to Buyer unsuccessfully
-SALESPERSON Amayah Case (earned $350.00 bonus) sold CLEAN LIKE_NEW (PERFORMANCE_CAR) Porsche 911 2011 to Buyer for $140688.02 + $2813.76 (RoadRescueCoverage (addOns)).
-Added sale income $143501.78 to current balance
-SALESPERSON Amayah Case sold CLEAN LIKE_NEW Mazda MX-5 Miata 2019 to Buyer unsuccessfully
+Purchased BROKEN, DIRTY PERFORMANCE_CAR Ford Mustang Shelby GT500 2022 for $ 67289.52
+Purchased LIKE_NEW, DIRTY MOTORCYCLE Zero 2023 (512 CC engine) for $ 43943.68
+INTERN Kiana Person wash (ChemicalWashing) PICKUP Hyundai Santa Cruz 2020 and made it DIRTY
+INTERN Kiana Person wash (ChemicalWashing) PICKUP Hyundai Santa Cruz 2020 and made it SPARKLING (earned 100.00 bonus)
+INTERN Elaine Spence wash (ChemicalWashing) PICKUP Ford Velociraptor 6×6 2019 and made it CLEAN
+INTERN Elaine Spence wash (ChemicalWashing) ELECTRIC_CAR Kia Niro EV 2017 (323 miles) and made it CLEAN
+INTERN Moses Petersen wash (ElbowGreaseWashing) ELECTRIC_CAR Subaru Solterra 2013 (114 miles) and made it CLEAN
+INTERN Moses Petersen wash (ElbowGreaseWashing) MONSTER_TRUCK Grinder 3 and made it CLEAN
+MECHANIC Kingston Vo repaired USED ELECTRIC_CAR Subaru Solterra 2013 (114 miles) and made it LIKE_NEW (earned $300.00 bonus)
+MECHANIC Kingston Vo repaired USED ELECTRIC_CAR Audi E-Tron Sportback 2011 (90 miles) unsuccessfully
+MECHANIC Jaycee Faulkner repaired USED ELECTRIC_CAR Audi E-Tron Sportback 2011 (90 miles) and made it LIKE_NEW (earned $300.00 bonus)
+MECHANIC Jaycee Faulkner repaired BROKEN MONSTER_TRUCK Grinder 3 unsuccessfully
+MECHANIC Harry Smith repaired BROKEN MONSTER_TRUCK Grinder 3 and made it USED (earned $500.00 bonus)
+MECHANIC Harry Smith repaired USED MONSTER_TRUCK Grinder 3 unsuccessfully
+SALESPERSON Jovanni Lester sold DIRTY LIKE_NEW Zero 2023 (512 CC engine) to Buyer unsuccessfully
+SALESPERSON Jovanni Lester sold DIRTY USED Grinder 3 to Buyer unsuccessfully
+SALESPERSON Aurora Graham sold CLEAN LIKE_NEW Toyota Corolla 2021 to Buyer for $47178.69 without any addOns (earned $160.00 bonus)
+Added sale income $47178.69 to current balance
+SALESPERSON Aurora Graham sold DIRTY LIKE_NEW Zero 2023 (512 CC engine) to Buyer unsuccessfully
 Total salary payout increased by $1500.00
-Total bonuses payout increased by $1620.00
-INTERN Easton Ramos received $80.00 (salary) and $0.00 (bonuses)
-MECHANIC Easton Meyer received $120.00 (salary) and $650.00 (bonuses)
-MECHANIC Ridge Fernandez received $120.00 (salary) and $100.00 (bonuses)
-SALESPERSON Emery Moody received $150.00 (salary) and $300.00 (bonuses)
-SALESPERSON Amayah Case received $150.00 (salary) and $570.00 (bonuses)
-DRIVER Macie Mayo received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Angie Fuller received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Samson Moody received $150.00 (salary) and $0.00 (bonuses)
-MECHANIC Kiana Wilkinson received $120.00 (salary) and $0.00 (bonuses)
-INTERN Kaliyah Chase received $80.00 (salary) and $0.00 (bonuses)
-SALESPERSON Macie Chase received $150.00 (salary) and $0.00 (bonuses)
-INTERN Cade Rivers received $80.00 (salary) and $0.00 (bonuses)
+Total bonuses payout increased by $1360.00
+INTERN Kiana Person received $80.00 (salary) and $100.00 (bonuses)
+INTERN Elaine Spence received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Kingston Vo received $120.00 (salary) and $300.00 (bonuses)
+MECHANIC Jaycee Faulkner received $120.00 (salary) and $300.00 (bonuses)
+MECHANIC Harry Smith received $120.00 (salary) and $500.00 (bonuses)
+SALESPERSON Aurora Graham received $150.00 (salary) and $160.00 (bonuses)
+SALESPERSON Louis Galindo received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Lewis Dickson received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Louis Barry received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Calliope Maldonado received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Jovanni Lester received $150.00 (salary) and $0.00 (bonuses)
+INTERN Moses Petersen received $80.00 (salary) and $0.00 (bonuses)

@@ -1,35 +1,35 @@
-INTERN Kiana Wilkinson wash (DetailedWashing) PERFORMANCE_CAR Mazda MX-5 Miata 2019 and made it CLEAN
-INTERN Kiana Wilkinson wash (DetailedWashing) PERFORMANCE_CAR Lamborghini Countach 2012 and made it CLEAN
-INTERN Macie Chase wash (ElbowGreaseWashing) PERFORMANCE_CAR Porsche 911 2011 and made it CLEAN
-INTERN Macie Chase wash (ElbowGreaseWashing) CAR Toyota Corolla 2016 and made it CLEAN
-INTERN Easton Ramos wash (ElbowGreaseWashing) PICKUP Toyota Hilux 2020 and made it DIRTY
-INTERN Easton Ramos wash (ElbowGreaseWashing) PICKUP Toyota Hilux 2020 and made it DIRTY
-MECHANIC Lewis O’brien repaired USED PERFORMANCE_CAR Lamborghini Countach 2012 unsuccessfully
-MECHANIC Lewis O’brien repaired USED PERFORMANCE_CAR Lamborghini Countach 2012 and made it LIKE_NEW (earned $200.00 bonus)
-MECHANIC Easton Meyer repaired BROKEN PERFORMANCE_CAR Porsche 911 2011 and made it USED (earned $200.00 bonus)
-MECHANIC Easton Meyer repaired USED PERFORMANCE_CAR Porsche 911 2011 and made it LIKE_NEW (earned $200.00 bonus)
-MECHANIC Ridge Fernandez repaired BROKEN CAR Honda Odyssey 2013 and made it USED (earned $100.00 bonus)
-MECHANIC Ridge Fernandez repaired USED CAR Honda Odyssey 2013 unsuccessfully
-SALESPERSON Kingston Stuart sold DIRTY LIKE_NEW Porsche 911 2011 to Buyer unsuccessfully
-SALESPERSON Kingston Stuart sold CLEAN USED Rivian R1T 2015 to Buyer unsuccessfully
-SALESPERSON Amayah Case sold CLEAN USED Hyundai Ioniq 5 2017 (71 miles) to Buyer unsuccessfully
-SALESPERSON Kingston Stuart (earned $220.00 bonus) sold CLEAN USED (PICKUP) Rivian R1T 2015 to Buyer for $58073.10 + $1161.46 (RoadRescueCoverage (addOns)).
-Added sale income $59234.56 to current balance
-Macie Mayo (Driver) raced with Zombie 13 (MONSTER_TRUCK) and achieved rank no. 16.
-Zombie 13 (MONSTER_TRUCK) went BROKEN.
-Angie Fuller (Driver) raced with Bigfoot 12 (MONSTER_TRUCK) and achieved rank no. 10.
-Samson Moody (Driver) raced with Bear Foot (Silverado) 11 (MONSTER_TRUCK) and achieved rank no. 4.
+INTERN Jovanni Lester wash (ChemicalWashing) PERFORMANCE_CAR Nissan Z-Car 2022 and made it CLEAN
+INTERN Jovanni Lester wash (ChemicalWashing) PERFORMANCE_CAR Subaru BRZ 2018 and made it CLEAN
+INTERN Kiana Person wash (ChemicalWashing) PERFORMANCE_CAR Toyota Supra Mark IV 2018 and made it CLEAN
+INTERN Kiana Person wash (ChemicalWashing) PERFORMANCE_CAR McLaren 720S 2013 and made it CLEAN
+INTERN Elaine Spence wash (ChemicalWashing) CAR Toyota Corolla 2018 and made it CLEAN
+INTERN Elaine Spence wash (ChemicalWashing) CAR Nissan Sunny 2015 and made it CLEAN
+MECHANIC Kingston Vo repaired BROKEN PERFORMANCE_CAR Nissan Z-Car 2022 and made it USED (earned $200.00 bonus)
+MECHANIC Kingston Vo repaired USED PERFORMANCE_CAR Nissan Z-Car 2022 and made it LIKE_NEW (earned $200.00 bonus)
+MECHANIC Jaycee Faulkner repaired USED PERFORMANCE_CAR Subaru BRZ 2018 and made it LIKE_NEW (earned $200.00 bonus)
+MECHANIC Jaycee Faulkner repaired BROKEN PERFORMANCE_CAR McLaren 720S 2013 and made it USED (earned $200.00 bonus)
+MECHANIC Harry Smith repaired USED PERFORMANCE_CAR McLaren 720S 2013 and made it LIKE_NEW (earned $200.00 bonus)
+MECHANIC Harry Smith repaired USED CAR Mitsubishi Eclipse 2019 and made it LIKE_NEW (earned $100.00 bonus)
+SALESPERSON Aurora Graham sold CLEAN USED GMC Hummer EV 2017 to Buyer unsuccessfully
+SALESPERSON Louis Galindo (earned $300.00 bonus) sold DIRTY USED (ELECTRIC_CAR) Fiat 500e 2011 (382 miles) to Buyer for $70169.70 + $1403.39 (RoadRescueCoverage (addOns)).
+Added sale income $71573.09 to current balance
+SALESPERSON Louis Galindo sold CLEAN USED Black Stallion 13 to Buyer unsuccessfully
+SALESPERSON Keyla Frazier sold DIRTY LIKE_NEW Nissan Z-Car 2022 to Buyer unsuccessfully
+SALESPERSON Aurora Graham sold CLEAN USED Black Stallion 13 to Buyer unsuccessfully
+SALESPERSON Aurora Graham sold CLEAN USED Black Stallion 13 to Buyer unsuccessfully
+Lewis Dickson (Driver) raced with Grave Digger 2 (MONSTER_TRUCK) and achieved rank no. 4.
+Louis Barry (Driver) raced with Black Stallion 13 (MONSTER_TRUCK) and achieved rank no. 15.
 Total salary payout increased by $1500.00
-Total bonuses payout increased by $920.00
-INTERN Kiana Wilkinson received $80.00 (salary) and $0.00 (bonuses)
-INTERN Macie Chase received $80.00 (salary) and $0.00 (bonuses)
-INTERN Easton Ramos received $80.00 (salary) and $0.00 (bonuses)
-MECHANIC Lewis O’brien received $120.00 (salary) and $200.00 (bonuses)
-MECHANIC Easton Meyer received $120.00 (salary) and $400.00 (bonuses)
-MECHANIC Ridge Fernandez received $120.00 (salary) and $100.00 (bonuses)
-SALESPERSON Kingston Stuart received $150.00 (salary) and $220.00 (bonuses)
-SALESPERSON Emery Moody received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Amayah Case received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Macie Mayo received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Angie Fuller received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Samson Moody received $150.00 (salary) and $0.00 (bonuses)
+Total bonuses payout increased by $1400.00
+INTERN Jovanni Lester received $80.00 (salary) and $0.00 (bonuses)
+INTERN Kiana Person received $80.00 (salary) and $0.00 (bonuses)
+INTERN Elaine Spence received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Kingston Vo received $120.00 (salary) and $400.00 (bonuses)
+MECHANIC Jaycee Faulkner received $120.00 (salary) and $400.00 (bonuses)
+MECHANIC Harry Smith received $120.00 (salary) and $300.00 (bonuses)
+SALESPERSON Keyla Frazier received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Aurora Graham received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Louis Galindo received $150.00 (salary) and $300.00 (bonuses)
+DRIVER Lewis Dickson received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Louis Barry received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Calliope Maldonado received $150.00 (salary) and $0.00 (bonuses)

@@ -1,26 +1,34 @@
-Purchased USED, DIRTY PERFORMANCE_CAR Dodge Viper 2015 for $ 47552.24
-Purchased LIKE_NEW, DIRTY MOTORCYCLE Ducati 2012 (747 CC engine) for $ 31608.38
-Purchased BROKEN, DIRTY MOTORCYCLE Benelli 2022 (911 CC engine) for $ 36602.91
-INTERN Tiffany Maldonado wash (ElbowGreaseWashing) PICKUP Honda Ridgeline 2018 and made it CLEAN
-INTERN Tiffany Maldonado wash (ElbowGreaseWashing) PERFORMANCE_CAR Dodge Viper 2015 and made it CLEAN
-INTERN Anaya Giles wash (ChemicalWashing) MOTORCYCLE Ducati 2012 (747 CC engine) and made it CLEAN
-INTERN Anaya Giles wash (ChemicalWashing) MOTORCYCLE Benelli 2022 (911 CC engine) and made it DIRTY
-INTERN Charlee Herman wash (DetailedWashing) MOTORCYCLE Benelli 2022 (911 CC engine) and made it CLEAN
-INTERN Charlee Herman wash (DetailedWashing) MONSTER_TRUCK Bigfoot 12 and made it CLEAN
-MECHANIC Kiana Wilkinson repaired USED PERFORMANCE_CAR Dodge Viper 2015 and made it LIKE_NEW (earned $200.00 bonus)
-MECHANIC Kiana Wilkinson repaired BROKEN MOTORCYCLE Benelli 2022 (911 CC engine) and made it USED (earned $80.00 bonus)
-MECHANIC Cade Rivers repaired USED MOTORCYCLE Benelli 2022 (911 CC engine) and made it LIKE_NEW (earned $80.00 bonus)
+Purchased BROKEN, DIRTY PERFORMANCE_CAR Chevrolet Camaro 2013 for $ 51899.80
+Purchased USED, DIRTY MONSTER_TRUCK Monster Mutt 15 for $ 65124.98
+INTERN Tiffany Jimenez wash (ChemicalWashing) PICKUP GMC Sierra Supercharged 2018 and made it CLEAN
+INTERN Tiffany Jimenez wash (ChemicalWashing) ELECTRIC_CAR Ford Mustang Mach-E 2013 (368 miles) and made it CLEAN
+INTERN Calliope Hess wash (ChemicalWashing) PERFORMANCE_CAR Chevrolet Camaro 2013 and made it CLEAN
+INTERN Calliope Hess wash (ChemicalWashing) MONSTER_TRUCK Monster Mutt 15 and made it CLEAN
+INTERN Leyla Conrad wash (ChemicalWashing) MOTORCYCLE Norton 2020 (560 CC engine) and made it CLEAN
+INTERN Leyla Conrad wash (ChemicalWashing) MOTORCYCLE Norton 2020 (560 CC engine) and made it CLEAN
+MECHANIC Kyng Person repaired BROKEN MOTORCYCLE Norton 2020 (560 CC engine) unsuccessfully
+MECHANIC Kyng Person repaired BROKEN MOTORCYCLE Norton 2020 (560 CC engine) and made it USED (earned $80.00 bonus)
+MECHANIC Tiffany Lester repaired USED MOTORCYCLE Norton 2020 (560 CC engine) and made it LIKE_NEW (earned $80.00 bonus)
+MECHANIC Tiffany Lester repaired USED MOTORCYCLE Buell 2023 (362 CC engine) unsuccessfully
+MECHANIC Kingston Faulkner repaired USED MOTORCYCLE Buell 2023 (362 CC engine) and made it LIKE_NEW (earned $80.00 bonus)
+MECHANIC Kingston Faulkner repaired BROKEN PERFORMANCE_CAR Chevrolet Camaro 2013 and made it USED (earned $200.00 bonus)
+SALESPERSON Gerald Jensen sold DIRTY USED Chevrolet Camaro 2013 to Buyer unsuccessfully
+SALESPERSON Jovanni Lester sold DIRTY LIKE_NEW Norton 2020 (560 CC engine) to Buyer for $61484.44 without any addOns (earned $150.00 bonus)
+Added sale income $61484.44 to current balance
+SALESPERSON Jovanni Lester sold SPARKLING LIKE_NEW GMC Hummer EV 2020 to Buyer unsuccessfully
+SALESPERSON Gerald Jensen (earned $300.00 bonus) sold CLEAN LIKE_NEW (ELECTRIC_CAR) Ford Mustang Mach-E 2013 (368 miles) to Buyer for $70787.68 + $15573.29 (ExtendedWarranty, RoadRescueCoverage (addOns)).
+Added sale income $86360.97 to current balance
 Total salary payout increased by $1500.00
-Total bonuses payout increased by $360.00
-DRIVER Samson Moody received $150.00 (salary) and $0.00 (bonuses)
-MECHANIC Kiana Wilkinson received $120.00 (salary) and $280.00 (bonuses)
-SALESPERSON Macie Chase received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Easton Ramos received $150.00 (salary) and $0.00 (bonuses)
-MECHANIC Cade Rivers received $120.00 (salary) and $80.00 (bonuses)
-MECHANIC Royalty Ryan received $120.00 (salary) and $0.00 (bonuses)
-DRIVER Riley Frazier received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Salvatore Vincent received $150.00 (salary) and $0.00 (bonuses)
-INTERN Tiffany Maldonado received $80.00 (salary) and $0.00 (bonuses)
-INTERN Anaya Giles received $80.00 (salary) and $0.00 (bonuses)
-DRIVER Charlee Benton received $150.00 (salary) and $0.00 (bonuses)
-INTERN Charlee Herman received $80.00 (salary) and $0.00 (bonuses)
+Total bonuses payout increased by $890.00
+SALESPERSON Louis Galindo received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Louis Barry received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Jovanni Lester received $150.00 (salary) and $150.00 (bonuses)
+DRIVER Salvatore Fleming received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Kyng Person received $120.00 (salary) and $80.00 (bonuses)
+SALESPERSON Gerald Jensen received $150.00 (salary) and $300.00 (bonuses)
+MECHANIC Tiffany Lester received $120.00 (salary) and $80.00 (bonuses)
+DRIVER Macie Cortez received $150.00 (salary) and $0.00 (bonuses)
+INTERN Tiffany Jimenez received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Kingston Faulkner received $120.00 (salary) and $280.00 (bonuses)
+INTERN Calliope Hess received $80.00 (salary) and $0.00 (bonuses)
+INTERN Leyla Conrad received $80.00 (salary) and $0.00 (bonuses)

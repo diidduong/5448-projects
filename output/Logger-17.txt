@@ -1,26 +1,30 @@
-INTERN Salvatore Vincent wash (ChemicalWashing) PERFORMANCE_CAR Lamborghini Countach 2012 and made it DIRTY
-INTERN Salvatore Vincent wash (ChemicalWashing) PERFORMANCE_CAR Lamborghini Countach 2012 and made it CLEAN
-INTERN Samson Chase wash (DetailedWashing) ELECTRIC_CAR Tesla Model 3 2013 (359 miles) and made it CLEAN
-INTERN Samson Chase wash (DetailedWashing) PERFORMANCE_CAR Lamborghini Countach 2012 and made it CLEAN
-INTERN Dilan Jensen wash (DetailedWashing) PERFORMANCE_CAR Lamborghini Countach 2012 and made it CLEAN
-INTERN Dilan Jensen wash (DetailedWashing) PERFORMANCE_CAR Lamborghini Countach 2012 and made it SPARKLING (earned 75.00 bonus)
-MECHANIC Kiana Wilkinson repaired BROKEN PERFORMANCE_CAR Lamborghini Countach 2012 and made it USED (earned $200.00 bonus)
-MECHANIC Kiana Wilkinson repaired USED PERFORMANCE_CAR Lamborghini Countach 2012 and made it LIKE_NEW (earned $200.00 bonus)
-SALESPERSON Amayah Case sold CLEAN LIKE_NEW Lucid Air 2019 to Buyer unsuccessfully
-SALESPERSON Easton Ramos (earned $160.00 bonus) sold CLEAN LIKE_NEW (CAR) Lucid Air 2019 to Buyer for $65651.40 + $4595.60 (RoadRescueCoverage, SatelliteRadio (addOns)).
-Added sale income $70247.00 to current balance
-SALESPERSON Easton Ramos sold CLEAN LIKE_NEW Lucas Oil Crusader 4 to Buyer unsuccessfully
+Purchased LIKE_NEW, DIRTY ELECTRIC_CAR Kia Niro EV 2019 (417 miles) for $ 62137.21
+Purchased BROKEN, DIRTY ELECTRIC_CAR Subaru Solterra 2010 (136 miles) for $ 67225.37
+Purchased BROKEN, DIRTY MOTORCYCLE KTM 2010 (926 CC engine) for $ 17494.49
+Purchased LIKE_NEW, DIRTY MOTORCYCLE Vespa 2015 (407 CC engine) for $ 45514.24
+INTERN Gloriay Pineda wash (DetailedWashing) PERFORMANCE_CAR Acura NSX 2017 and made it SPARKLING (earned 75.00 bonus)
+INTERN Gloriay Pineda wash (DetailedWashing) MOTORCYCLE Triumph 2015 (590 CC engine) and made it SPARKLING (earned 25.00 bonus)
+INTERN Tiffany Lester wash (ElbowGreaseWashing) MONSTER_TRUCK Predator 9 and made it CLEAN
+INTERN Tiffany Lester wash (ElbowGreaseWashing) ELECTRIC_CAR Kia Niro EV 2019 (417 miles) and made it CLEAN
+INTERN Arya Summers wash (DetailedWashing) ELECTRIC_CAR Subaru Solterra 2010 (136 miles) and made it CLEAN
+INTERN Arya Summers wash (DetailedWashing) MOTORCYCLE KTM 2010 (926 CC engine) and made it CLEAN
+MECHANIC Harry Smith repaired BROKEN ELECTRIC_CAR Subaru Solterra 2010 (136 miles) and made it USED (earned $300.00 bonus)
+MECHANIC Harry Smith repaired USED ELECTRIC_CAR Subaru Solterra 2010 (136 miles) unsuccessfully
+MECHANIC Moses Petersen repaired USED ELECTRIC_CAR Subaru Solterra 2010 (136 miles) unsuccessfully
+MECHANIC Moses Petersen repaired USED ELECTRIC_CAR Subaru Solterra 2010 (136 miles) and made it LIKE_NEW (earned $300.00 bonus)
+MECHANIC Kyng Person repaired BROKEN MOTORCYCLE KTM 2010 (926 CC engine) and made it USED (earned $80.00 bonus)
+MECHANIC Kyng Person repaired USED MOTORCYCLE KTM 2010 (926 CC engine) and made it LIKE_NEW (earned $80.00 bonus)
 Total salary payout increased by $1500.00
-Total bonuses payout increased by $635.00
-SALESPERSON Amayah Case received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Angie Fuller received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Samson Moody received $150.00 (salary) and $0.00 (bonuses)
-MECHANIC Kiana Wilkinson received $120.00 (salary) and $400.00 (bonuses)
-SALESPERSON Macie Chase received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Easton Ramos received $150.00 (salary) and $160.00 (bonuses)
-MECHANIC Cade Rivers received $120.00 (salary) and $0.00 (bonuses)
-INTERN Salvatore Vincent received $80.00 (salary) and $0.00 (bonuses)
-INTERN Samson Chase received $80.00 (salary) and $0.00 (bonuses)
-MECHANIC Royalty Ryan received $120.00 (salary) and $0.00 (bonuses)
-INTERN Dilan Jensen received $80.00 (salary) and $75.00 (bonuses)
-DRIVER Macie Cardenas received $150.00 (salary) and $0.00 (bonuses)
+Total bonuses payout increased by $860.00
+MECHANIC Harry Smith received $120.00 (salary) and $300.00 (bonuses)
+SALESPERSON Louis Galindo received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Lewis Dickson received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Louis Barry received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Jovanni Lester received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Moses Petersen received $120.00 (salary) and $300.00 (bonuses)
+DRIVER Salvatore Fleming received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Kyng Person received $120.00 (salary) and $160.00 (bonuses)
+INTERN Gloriay Pineda received $80.00 (salary) and $100.00 (bonuses)
+INTERN Tiffany Lester received $80.00 (salary) and $0.00 (bonuses)
+SALESPERSON Gerald Jensen received $150.00 (salary) and $0.00 (bonuses)
+INTERN Arya Summers received $80.00 (salary) and $0.00 (bonuses)

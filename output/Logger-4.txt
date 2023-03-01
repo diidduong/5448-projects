@@ -1,31 +1,38 @@
-INTERN Easton Ramos wash (ElbowGreaseWashing) ELECTRIC_CAR Hyundai Ioniq 5 2017 (171 miles) and made it DIRTY
-INTERN Easton Ramos wash (ElbowGreaseWashing) ELECTRIC_CAR Hyundai Ioniq 5 2017 (171 miles) and made it CLEAN
-INTERN Kaliyah Chase wash (ElbowGreaseWashing) ELECTRIC_CAR Karma GSe-6 2015 (444 miles) and made it CLEAN
-INTERN Kaliyah Chase wash (ElbowGreaseWashing) MOTORCYCLE Harley-Davidson 2016 (879 CC engine) and made it CLEAN
-INTERN Cade Rivers wash (ElbowGreaseWashing) MOTORCYCLE Buell 2022 (755 CC engine) and made it SPARKLING (earned 25.00 bonus)
-INTERN Cade Rivers wash (ElbowGreaseWashing) MOTORCYCLE Victory 2018 (949 CC engine) and made it CLEAN
-MECHANIC Easton Meyer repaired USED MOTORCYCLE CCW 2014 (1143 CC engine) and made it LIKE_NEW (earned $80.00 bonus)
-MECHANIC Easton Meyer repaired BROKEN MONSTER_TRUCK Zombie 13 unsuccessfully
-MECHANIC Ridge Fernandez repaired BROKEN MONSTER_TRUCK Zombie 13 and made it USED (earned $500.00 bonus)
-MECHANIC Ridge Fernandez repaired USED MONSTER_TRUCK Zombie 13 and made it LIKE_NEW (earned $500.00 bonus)
-MECHANIC Kiana Wilkinson repaired USED MONSTER_TRUCK Bigfoot 12 and made it LIKE_NEW (earned $500.00 bonus)
-MECHANIC Kiana Wilkinson repaired BROKEN MONSTER_TRUCK Snake Bite 1 and made it USED (earned $500.00 bonus)
-SALESPERSON Amayah Case sold CLEAN USED Hyundai Sonata 2018 to Buyer unsuccessfully
-SALESPERSON Amayah Case sold CLEAN USED Toyota Tacoma TRD Pro 2018 to Buyer unsuccessfully
-Macie Mayo (Driver) raced with Buell 2022 (755 CC engine) (MOTORCYCLE) and achieved rank no. 15.
-Angie Fuller (Driver) raced with Victory 2018 (949 CC engine) (MOTORCYCLE) and achieved rank no. 6.
-Samson Moody (Driver) raced with CCW 2014 (1143 CC engine) (MOTORCYCLE) and achieved rank no. 7.
+Purchased USED, DIRTY MOTORCYCLE CCW 2012 (824 CC engine) for $ 41663.24
+Purchased LIKE_NEW, DIRTY MONSTER_TRUCK Madusa 8 for $ 98686.24
+INTERN Kiana Person wash (ChemicalWashing) CAR Toyota Corolla 2021 and made it CLEAN
+INTERN Kiana Person wash (ChemicalWashing) PICKUP Hyundai Santa Cruz 2020 and made it CLEAN
+INTERN Elaine Spence wash (ChemicalWashing) PICKUP Ford Velociraptor 6×6 2019 and made it CLEAN
+INTERN Elaine Spence wash (ChemicalWashing) PICKUP GMC Hummer EV 2017 and made it DIRTY
+INTERN Moses Petersen wash (ElbowGreaseWashing) PICKUP GMC Hummer EV 2017 and made it CLEAN
+INTERN Moses Petersen wash (ElbowGreaseWashing) MONSTER_TRUCK Grinder 3 and made it DIRTY
+MECHANIC Kingston Vo repaired BROKEN PICKUP Hyundai Santa Cruz 2020 and made it USED (earned $150.00 bonus)
+MECHANIC Kingston Vo repaired USED PICKUP Hyundai Santa Cruz 2020 and made it LIKE_NEW (earned $150.00 bonus)
+MECHANIC Jaycee Faulkner repaired BROKEN PICKUP Ford Velociraptor 6×6 2019 and made it USED (earned $150.00 bonus)
+MECHANIC Jaycee Faulkner repaired USED PICKUP Ford Velociraptor 6×6 2019 and made it LIKE_NEW (earned $150.00 bonus)
+MECHANIC Harry Smith repaired USED ELECTRIC_CAR Kia Niro EV 2017 (223 miles) and made it LIKE_NEW (earned $300.00 bonus)
+MECHANIC Harry Smith repaired USED ELECTRIC_CAR Subaru Solterra 2013 (114 miles) unsuccessfully
+SALESPERSON Jovanni Lester (earned $150.00 bonus) sold SPARKLING USED (MOTORCYCLE) Ridley 2023 (994 CC engine) to Buyer for $44489.25 + $8897.85 (ExtendedWarranty (addOns)).
+Added sale income $53387.09 to current balance
+SALESPERSON Jovanni Lester (earned $350.00 bonus) sold CLEAN LIKE_NEW (PERFORMANCE_CAR) Nissan Z-Car 2022 to Buyer for $127166.77 + $15260.01 (Undercoating, RoadRescueCoverage, SatelliteRadio (addOns)).
+Added sale income $142426.78 to current balance
+SALESPERSON Louis Galindo sold SPARKLING LIKE_NEW McLaren 720S 2013 to Buyer unsuccessfully
+SALESPERSON Aurora Graham sold DIRTY LIKE_NEW Madusa 8 to Buyer unsuccessfully
+Lewis Dickson (Driver) raced with Ford Velociraptor 6×6 2019 (PICKUP) and achieved rank no. 15.
+Louis Barry (Driver) raced with GMC Hummer EV 2017 (PICKUP) and achieved rank no. 3.
+Louis Barry (Driver) won with GMC Hummer EV 2017 (PICKUP) (earned $ 1000 bonus)!
+Calliope Maldonado (Driver) raced with GMC Hummer EV 2020 (PICKUP) and achieved rank no. 4.
 Total salary payout increased by $1500.00
-Total bonuses payout increased by $2105.00
-INTERN Easton Ramos received $80.00 (salary) and $0.00 (bonuses)
-MECHANIC Easton Meyer received $120.00 (salary) and $80.00 (bonuses)
-MECHANIC Ridge Fernandez received $120.00 (salary) and $1000.00 (bonuses)
-SALESPERSON Emery Moody received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Amayah Case received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Macie Mayo received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Angie Fuller received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Samson Moody received $150.00 (salary) and $0.00 (bonuses)
-MECHANIC Kiana Wilkinson received $120.00 (salary) and $1000.00 (bonuses)
-INTERN Kaliyah Chase received $80.00 (salary) and $0.00 (bonuses)
-SALESPERSON Macie Chase received $150.00 (salary) and $0.00 (bonuses)
-INTERN Cade Rivers received $80.00 (salary) and $25.00 (bonuses)
+Total bonuses payout increased by $2400.00
+INTERN Kiana Person received $80.00 (salary) and $0.00 (bonuses)
+INTERN Elaine Spence received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Kingston Vo received $120.00 (salary) and $300.00 (bonuses)
+MECHANIC Jaycee Faulkner received $120.00 (salary) and $300.00 (bonuses)
+MECHANIC Harry Smith received $120.00 (salary) and $300.00 (bonuses)
+SALESPERSON Aurora Graham received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Louis Galindo received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Lewis Dickson received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Louis Barry received $150.00 (salary) and $1000.00 (bonuses)
+DRIVER Calliope Maldonado received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Jovanni Lester received $150.00 (salary) and $500.00 (bonuses)
+INTERN Moses Petersen received $80.00 (salary) and $0.00 (bonuses)

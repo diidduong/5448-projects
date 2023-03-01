@@ -1,26 +1,33 @@
-Purchased BROKEN, DIRTY PICKUP Dodge Ram 1500 TRX 2016 for $ 28024.34
-Purchased USED, DIRTY MONSTER_TRUCK Swamp Thing 2 for $ 87538.48
-INTERN Salvatore Vincent wash (ChemicalWashing) PICKUP Dodge Ram 1500 TRX 2016 and made it CLEAN
-INTERN Salvatore Vincent wash (ChemicalWashing) MONSTER_TRUCK Swamp Thing 2 and made it DIRTY
-INTERN Samson Chase wash (DetailedWashing) MONSTER_TRUCK Swamp Thing 2 and made it DIRTY
-INTERN Samson Chase wash (DetailedWashing) MONSTER_TRUCK Swamp Thing 2 and made it DIRTY
-INTERN Dilan Jensen wash (DetailedWashing) MONSTER_TRUCK Swamp Thing 2 and made it DIRTY
-INTERN Dilan Jensen wash (DetailedWashing) MONSTER_TRUCK Swamp Thing 2 and made it CLEAN
-MECHANIC Kiana Wilkinson repaired BROKEN PICKUP Dodge Ram 1500 TRX 2016 and made it USED (earned $150.00 bonus)
-MECHANIC Kiana Wilkinson repaired USED PICKUP Dodge Ram 1500 TRX 2016 and made it LIKE_NEW (earned $150.00 bonus)
-MECHANIC Cade Rivers repaired USED MONSTER_TRUCK Swamp Thing 2 and made it LIKE_NEW (earned $500.00 bonus)
-SALESPERSON Amayah Case sold CLEAN LIKE_NEW Lucas Oil Crusader 4 to Buyer unsuccessfully
+INTERN Kyng Person wash (ChemicalWashing) CAR Mitsubishi Eclipse 2019 and made it SPARKLING (earned 50.00 bonus)
+INTERN Kyng Person wash (ChemicalWashing) ELECTRIC_CAR Toyota bZ4X 2023 (459 miles) and made it CLEAN
+INTERN Sawyer Case wash (ChemicalWashing) CAR Toyota Corolla 2018 and made it CLEAN
+INTERN Sawyer Case wash (ChemicalWashing) CAR Toyota Corolla 2018 and made it CLEAN
+INTERN Gerald Jensen wash (ChemicalWashing) CAR Toyota Corolla 2018 and made it SPARKLING (earned 50.00 bonus)
+INTERN Gerald Jensen wash (ChemicalWashing) CAR Nissan Sunny 2015 and made it SPARKLING (earned 50.00 bonus)
+MECHANIC Jaycee Faulkner repaired BROKEN CAR Toyota Corolla 2018 and made it USED (earned $100.00 bonus)
+MECHANIC Jaycee Faulkner repaired USED CAR Toyota Corolla 2018 unsuccessfully
+MECHANIC Harry Smith repaired USED CAR Toyota Corolla 2018 and made it LIKE_NEW (earned $100.00 bonus)
+MECHANIC Harry Smith repaired BROKEN CAR Nissan Sunny 2015 unsuccessfully
+MECHANIC Moses Petersen repaired BROKEN CAR Nissan Sunny 2015 and made it USED (earned $100.00 bonus)
+MECHANIC Moses Petersen repaired USED CAR Nissan Sunny 2015 unsuccessfully
+SALESPERSON Aurora Graham sold CLEAN LIKE_NEW Polaris Slingshot 2023 (457 CC engine) to Buyer unsuccessfully
+SALESPERSON Jovanni Lester sold CLEAN LIKE_NEW GMC Hummer EV 2017 to Buyer unsuccessfully
+SALESPERSON Jovanni Lester sold CLEAN LIKE_NEW Toyota bZ4X 2023 (459 miles) to Buyer unsuccessfully
+SALESPERSON Aurora Graham sold CLEAN LIKE_NEW Toyota bZ4X 2023 (459 miles) to Buyer unsuccessfully
+SALESPERSON Jovanni Lester sold SPARKLING LIKE_NEW Mitsubishi Eclipse 2019 to Buyer unsuccessfully
+SALESPERSON Jovanni Lester (earned $160.00 bonus) sold SPARKLING LIKE_NEW (CAR) Mitsubishi Eclipse 2019 to Buyer for $72130.02 + $14426.00 (ExtendedWarranty (addOns)).
+Added sale income $86556.03 to current balance
 Total salary payout increased by $1500.00
-Total bonuses payout increased by $800.00
-SALESPERSON Amayah Case received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Macie Mayo received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Angie Fuller received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Samson Moody received $150.00 (salary) and $0.00 (bonuses)
-MECHANIC Kiana Wilkinson received $120.00 (salary) and $300.00 (bonuses)
-SALESPERSON Macie Chase received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Easton Ramos received $150.00 (salary) and $0.00 (bonuses)
-MECHANIC Cade Rivers received $120.00 (salary) and $500.00 (bonuses)
-INTERN Salvatore Vincent received $80.00 (salary) and $0.00 (bonuses)
-INTERN Samson Chase received $80.00 (salary) and $0.00 (bonuses)
-MECHANIC Royalty Ryan received $120.00 (salary) and $0.00 (bonuses)
-INTERN Dilan Jensen received $80.00 (salary) and $0.00 (bonuses)
+Total bonuses payout increased by $610.00
+MECHANIC Jaycee Faulkner received $120.00 (salary) and $100.00 (bonuses)
+MECHANIC Harry Smith received $120.00 (salary) and $100.00 (bonuses)
+SALESPERSON Aurora Graham received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Louis Galindo received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Lewis Dickson received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Louis Barry received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Jovanni Lester received $150.00 (salary) and $160.00 (bonuses)
+INTERN Kyng Person received $80.00 (salary) and $50.00 (bonuses)
+MECHANIC Moses Petersen received $120.00 (salary) and $100.00 (bonuses)
+INTERN Sawyer Case received $80.00 (salary) and $0.00 (bonuses)
+INTERN Gerald Jensen received $80.00 (salary) and $100.00 (bonuses)
+DRIVER Salvatore Fleming received $150.00 (salary) and $0.00 (bonuses)
