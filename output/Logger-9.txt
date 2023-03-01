@@ -1,0 +1,26 @@
+Purchased USED, DIRTY MOTORCYCLE Kawasaki 2022 (623 CC engine) for $ 43937.93
+INTERN Leonard O’Connell wash (ElbowGreaseWashing) MONSTER_TRUCK Predator 14 and made it CLEAN
+INTERN Leonard O’Connell wash (ElbowGreaseWashing) MOTORCYCLE Kawasaki 2022 (623 CC engine) and made it CLEAN
+INTERN Claire Dickson wash (ChemicalWashing) PERFORMANCE_CAR McLaren 720S 2015 and made it SPARKLING (earned 75.00 bonus)
+INTERN Claire Dickson wash (ChemicalWashing) PERFORMANCE_CAR Ferrari Daytona 2019 and made it SPARKLING (earned 75.00 bonus)
+INTERN Frances Vaughn wash (DetailedWashing) CAR Mercedes-Benz S-class 2015 and made it CLEAN
+INTERN Frances Vaughn wash (DetailedWashing) CAR Mercedes-Benz S-class 2015 and made it CLEAN
+MECHANIC Leonard Vincent repaired USED MOTORCYCLE Kawasaki 2022 (623 CC engine) unsuccessfully
+MECHANIC Leonard Vincent repaired USED MOTORCYCLE Kawasaki 2022 (623 CC engine) and made it LIKE_NEW (earned $80.00 bonus)
+SALESPERSON Andrew Carroll sold CLEAN LIKE_NEW Rivian R1T 2013 to Buyer unsuccessfully
+SALESPERSON Elaina Simpson (earned $350.00 bonus) sold SPARKLING LIKE_NEW (PERFORMANCE_CAR) McLaren 720S 2015 to Buyer for $244756.58 + $12237.83 (SatelliteRadio (addOns)).
+Added sale income $256994.41 to current balance
+Total salary payout increased by $1500.00
+Total bonuses payout increased by $580.00
+MECHANIC Leonard Vincent received $120.00 (salary) and $80.00 (bonuses)
+MECHANIC Haven Person received $120.00 (salary) and $0.00 (bonuses)
+DRIVER Claire Maldonado received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Gerardo Norris received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Cash Ho received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Leroy Blair received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Fernando Alexander received $120.00 (salary) and $0.00 (bonuses)
+SALESPERSON Elaina Simpson received $150.00 (salary) and $350.00 (bonuses)
+INTERN Leonard O’Connell received $80.00 (salary) and $0.00 (bonuses)
+SALESPERSON Andrew Carroll received $150.00 (salary) and $0.00 (bonuses)
+INTERN Claire Dickson received $80.00 (salary) and $150.00 (bonuses)
+INTERN Frances Vaughn received $80.00 (salary) and $0.00 (bonuses)

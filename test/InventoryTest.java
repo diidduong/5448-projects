@@ -12,13 +12,13 @@ class InventoryTest {
     void getMostExpensiveVehicleByType() {
         Inventory inventory = new Inventory();
 
-        Vehicle car1 = new Car(0);
+        Vehicle car1 = new Car();
         car1.setSalePrice(12000);
 
-        Vehicle car2 = new Car(0);
+        Vehicle car2 = new Car();
         car2.setSalePrice(15000);
 
-        Vehicle performanceCar = new PerformanceCar(0);
+        Vehicle performanceCar = new PerformanceCar();
         performanceCar.setSalePrice(19000);
 
         inventory.getWorkingInventory().add(car1);
@@ -34,13 +34,13 @@ class InventoryTest {
     void getMostExpensiveVehicle() {
         Inventory inventory = new Inventory();
 
-        Vehicle car1 = new Car(0);
+        Vehicle car1 = new Car();
         car1.setSalePrice(12000);
 
-        Vehicle car2 = new Car(0);
+        Vehicle car2 = new Car();
         car2.setSalePrice(15000);
 
-        Vehicle performanceCar = new PerformanceCar(0);
+        Vehicle performanceCar = new PerformanceCar();
         performanceCar.setSalePrice(19000);
 
         inventory.getWorkingInventory().add(car1);

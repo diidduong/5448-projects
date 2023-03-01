@@ -1,10 +1,8 @@
 package staff;
 
 import utilities.RandomGenerator;
-import activity.Activity;
-import utilities.Registry;
 
-import java.util.HashMap;
+import java.util.ArrayList;
 
 /**
  * @author Duy Duong, Ahmed.H.Biby
@@ -13,7 +11,7 @@ import java.util.HashMap;
  */
 public abstract class Staff {
     public enum JobTitle {
-        INTERN, MECHANIC, SALESPERSON
+        INTERN, MECHANIC, SALESPERSON, DRIVER
     }
     
     private String name;
@@ -25,13 +23,11 @@ public abstract class Staff {
     private int daysOfWork;
 
     private boolean isWorking = true;
-    private Activity activity;
-    private Registry registry = new Registry();
 
-    private double turnOverProbability = 0.1;  // 3% for each employee, which is about 10% for each three
+    private final static double TURNOVER_PROBABILITY = 0.1;  // 3% for each employee, which is about 10% for each three
 
-    public Staff(int day, JobTitle jobTitle, double dailyRate) {
-        setName(RandomGenerator.nameGenerator());
+    public Staff(JobTitle jobTitle, double dailyRate) {
+        name = RandomGenerator.personNameGenerator();
         this.jobTitle = jobTitle;
         this.dailyRate = dailyRate;
     }
@@ -84,14 +80,6 @@ public abstract class Staff {
         this.daysOfWork = daysOfWork;
     }
 
-    public double getTurnOverProbability() {
-        return turnOverProbability;
-    }
-
-    public void setTurnOverProbability(double turnOverProbability) {
-        this.turnOverProbability = turnOverProbability;
-    }
-
     public boolean isWorking() {
         return isWorking;
     }
@@ -108,14 +96,6 @@ public abstract class Staff {
         this.jobTitle = jobTitle;
     }
 
-    public void startWorkingDay(int day){
-        setDaysOfWork(getDaysOfWork()+1);
-//        Budget.addSalaries(day, this);
-        HashMap<String, String> registryAction = new HashMap<String, String>();
-        String formattedDay = String.format("Day_%d_%s_%s", day, getJobTitle(), getName().replace(' ', '_'));
-//        Budget.salariesRegistry.add(formattedDay, registryAction);
-        addSalary();
-    }
     public void addSalary(){
         this.salary += dailyRate;
     }
@@ -136,35 +116,71 @@ public abstract class Staff {
         setWorking(false);
     }
 
-    public Registry getRegistry() {
-        return registry;
+    /**
+     * Create staff by given title
+     *
+     * @param title wanted title
+     * @return a staff object
+     */
+    public static Staff createStaffByType(Staff.JobTitle title) {
+        switch (title) {
+            case MECHANIC:
+                return new Mechanic();
+            case SALESPERSON:
+                return new Salesperson();
+            case INTERN:
+                return new Intern();
+            case DRIVER:
+                return new Driver();
+            default:
+                throw new IllegalArgumentException("Unknown staff title + [" + title + "]");
+        }
     }
 
-    public void setRegistry(Registry registry) {
-        this.registry = registry;
+    /**
+     * Count number of staff of a specific job title
+     * Reference: Project 2 example solution class Staff.howManyStaffByType
+     *
+     * @param staffs all staff
+     * @param title wanted title
+     * @return number of staff
+     */
+    public static int countStaffByType(ArrayList<Staff> staffs, JobTitle title) {
+        int count = 0;
+        for (Staff staff : staffs) {
+            if (staff.jobTitle == title) {
+                count++;
+            }
+        }
+        return count;
     }
 
-    public Activity getActivity() {
-        return activity;
-    }
-
-    public void setActivity(Activity activity) {
-        this.activity = activity;
-        addWorkDay();
+    /**
+     * Get all staff for given job title
+     * Reference: Project 2 example solution class Staff.getStaffByType
+     *
+     * @param staffs list of all staffs
+     * @param jobTitle wanted job title
+     * @return list of staffs that match given title
+     */
+    public static ArrayList<Staff> getStaffListByType(ArrayList<Staff> staffs, JobTitle jobTitle) {
+        ArrayList<Staff> staffList = new ArrayList<>();
+        for (Staff staff : staffs) {
+            if (staff.jobTitle == jobTitle) {
+                staffList.add(staff);
+            }
+        }
+        return staffList;
     }
 
     /**
      * method that check if the staff member will continue to work or will quit and add Salaries/workdays
-     * @param day: a given day by the administration
      */
-    public void workOrQuit(int day) {
-        boolean isQuit = RandomGenerator.probabilisticOutcomeGenerator(getTurnOverProbability());
+    public void workOrQuit() {
+        boolean isQuit = RandomGenerator.probabilisticOutcomeGenerator(TURNOVER_PROBABILITY);
         if (isQuit) {
             quit();
             System.out.printf("\n%s (%s) quited.\n", getName(), getJobTitle());
-            HashMap<String, String> registryAction = new HashMap<>();
-            String formattedDay = String.format("Day_%d_%s_%s_quited", day, getJobTitle(), getName().replace(' ', '_'));
-            registry.add(formattedDay, registryAction);
         }
     }
 }

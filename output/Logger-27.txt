@@ -1,0 +1,33 @@
+Purchased USED, CLEAN PICKUP Honda Ridgeline 2022 for $ 28283.74
+INTERN Alaia Rangel wash (DetailedWashing) CAR Chevrolet Bolt 2021 and made it SPARKLING (earned 50.00 bonus)
+INTERN Alaia Rangel wash (DetailedWashing) MOTORCYCLE Yamaha 2019 (909 CC engine) and made it CLEAN
+INTERN Rhett Hayden wash (ElbowGreaseWashing) MOTORCYCLE Yamaha 2019 (909 CC engine) and made it CLEAN
+INTERN Rhett Hayden wash (ElbowGreaseWashing) MOTORCYCLE Yamaha 2019 (909 CC engine) and made it DIRTY
+INTERN Ariyah Fleming wash (ElbowGreaseWashing) MOTORCYCLE Yamaha 2019 (909 CC engine) and made it CLEAN
+INTERN Ariyah Fleming wash (ElbowGreaseWashing) MOTORCYCLE Yamaha 2019 (909 CC engine) and made it CLEAN
+MECHANIC Haven Person repaired USED PICKUP Honda Ridgeline 2022 and made it LIKE_NEW (earned $150.00 bonus)
+SALESPERSON Frances Vaughn sold SPARKLING LIKE_NEW Porsche 911 2019 to Buyer unsuccessfully
+SALESPERSON Frances Vaughn sold SPARKLING LIKE_NEW Lucas Oil Crusader 1 to Buyer unsuccessfully
+SALESPERSON Andrew Carroll sold CLEAN LIKE_NEW GMC Sierra Supercharged 2021 to Buyer unsuccessfully
+SALESPERSON Elaina Simpson sold SPARKLING LIKE_NEW Audi E-Tron Sportback 2014 (497 miles) to Buyer unsuccessfully
+SALESPERSON Andrew Carroll sold CLEAN LIKE_NEW Ducati 2016 (983 CC engine) to Buyer for $35066.57 without any addOns (earned $150.00 bonus)
+Added sale income $35066.57 to current balance
+SALESPERSON Elaina Simpson (earned $160.00 bonus) sold SPARKLING LIKE_NEW (CAR) Chevrolet Bolt 2021 to Buyer for $44635.86 + $892.72 (RoadRescueCoverage (addOns)).
+Added sale income $45528.58 to current balance
+SALESPERSON Andrew Carroll (earned $350.00 bonus) sold SPARKLING LIKE_NEW (PERFORMANCE_CAR) Porsche 911 2019 to Buyer for $101606.01 + $7112.42 (RoadRescueCoverage, SatelliteRadio (addOns)).
+Added sale income $108718.43 to current balance
+SALESPERSON Andrew Carroll sold CLEAN LIKE_NEW Porsche 718 Boxster 2018 to Buyer unsuccessfully
+Total salary payout increased by $1500.00
+Total bonuses payout increased by $860.00
+MECHANIC Haven Person received $120.00 (salary) and $150.00 (bonuses)
+DRIVER Gerardo Norris received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Cash Ho received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Fernando Alexander received $120.00 (salary) and $0.00 (bonuses)
+SALESPERSON Elaina Simpson received $150.00 (salary) and $160.00 (bonuses)
+SALESPERSON Andrew Carroll received $150.00 (salary) and $500.00 (bonuses)
+SALESPERSON Frances Vaughn received $150.00 (salary) and $0.00 (bonuses)
+INTERN Alaia Rangel received $80.00 (salary) and $50.00 (bonuses)
+DRIVER Harry O’brien received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Logan Frazier received $120.00 (salary) and $0.00 (bonuses)
+INTERN Rhett Hayden received $80.00 (salary) and $0.00 (bonuses)
+INTERN Ariyah Fleming received $80.00 (salary) and $0.00 (bonuses)

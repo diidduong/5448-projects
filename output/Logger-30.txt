@@ -1,0 +1,23 @@
+INTERN Ariyah Fleming wash (ElbowGreaseWashing) PERFORMANCE_CAR Porsche 718 Boxster 2018 and made it CLEAN
+INTERN Ariyah Fleming wash (ElbowGreaseWashing) PERFORMANCE_CAR Porsche 718 Boxster 2018 and made it CLEAN
+INTERN Elaine Reed wash (ChemicalWashing) PERFORMANCE_CAR Porsche 718 Boxster 2018 and made it CLEAN
+INTERN Elaine Reed wash (ChemicalWashing) PERFORMANCE_CAR Porsche 718 Boxster 2018 and made it CLEAN
+INTERN Alaia Smith wash (ElbowGreaseWashing) PERFORMANCE_CAR Porsche 718 Boxster 2018 and made it CLEAN
+INTERN Alaia Smith wash (ElbowGreaseWashing) PERFORMANCE_CAR Porsche 718 Boxster 2018 and made it CLEAN
+MECHANIC Logan Frazier repaired BROKEN PICKUP GMC Sierra Supercharged 2021 and made it USED (earned $150.00 bonus)
+MECHANIC Logan Frazier repaired USED PICKUP GMC Sierra Supercharged 2021 and made it LIKE_NEW (earned $150.00 bonus)
+SALESPERSON Andrew Carroll sold CLEAN LIKE_NEW Tesla Model S 2013 to Buyer unsuccessfully
+Total salary payout increased by $1500.00
+Total bonuses payout increased by $300.00
+DRIVER Gerardo Norris received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Cash Ho received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Elaina Simpson received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Andrew Carroll received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Frances Vaughn received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Harry O’brien received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Logan Frazier received $120.00 (salary) and $300.00 (bonuses)
+INTERN Ariyah Fleming received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Alaia Rangel received $120.00 (salary) and $0.00 (bonuses)
+INTERN Elaine Reed received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Rhett Hayden received $120.00 (salary) and $0.00 (bonuses)
+INTERN Alaia Smith received $80.00 (salary) and $0.00 (bonuses)

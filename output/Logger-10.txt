@@ -1,0 +1,25 @@
+Purchased BROKEN, DIRTY PERFORMANCE_CAR Porsche 911 2019 for $ 54189.87
+INTERN Claire Dickson wash (ChemicalWashing) MOTORCYCLE Kawasaki 2022 (623 CC engine) and made it CLEAN
+INTERN Claire Dickson wash (ChemicalWashing) PERFORMANCE_CAR Porsche 911 2019 and made it CLEAN
+INTERN Frances Vaughn wash (DetailedWashing) CAR Mercedes-Benz S-class 2015 and made it CLEAN
+INTERN Frances Vaughn wash (DetailedWashing) CAR Mercedes-Benz S-class 2015 and made it CLEAN
+INTERN Maxwell Hess wash (ElbowGreaseWashing) CAR Mercedes-Benz S-class 2015 and made it DIRTY
+INTERN Maxwell Hess wash (ElbowGreaseWashing) CAR Mercedes-Benz S-class 2015 and made it DIRTY
+MECHANIC Leonard Vincent repaired BROKEN PERFORMANCE_CAR Porsche 911 2019 and made it USED (earned $200.00 bonus)
+MECHANIC Leonard Vincent repaired USED PERFORMANCE_CAR Porsche 911 2019 unsuccessfully
+MECHANIC Haven Person repaired USED PERFORMANCE_CAR Porsche 911 2019 unsuccessfully
+MECHANIC Haven Person repaired USED PERFORMANCE_CAR Porsche 911 2019 and made it LIKE_NEW (earned $200.00 bonus)
+Total salary payout increased by $1500.00
+Total bonuses payout increased by $400.00
+MECHANIC Leonard Vincent received $120.00 (salary) and $200.00 (bonuses)
+MECHANIC Haven Person received $120.00 (salary) and $200.00 (bonuses)
+DRIVER Claire Maldonado received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Gerardo Norris received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Cash Ho received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Leroy Blair received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Fernando Alexander received $120.00 (salary) and $0.00 (bonuses)
+SALESPERSON Elaina Simpson received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Andrew Carroll received $150.00 (salary) and $0.00 (bonuses)
+INTERN Claire Dickson received $80.00 (salary) and $0.00 (bonuses)
+INTERN Frances Vaughn received $80.00 (salary) and $0.00 (bonuses)
+INTERN Maxwell Hess received $80.00 (salary) and $0.00 (bonuses)

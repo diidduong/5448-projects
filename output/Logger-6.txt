@@ -1,0 +1,30 @@
+INTERN Dalton Jordan wash (DetailedWashing) PERFORMANCE_CAR McLaren 720S 2015 and made it DIRTY
+INTERN Dalton Jordan wash (DetailedWashing) PERFORMANCE_CAR McLaren 720S 2015 and made it CLEAN
+INTERN Andrew Carroll wash (ElbowGreaseWashing) PERFORMANCE_CAR Ferrari Daytona 2019 and made it DIRTY
+INTERN Andrew Carroll wash (ElbowGreaseWashing) PERFORMANCE_CAR Ferrari Daytona 2019 and made it CLEAN
+INTERN Leonard O’Connell wash (ElbowGreaseWashing) MONSTER_TRUCK Madusa 4 and made it CLEAN
+INTERN Leonard O’Connell wash (ElbowGreaseWashing) PERFORMANCE_CAR Ford Mustang 2015 and made it DIRTY
+MECHANIC Leonard Vincent repaired USED MONSTER_TRUCK Madusa 4 and made it LIKE_NEW (earned $500.00 bonus)
+MECHANIC Leonard Vincent repaired USED MOTORCYCLE Kawasaki 2013 (393 CC engine) and made it LIKE_NEW (earned $80.00 bonus)
+SALESPERSON Elaina Simpson sold CLEAN LIKE_NEW Polaris Slingshot 2017 (994 CC engine) to Buyer for $43496.59 without any addOns (earned $150.00 bonus)
+Added sale income $43496.59 to current balance
+SALESPERSON Leroy Blair sold DIRTY LIKE_NEW Madusa 4 to Buyer unsuccessfully
+SALESPERSON Elaina Simpson sold DIRTY LIKE_NEW Kawasaki 2013 (393 CC engine) to Buyer unsuccessfully
+SALESPERSON Leroy Blair sold CLEAN LIKE_NEW McLaren 720S 2015 to Buyer unsuccessfully
+SALESPERSON Leroy Blair (earned $300.00 bonus) sold CLEAN LIKE_NEW (ELECTRIC_CAR) Karma GSe-6 2020 (484 miles) to Buyer for $69411.29 + $4858.79 (RoadRescueCoverage, SatelliteRadio (addOns)).
+Added sale income $74270.08 to current balance
+SALESPERSON Octavia Fuller sold SPARKLING LIKE_NEW Tesla Model S 2011 (214 miles) to Buyer unsuccessfully
+Total salary payout increased by $1500.00
+Total bonuses payout increased by $1030.00
+MECHANIC Leonard Vincent received $120.00 (salary) and $580.00 (bonuses)
+MECHANIC Haven Person received $120.00 (salary) and $0.00 (bonuses)
+SALESPERSON Octavia Fuller received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Claire Maldonado received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Gerardo Norris received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Cash Ho received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Leroy Blair received $150.00 (salary) and $300.00 (bonuses)
+MECHANIC Fernando Alexander received $120.00 (salary) and $0.00 (bonuses)
+INTERN Dalton Jordan received $80.00 (salary) and $0.00 (bonuses)
+SALESPERSON Elaina Simpson received $150.00 (salary) and $150.00 (bonuses)
+INTERN Andrew Carroll received $80.00 (salary) and $0.00 (bonuses)
+INTERN Leonard O’Connell received $80.00 (salary) and $0.00 (bonuses)

@@ -1,0 +1,29 @@
+Purchased BROKEN, DIRTY CAR Chevrolet Bolt 2021 for $ 23805.79
+INTERN Alaia Rangel wash (DetailedWashing) CAR Chevrolet Bolt 2021 and made it SPARKLING (earned 50.00 bonus)
+INTERN Alaia Rangel wash (DetailedWashing) CAR Mitsubishi Eclipse 2014 and made it CLEAN
+INTERN Rhett Hayden wash (ElbowGreaseWashing) CAR Mitsubishi Eclipse 2014 and made it SPARKLING (earned 50.00 bonus)
+INTERN Rhett Hayden wash (ElbowGreaseWashing) MOTORCYCLE Yamaha 2019 (909 CC engine) and made it CLEAN
+INTERN Ariyah Fleming wash (ElbowGreaseWashing) MOTORCYCLE Yamaha 2019 (909 CC engine) and made it CLEAN
+INTERN Ariyah Fleming wash (ElbowGreaseWashing) MOTORCYCLE Yamaha 2019 (909 CC engine) and made it CLEAN
+MECHANIC Haven Person repaired BROKEN CAR Chevrolet Bolt 2021 unsuccessfully
+MECHANIC Haven Person repaired BROKEN CAR Chevrolet Bolt 2021 unsuccessfully
+MECHANIC Fernando Alexander repaired BROKEN CAR Chevrolet Bolt 2021 and made it USED (earned $100.00 bonus)
+MECHANIC Fernando Alexander repaired USED CAR Chevrolet Bolt 2021 and made it LIKE_NEW (earned $100.00 bonus)
+SALESPERSON Andrew Carroll sold CLEAN LIKE_NEW Ducati 2016 (983 CC engine) to Buyer unsuccessfully
+SALESPERSON Frances Vaughn sold CLEAN LIKE_NEW Ducati 2016 (983 CC engine) to Buyer unsuccessfully
+SALESPERSON Andrew Carroll sold CLEAN LIKE_NEW Chevrolet Silverado 1500 2014 to Buyer for $129346.54 without any addOns (earned $220.00 bonus)
+Added sale income $129346.54 to current balance
+Total salary payout increased by $1500.00
+Total bonuses payout increased by $520.00
+MECHANIC Haven Person received $120.00 (salary) and $0.00 (bonuses)
+DRIVER Gerardo Norris received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Cash Ho received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Fernando Alexander received $120.00 (salary) and $200.00 (bonuses)
+SALESPERSON Elaina Simpson received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Andrew Carroll received $150.00 (salary) and $220.00 (bonuses)
+SALESPERSON Frances Vaughn received $150.00 (salary) and $0.00 (bonuses)
+INTERN Alaia Rangel received $80.00 (salary) and $50.00 (bonuses)
+DRIVER Harry O’brien received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Logan Frazier received $120.00 (salary) and $0.00 (bonuses)
+INTERN Rhett Hayden received $80.00 (salary) and $50.00 (bonuses)
+INTERN Ariyah Fleming received $80.00 (salary) and $0.00 (bonuses)

@@ -1,0 +1,33 @@
+Purchased BROKEN, DIRTY PERFORMANCE_CAR Maserati MC20 2016 for $ 58594.01
+Purchased BROKEN, DIRTY PICKUP Rivian R1T 2023 for $ 78262.08
+Purchased BROKEN, DIRTY PICKUP Ford Ranger 2022 for $ 61863.94
+INTERN Maxwell Hess wash (ElbowGreaseWashing) PERFORMANCE_CAR Maserati MC20 2016 and made it CLEAN
+INTERN Maxwell Hess wash (ElbowGreaseWashing) PICKUP Rivian R1T 2023 and made it CLEAN
+INTERN Logan Frazier wash (ElbowGreaseWashing) PICKUP Ford Ranger 2022 and made it DIRTY
+INTERN Logan Frazier wash (ElbowGreaseWashing) PICKUP Ford Ranger 2022 and made it CLEAN
+INTERN Alaia Rangel wash (DetailedWashing) ELECTRIC_CAR Chevrolet Spark 2015 (443 miles) and made it SPARKLING (earned 120.00 bonus)
+INTERN Alaia Rangel wash (DetailedWashing) MOTORCYCLE Cagiva 2017 (618 CC engine) and made it CLEAN
+MECHANIC Leonard Vincent repaired BROKEN PERFORMANCE_CAR Maserati MC20 2016 unsuccessfully
+MECHANIC Leonard Vincent repaired BROKEN PERFORMANCE_CAR Maserati MC20 2016 and made it USED (earned $200.00 bonus)
+MECHANIC Haven Person repaired USED PERFORMANCE_CAR Maserati MC20 2016 and made it LIKE_NEW (earned $200.00 bonus)
+MECHANIC Haven Person repaired BROKEN PICKUP Rivian R1T 2023 and made it USED (earned $150.00 bonus)
+MECHANIC Fernando Alexander repaired USED PICKUP Rivian R1T 2023 and made it LIKE_NEW (earned $150.00 bonus)
+MECHANIC Fernando Alexander repaired BROKEN PICKUP Ford Ranger 2022 and made it USED (earned $150.00 bonus)
+SALESPERSON Elaina Simpson (earned $150.00 bonus) sold SPARKLING LIKE_NEW (MOTORCYCLE) Ducati 2023 (407 CC engine) to Buyer for $43584.78 + $2179.24 (SatelliteRadio (addOns)).
+Added sale income $45764.01 to current balance
+SALESPERSON Frances Vaughn sold SPARKLING LIKE_NEW Kia K5 2014 to Buyer unsuccessfully
+SALESPERSON Frances Vaughn sold DIRTY LIKE_NEW Maserati MC20 2016 to Buyer unsuccessfully
+Total salary payout increased by $1500.00
+Total bonuses payout increased by $1120.00
+MECHANIC Leonard Vincent received $120.00 (salary) and $200.00 (bonuses)
+MECHANIC Haven Person received $120.00 (salary) and $350.00 (bonuses)
+DRIVER Claire Maldonado received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Gerardo Norris received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Cash Ho received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Fernando Alexander received $120.00 (salary) and $300.00 (bonuses)
+SALESPERSON Elaina Simpson received $150.00 (salary) and $150.00 (bonuses)
+SALESPERSON Andrew Carroll received $150.00 (salary) and $0.00 (bonuses)
+INTERN Maxwell Hess received $80.00 (salary) and $0.00 (bonuses)
+INTERN Logan Frazier received $80.00 (salary) and $0.00 (bonuses)
+SALESPERSON Frances Vaughn received $150.00 (salary) and $0.00 (bonuses)
+INTERN Alaia Rangel received $80.00 (salary) and $120.00 (bonuses)

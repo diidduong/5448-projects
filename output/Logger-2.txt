@@ -1,0 +1,29 @@
+INTERN Fernando Alexander wash (ElbowGreaseWashing) PERFORMANCE_CAR McLaren 720S 2012 and made it SPARKLING (earned 75.00 bonus)
+INTERN Fernando Alexander wash (ElbowGreaseWashing) PERFORMANCE_CAR McLaren 720S 2015 and made it SPARKLING (earned 75.00 bonus)
+INTERN Elaina Simpson wash (DetailedWashing) CAR Mercedes-Benz S-class 2015 and made it DIRTY
+INTERN Elaina Simpson wash (DetailedWashing) CAR Mercedes-Benz S-class 2015 and made it CLEAN
+INTERN Leroy Reed wash (ElbowGreaseWashing) CAR Audi A3 2021 and made it DIRTY
+INTERN Leroy Reed wash (ElbowGreaseWashing) CAR Audi A3 2021 and made it CLEAN
+MECHANIC Braelynn Jensen repaired USED CAR Audi A3 2021 and made it LIKE_NEW (earned $100.00 bonus)
+MECHANIC Braelynn Jensen repaired BROKEN CAR Kia K5 2014 and made it USED (earned $100.00 bonus)
+MECHANIC Leonard Vincent repaired USED CAR Kia K5 2014 and made it LIKE_NEW (earned $100.00 bonus)
+MECHANIC Leonard Vincent repaired BROKEN PICKUP Tesla Cybertruck 2016 and made it USED (earned $150.00 bonus)
+MECHANIC Haven Person repaired USED PICKUP Tesla Cybertruck 2016 unsuccessfully
+MECHANIC Haven Person repaired USED PICKUP Tesla Cybertruck 2016 and made it LIKE_NEW (earned $150.00 bonus)
+SALESPERSON Gary O’brien (earned $500.00 bonus) sold DIRTY USED (MONSTER_TRUCK) Brutus 5 to Buyer for $82664.61 + $1653.29 (RoadRescueCoverage (addOns)).
+Added sale income $84317.91 to current balance
+SALESPERSON Gary O’brien sold CLEAN USED LiveWire 2012 (472 CC engine) to Buyer unsuccessfully
+Total salary payout increased by $1500.00
+Total bonuses payout increased by $1250.00
+INTERN Fernando Alexander received $80.00 (salary) and $150.00 (bonuses)
+INTERN Elaina Simpson received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Braelynn Jensen received $120.00 (salary) and $200.00 (bonuses)
+MECHANIC Leonard Vincent received $120.00 (salary) and $250.00 (bonuses)
+MECHANIC Haven Person received $120.00 (salary) and $150.00 (bonuses)
+SALESPERSON Gary O’brien received $150.00 (salary) and $500.00 (bonuses)
+SALESPERSON Octavia Fuller received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Claire Maldonado received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Gerardo Norris received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Cash Ho received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Leroy Blair received $150.00 (salary) and $0.00 (bonuses)
+INTERN Leroy Reed received $80.00 (salary) and $0.00 (bonuses)

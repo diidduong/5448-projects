@@ -1,0 +1,36 @@
+Purchased LIKE_NEW, DIRTY PICKUP Rivian R1T 2013 for $ 61598.46
+Purchased USED, DIRTY MOTORCYCLE Polaris Slingshot 2017 (994 CC engine) for $ 34797.27
+Purchased BROKEN, DIRTY MONSTER_TRUCK Madusa 4 for $ 81526.39
+INTERN Leroy Reed wash (ElbowGreaseWashing) PICKUP GMC Hummer EV 2018 and made it CLEAN
+INTERN Leroy Reed wash (ElbowGreaseWashing) ELECTRIC_CAR Karma GSe-6 2020 (484 miles) and made it CLEAN
+INTERN Dalton Jordan wash (DetailedWashing) MOTORCYCLE Moto Guzzi 2011 (725 CC engine) and made it DIRTY
+INTERN Dalton Jordan wash (DetailedWashing) MOTORCYCLE Moto Guzzi 2011 (725 CC engine) and made it CLEAN
+INTERN Andrew Carroll wash (ElbowGreaseWashing) MOTORCYCLE Cagiva 2017 (618 CC engine) and made it CLEAN
+INTERN Andrew Carroll wash (ElbowGreaseWashing) MOTORCYCLE Can-Am 2015 (937 CC engine) and made it CLEAN
+MECHANIC Leonard Vincent repaired BROKEN MONSTER_TRUCK Backwards Bob 11 and made it USED (earned $500.00 bonus)
+MECHANIC Leonard Vincent repaired USED MONSTER_TRUCK Backwards Bob 11 and made it LIKE_NEW (earned $500.00 bonus)
+MECHANIC Haven Person repaired BROKEN MONSTER_TRUCK Captain's Curse 5 and made it USED (earned $500.00 bonus)
+MECHANIC Haven Person repaired USED MONSTER_TRUCK Captain's Curse 5 unsuccessfully
+MECHANIC Fernando Alexander repaired USED MONSTER_TRUCK Captain's Curse 5 and made it LIKE_NEW (earned $500.00 bonus)
+MECHANIC Fernando Alexander repaired USED MONSTER_TRUCK Lucas Oil Crusader 1 and made it LIKE_NEW (earned $500.00 bonus)
+SALESPERSON Octavia Fuller (earned $150.00 bonus) sold CLEAN LIKE_NEW (MOTORCYCLE) Moto Guzzi 2011 (725 CC engine) to Buyer for $40840.40 + $816.81 (RoadRescueCoverage (addOns)).
+Added sale income $41657.21 to current balance
+Claire Maldonado (Driver) raced with McLaren 720S 2012 (PERFORMANCE_CAR) and achieved rank no. 9.
+Gerardo Norris (Driver) raced with McLaren 720S 2015 (PERFORMANCE_CAR) and achieved rank no. 16.
+McLaren 720S 2015 (PERFORMANCE_CAR) went BROKEN.
+Cash Ho (Driver) raced with Ferrari Daytona 2019 (PERFORMANCE_CAR) and achieved rank no. 19.
+Ferrari Daytona 2019 (PERFORMANCE_CAR) went BROKEN.
+Total salary payout increased by $1500.00
+Total bonuses payout increased by $2650.00
+MECHANIC Leonard Vincent received $120.00 (salary) and $1000.00 (bonuses)
+MECHANIC Haven Person received $120.00 (salary) and $500.00 (bonuses)
+SALESPERSON Octavia Fuller received $150.00 (salary) and $150.00 (bonuses)
+DRIVER Claire Maldonado received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Gerardo Norris received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Cash Ho received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Leroy Blair received $150.00 (salary) and $0.00 (bonuses)
+INTERN Leroy Reed received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Fernando Alexander received $120.00 (salary) and $1000.00 (bonuses)
+INTERN Dalton Jordan received $80.00 (salary) and $0.00 (bonuses)
+SALESPERSON Elaina Simpson received $150.00 (salary) and $0.00 (bonuses)
+INTERN Andrew Carroll received $80.00 (salary) and $0.00 (bonuses)
