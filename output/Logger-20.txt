@@ -1,36 +1,37 @@
-Purchased BROKEN, CLEAN CAR Mitsubishi Eclipse 2020 for $ 24824.60
-Purchased USED, DIRTY ELECTRIC_CAR Volkswagen ID4 2023 (79 miles) for $ 69100.57
-INTERN Salvatore Vincent wash (ChemicalWashing) MONSTER_TRUCK Bear Foot (Silverado) 11 and made it CLEAN
-INTERN Salvatore Vincent wash (ChemicalWashing) PICKUP Toyota Tacoma TRD Pro 2015 and made it DIRTY
-INTERN Samson Chase wash (DetailedWashing) PICKUP Toyota Tacoma TRD Pro 2015 and made it DIRTY
-INTERN Samson Chase wash (DetailedWashing) PICKUP Toyota Tacoma TRD Pro 2015 and made it CLEAN
-INTERN Dilan Jensen wash (DetailedWashing) ELECTRIC_CAR Volkswagen ID4 2023 (79 miles) and made it CLEAN
-INTERN Dilan Jensen wash (DetailedWashing) PICKUP Mahindra Bolero Camper 2012 and made it CLEAN
-MECHANIC Kiana Wilkinson repaired BROKEN CAR Mitsubishi Eclipse 2020 and made it USED (earned $100.00 bonus)
-MECHANIC Kiana Wilkinson repaired USED CAR Mitsubishi Eclipse 2020 unsuccessfully
-MECHANIC Cade Rivers repaired USED CAR Mitsubishi Eclipse 2020 and made it LIKE_NEW (earned $100.00 bonus)
-MECHANIC Cade Rivers repaired USED ELECTRIC_CAR Volkswagen ID4 2023 (79 miles) and made it LIKE_NEW (earned $300.00 bonus)
-SALESPERSON Macie Chase (earned $350.00 bonus) sold SPARKLING LIKE_NEW (PERFORMANCE_CAR) Lamborghini Countach 2012 to Buyer for $233280.22 + $4665.60 (RoadRescueCoverage (addOns)).
-Added sale income $237945.82 to current balance
-SALESPERSON Easton Ramos sold DIRTY LIKE_NEW Volkswagen ID4 2023 (179 miles) to Buyer unsuccessfully
-SALESPERSON Macie Chase sold CLEAN LIKE_NEW Porsche 718 Cayman 2017 to Buyer unsuccessfully
-SALESPERSON Easton Ramos (earned $500.00 bonus) sold CLEAN LIKE_NEW (MONSTER_TRUCK) Bear Foot (Silverado) 11 to Buyer for $161953.80 + $11336.77 (Undercoating, RoadRescueCoverage (addOns)).
-Added sale income $173290.57 to current balance
-SALESPERSON Amayah Case (earned $220.00 bonus) sold CLEAN LIKE_NEW (PICKUP) Toyota Tacoma TRD Pro 2015 to Buyer for $113937.81 + $25066.32 (ExtendedWarranty, RoadRescueCoverage (addOns)).
-Added sale income $139004.13 to current balance
-SALESPERSON Macie Chase sold DIRTY LIKE_NEW Mitsubishi Eclipse 2020 to Buyer for $46546.13 without any addOns (earned $160.00 bonus)
-Added sale income $46546.13 to current balance
+Purchased USED, DIRTY PERFORMANCE_CAR Ford Mustang 2019 for $ 44456.11
+Purchased LIKE_NEW, DIRTY CAR Nissan Leaf 2015 for $ 26162.88
+Purchased BROKEN, CLEAN PICKUP Chevrolet Silverado 1500 2018 for $ 55175.45
+INTERN Kingston Faulkner wash (ChemicalWashing) MONSTER_TRUCK Swamp Thing 15 and made it CLEAN
+INTERN Kingston Faulkner wash (ChemicalWashing) PERFORMANCE_CAR Ferrari Daytona 2020 and made it DIRTY
+INTERN Gordon Blair wash (ElbowGreaseWashing) PERFORMANCE_CAR Ferrari Daytona 2020 and made it CLEAN
+INTERN Gordon Blair wash (ElbowGreaseWashing) PERFORMANCE_CAR Ford Mustang 2019 and made it CLEAN
+INTERN Tiffany Jimenez wash (ChemicalWashing) CAR Nissan Leaf 2015 and made it CLEAN
+INTERN Tiffany Jimenez wash (ChemicalWashing) PICKUP GMC Hummer EV 2020 and made it SPARKLING (earned 100.00 bonus)
+MECHANIC Moses Petersen repaired BROKEN MONSTER_TRUCK Swamp Thing 15 unsuccessfully
+MECHANIC Moses Petersen repaired BROKEN MONSTER_TRUCK Swamp Thing 15 and made it USED (earned $500.00 bonus)
+MECHANIC Kyng Person repaired USED MONSTER_TRUCK Swamp Thing 15 and made it LIKE_NEW (earned $500.00 bonus)
+MECHANIC Kyng Person repaired USED PERFORMANCE_CAR Ferrari Daytona 2020 and made it LIKE_NEW (earned $200.00 bonus)
+MECHANIC Tiffany Lester repaired BROKEN ELECTRIC_CAR Subaru Solterra 2019 (300 miles) and made it USED (earned $300.00 bonus)
+MECHANIC Tiffany Lester repaired USED ELECTRIC_CAR Subaru Solterra 2019 (300 miles) and made it LIKE_NEW (earned $300.00 bonus)
+SALESPERSON Louis Galindo sold DIRTY LIKE_NEW Ferrari Daytona 2020 to Buyer unsuccessfully
+SALESPERSON Jovanni Lester (earned $500.00 bonus) sold DIRTY LIKE_NEW (MONSTER_TRUCK) Swamp Thing 15 to Buyer for $314956.82 + $6299.14 (RoadRescueCoverage (addOns)).
+Added sale income $321255.95 to current balance
+SALESPERSON Gerald Jensen (earned $150.00 bonus) sold CLEAN LIKE_NEW (MOTORCYCLE) Vespa 2015 (407 CC engine) to Buyer for $45514.24 + $12288.85 (ExtendedWarranty, RoadRescueCoverage, SatelliteRadio (addOns)).
+Added sale income $57803.09 to current balance
+SALESPERSON Jovanni Lester sold CLEAN LIKE_NEW KTM 2010 (926 CC engine) to Buyer unsuccessfully
+SALESPERSON Jovanni Lester (earned $150.00 bonus) sold CLEAN LIKE_NEW (MOTORCYCLE) KTM 2010 (926 CC engine) to Buyer for $32802.18 + $656.04 (RoadRescueCoverage (addOns)).
+Added sale income $33458.22 to current balance
 Total salary payout increased by $1500.00
-Total bonuses payout increased by $1730.00
-SALESPERSON Amayah Case received $150.00 (salary) and $220.00 (bonuses)
-DRIVER Samson Moody received $150.00 (salary) and $0.00 (bonuses)
-MECHANIC Kiana Wilkinson received $120.00 (salary) and $100.00 (bonuses)
-SALESPERSON Macie Chase received $150.00 (salary) and $510.00 (bonuses)
-SALESPERSON Easton Ramos received $150.00 (salary) and $500.00 (bonuses)
-MECHANIC Cade Rivers received $120.00 (salary) and $400.00 (bonuses)
-INTERN Salvatore Vincent received $80.00 (salary) and $0.00 (bonuses)
-INTERN Samson Chase received $80.00 (salary) and $0.00 (bonuses)
-MECHANIC Royalty Ryan received $120.00 (salary) and $0.00 (bonuses)
-INTERN Dilan Jensen received $80.00 (salary) and $0.00 (bonuses)
-DRIVER Macie Cardenas received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Riley Frazier received $150.00 (salary) and $0.00 (bonuses)
+Total bonuses payout increased by $2700.00
+SALESPERSON Louis Galindo received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Louis Barry received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Jovanni Lester received $150.00 (salary) and $650.00 (bonuses)
+MECHANIC Moses Petersen received $120.00 (salary) and $500.00 (bonuses)
+DRIVER Salvatore Fleming received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Kyng Person received $120.00 (salary) and $700.00 (bonuses)
+SALESPERSON Gerald Jensen received $150.00 (salary) and $150.00 (bonuses)
+MECHANIC Tiffany Lester received $120.00 (salary) and $600.00 (bonuses)
+INTERN Kingston Faulkner received $80.00 (salary) and $0.00 (bonuses)
+INTERN Gordon Blair received $80.00 (salary) and $0.00 (bonuses)
+DRIVER Macie Cortez received $150.00 (salary) and $0.00 (bonuses)
+INTERN Tiffany Jimenez received $80.00 (salary) and $100.00 (bonuses)

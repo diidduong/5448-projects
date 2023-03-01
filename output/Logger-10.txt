@@ -1,28 +1,26 @@
-Purchased BROKEN, DIRTY PICKUP GMC Sierra Supercharged 2015 for $ 35408.77
-Purchased BROKEN, SPARKLING MONSTER_TRUCK Lucas Oil Crusader 4 for $ 64584.61
-INTERN Royalty Ryan wash (ElbowGreaseWashing) PERFORMANCE_CAR Mazda MX-5 Miata 2019 and made it CLEAN
-INTERN Royalty Ryan wash (ElbowGreaseWashing) MOTORCYCLE Harley-Davidson 2016 (879 CC engine) and made it CLEAN
-INTERN Salvatore Vincent wash (ChemicalWashing) MOTORCYCLE Cagiva 2023 (775 CC engine) and made it DIRTY
-INTERN Salvatore Vincent wash (ChemicalWashing) MOTORCYCLE Cagiva 2023 (775 CC engine) and made it CLEAN
-INTERN Samson Chase wash (DetailedWashing) PICKUP GMC Sierra Supercharged 2015 and made it DIRTY
-INTERN Samson Chase wash (DetailedWashing) PICKUP GMC Sierra Supercharged 2015 and made it CLEAN
-MECHANIC Ridge Fernandez repaired USED MONSTER_TRUCK Raminator 12 and made it LIKE_NEW (earned $500.00 bonus)
-MECHANIC Ridge Fernandez repaired BROKEN PICKUP GMC Sierra Supercharged 2015 and made it USED (earned $150.00 bonus)
-MECHANIC Kiana Wilkinson repaired USED PICKUP GMC Sierra Supercharged 2015 and made it LIKE_NEW (earned $150.00 bonus)
-MECHANIC Kiana Wilkinson repaired BROKEN MONSTER_TRUCK Lucas Oil Crusader 4 and made it USED (earned $500.00 bonus)
-MECHANIC Cade Rivers repaired USED MONSTER_TRUCK Lucas Oil Crusader 4 unsuccessfully
-MECHANIC Cade Rivers repaired USED MONSTER_TRUCK Lucas Oil Crusader 4 and made it LIKE_NEW (earned $500.00 bonus)
+INTERN Elaine Spence wash (ChemicalWashing) MONSTER_TRUCK Madusa 8 and made it SPARKLING (earned 200.00 bonus)
+INTERN Elaine Spence wash (ChemicalWashing) ELECTRIC_CAR Toyota bZ4X 2023 (259 miles) and made it DIRTY
+INTERN Moses Petersen wash (ElbowGreaseWashing) ELECTRIC_CAR Toyota bZ4X 2023 (259 miles) and made it CLEAN
+INTERN Moses Petersen wash (ElbowGreaseWashing) PERFORMANCE_CAR Toyota Supra Mark IV 2018 and made it CLEAN
+INTERN Kyng Person wash (ChemicalWashing) PERFORMANCE_CAR Toyota Supra Mark IV 2018 and made it SPARKLING (earned 75.00 bonus)
+INTERN Kyng Person wash (ChemicalWashing) CAR Mitsubishi Eclipse 2019 and made it CLEAN
+MECHANIC Kingston Vo repaired USED ELECTRIC_CAR Toyota bZ4X 2023 (259 miles) and made it LIKE_NEW (earned $300.00 bonus)
+MECHANIC Kingston Vo repaired BROKEN MONSTER_TRUCK WCW Nitro Machine 7 unsuccessfully
+MECHANIC Jaycee Faulkner repaired BROKEN MONSTER_TRUCK WCW Nitro Machine 7 and made it USED (earned $500.00 bonus)
+MECHANIC Jaycee Faulkner repaired USED MONSTER_TRUCK WCW Nitro Machine 7 and made it LIKE_NEW (earned $500.00 bonus)
+SALESPERSON Jovanni Lester sold CLEAN LIKE_NEW Subaru Solterra 2013 (214 miles) to Buyer unsuccessfully
+SALESPERSON Aurora Graham sold CLEAN LIKE_NEW Honda Odyssey 2020 to Buyer unsuccessfully
 Total salary payout increased by $1500.00
-Total bonuses payout increased by $1800.00
-MECHANIC Ridge Fernandez received $120.00 (salary) and $650.00 (bonuses)
-SALESPERSON Amayah Case received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Macie Mayo received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Angie Fuller received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Samson Moody received $150.00 (salary) and $0.00 (bonuses)
-MECHANIC Kiana Wilkinson received $120.00 (salary) and $650.00 (bonuses)
-SALESPERSON Macie Chase received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Easton Ramos received $150.00 (salary) and $0.00 (bonuses)
-MECHANIC Cade Rivers received $120.00 (salary) and $500.00 (bonuses)
-INTERN Royalty Ryan received $80.00 (salary) and $0.00 (bonuses)
-INTERN Salvatore Vincent received $80.00 (salary) and $0.00 (bonuses)
-INTERN Samson Chase received $80.00 (salary) and $0.00 (bonuses)
+Total bonuses payout increased by $1575.00
+INTERN Elaine Spence received $80.00 (salary) and $200.00 (bonuses)
+MECHANIC Kingston Vo received $120.00 (salary) and $300.00 (bonuses)
+MECHANIC Jaycee Faulkner received $120.00 (salary) and $1000.00 (bonuses)
+MECHANIC Harry Smith received $120.00 (salary) and $0.00 (bonuses)
+SALESPERSON Aurora Graham received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Louis Galindo received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Lewis Dickson received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Louis Barry received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Calliope Maldonado received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Jovanni Lester received $150.00 (salary) and $0.00 (bonuses)
+INTERN Moses Petersen received $80.00 (salary) and $0.00 (bonuses)
+INTERN Kyng Person received $80.00 (salary) and $75.00 (bonuses)

@@ -1,31 +1,39 @@
-Purchased USED, DIRTY PERFORMANCE_CAR MG MGB 2023 for $ 77366.04
-Purchased BROKEN, DIRTY PICKUP Rivian R1T 2013 for $ 42954.21
-Purchased USED, CLEAN ELECTRIC_CAR Hyundai Kona Electric 2013 (344 miles) for $ 66774.35
-INTERN Kaliyah Chase wash (ElbowGreaseWashing) MONSTER_TRUCK Snake Bite 1 and made it DIRTY
-INTERN Kaliyah Chase wash (ElbowGreaseWashing) MONSTER_TRUCK Snake Bite 1 and made it CLEAN
-INTERN Cade Rivers wash (ElbowGreaseWashing) CAR Hyundai Sonata 2018 and made it CLEAN
-INTERN Cade Rivers wash (ElbowGreaseWashing) PERFORMANCE_CAR MG MGB 2023 and made it DIRTY
-INTERN Eric Stuart wash (ChemicalWashing) PERFORMANCE_CAR MG MGB 2023 and made it CLEAN
-INTERN Eric Stuart wash (ChemicalWashing) PICKUP Rivian R1T 2013 and made it CLEAN
-MECHANIC Easton Meyer repaired USED PERFORMANCE_CAR MG MGB 2023 and made it LIKE_NEW (earned $200.00 bonus)
-MECHANIC Easton Meyer repaired BROKEN PICKUP Rivian R1T 2013 and made it USED (earned $150.00 bonus)
-MECHANIC Ridge Fernandez repaired USED PICKUP Rivian R1T 2013 and made it LIKE_NEW (earned $150.00 bonus)
-MECHANIC Ridge Fernandez repaired USED ELECTRIC_CAR Hyundai Kona Electric 2013 (344 miles) and made it LIKE_NEW (earned $300.00 bonus)
-SALESPERSON Macie Chase (earned $500.00 bonus) sold CLEAN LIKE_NEW (MONSTER_TRUCK) Snake Bite 1 to Buyer for $172494.04 + $3449.88 (RoadRescueCoverage (addOns)).
-Added sale income $175943.92 to current balance
-SALESPERSON Amayah Case (earned $350.00 bonus) sold DIRTY LIKE_NEW (PERFORMANCE_CAR) MG MGB 2023 to Buyer for $96707.56 + $6769.53 (RoadRescueCoverage, SatelliteRadio (addOns)).
-Added sale income $103477.08 to current balance
+Purchased LIKE_NEW, DIRTY CAR Honda Odyssey 2020 for $ 37175.43
+INTERN Kiana Person wash (ChemicalWashing) ELECTRIC_CAR Subaru Solterra 2013 (214 miles) and made it CLEAN
+INTERN Kiana Person wash (ChemicalWashing) ELECTRIC_CAR Audi E-Tron Sportback 2011 (190 miles) and made it CLEAN
+INTERN Elaine Spence wash (ChemicalWashing) MONSTER_TRUCK Grinder 3 and made it CLEAN
+INTERN Elaine Spence wash (ChemicalWashing) ELECTRIC_CAR Volvo XC40 Recharge 2017 (309 miles) and made it CLEAN
+INTERN Moses Petersen wash (ElbowGreaseWashing) MOTORCYCLE CCW 2012 (824 CC engine) and made it CLEAN
+INTERN Moses Petersen wash (ElbowGreaseWashing) MONSTER_TRUCK Madusa 8 and made it CLEAN
+MECHANIC Kingston Vo repaired USED MONSTER_TRUCK Grinder 3 and made it LIKE_NEW (earned $500.00 bonus)
+MECHANIC Kingston Vo repaired BROKEN MONSTER_TRUCK Mohawk Warrior 5 and made it USED (earned $500.00 bonus)
+MECHANIC Jaycee Faulkner repaired USED MONSTER_TRUCK Mohawk Warrior 5 and made it LIKE_NEW (earned $500.00 bonus)
+MECHANIC Jaycee Faulkner repaired BROKEN ELECTRIC_CAR Volvo XC40 Recharge 2017 (309 miles) and made it USED (earned $300.00 bonus)
+MECHANIC Harry Smith repaired USED ELECTRIC_CAR Volvo XC40 Recharge 2017 (309 miles) and made it LIKE_NEW (earned $300.00 bonus)
+MECHANIC Harry Smith repaired USED MOTORCYCLE CCW 2012 (824 CC engine) and made it LIKE_NEW (earned $80.00 bonus)
+SALESPERSON Aurora Graham (earned $150.00 bonus) sold DIRTY LIKE_NEW (MOTORCYCLE) CCW 2012 (824 CC engine) to Buyer for $52079.05 + $2603.95 (SatelliteRadio (addOns)).
+Added sale income $54683.00 to current balance
+SALESPERSON Louis Galindo sold DIRTY LIKE_NEW Volvo XC40 Recharge 2017 (409 miles) to Buyer unsuccessfully
+SALESPERSON Louis Galindo sold DIRTY LIKE_NEW Volvo XC40 Recharge 2017 (409 miles) to Buyer unsuccessfully
+SALESPERSON Louis Galindo sold SPARKLING LIKE_NEW McLaren 720S 2013 to Buyer for $93363.07 without any addOns (earned $350.00 bonus)
+Added sale income $93363.07 to current balance
+SALESPERSON Louis Galindo (earned $150.00 bonus) sold DIRTY LIKE_NEW (MOTORCYCLE) Zero 2023 (512 CC engine) to Buyer for $43943.68 + $11864.79 (ExtendedWarranty, RoadRescueCoverage, SatelliteRadio (addOns)).
+Added sale income $55808.48 to current balance
+SALESPERSON Aurora Graham (earned $300.00 bonus) sold DIRTY LIKE_NEW (ELECTRIC_CAR) Volvo XC40 Recharge 2017 (409 miles) to Buyer for $127043.61 + $31760.90 (ExtendedWarranty, SatelliteRadio (addOns)).
+Added sale income $158804.52 to current balance
+SALESPERSON Aurora Graham (earned $350.00 bonus) sold SPARKLING LIKE_NEW (PERFORMANCE_CAR) Subaru BRZ 2018 to Buyer for $87934.09 + $1758.68 (RoadRescueCoverage (addOns)).
+Added sale income $89692.77 to current balance
 Total salary payout increased by $1500.00
-Total bonuses payout increased by $1650.00
-MECHANIC Easton Meyer received $120.00 (salary) and $350.00 (bonuses)
-MECHANIC Ridge Fernandez received $120.00 (salary) and $450.00 (bonuses)
-SALESPERSON Amayah Case received $150.00 (salary) and $350.00 (bonuses)
-DRIVER Macie Mayo received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Angie Fuller received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Samson Moody received $150.00 (salary) and $0.00 (bonuses)
-MECHANIC Kiana Wilkinson received $120.00 (salary) and $0.00 (bonuses)
-INTERN Kaliyah Chase received $80.00 (salary) and $0.00 (bonuses)
-SALESPERSON Macie Chase received $150.00 (salary) and $500.00 (bonuses)
-INTERN Cade Rivers received $80.00 (salary) and $0.00 (bonuses)
-SALESPERSON Easton Ramos received $150.00 (salary) and $0.00 (bonuses)
-INTERN Eric Stuart received $80.00 (salary) and $0.00 (bonuses)
+Total bonuses payout increased by $3480.00
+INTERN Kiana Person received $80.00 (salary) and $0.00 (bonuses)
+INTERN Elaine Spence received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Kingston Vo received $120.00 (salary) and $1000.00 (bonuses)
+MECHANIC Jaycee Faulkner received $120.00 (salary) and $800.00 (bonuses)
+MECHANIC Harry Smith received $120.00 (salary) and $380.00 (bonuses)
+SALESPERSON Aurora Graham received $150.00 (salary) and $800.00 (bonuses)
+SALESPERSON Louis Galindo received $150.00 (salary) and $500.00 (bonuses)
+DRIVER Lewis Dickson received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Louis Barry received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Calliope Maldonado received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Jovanni Lester received $150.00 (salary) and $0.00 (bonuses)
+INTERN Moses Petersen received $80.00 (salary) and $0.00 (bonuses)

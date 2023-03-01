@@ -1,31 +1,31 @@
-Purchased LIKE_NEW, DIRTY MONSTER_TRUCK Bear Foot USA 4 for $ 97317.31
-INTERN Aurora Smith wash (ElbowGreaseWashing) CAR Dodge Charger 2014 and made it DIRTY
-INTERN Aurora Smith wash (ElbowGreaseWashing) CAR Dodge Charger 2014 and made it CLEAN
-INTERN Tiffany Maldonado wash (ElbowGreaseWashing) PICKUP Ford Ranger 2023 and made it CLEAN
-INTERN Tiffany Maldonado wash (ElbowGreaseWashing) MONSTER_TRUCK Bear Foot USA 4 and made it CLEAN
-INTERN Anaya Giles wash (ChemicalWashing) PICKUP Mahindra Bolero Camper 2012 and made it CLEAN
-INTERN Anaya Giles wash (ChemicalWashing) PICKUP Mahindra Bolero Camper 2012 and made it CLEAN
-SALESPERSON Salvatore Vincent (earned $220.00 bonus) sold CLEAN LIKE_NEW (PICKUP) Ford Ranger 2023 to Buyer for $111387.28 + $5569.36 (SatelliteRadio (addOns)).
-Added sale income $116956.65 to current balance
-SALESPERSON Macie Chase (earned $350.00 bonus) sold CLEAN LIKE_NEW (PERFORMANCE_CAR) Ferrari F8 2013 to Buyer for $122219.49 + $2444.39 (RoadRescueCoverage (addOns)).
-Added sale income $124663.88 to current balance
-SALESPERSON Salvatore Vincent (earned $160.00 bonus) sold CLEAN LIKE_NEW (CAR) Dodge Charger 2014 to Buyer for $38240.71 + $8412.96 (ExtendedWarranty, RoadRescueCoverage (addOns)).
-Added sale income $46653.67 to current balance
-Samson Moody (Driver) raced with Ferrari F8 2010 (PERFORMANCE_CAR) and achieved rank no. 9.
-Macie Cardenas (Driver) raced with Porsche 718 Cayman 2017 (PERFORMANCE_CAR) and achieved rank no. 16.
-DRIVER Macie Cardenas got injured!
-Porsche 718 Cayman 2017 (PERFORMANCE_CAR) went BROKEN.
-Riley Frazier (Driver) raced with Subaru BRZ 2021 (PERFORMANCE_CAR) and achieved rank no. 5.
-Total salary payout increased by $1350.00
-Total bonuses payout increased by $730.00
-DRIVER Samson Moody received $150.00 (salary) and $0.00 (bonuses)
-MECHANIC Kiana Wilkinson received $120.00 (salary) and $0.00 (bonuses)
-SALESPERSON Macie Chase received $150.00 (salary) and $350.00 (bonuses)
-SALESPERSON Easton Ramos received $150.00 (salary) and $0.00 (bonuses)
-MECHANIC Cade Rivers received $120.00 (salary) and $0.00 (bonuses)
-MECHANIC Royalty Ryan received $120.00 (salary) and $0.00 (bonuses)
-DRIVER Riley Frazier received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Salvatore Vincent received $150.00 (salary) and $380.00 (bonuses)
-INTERN Aurora Smith received $80.00 (salary) and $0.00 (bonuses)
-INTERN Tiffany Maldonado received $80.00 (salary) and $0.00 (bonuses)
-INTERN Anaya Giles received $80.00 (salary) and $0.00 (bonuses)
+Purchased LIKE_NEW, DIRTY PERFORMANCE_CAR Chevrolet Camaro 2021 for $ 59100.70
+Purchased LIKE_NEW, CLEAN PERFORMANCE_CAR Acura NSX 2022 for $ 75701.14
+INTERN Tiffany Jimenez wash (ChemicalWashing) MONSTER_TRUCK Grave Digger 2 and made it CLEAN
+INTERN Tiffany Jimenez wash (ChemicalWashing) PERFORMANCE_CAR Chevrolet Camaro 2021 and made it CLEAN
+INTERN Calliope Hess wash (ChemicalWashing) MONSTER_TRUCK Grave Digger 2 and made it CLEAN
+INTERN Calliope Hess wash (ChemicalWashing) MONSTER_TRUCK Grave Digger 2 and made it SPARKLING (earned 200.00 bonus)
+INTERN Leyla Conrad wash (ChemicalWashing) PERFORMANCE_CAR Lamborghini Countach 2015 and made it SPARKLING (earned 75.00 bonus)
+INTERN Leyla Conrad wash (ChemicalWashing) MOTORCYCLE Norton 2020 (560 CC engine) and made it CLEAN
+MECHANIC Kyng Person repaired BROKEN MONSTER_TRUCK Grave Digger 2 and made it USED (earned $500.00 bonus)
+MECHANIC Kyng Person repaired USED MONSTER_TRUCK Grave Digger 2 and made it LIKE_NEW (earned $500.00 bonus)
+MECHANIC Tiffany Lester repaired BROKEN PERFORMANCE_CAR Lamborghini Countach 2015 and made it USED (earned $200.00 bonus)
+MECHANIC Tiffany Lester repaired USED PERFORMANCE_CAR Lamborghini Countach 2015 and made it LIKE_NEW (earned $200.00 bonus)
+MECHANIC Kingston Faulkner repaired USED MONSTER_TRUCK Batman 1 and made it LIKE_NEW (earned $500.00 bonus)
+Louis Barry (Driver) raced with Predator 9 (MONSTER_TRUCK) and achieved rank no. 13.
+Salvatore Fleming (Driver) raced with USA-1 4 (MONSTER_TRUCK) and achieved rank no. 1.
+Salvatore Fleming (Driver) won with USA-1 4 (MONSTER_TRUCK) (earned $ 1000 bonus)!
+Macie Cortez (Driver) raced with Batman 1 (MONSTER_TRUCK) and achieved rank no. 11.
+Total salary payout increased by $1500.00
+Total bonuses payout increased by $3175.00
+SALESPERSON Louis Galindo received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Louis Barry received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Jovanni Lester received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Salvatore Fleming received $150.00 (salary) and $1000.00 (bonuses)
+MECHANIC Kyng Person received $120.00 (salary) and $1000.00 (bonuses)
+SALESPERSON Gerald Jensen received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Tiffany Lester received $120.00 (salary) and $400.00 (bonuses)
+DRIVER Macie Cortez received $150.00 (salary) and $0.00 (bonuses)
+INTERN Tiffany Jimenez received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Kingston Faulkner received $120.00 (salary) and $500.00 (bonuses)
+INTERN Calliope Hess received $80.00 (salary) and $200.00 (bonuses)
+INTERN Leyla Conrad received $80.00 (salary) and $75.00 (bonuses)
