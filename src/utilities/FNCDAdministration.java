@@ -114,7 +114,6 @@ public class FNCDAdministration {
     /**
      * This method is the main simulator engine that has all the hiring, promoting, quiting, selling, washing, repairing,
      * and the financial operations.
-     *
      */
     public void operate() {
         while (day <= END_DAY) {
@@ -131,6 +130,7 @@ public class FNCDAdministration {
                 staff.addWorkDay();
             }
 
+            // Sunday and Wednesday is for both working and racing activity, other day is working
             if (day % 7 == 1 || day % 7 == 4) {
                 System.out.printf("\n********** day %d ************\n", day);
                 System.out.println("********** Working & Racing day ************");
@@ -141,23 +141,20 @@ public class FNCDAdministration {
                 selling();
                 racing();
                 ending();
-
-                dailyReport();
             } else {
                 System.out.printf("\n********** day %d ************\n", day);
                 System.out.println("********** Working day ************");
-
                 opening();
                 washing();
                 repairing();
                 selling();
                 ending();
-
-                dailyReport();
             }
 
+            dailyReport(); // tabular report at the end of the day
+
             publisher.removeSubscriber(logger); // remove logger at the end of each day
-            tracker.printDailySummary();
+            tracker.printDailySummary(); // tracker summary
 
             day++; // next day work
         }
@@ -250,20 +247,22 @@ public class FNCDAdministration {
             Driver driver = (Driver) availableDrivers.get(i);
             Vehicle vehicle = vehiclesForRacing.get(i);
 
-
+            // Get a random rank from 1-20
             int rank = RandomGenerator.randomIntGenerator(1,20);
             disposableRanks.add(rank);
             while(disposableRanks.contains(rank)){
-                rank = RandomGenerator.randomIntGenerator(1,20);
+                rank = RandomGenerator.randomIntGenerator(1,20); // find a unique rank
             }
             disposableRanks.add(rank);
 
+            // Output race attendance
             String msg = String.format("%s (Driver) raced with %s (%s) and achieved rank no. %d.\n", driver.getName(),
                     vehicle.getName(), vehicle.getVehicleType(), rank
             );
             publisher.notifySubscribers(new Message(msg, 0, 0));
 
             if (rank <= 3) {
+                // Output racing result
                 msg = String.format("%s (Driver) won with %s (%s) (earned $ 1000 bonus)!\n",driver.getName(), vehicle.getName(),
                         vehicle.getVehicleType());
                 publisher.notifySubscribers(new Message(msg, 1000, 0));
@@ -277,7 +276,9 @@ public class FNCDAdministration {
                     vehicle.setSalePrice(vehicle.getSalePrice() * 1.1);
                 }
             } else if (rank >= 16){
+                // Check if Driver becomes Injured
                 driver.injury(publisher);
+
                 // If driver is injured, Driver leave FNCD or move to departed staff
                 if (driver.isInjured()) {
                     driver.setWorking(false);
@@ -286,6 +287,7 @@ public class FNCDAdministration {
                 }
                 // Vehicles become Broken if they lose
                 vehicle.setVehicleCondition(Vehicle.VehicleCondition.BROKEN);
+                // Output Broken vehicle result after the race
                 msg = String.format("%s (%s) went BROKEN.\n", vehicle.getName(), vehicle.getVehicleType());
                 publisher.notifySubscribers(new Message(msg, 0, 0));
             }
@@ -312,8 +314,8 @@ public class FNCDAdministration {
             );
             publisher.notifySubscribers(new Message(msg, staff.getSalary() + staff.getBonus(), 0));
 
-            staff.addSalary();
-            staff.addTotalBonus();
+            staff.addSalary(); // pay the base daily rate to staff
+            staff.addTotalBonus(); // pay bonuses earned by staff
         }
 
         // One member of each type can quit at 10%, if quit, move staff to departed staff list
@@ -393,7 +395,7 @@ public class FNCDAdministration {
     }
 
     /**
-     * method that promotes an intern in case of a given mechanic quited
+     * method that promotes an intern in case of a given staff quited
      */
     public void promoteStaff(Staff staff, Staff.JobTitle title){
         Staff newStaff = Staff.createStaffByType(title);
@@ -461,11 +463,11 @@ public class FNCDAdministration {
 
         System.out.println();
 
+        // Print out inventory
         ArrayList<Vehicle> allVehicles = new ArrayList<>();
         allVehicles.addAll(inventory.getWorkingInventory());
         allVehicles.addAll(inventory.getSoldVehicles());
 
-        // Print out inventory
         System.out.println("Inventory");
         System.out.println("Type | Name | Cost | SalePrice | Condition | Cleanliness | InStock | RacesWon");
         System.out.println("------------------------------------------------------------------------");

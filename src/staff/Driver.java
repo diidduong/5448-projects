@@ -6,7 +6,7 @@ import utilities.RandomGenerator;
 
 /**
  * represents driver and is a subclass of staff
- * @author Ahmed.H.Biby
+ * @author Duy Duong, Ahmed.H.Biby
  */
 public class Driver extends Staff {
     private boolean isInjured;

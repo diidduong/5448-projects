@@ -4,7 +4,7 @@ import vehicle.Vehicle;
 
 /**
  * one of the concrete classes for the SaleAddOn (decorator pattern).
- * @author Ahmed.H.Biby
+ * @author Duy Duong, Ahmed.H.Biby
  */
 public class UnderCoatingAddOn extends SaleAddOn{
     public UnderCoatingAddOn(Vehicle vehicle) {

@@ -5,7 +5,7 @@ import vehicle.Vehicle;
 
 /**
  * one of the concrete classes for the washingMethod (strategy pattern)
- * @author Ahmed.H.Biby
+ * @author Duy Duong, Ahmed.H.Biby
  */
 public class ChemicalWashing implements WashMethod{
     @Override

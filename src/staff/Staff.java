@@ -117,9 +117,10 @@ public abstract class Staff {
     }
 
     /**
+     * Create staff by given title
      *
-     * @param title
-     * @return
+     * @param title wanted title
+     * @return a staff object
      */
     public static Staff createStaffByType(Staff.JobTitle title) {
         switch (title) {
@@ -137,10 +138,12 @@ public abstract class Staff {
     }
 
     /**
+     * Count number of staff of a specific job title
+     * Reference: Project 2 example solution class Staff.howManyStaffByType
      *
-     * @param staffs
-     * @param title
-     * @return
+     * @param staffs all staff
+     * @param title wanted title
+     * @return number of staff
      */
     public static int countStaffByType(ArrayList<Staff> staffs, JobTitle title) {
         int count = 0;
@@ -153,10 +156,12 @@ public abstract class Staff {
     }
 
     /**
+     * Get all staff for given job title
+     * Reference: Project 2 example solution class Staff.getStaffByType
      *
-     * @param staffs
-     * @param jobTitle
-     * @return
+     * @param staffs list of all staffs
+     * @param jobTitle wanted job title
+     * @return list of staffs that match given title
      */
     public static ArrayList<Staff> getStaffListByType(ArrayList<Staff> staffs, JobTitle jobTitle) {
         ArrayList<Staff> staffList = new ArrayList<>();

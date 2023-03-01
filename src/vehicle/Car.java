@@ -1,7 +1,7 @@
 package vehicle;
 
 /**
- * @author Duy Duong, AHmed.H.Biby
+ * @author Duy Duong, Ahmed.H.Biby
  *
  * Subclass of Vehicle
  */

@@ -113,7 +113,7 @@ public class RandomGenerator {
             case ELECTRIC_CAR:
                 return nameGenerator(electricCarNames, carYears, usedElectricCarNames);
             case MONSTER_TRUCK:
-                return nameGenerator(monsterTruckNames, numbers, usedMotorcycleNames);
+                return nameGenerator(monsterTruckNames, numbers, usedMonsterTruckNames);
             case MOTORCYCLE:
                 return nameGenerator(motorcycleNames, carYears, usedMotorcycleNames);
             default:
@@ -142,10 +142,11 @@ public class RandomGenerator {
         String name = null;
         int possibleNumNames = firstNameList.length * secondNameList.length;
 
+        // Find a unique name that has not been used
         while(usedNameList.size() < possibleNumNames) {
             int rand_int1 = random.nextInt(firstNameList.length);
             int rand_int2 = random.nextInt(secondNameList.length);
-            String newName = firstNameList[rand_int1] +" " + secondNameList[rand_int2];
+            String newName = firstNameList[rand_int1] + " " + secondNameList[rand_int2];
             if (!usedNameList.contains(newName)) {
                 name = newName;
                 break;
@@ -191,7 +192,7 @@ public class RandomGenerator {
     }
 
     /**
-     *  Method that generates random int from normal distribution with mean and std given a minimum value
+     * Method that generates random int from normal distribution with mean and std given a minimum value
      *
      * @return random int
      */
@@ -301,13 +302,22 @@ public class RandomGenerator {
      */
     public static Vehicle.VehicleType getRandomVehicleType() {
         Random random = new Random();
-        double randomNum = random.nextInt(100);
-        if (randomNum <= 33) {
+        double randomNum = random.nextInt(121);
+        if (randomNum <= 20) {
             return Vehicle.VehicleType.PERFORMANCE_CAR;
-        } else if (randomNum <= 66) {
-            return Vehicle.VehicleType.CAR;
-        } else {
+        } else if (randomNum <= 40) {
             return Vehicle.VehicleType.PICKUP;
+        } else if (randomNum <= 60) {
+            return Vehicle.VehicleType.ELECTRIC_CAR;
+        }
+        else if (randomNum <= 80) {
+            return Vehicle.VehicleType.MOTORCYCLE;
+        }
+        else if (randomNum <= 100) {
+            return Vehicle.VehicleType.CAR;
+        }
+        else {
+            return Vehicle.VehicleType.MONSTER_TRUCK;
         }
     }
 }

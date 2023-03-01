@@ -2,11 +2,11 @@ package vehicle;
 
 /**
  * represents the monster truck and is a subclass of vehicle
- * @author Ahmed.H.Biby
+ * @author Duy Duong, Ahmed.H.Biby
  */
 public class MonsterTruck extends Vehicle {
     /**
-     * Constructor to intialize vehicle with type and with a random cost
+     * Constructor to initialize vehicle with type and with a random cost
      */
     public MonsterTruck() {
         super(VehicleType.MONSTER_TRUCK, 30000, 50000);

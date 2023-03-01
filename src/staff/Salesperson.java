@@ -24,10 +24,11 @@ public class Salesperson extends Staff {
     }
 
     /**
+     * Method to pick and sell a vehicle from working inventory to given buyer
      *
-     * @param buyer
-     * @param inventory
-     * @return
+     * @param buyer given Buyer
+     * @param inventory inventory
+     * @return a vehicle object if sold, null if can't sell any or fails to sell one
      */
     public Vehicle sellVehicles(Buyer buyer, Inventory inventory, EventPublisher publisher) {
         if (buyer == null) {
@@ -63,6 +64,7 @@ public class Salesperson extends Staff {
         // check if successful sale by probability
         sellable = RandomGenerator.probabilisticOutcomeGenerator(successfulSaleProbs);
         if (sellable) {
+            // Try to sell addons to buyer
             HashMap<String, Double> randomAddOn = randomAddOn(selectedVehicle);
             for (String name : randomAddOn.keySet()) {
                 addOns = name;

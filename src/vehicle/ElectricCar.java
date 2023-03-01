@@ -4,7 +4,7 @@ import utilities.RandomGenerator;
 
 /**
  * represents the electric car and is a subclass of vehicle
- * @author Ahmed.H.Biby
+ * @author Duy Duong, Ahmed.H.Biby
  */
 public class ElectricCar extends Vehicle {
     private int range;

@@ -4,13 +4,13 @@ import utilities.RandomGenerator;
 
 /**
  * represents the motorcycle and is a subclass of vehicle
- * @author Ahmed.H.Biby
+ * @author Duy Duong, Ahmed.H.Biby
  */
 public class MotorCycle extends Vehicle {
     private int engineSize;
 
     /**
-     * Constructor to intialize vehicle with type and with a random cost
+     * Constructor to initialize vehicle with type and with a random cost
      */
     public MotorCycle() {
         super(VehicleType.MOTORCYCLE, 8000, 25000);
@@ -25,6 +25,11 @@ public class MotorCycle extends Vehicle {
 //        System.out.println(this.getSalePrice());                // for logic testing
     }
 
+    /**
+     * This to include cc engine extension to motorcycle name
+     *
+     * @return name with cc engine size
+     */
     @Override
     public String getName() {
         return String.format("%s (%d CC engine)", super.getName(), engineSize);

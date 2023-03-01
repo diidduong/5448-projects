@@ -1,6 +1,5 @@
 package vehicle;
 
-import staff.Staff;
 import utilities.RandomGenerator;
 
 import java.util.ArrayList;
@@ -34,7 +33,7 @@ public abstract class Vehicle {
     private int racesWon;
 
     /**
-     * Constructor to intialize vehicle with type and with a random cost
+     * Constructor to initialize vehicle with type and with a random cost
      *
      * @param type Vehicle Type
      * @param lowestCost lowest cost
@@ -52,7 +51,7 @@ public abstract class Vehicle {
         this.initialCost = calculateCost(vehicleCondition, initialCost);
         this.salePrice = calculatePrice(initialCost);
 
-//        System.out.printf("\nA %s and %s %s (%s) is available in the inventory.\n", getCleanliness(), getVehicleCondition(), type, getName());
+        System.out.printf("\nA %s and %s %s (%s) is available in the inventory.\n", getCleanliness(), getVehicleCondition(), type, getName());
     }
 
     public String getName() {
@@ -127,6 +126,7 @@ public abstract class Vehicle {
 
     /**
      * Util to create vehicle instance by type
+     * Reference: Project 2 example solution
      *
      * @param type vehicle type
      * @return vehicle instance
@@ -152,6 +152,7 @@ public abstract class Vehicle {
 
     /**
      * Util to count a given vehicle type in the list
+     * Reference: Project 2 example solution class Vehicle.howManyVehiclesByType
      *
      * @param vehicles list of vehicle
      * @param type vehicle type
@@ -169,9 +170,11 @@ public abstract class Vehicle {
 
     /**
      * Get vehicle list by given type
-     * @param vehicles
-     * @param type
-     * @return
+     * Reference: Project 2 example solution class Vehicle.getVehiclesByType
+     *
+     * @param vehicles list of all vehicles
+     * @param type vehicle type
+     * @return array list for given vehicle type
      */
     public static ArrayList<Vehicle> getVehicleListByType(ArrayList<Vehicle> vehicles, VehicleType type) {
         ArrayList<Vehicle> vehicleList = new ArrayList<>();

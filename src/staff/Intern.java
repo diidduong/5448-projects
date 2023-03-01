@@ -39,8 +39,9 @@ public class Intern extends Staff {
     }
 
     /**
+     * Method to perfom washing activity
      *
-     * @param vehicles
+     * @param vehicles all vehicle in working inventory
      */
     public void washVehicles(ArrayList<Vehicle> vehicles, EventPublisher publisher) {
         for (int i = 0; i < 2; i++) {
@@ -59,11 +60,6 @@ public class Intern extends Staff {
      * @param vehicle selected vehicle
      */
     public void washVehicle(Vehicle vehicle, EventPublisher publisher) {
-//        if (vehicle.getCleanliness() == Vehicle.Cleanliness.DIRTY) {
-//            vehicle.setCleanliness(RandomGenerator.getRandomCleanliness(new double[]{0.1, 0.8, 0.1}));
-//        } else if (vehicle.getCleanliness() == Vehicle.Cleanliness.CLEAN) {
-//            vehicle.setCleanliness(RandomGenerator.getRandomCleanliness(new double[]{0.3, 0.65, 0.05}));
-//        }
         //TODO: remove comments when new code working
 
         washMethod.washVehicle(vehicle); // wash vehicle with given method
@@ -127,9 +123,6 @@ public class Intern extends Staff {
 
     /**
      * Return bonus for Sparkling washed vehicle by type
-     * $75 for Performance Car
-     * $50 for Car
-     * $100 for Pickup
      *
      * @param vehicle selected vehicle
      * @return bonus value

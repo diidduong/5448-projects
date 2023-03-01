@@ -93,8 +93,6 @@ public class Mechanic extends Staff {
 
     /**
      * Get bonus for employee for each successful repair
-     * $200 if vehicle becomes USED
-     * $300 if vehicle becomes LIKE_NEW
      *
      * Assumption: this method is used for fixed vehicle
      *

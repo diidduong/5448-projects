@@ -4,7 +4,7 @@ import vehicle.Vehicle;
 
 /**
  * The abstract class for the decorator pattern.
- * @author Ahmed.H.Biby
+ * @author Duy Duong, Ahmed.H.Biby
  */
 public class SaleAddOn {
     public enum AddOnType{
@@ -35,6 +35,11 @@ public class SaleAddOn {
         addAddOnPrice(vehicle, addOnType);
     }
 
+    /**
+     * Get addOn price for each type of addon
+     * @param vehicle current vehicle for sale
+     * @param addOnType addon type
+     */
     public void addAddOnPrice(Vehicle vehicle, AddOnType addOnType) {
         switch (addOnType){
             case UNDER_COATING:

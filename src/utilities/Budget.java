@@ -94,6 +94,7 @@ public class Budget {
     /**
      * This method aims at subtracting the new salary from the currentBalance.
      * @param staffs who receives new salary to be subtracted from the currentBalance.
+     * @param publisher publisher for announcing event
      */
     public void addSalariesPayout(ArrayList<Staff> staffs, EventPublisher publisher){
         double dailyRate = 0;
@@ -112,6 +113,7 @@ public class Budget {
     /**
      * This method aims at subtracting the new bonus from the currentBalance.
      * @param staffs : who receives new bonus to be subtracted from the currentBalance.
+     * @param publisher: publisher for announcing event
      */
     public void addBonusesPayout(ArrayList<Staff> staffs, EventPublisher publisher){
         double bonus = 0;
