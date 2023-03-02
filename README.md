@@ -5,7 +5,7 @@
 # Implementation
 We use IntelliJ IDE with Java 8 for our development and Junit 5 for some initial testing. Our source code are inside /src folder. Our test code are inside */test* folder. To run this project, you need to include Junit5 in external libraries, and set /src as root source in order to build and run.
 # Testing
-All test files are store in */test* folder. There are current 5 test files with 22 assertions. To run all tests, you need to mark the folder as Test Sources Root, then right-click on the */test* folder, select option "Run All Tests" or use shortcut Ctrl+Shift+F10.
+All test files are store in */test* folder. There are current 5 test files with 22 assertions. To run all tests, you need to mark the folder as Test Sources Root, then right-click on the */test* folder, select option "Run All Tests" or use shortcut Ctrl+Shift+F10. *test-output.png* shows how the output should look like in IDE.
 
 ## UML Link
 This includes updated version of class diagram (New Class Diagram), old class diagram, and activity diagram. https://drive.google.com/file/d/1zm3C6x2kGjLA6jJz4KAAFQIG-kwMj9kh/view?usp=sharing. 
