@@ -1,0 +1,37 @@
+Purchased BROKEN, DIRTY PERFORMANCE_CAR Ferrari Daytona 2017 for $ 19764.94
+Purchased USED, DIRTY PERFORMANCE_CAR Porsche 911 2010 for $ 17948.91
+Purchased LIKE_NEW, DIRTY MONSTER_TRUCK Bear Foot (1979) 7 for $ 43239.76
+INTERN Demi Kelley wash (ElbowGreaseWashing) MOTORCYCLE Indian 2017 (901 CC engine) and made it DIRTY
+INTERN Demi Kelley wash (ElbowGreaseWashing) MOTORCYCLE Indian 2017 (901 CC engine) and made it CLEAN
+INTERN Joel Zimmerman wash (ElbowGreaseWashing) PERFORMANCE_CAR Ferrari Daytona 2017 and made it DIRTY
+INTERN Joel Zimmerman wash (ElbowGreaseWashing) PERFORMANCE_CAR Ferrari Daytona 2017 and made it CLEAN
+INTERN Ashlynn Moody wash (DetailedWashing) PERFORMANCE_CAR Porsche 911 2010 and made it DIRTY
+INTERN Ashlynn Moody wash (DetailedWashing) PERFORMANCE_CAR Porsche 911 2010 and made it CLEAN
+MECHANIC Maxwell Calhoun repaired BROKEN PERFORMANCE_CAR Ferrari Daytona 2017 and made it USED (earned $200.00 bonus)
+MECHANIC Maxwell Calhoun repaired USED PERFORMANCE_CAR Ferrari Daytona 2017 and made it LIKE_NEW (earned $200.00 bonus)
+MECHANIC Keyla Scott repaired USED PERFORMANCE_CAR Porsche 911 2010 and made it LIKE_NEW (earned $200.00 bonus)
+SALESPERSON Braelynn Wilkinson (earned $150.00 bonus) sold CLEAN LIKE_NEW (MOTORCYCLE) Indian 2017 (901 CC engine) to Buyer for $81016.43 + $1620.33 (RoadRescueCoverage (addOns)).
+Added sale income $82636.76 to current balance
+SALESPERSON Eliezer Scott sold CLEAN LIKE_NEW Ford Velociraptor 6×6 2011 to Buyer for $87704.04 without any addOns (earned $220.00 bonus)
+Added sale income $87704.04 to current balance
+SALESPERSON Eliezer Scott (earned $120.00 bonus) sold CLEAN LIKE_NEW (GOLF_CART) Club Car Onward Lifted 2015 (4 Passengers & 9 hours chargingTime) to Buyer for $20818.62 + $1457.30 (RoadRescueCoverage, SatelliteRadio (addOns)).
+Added sale income $22275.93 to current balance
+SALESPERSON Eliezer Scott sold CLEAN LIKE_NEW Blacksmith 12 to Buyer unsuccessfully
+SALESPERSON Braelynn Wilkinson sold CLEAN LIKE_NEW Fresh Breeze 2020 (12121  feet maximumAltitude & 23 mile/hour maximumCruisingAirSpeed) with TRIKE_WHEEL_LAUNCHER  to Buyer unsuccessfully
+SALESPERSON Eliezer Scott sold CLEAN LIKE_NEW Polaris Slingshot 2021 (980 CC engine) to Buyer unsuccessfully
+SALESPERSON Lewis Newton (earned $600.00 bonus) sold CLEAN LIKE_NEW (DOZER) JCB 2010 (641 HorsePower) to Buyer for $250850.31 + $50170.06 (ExtendedWarranty (addOns)).
+Added sale income $301020.37 to current balance
+Total salary payout increased by $1500.00
+Total bonuses payout increased by $1690.00
+DRIVER Bellamy Bryan received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Maxwell Calhoun received $120.00 (salary) and $400.00 (bonuses)
+MECHANIC Keyla Scott received $120.00 (salary) and $200.00 (bonuses)
+MECHANIC Bentley Fleming received $120.00 (salary) and $0.00 (bonuses)
+DRIVER Sawyer Fernandez received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Lewis Newton received $150.00 (salary) and $600.00 (bonuses)
+SALESPERSON Braelynn Wilkinson received $150.00 (salary) and $150.00 (bonuses)
+INTERN Demi Kelley received $80.00 (salary) and $0.00 (bonuses)
+SALESPERSON Eliezer Scott received $150.00 (salary) and $340.00 (bonuses)
+INTERN Joel Zimmerman received $80.00 (salary) and $0.00 (bonuses)
+INTERN Ashlynn Moody received $80.00 (salary) and $0.00 (bonuses)
+DRIVER Adalynn Cardenas received $150.00 (salary) and $0.00 (bonuses)

@@ -1,0 +1,33 @@
+INTERN Jericho Benton wash (DetailedWashing) DOZER Epiroc 2021 (533 HorsePower) and made it SPARKLING (earned 300.00 bonus)
+INTERN Jericho Benton wash (DetailedWashing) MOTORCYCLE Honda 2021 (837 CC engine) and made it DIRTY
+INTERN Elaine Jordan wash (ElbowGreaseWashing) MOTORCYCLE Honda 2021 (837 CC engine) and made it CLEAN
+INTERN Elaine Jordan wash (ElbowGreaseWashing) MOTORCYCLE Honda 2021 (837 CC engine) and made it CLEAN
+INTERN Arya Phillips wash (DetailedWashing) MOTORCYCLE Honda 2021 (837 CC engine) and made it CLEAN
+INTERN Arya Phillips wash (DetailedWashing) MOTORCYCLE Honda 2021 (837 CC engine) and made it CLEAN
+SALESPERSON Macie Ryan (earned $220.00 bonus) sold SPARKLING LIKE_NEW (PICKUP) Chevrolet Colorado ZR2 2018 to Buyer for $52612.35 + $1052.25 (RoadRescueCoverage (addOns)).
+Added sale income $53664.60 to current balance
+SALESPERSON Eliezer Scott (earned $160.00 bonus) sold SPARKLING LIKE_NEW (CAR) Mercedes-Benz S-class 2014 to Buyer for $38389.25 + $1919.46 (SatelliteRadio (addOns)).
+Added sale income $40308.71 to current balance
+SALESPERSON Macie Ryan sold CLEAN LIKE_NEW Star EV 2014 (2 Passengers & 6 hours chargingTime) to Buyer for $46959.83 without any addOns (earned $120.00 bonus)
+Added sale income $46959.83 to current balance
+SALESPERSON Macie Ryan (earned $80.00 bonus) sold SPARKLING LIKE_NEW (PARAMOTOR) Air Conception Nitro 2010 (8240  feet maximumAltitude & 41 mile/hour maximumCruisingAirSpeed) with QUAD_WHEEL_LAUNCHER  to Buyer for $28026.92 + $5605.38 (ExtendedWarranty (addOns)).
+Added sale income $33632.30 to current balance
+Bellamy Bryan (Driver) raced with Honda 2021 (837 CC engine) (MOTORCYCLE) and achieved rank no. 18.
+DRIVER Bellamy Bryan got injured!
+Honda 2021 (837 CC engine) (MOTORCYCLE) went BROKEN.
+Sawyer Fernandez (Driver) raced with Suzuki 2014 (834 CC engine) (MOTORCYCLE) and achieved rank no. 17.
+Suzuki 2014 (834 CC engine) (MOTORCYCLE) went BROKEN.
+Adalynn Cardenas (Driver) raced with Kymco 2014 (852 CC engine) (MOTORCYCLE) and achieved rank no. 9.
+Total salary payout increased by $1350.00
+Total bonuses payout increased by $880.00
+MECHANIC Keyla Scott received $120.00 (salary) and $0.00 (bonuses)
+MECHANIC Bentley Fleming received $120.00 (salary) and $0.00 (bonuses)
+DRIVER Sawyer Fernandez received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Eliezer Scott received $150.00 (salary) and $160.00 (bonuses)
+DRIVER Adalynn Cardenas received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Ashlynn Moody received $120.00 (salary) and $0.00 (bonuses)
+SALESPERSON Bentlee Herman received $150.00 (salary) and $0.00 (bonuses)
+INTERN Jericho Benton received $80.00 (salary) and $300.00 (bonuses)
+INTERN Elaine Jordan received $80.00 (salary) and $0.00 (bonuses)
+SALESPERSON Macie Ryan received $150.00 (salary) and $420.00 (bonuses)
+INTERN Arya Phillips received $80.00 (salary) and $0.00 (bonuses)

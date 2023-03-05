@@ -1,38 +1,37 @@
-Purchased USED, DIRTY MOTORCYCLE CCW 2012 (824 CC engine) for $ 41663.24
-Purchased LIKE_NEW, DIRTY MONSTER_TRUCK Madusa 8 for $ 98686.24
-INTERN Kiana Person wash (ChemicalWashing) CAR Toyota Corolla 2021 and made it CLEAN
-INTERN Kiana Person wash (ChemicalWashing) PICKUP Hyundai Santa Cruz 2020 and made it CLEAN
-INTERN Elaine Spence wash (ChemicalWashing) PICKUP Ford Velociraptor 6×6 2019 and made it CLEAN
-INTERN Elaine Spence wash (ChemicalWashing) PICKUP GMC Hummer EV 2017 and made it DIRTY
-INTERN Moses Petersen wash (ElbowGreaseWashing) PICKUP GMC Hummer EV 2017 and made it CLEAN
-INTERN Moses Petersen wash (ElbowGreaseWashing) MONSTER_TRUCK Grinder 3 and made it DIRTY
-MECHANIC Kingston Vo repaired BROKEN PICKUP Hyundai Santa Cruz 2020 and made it USED (earned $150.00 bonus)
-MECHANIC Kingston Vo repaired USED PICKUP Hyundai Santa Cruz 2020 and made it LIKE_NEW (earned $150.00 bonus)
-MECHANIC Jaycee Faulkner repaired BROKEN PICKUP Ford Velociraptor 6×6 2019 and made it USED (earned $150.00 bonus)
-MECHANIC Jaycee Faulkner repaired USED PICKUP Ford Velociraptor 6×6 2019 and made it LIKE_NEW (earned $150.00 bonus)
-MECHANIC Harry Smith repaired USED ELECTRIC_CAR Kia Niro EV 2017 (223 miles) and made it LIKE_NEW (earned $300.00 bonus)
-MECHANIC Harry Smith repaired USED ELECTRIC_CAR Subaru Solterra 2013 (114 miles) unsuccessfully
-SALESPERSON Jovanni Lester (earned $150.00 bonus) sold SPARKLING USED (MOTORCYCLE) Ridley 2023 (994 CC engine) to Buyer for $44489.25 + $8897.85 (ExtendedWarranty (addOns)).
-Added sale income $53387.09 to current balance
-SALESPERSON Jovanni Lester (earned $350.00 bonus) sold CLEAN LIKE_NEW (PERFORMANCE_CAR) Nissan Z-Car 2022 to Buyer for $127166.77 + $15260.01 (Undercoating, RoadRescueCoverage, SatelliteRadio (addOns)).
-Added sale income $142426.78 to current balance
-SALESPERSON Louis Galindo sold SPARKLING LIKE_NEW McLaren 720S 2013 to Buyer unsuccessfully
-SALESPERSON Aurora Graham sold DIRTY LIKE_NEW Madusa 8 to Buyer unsuccessfully
-Lewis Dickson (Driver) raced with Ford Velociraptor 6×6 2019 (PICKUP) and achieved rank no. 15.
-Louis Barry (Driver) raced with GMC Hummer EV 2017 (PICKUP) and achieved rank no. 3.
-Louis Barry (Driver) won with GMC Hummer EV 2017 (PICKUP) (earned $ 1000 bonus)!
-Calliope Maldonado (Driver) raced with GMC Hummer EV 2020 (PICKUP) and achieved rank no. 4.
+INTERN Emmalynn Xiong wash (ChemicalWashing) CAR Mercedes-Benz S-class 2010 and made it CLEAN
+INTERN Emmalynn Xiong wash (ChemicalWashing) CAR Kia K5 2010 and made it SPARKLING (earned 50.00 bonus)
+INTERN Emory Cabrera wash (DetailedWashing) PICKUP Ford Ranger 2015 and made it CLEAN
+INTERN Emory Cabrera wash (DetailedWashing) PICKUP Ford Ranger 2022 and made it DIRTY
+INTERN Samson Reid wash (DetailedWashing) PICKUP Ford Ranger 2022 and made it CLEAN
+INTERN Samson Reid wash (DetailedWashing) PICKUP GMC Sierra Supercharged 2023 and made it DIRTY
+MECHANIC Aurora Leonard repaired BROKEN PICKUP Ford Ranger 2015 and made it USED (earned $150.00 bonus)
+MECHANIC Aurora Leonard repaired USED PICKUP Ford Ranger 2015 and made it LIKE_NEW (earned $150.00 bonus)
+MECHANIC Mohammad Myers repaired USED PICKUP Ford Ranger 2019 unsuccessfully
+MECHANIC Mohammad Myers repaired USED PICKUP Ford Ranger 2019 unsuccessfully
+MECHANIC Bentlee Yu repaired USED PICKUP Ford Ranger 2019 unsuccessfully
+MECHANIC Bentlee Yu repaired USED PICKUP Ford Ranger 2019 and made it LIKE_NEW (earned $150.00 bonus)
+SALESPERSON Anaya O’Donnell (earned $600.00 bonus) sold DIRTY USED (DOZER) Toro 2020 (622 HorsePower) to Buyer for $111303.63 + $5565.18 (SatelliteRadio (addOns)).
+Added sale income $116868.81 to current balance
+SALESPERSON Arielle Stuart (earned $350.00 bonus) sold SPARKLING LIKE_NEW (PERFORMANCE_CAR) Maserati MC20 2020 to Buyer for $92560.84 + $18512.17 (ExtendedWarranty (addOns)).
+Added sale income $111073.01 to current balance
+SALESPERSON Anastasia Casey (earned $500.00 bonus) sold DIRTY LIKE_NEW (MONSTER_TRUCK) Bad News Travels Fast 10 to Buyer for $89577.03 + $4478.85 (SatelliteRadio (addOns)).
+Added sale income $94055.88 to current balance
+SALESPERSON Anaya O’Donnell sold CLEAN USED USA-1 1 to Buyer unsuccessfully
+SALESPERSON Anastasia Casey sold DIRTY USED Tesla Model Y 2022 (358 miles) to Buyer unsuccessfully
+Amara Mayo (Driver) raced with Bear Foot (F-150) 1 (MONSTER_TRUCK) and achieved rank no. 13.
+Dalton Tate (Driver) raced with Bigfoot 6 (MONSTER_TRUCK) and achieved rank no. 10.
+Gerardo Yu (Driver) raced with USA-1 1 (MONSTER_TRUCK) and achieved rank no. 12.
 Total salary payout increased by $1500.00
-Total bonuses payout increased by $2400.00
-INTERN Kiana Person received $80.00 (salary) and $0.00 (bonuses)
-INTERN Elaine Spence received $80.00 (salary) and $0.00 (bonuses)
-MECHANIC Kingston Vo received $120.00 (salary) and $300.00 (bonuses)
-MECHANIC Jaycee Faulkner received $120.00 (salary) and $300.00 (bonuses)
-MECHANIC Harry Smith received $120.00 (salary) and $300.00 (bonuses)
-SALESPERSON Aurora Graham received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Louis Galindo received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Lewis Dickson received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Louis Barry received $150.00 (salary) and $1000.00 (bonuses)
-DRIVER Calliope Maldonado received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Jovanni Lester received $150.00 (salary) and $500.00 (bonuses)
-INTERN Moses Petersen received $80.00 (salary) and $0.00 (bonuses)
+Total bonuses payout increased by $1950.00
+INTERN Emmalynn Xiong received $80.00 (salary) and $50.00 (bonuses)
+MECHANIC Aurora Leonard received $120.00 (salary) and $300.00 (bonuses)
+MECHANIC Mohammad Myers received $120.00 (salary) and $0.00 (bonuses)
+MECHANIC Bentlee Yu received $120.00 (salary) and $150.00 (bonuses)
+SALESPERSON Anastasia Casey received $150.00 (salary) and $500.00 (bonuses)
+SALESPERSON Arielle Stuart received $150.00 (salary) and $350.00 (bonuses)
+SALESPERSON Anaya O’Donnell received $150.00 (salary) and $600.00 (bonuses)
+DRIVER Amara Mayo received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Dalton Tate received $150.00 (salary) and $0.00 (bonuses)
+INTERN Emory Cabrera received $80.00 (salary) and $0.00 (bonuses)
+DRIVER Gerardo Yu received $150.00 (salary) and $0.00 (bonuses)
+INTERN Samson Reid received $80.00 (salary) and $0.00 (bonuses)

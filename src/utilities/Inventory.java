@@ -1,8 +1,13 @@
 package utilities;
 
+import staff.Salesperson;
+import staff.Staff;
 import vehicle.Vehicle;
 
 import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Scanner;
 
 /**
  * @author Duy Duong
@@ -107,4 +112,67 @@ public class Inventory {
         }
         return availableVehiclesByTypeArrayList;
     }
+
+    /**
+     * get AvailableVehicles Types
+     * @return vehicle Types Set
+     */
+    public HashSet<Vehicle.VehicleType> getAvailableVehiclesTypes() {
+        HashSet<Vehicle.VehicleType> vehicleTypesSet = new HashSet<Vehicle.VehicleType>();
+        for (Vehicle vehicle : getWorkingInventory()) {
+            vehicleTypesSet.add(vehicle.getVehicleType());
+            }
+        return vehicleTypesSet ;
+    }
+    /**
+     * let the buyer selects the vehicle and check its details for the available vehicles in the inventory to a
+     * buyer via userInterface implementation
+     */
+    public Vehicle userInterfaceVehicleSelector(){
+        HashSet<Vehicle.VehicleType> availableVehicleTypesSet = getAvailableVehiclesTypes();
+        HashMap <Integer, Vehicle.VehicleType> availableVehicleTypes= new HashMap<Integer, Vehicle.VehicleType>();
+        HashMap <Integer, Vehicle> availableVehiclesByType= new HashMap<Integer, Vehicle>();
+        Scanner scanner = new Scanner(System.in);
+        int userEntry;
+        int counter = 1;
+        System.out.println( "The available Vehicle types" );
+        for (Vehicle.VehicleType type: availableVehicleTypesSet){
+            availableVehicleTypes.put(counter, type);
+            System.out.printf("%d) %s \n",counter, type);
+            counter++;
+        }
+        System.out.println( "Enter the number corresponding to the Vehicle Type you want: " );
+        userEntry = scanner.nextInt();
+        Vehicle.VehicleType selectedVehicleType = availableVehicleTypes.get(userEntry);
+        System.out.printf("You selected %s.\n", selectedVehicleType);
+
+        ArrayList<Vehicle> availableVehiclesByTypeArrayList = Vehicle.getVehicleListByType(getWorkingInventory(),selectedVehicleType);
+        counter = 1;
+        System.out.printf( "The current available %s vehicles:\n", selectedVehicleType);
+        for (Vehicle vehicle: availableVehiclesByTypeArrayList){
+            availableVehiclesByType.put(counter, vehicle);
+            System.out.printf("%d)  %s \n",counter, vehicle.getName());
+            counter++;
+        }
+        System.out.println( "Enter the number corresponding to the Vehicle you want: " );
+        userEntry = scanner.nextInt();
+        Vehicle selectedVehicle = availableVehiclesByType.get(userEntry);
+        System.out.printf("You selected (%s & %s) %s ($ %.0f).\n", selectedVehicle.getVehicleCondition(),
+                selectedVehicle.getCleanliness(), selectedVehicle.getName(), selectedVehicle.getSalePrice());
+        return selectedVehicle;
+    }
+    /**
+     * shows the available vehicles in the inventory to a buyer via userInterface implementation
+     */
+    public void userInterfaceShowInventory(){
+        int counter = 1;
+        System.out.println( "The available Vehicles:" );
+        for (Vehicle vehicle: getWorkingInventory()){
+            System.out.printf("%d) (%s & %s) (%s) %s ($ %.0f).\n",counter, vehicle.getVehicleCondition(),
+                    vehicle.getCleanliness(), vehicle.getVehicleType(), vehicle.getName(), vehicle.getSalePrice());
+            counter++;
+        }
+    }
+
+
 }

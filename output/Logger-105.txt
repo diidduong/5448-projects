@@ -1,0 +1,30 @@
+Purchased LIKE_NEW, CLEAN MOTORCYCLE Polaris Slingshot 2020 (293 CC engine) for $ 11058.16
+Purchased BROKEN, CLEAN MONSTER_TRUCK El Toro Loco 2 for $ 16881.13
+Purchased LIKE_NEW, DIRTY DOZER Liebherr 2016 (468 HorsePower) for $ 44175.42
+INTERN Oakley Scott wash (ElbowGreaseWashing) DOZER Liebherr 2016 (468 HorsePower) and made it CLEAN
+INTERN Oakley Scott wash (ElbowGreaseWashing) PARAMOTOR Adventure 2014 (7136  feet maximumAltitude & 49 mile/hour maximumCruisingAirSpeed) with QUAD_WHEEL_LAUNCHER  and made it DIRTY
+INTERN Alaia Cruz wash (ElbowGreaseWashing) PARAMOTOR Adventure 2014 (7136  feet maximumAltitude & 49 mile/hour maximumCruisingAirSpeed) with QUAD_WHEEL_LAUNCHER  and made it CLEAN
+INTERN Alaia Cruz wash (ElbowGreaseWashing) PARAMOTOR Adventure 2014 (7136  feet maximumAltitude & 49 mile/hour maximumCruisingAirSpeed) with QUAD_WHEEL_LAUNCHER  and made it DIRTY
+INTERN Eliezer Stuart wash (DetailedWashing) PARAMOTOR Adventure 2014 (7136  feet maximumAltitude & 49 mile/hour maximumCruisingAirSpeed) with QUAD_WHEEL_LAUNCHER  and made it SPARKLING (earned 20.00 bonus)
+INTERN Eliezer Stuart wash (DetailedWashing) PICKUP Tesla Cybertruck 2017 and made it CLEAN
+MECHANIC Jovanni Ahmed repaired BROKEN MONSTER_TRUCK El Toro Loco 2 and made it USED (earned $500.00 bonus)
+MECHANIC Jovanni Ahmed repaired USED MONSTER_TRUCK El Toro Loco 2 and made it LIKE_NEW (earned $500.00 bonus)
+SALESPERSON Harry O’Donnell (earned $120.00 bonus) sold SPARKLING LIKE_NEW (GOLF_CART) Yamaha Drive 2 PTV 2010 (8 Passengers & 6 hours chargingTime) to Buyer for $21519.88 + $5810.37 (ExtendedWarranty, RoadRescueCoverage, SatelliteRadio (addOns)).
+Added sale income $27330.25 to current balance
+SALESPERSON Harry O’Donnell sold CLEAN LIKE_NEW Chevrolet Camaro ZL1 2013 to Buyer unsuccessfully
+SALESPERSON Aurora Summers sold SPARKLING LIKE_NEW Club Car Precedent I3 2018 (2 Passengers & 9 hours chargingTime) to Buyer unsuccessfully
+SALESPERSON Harry O’Donnell sold SPARKLING LIKE_NEW Club Car Precedent I3 2018 (2 Passengers & 9 hours chargingTime) to Buyer unsuccessfully
+Total salary payout increased by $1500.00
+Total bonuses payout increased by $1140.00
+DRIVER Adalynn Cardenas received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Bailee Ho received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Jovanni Ahmed received $120.00 (salary) and $1000.00 (bonuses)
+SALESPERSON Aurora Summers received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Harry O’Donnell received $150.00 (salary) and $120.00 (bonuses)
+DRIVER Bentlee Bryan received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Joel Cabrera received $120.00 (salary) and $0.00 (bonuses)
+INTERN Oakley Scott received $80.00 (salary) and $0.00 (bonuses)
+SALESPERSON Jericho Jensen received $150.00 (salary) and $0.00 (bonuses)
+INTERN Alaia Cruz received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Moses Benton received $120.00 (salary) and $0.00 (bonuses)
+INTERN Eliezer Stuart received $80.00 (salary) and $20.00 (bonuses)

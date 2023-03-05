@@ -1,0 +1,26 @@
+Purchased BROKEN, DIRTY CAR Volvo XC90 2019 for $ 6468.35
+INTERN Kingston Case wash (ChemicalWashing) MONSTER_TRUCK Air Force Afterburner 3 and made it CLEAN
+INTERN Kingston Case wash (ChemicalWashing) CAR Volvo XC90 2019 and made it SPARKLING (earned 50.00 bonus)
+INTERN Jovanni Ahmed wash (DetailedWashing) PICKUP Jeep Gladiator 2014 and made it SPARKLING (earned 100.00 bonus)
+INTERN Jovanni Ahmed wash (DetailedWashing) PERFORMANCE_CAR Dodge Viper 2016 and made it CLEAN
+INTERN Aurora Summers wash (DetailedWashing) PERFORMANCE_CAR Dodge Viper 2016 and made it CLEAN
+INTERN Aurora Summers wash (DetailedWashing) PERFORMANCE_CAR Dodge Viper 2016 and made it CLEAN
+MECHANIC Gloriay Cruz repaired BROKEN MONSTER_TRUCK Air Force Afterburner 3 and made it USED (earned $500.00 bonus)
+MECHANIC Gloriay Cruz repaired USED MONSTER_TRUCK Air Force Afterburner 3 and made it LIKE_NEW (earned $500.00 bonus)
+MECHANIC Gary Yu repaired BROKEN CAR Volvo XC90 2019 and made it USED (earned $100.00 bonus)
+MECHANIC Gary Yu repaired USED CAR Volvo XC90 2019 and made it LIKE_NEW (earned $100.00 bonus)
+SALESPERSON Macie Ryan sold CLEAN LIKE_NEW Kymco 2014 (852 CC engine) to Buyer unsuccessfully
+Total salary payout increased by $1500.00
+Total bonuses payout increased by $1350.00
+DRIVER Sawyer Fernandez received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Adalynn Cardenas received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Bentlee Herman received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Macie Ryan received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Bailee Ho received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Gloriay Cruz received $120.00 (salary) and $1000.00 (bonuses)
+MECHANIC Gary Yu received $120.00 (salary) and $200.00 (bonuses)
+MECHANIC Gloriay Spence received $120.00 (salary) and $0.00 (bonuses)
+INTERN Kingston Case received $80.00 (salary) and $50.00 (bonuses)
+SALESPERSON Averi Petersen received $150.00 (salary) and $0.00 (bonuses)
+INTERN Jovanni Ahmed received $80.00 (salary) and $100.00 (bonuses)
+INTERN Aurora Summers received $80.00 (salary) and $0.00 (bonuses)

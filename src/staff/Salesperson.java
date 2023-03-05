@@ -1,9 +1,6 @@
 package staff;
 
-import activity.ExtendedWarrantyAddOn;
-import activity.RoadRescueCoverageAddOn;
-import activity.SatelliteRadioAddOn;
-import activity.UnderCoatingAddOn;
+import activity.*;
 import customer.Buyer;
 import tracking.EventPublisher;
 import tracking.Message;
@@ -11,6 +8,7 @@ import utilities.Inventory;
 import utilities.RandomGenerator;
 import vehicle.Vehicle;
 
+import java.util.ArrayList;
 import java.util.HashMap;
 
 /**
@@ -191,6 +189,7 @@ public class Salesperson extends Staff {
         return addOnSummary;
     }
 
+
     /**
      * method that calculates the bonus chance for selling a car
      * @param vehicle to be sold
@@ -220,7 +219,7 @@ public class Salesperson extends Staff {
      * @param vehicle selected Vehicle
      * @return bonus by type, 0 otherwise
      */
-    private double getBonusByType(Vehicle vehicle) {
+    public double getBonusByType(Vehicle vehicle) {
         switch (vehicle.getVehicleType()) {
             case PERFORMANCE_CAR:
                 return 350;
@@ -234,6 +233,12 @@ public class Salesperson extends Staff {
                 return 150;
             case MONSTER_TRUCK:
                 return 500;
+            case GOLF_CART:
+                return 120;
+            case PARAMOTOR:
+                return 80;
+            case DOZER:
+                return 600;
             default:
                 return 0;
         }

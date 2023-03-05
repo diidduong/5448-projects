@@ -1,0 +1,29 @@
+Purchased BROKEN, CLEAN MOTORCYCLE Ridley 2021 (300 CC engine) for $ 7534.65
+INTERN Jericho Jensen wash (ChemicalWashing) CAR Tesla Model S 2023 and made it CLEAN
+INTERN Jericho Jensen wash (ChemicalWashing) ELECTRIC_CAR Chevrolet Spark 2016 (454 miles) and made it CLEAN
+INTERN Moses Benton wash (DetailedWashing) DOZER Epiroc 2020 (333 HorsePower) and made it CLEAN
+INTERN Moses Benton wash (DetailedWashing) PARAMOTOR Parajet the Zenith 2021 (14958  feet maximumAltitude & 35 mile/hour maximumCruisingAirSpeed) with TRIKE_WHEEL_LAUNCHER  and made it DIRTY
+INTERN Oakley Scott wash (ElbowGreaseWashing) PARAMOTOR Parajet the Zenith 2021 (14958  feet maximumAltitude & 35 mile/hour maximumCruisingAirSpeed) with TRIKE_WHEEL_LAUNCHER  and made it CLEAN
+INTERN Oakley Scott wash (ElbowGreaseWashing) MONSTER_TRUCK Bear Foot (1979) 7 and made it CLEAN
+MECHANIC Kingston Case repaired USED PARAMOTOR Parajet the Zenith 2021 (14958  feet maximumAltitude & 35 mile/hour maximumCruisingAirSpeed) with TRIKE_WHEEL_LAUNCHER  and made it LIKE_NEW (earned $60.00 bonus)
+MECHANIC Kingston Case repaired BROKEN MOTORCYCLE Ridley 2021 (300 CC engine) and made it USED (earned $80.00 bonus)
+MECHANIC Jovanni Ahmed repaired USED MOTORCYCLE Ridley 2021 (300 CC engine) unsuccessfully
+MECHANIC Jovanni Ahmed repaired USED MOTORCYCLE Ridley 2021 (300 CC engine) and made it LIKE_NEW (earned $80.00 bonus)
+SALESPERSON Averi Petersen sold CLEAN LIKE_NEW Tesla Model S 2023 to Buyer unsuccessfully
+Adalynn Cardenas (Driver) raced with Nikola Badger 2018 (PICKUP) and achieved rank no. 5.
+Bailee Ho (Driver) raced with Nissan Frontier 2019 (PICKUP) and achieved rank no. 7.
+Bentlee Bryan (Driver) raced with Nissan Titan XD 2020 (PICKUP) and achieved rank no. 12.
+Total salary payout increased by $1500.00
+Total bonuses payout increased by $220.00
+DRIVER Adalynn Cardenas received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Bailee Ho received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Averi Petersen received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Kingston Case received $120.00 (salary) and $140.00 (bonuses)
+MECHANIC Jovanni Ahmed received $120.00 (salary) and $80.00 (bonuses)
+SALESPERSON Aurora Summers received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Harry O’Donnell received $150.00 (salary) and $0.00 (bonuses)
+INTERN Jericho Jensen received $80.00 (salary) and $0.00 (bonuses)
+DRIVER Bentlee Bryan received $150.00 (salary) and $0.00 (bonuses)
+INTERN Moses Benton received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Joel Cabrera received $120.00 (salary) and $0.00 (bonuses)
+INTERN Oakley Scott received $80.00 (salary) and $0.00 (bonuses)

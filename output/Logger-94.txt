@@ -1,0 +1,35 @@
+Purchased USED, DIRTY DOZER Sandvik 2018 (698 HorsePower) for $ 44039.96
+Purchased USED, CLEAN GOLF_CART Club Car Villager 2023 (3 Passengers & 7 hours chargingTime) for $ 10480.65
+Purchased USED, DIRTY GOLF_CART Garia Via Luxury Golf Car 2016 (8 Passengers & 12 hours chargingTime) for $ 12356.84
+INTERN Leyla Chase wash (ElbowGreaseWashing) PICKUP Tesla Cybertruck 2017 and made it CLEAN
+INTERN Leyla Chase wash (ElbowGreaseWashing) PICKUP Nissan Frontier 2019 and made it CLEAN
+INTERN Joel Cabrera wash (DetailedWashing) MONSTER_TRUCK Predator 14 and made it CLEAN
+INTERN Joel Cabrera wash (DetailedWashing) DOZER Sandvik 2018 (698 HorsePower) and made it CLEAN
+INTERN Jericho Jensen wash (ChemicalWashing) GOLF_CART Garia Via Luxury Golf Car 2016 (8 Passengers & 12 hours chargingTime) and made it CLEAN
+INTERN Jericho Jensen wash (ChemicalWashing) ELECTRIC_CAR Nissan Ariya 2015 (443 miles) and made it CLEAN
+MECHANIC Gloriay Spence repaired USED DOZER Sandvik 2018 (698 HorsePower) and made it LIKE_NEW (earned $600.00 bonus)
+MECHANIC Gloriay Spence repaired USED GOLF_CART Club Car Villager 2023 (3 Passengers & 7 hours chargingTime) and made it LIKE_NEW (earned $75.00 bonus)
+MECHANIC Kingston Case repaired USED GOLF_CART Garia Via Luxury Golf Car 2016 (8 Passengers & 12 hours chargingTime) and made it LIKE_NEW (earned $75.00 bonus)
+SALESPERSON Averi Petersen (earned $120.00 bonus) sold DIRTY LIKE_NEW (GOLF_CART) Garia Via Luxury Golf Car 2016 (8 Passengers & 12 hours chargingTime) to Buyer for $39387.44 + $2757.12 (Undercoating, RoadRescueCoverage (addOns)).
+Added sale income $42144.56 to current balance
+SALESPERSON Aurora Summers (earned $600.00 bonus) sold DIRTY LIKE_NEW (DOZER) Sandvik 2018 (698 HorsePower) to Buyer for $149632.64 + $2992.65 (RoadRescueCoverage (addOns)).
+Added sale income $152625.29 to current balance
+SALESPERSON Harry O’Donnell sold CLEAN LIKE_NEW Bear Foot (1979) 7 to Buyer unsuccessfully
+SALESPERSON Averi Petersen (earned $80.00 bonus) sold CLEAN LIKE_NEW (PARAMOTOR) Scout Carbon Cage 2013 (5996  feet maximumAltitude & 41 mile/hour maximumCruisingAirSpeed) with TRIKE_WHEEL_LAUNCHER  to Buyer for $25811.64 + $6452.91 (ExtendedWarranty, Undercoating (addOns)).
+Added sale income $32264.54 to current balance
+SALESPERSON Aurora Summers (earned $350.00 bonus) sold CLEAN LIKE_NEW (PERFORMANCE_CAR) Chevrolet Camaro 2023 to Buyer for $88368.62 + $6185.80 (RoadRescueCoverage, SatelliteRadio (addOns)).
+Added sale income $94554.42 to current balance
+Total salary payout increased by $1500.00
+Total bonuses payout increased by $1900.00
+DRIVER Adalynn Cardenas received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Bailee Ho received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Gloriay Spence received $120.00 (salary) and $675.00 (bonuses)
+SALESPERSON Averi Petersen received $150.00 (salary) and $200.00 (bonuses)
+MECHANIC Kingston Case received $120.00 (salary) and $75.00 (bonuses)
+MECHANIC Jovanni Ahmed received $120.00 (salary) and $0.00 (bonuses)
+SALESPERSON Aurora Summers received $150.00 (salary) and $950.00 (bonuses)
+INTERN Leyla Chase received $80.00 (salary) and $0.00 (bonuses)
+INTERN Joel Cabrera received $80.00 (salary) and $0.00 (bonuses)
+SALESPERSON Harry O’Donnell received $150.00 (salary) and $0.00 (bonuses)
+INTERN Jericho Jensen received $80.00 (salary) and $0.00 (bonuses)
+DRIVER Bentlee Bryan received $150.00 (salary) and $0.00 (bonuses)

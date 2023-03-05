@@ -1,30 +1,29 @@
-Purchased LIKE_NEW, DIRTY PICKUP Ford F-150 Lightning 2020 for $ 59937.66
-Purchased USED, DIRTY ELECTRIC_CAR Toyota bZ4X 2023 (259 miles) for $ 64682.22
-Purchased BROKEN, DIRTY MONSTER_TRUCK WCW Nitro Machine 7 for $ 72074.63
-INTERN Elaine Spence wash (ChemicalWashing) MOTORCYCLE Norton 2020 (560 CC engine) and made it CLEAN
-INTERN Elaine Spence wash (ChemicalWashing) MOTORCYCLE Victory 2022 (1130 CC engine) and made it CLEAN
-INTERN Moses Petersen wash (ElbowGreaseWashing) MONSTER_TRUCK Swamp Thing 15 and made it CLEAN
-INTERN Moses Petersen wash (ElbowGreaseWashing) PICKUP Ford F-150 Lightning 2020 and made it CLEAN
-INTERN Kyng Person wash (ChemicalWashing) ELECTRIC_CAR Toyota bZ4X 2023 (259 miles) and made it CLEAN
-INTERN Kyng Person wash (ChemicalWashing) MONSTER_TRUCK WCW Nitro Machine 7 and made it CLEAN
-MECHANIC Kingston Vo repaired BROKEN MONSTER_TRUCK Madusa 8 and made it USED (earned $500.00 bonus)
-MECHANIC Kingston Vo repaired USED MONSTER_TRUCK Madusa 8 unsuccessfully
-MECHANIC Jaycee Faulkner repaired USED MONSTER_TRUCK Madusa 8 and made it LIKE_NEW (earned $500.00 bonus)
-MECHANIC Jaycee Faulkner repaired USED ELECTRIC_CAR Toyota bZ4X 2023 (259 miles) unsuccessfully
-MECHANIC Harry Smith repaired USED ELECTRIC_CAR Toyota bZ4X 2023 (259 miles) unsuccessfully
-MECHANIC Harry Smith repaired USED ELECTRIC_CAR Toyota bZ4X 2023 (259 miles) unsuccessfully
-SALESPERSON Jovanni Lester sold CLEAN LIKE_NEW Honda Odyssey 2020 to Buyer unsuccessfully
+Purchased BROKEN, DIRTY PERFORMANCE_CAR Ford Mustang 2010 for $ 15952.39
+Purchased USED, DIRTY CAR Hyundai Sonata 2017 for $ 9973.16
+Purchased LIKE_NEW, CLEAN ELECTRIC_CAR Hyundai Kona Electric 2012 (262 miles) for $ 36765.09
+INTERN Emory Cabrera wash (DetailedWashing) MOTORCYCLE Husqvarna 2016 (177 CC engine) and made it CLEAN
+INTERN Emory Cabrera wash (DetailedWashing) MONSTER_TRUCK Swamp Thing 15 and made it SPARKLING (earned 200.00 bonus)
+INTERN Samson Reid wash (DetailedWashing) MONSTER_TRUCK Sudden Impact 13 and made it CLEAN
+INTERN Samson Reid wash (DetailedWashing) DOZER Manitou 2017 (856 HorsePower) and made it CLEAN
+INTERN Anaya Tate wash (DetailedWashing) DOZER Kioti 2022 (838 HorsePower) and made it DIRTY
+INTERN Anaya Tate wash (DetailedWashing) DOZER Kioti 2022 (838 HorsePower) and made it SPARKLING (earned 300.00 bonus)
+MECHANIC Aurora Leonard repaired BROKEN PICKUP Ford Ranger 2022 and made it USED (earned $150.00 bonus)
+MECHANIC Aurora Leonard repaired USED PICKUP Ford Ranger 2022 and made it LIKE_NEW (earned $150.00 bonus)
+MECHANIC Mohammad Myers repaired BROKEN PICKUP Mahindra Bolero Camper 2022 and made it USED (earned $150.00 bonus)
+MECHANIC Mohammad Myers repaired USED PICKUP Mahindra Bolero Camper 2022 and made it LIKE_NEW (earned $150.00 bonus)
+MECHANIC Bentlee Yu repaired USED MONSTER_TRUCK Sudden Impact 13 and made it LIKE_NEW (earned $500.00 bonus)
+MECHANIC Bentlee Yu repaired USED MONSTER_TRUCK USA-1 1 unsuccessfully
 Total salary payout increased by $1500.00
-Total bonuses payout increased by $1000.00
-INTERN Elaine Spence received $80.00 (salary) and $0.00 (bonuses)
-MECHANIC Kingston Vo received $120.00 (salary) and $500.00 (bonuses)
-MECHANIC Jaycee Faulkner received $120.00 (salary) and $500.00 (bonuses)
-MECHANIC Harry Smith received $120.00 (salary) and $0.00 (bonuses)
-SALESPERSON Aurora Graham received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Louis Galindo received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Lewis Dickson received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Louis Barry received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Calliope Maldonado received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Jovanni Lester received $150.00 (salary) and $0.00 (bonuses)
-INTERN Moses Petersen received $80.00 (salary) and $0.00 (bonuses)
-INTERN Kyng Person received $80.00 (salary) and $0.00 (bonuses)
+Total bonuses payout increased by $1600.00
+MECHANIC Aurora Leonard received $120.00 (salary) and $300.00 (bonuses)
+MECHANIC Mohammad Myers received $120.00 (salary) and $300.00 (bonuses)
+MECHANIC Bentlee Yu received $120.00 (salary) and $500.00 (bonuses)
+SALESPERSON Arielle Stuart received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Anaya O’Donnell received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Dalton Tate received $150.00 (salary) and $0.00 (bonuses)
+INTERN Emory Cabrera received $80.00 (salary) and $200.00 (bonuses)
+DRIVER Gerardo Yu received $150.00 (salary) and $0.00 (bonuses)
+INTERN Samson Reid received $80.00 (salary) and $0.00 (bonuses)
+SALESPERSON Emmalynn Xiong received $150.00 (salary) and $0.00 (bonuses)
+INTERN Anaya Tate received $80.00 (salary) and $300.00 (bonuses)
+DRIVER Nathaniel Herman received $150.00 (salary) and $0.00 (bonuses)

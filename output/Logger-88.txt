@@ -1,0 +1,28 @@
+INTERN Jovanni Ahmed wash (DetailedWashing) MONSTER_TRUCK Air Force Afterburner 3 and made it DIRTY
+INTERN Jovanni Ahmed wash (DetailedWashing) MONSTER_TRUCK Air Force Afterburner 3 and made it CLEAN
+INTERN Aurora Summers wash (DetailedWashing) CAR Volvo XC90 2019 and made it CLEAN
+INTERN Aurora Summers wash (DetailedWashing) PERFORMANCE_CAR Dodge Viper 2016 and made it CLEAN
+INTERN Morgan Skinner wash (DetailedWashing) PERFORMANCE_CAR Dodge Viper 2016 and made it CLEAN
+INTERN Morgan Skinner wash (DetailedWashing) PERFORMANCE_CAR Dodge Viper 2016 and made it CLEAN
+SALESPERSON Bentlee Herman (earned $160.00 bonus) sold CLEAN LIKE_NEW (CAR) Volvo XC90 2019 to Buyer for $48512.59 + $3395.88 (Undercoating, RoadRescueCoverage (addOns)).
+Added sale income $51908.47 to current balance
+SALESPERSON Macie Ryan (earned $600.00 bonus) sold SPARKLING LIKE_NEW (DOZER) Epiroc 2016 (584 HorsePower) to Buyer for $148343.27 + $32635.52 (ExtendedWarranty, RoadRescueCoverage (addOns)).
+Added sale income $180978.79 to current balance
+SALESPERSON Bentlee Herman sold CLEAN LIKE_NEW Air Force Afterburner 3 to Buyer unsuccessfully
+Sawyer Fernandez (Driver) raced with Bear Foot (1979) 7 (MONSTER_TRUCK) and achieved rank no. 11.
+Adalynn Cardenas (Driver) raced with Grave Digger 10 (MONSTER_TRUCK) and achieved rank no. 12.
+Bailee Ho (Driver) raced with Air Force Afterburner 3 (MONSTER_TRUCK) and achieved rank no. 10.
+Total salary payout increased by $1500.00
+Total bonuses payout increased by $760.00
+DRIVER Sawyer Fernandez received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Adalynn Cardenas received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Bentlee Herman received $150.00 (salary) and $160.00 (bonuses)
+SALESPERSON Macie Ryan received $150.00 (salary) and $600.00 (bonuses)
+DRIVER Bailee Ho received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Gary Yu received $120.00 (salary) and $0.00 (bonuses)
+MECHANIC Gloriay Spence received $120.00 (salary) and $0.00 (bonuses)
+SALESPERSON Averi Petersen received $150.00 (salary) and $0.00 (bonuses)
+INTERN Jovanni Ahmed received $80.00 (salary) and $0.00 (bonuses)
+INTERN Aurora Summers received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Kingston Case received $120.00 (salary) and $0.00 (bonuses)
+INTERN Morgan Skinner received $80.00 (salary) and $0.00 (bonuses)

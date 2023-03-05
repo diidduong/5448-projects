@@ -1,0 +1,30 @@
+Purchased USED, DIRTY PICKUP GMC Sierra Supercharged 2017 for $ 23430.44
+Purchased LIKE_NEW, CLEAN PARAMOTOR Adventure 2014 (7136  feet maximumAltitude & 49 mile/hour maximumCruisingAirSpeed) with QUAD_WHEEL_LAUNCHER  for $ 8698.37
+INTERN Demi Kelley wash (ElbowGreaseWashing) GOLF_CART Star EV 2014 (2 Passengers & 6 hours chargingTime) and made it CLEAN
+INTERN Demi Kelley wash (ElbowGreaseWashing) PICKUP GMC Sierra Supercharged 2017 and made it CLEAN
+INTERN Joel Zimmerman wash (ElbowGreaseWashing) PARAMOTOR Fresh Breeze 2021 (8199  feet maximumAltitude & 50 mile/hour maximumCruisingAirSpeed) with TRIKE_WHEEL_LAUNCHER  and made it CLEAN
+INTERN Joel Zimmerman wash (ElbowGreaseWashing) PARAMOTOR Fresh Breeze 2021 (8199  feet maximumAltitude & 50 mile/hour maximumCruisingAirSpeed) with TRIKE_WHEEL_LAUNCHER  and made it CLEAN
+INTERN Ashlynn Moody wash (DetailedWashing) PARAMOTOR Fresh Breeze 2021 (8199  feet maximumAltitude & 50 mile/hour maximumCruisingAirSpeed) with TRIKE_WHEEL_LAUNCHER  and made it CLEAN
+INTERN Ashlynn Moody wash (DetailedWashing) PARAMOTOR Fresh Breeze 2021 (8199  feet maximumAltitude & 50 mile/hour maximumCruisingAirSpeed) with TRIKE_WHEEL_LAUNCHER  and made it DIRTY
+MECHANIC Maxwell Calhoun repaired BROKEN MONSTER_TRUCK Zombie 9 and made it USED (earned $500.00 bonus)
+MECHANIC Maxwell Calhoun repaired USED MONSTER_TRUCK Zombie 9 and made it LIKE_NEW (earned $500.00 bonus)
+MECHANIC Keyla Scott repaired USED PICKUP GMC Sierra Supercharged 2017 and made it LIKE_NEW (earned $150.00 bonus)
+SALESPERSON Lewis Newton sold CLEAN LIKE_NEW Blacksmith 12 to Buyer unsuccessfully
+SALESPERSON Braelynn Wilkinson (earned $350.00 bonus) sold CLEAN LIKE_NEW (PERFORMANCE_CAR) Ferrari Daytona 2017 to Buyer for $148237.03 + $29647.41 (ExtendedWarranty (addOns)).
+Added sale income $177884.44 to current balance
+SALESPERSON Eliezer Scott (earned $150.00 bonus) sold CLEAN LIKE_NEW (MOTORCYCLE) Roehr 2019 (1266 CC engine) to Buyer for $80435.03 + $16087.01 (ExtendedWarranty (addOns)).
+Added sale income $96522.04 to current balance
+Total salary payout increased by $1500.00
+Total bonuses payout increased by $1650.00
+DRIVER Bellamy Bryan received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Maxwell Calhoun received $120.00 (salary) and $1000.00 (bonuses)
+MECHANIC Keyla Scott received $120.00 (salary) and $150.00 (bonuses)
+MECHANIC Bentley Fleming received $120.00 (salary) and $0.00 (bonuses)
+DRIVER Sawyer Fernandez received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Lewis Newton received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Braelynn Wilkinson received $150.00 (salary) and $350.00 (bonuses)
+INTERN Demi Kelley received $80.00 (salary) and $0.00 (bonuses)
+SALESPERSON Eliezer Scott received $150.00 (salary) and $150.00 (bonuses)
+INTERN Joel Zimmerman received $80.00 (salary) and $0.00 (bonuses)
+INTERN Ashlynn Moody received $80.00 (salary) and $0.00 (bonuses)
+DRIVER Adalynn Cardenas received $150.00 (salary) and $0.00 (bonuses)

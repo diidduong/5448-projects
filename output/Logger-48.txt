@@ -1,0 +1,35 @@
+Purchased LIKE_NEW, DIRTY CAR Chevrolet Spark 2016 for $ 17355.78
+Purchased LIKE_NEW, CLEAN PICKUP GMC Sierra Supercharged 2016 for $ 25042.77
+INTERN Joel Zimmerman wash (ElbowGreaseWashing) CAR Chevrolet Spark 2016 and made it CLEAN
+INTERN Joel Zimmerman wash (ElbowGreaseWashing) DOZER Manitou 2013 (442 HorsePower) and made it CLEAN
+INTERN Ashlynn Moody wash (DetailedWashing) DOZER Manitou 2013 (442 HorsePower) and made it SPARKLING (earned 300.00 bonus)
+INTERN Ashlynn Moody wash (DetailedWashing) MOTORCYCLE Polaris Slingshot 2021 (980 CC engine) and made it CLEAN
+INTERN Bentlee Herman wash (ChemicalWashing) MOTORCYCLE Polaris Slingshot 2021 (980 CC engine) and made it SPARKLING (earned 25.00 bonus)
+INTERN Bentlee Herman wash (ChemicalWashing) MONSTER_TRUCK Bigfoot 4 and made it CLEAN
+SALESPERSON Lewis Newton (earned $600.00 bonus) sold CLEAN LIKE_NEW (DOZER) Liebherr 2023 (563 HorsePower) to Buyer for $272877.93 + $19101.45 (RoadRescueCoverage, SatelliteRadio (addOns)).
+Added sale income $291979.38 to current balance
+SALESPERSON Braelynn Wilkinson (earned $150.00 bonus) sold CLEAN LIKE_NEW (MOTORCYCLE) Buell 2017 (922 CC engine) to Buyer for $45669.87 + $913.40 (RoadRescueCoverage (addOns)).
+Added sale income $46583.27 to current balance
+SALESPERSON Lewis Newton sold SPARKLING LIKE_NEW Parajet the Volution 2016 (5620  feet maximumAltitude & 38 mile/hour maximumCruisingAirSpeed) with QUAD_WHEEL_LAUNCHER  to Buyer for $30165.44 without any addOns (earned $80.00 bonus)
+Added sale income $30165.44 to current balance
+SALESPERSON Eliezer Scott sold CLEAN LIKE_NEW Porsche 718 Cayman 2012 to Buyer unsuccessfully
+SALESPERSON Lewis Newton sold SPARKLING LIKE_NEW Caterpillar 2014 (858 HorsePower) to Buyer unsuccessfully
+SALESPERSON Eliezer Scott sold SPARKLING LIKE_NEW Caterpillar 2014 (858 HorsePower) to Buyer unsuccessfully
+SALESPERSON Lewis Newton (earned $350.00 bonus) sold CLEAN LIKE_NEW (PERFORMANCE_CAR) Porsche 718 Cayman 2012 to Buyer for $90050.78 + $1801.02 (RoadRescueCoverage (addOns)).
+Added sale income $91851.79 to current balance
+SALESPERSON Lewis Newton sold CLEAN LIKE_NEW Blacksmith 12 to Buyer for $174963.01 without any addOns (earned $500.00 bonus)
+Added sale income $174963.01 to current balance
+Total salary payout increased by $1500.00
+Total bonuses payout increased by $2005.00
+DRIVER Bellamy Bryan received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Maxwell Calhoun received $120.00 (salary) and $0.00 (bonuses)
+MECHANIC Keyla Scott received $120.00 (salary) and $0.00 (bonuses)
+MECHANIC Bentley Fleming received $120.00 (salary) and $0.00 (bonuses)
+DRIVER Sawyer Fernandez received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Lewis Newton received $150.00 (salary) and $1530.00 (bonuses)
+SALESPERSON Braelynn Wilkinson received $150.00 (salary) and $150.00 (bonuses)
+SALESPERSON Eliezer Scott received $150.00 (salary) and $0.00 (bonuses)
+INTERN Joel Zimmerman received $80.00 (salary) and $0.00 (bonuses)
+INTERN Ashlynn Moody received $80.00 (salary) and $300.00 (bonuses)
+DRIVER Adalynn Cardenas received $150.00 (salary) and $0.00 (bonuses)
+INTERN Bentlee Herman received $80.00 (salary) and $25.00 (bonuses)

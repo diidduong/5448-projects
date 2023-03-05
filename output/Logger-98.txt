@@ -1,0 +1,27 @@
+Purchased BROKEN, DIRTY CAR Volvo XC90 2018 for $ 6212.79
+INTERN Joel Cabrera wash (DetailedWashing) DOZER Hyundai 2020 (892 HorsePower) and made it SPARKLING (earned 300.00 bonus)
+INTERN Joel Cabrera wash (DetailedWashing) CAR Volvo XC90 2018 and made it CLEAN
+INTERN Jericho Jensen wash (ChemicalWashing) ELECTRIC_CAR Nissan Ariya 2015 (543 miles) and made it CLEAN
+INTERN Jericho Jensen wash (ChemicalWashing) ELECTRIC_CAR Nissan Ariya 2015 (543 miles) and made it CLEAN
+INTERN Moses Benton wash (DetailedWashing) ELECTRIC_CAR Nissan Ariya 2015 (543 miles) and made it CLEAN
+INTERN Moses Benton wash (DetailedWashing) ELECTRIC_CAR Nissan Ariya 2015 (543 miles) and made it SPARKLING (earned 120.00 bonus)
+MECHANIC Gloriay Spence repaired BROKEN CAR Volvo XC90 2018 and made it USED (earned $100.00 bonus)
+MECHANIC Gloriay Spence repaired USED CAR Volvo XC90 2018 unsuccessfully
+MECHANIC Kingston Case repaired USED CAR Volvo XC90 2018 unsuccessfully
+MECHANIC Kingston Case repaired USED CAR Volvo XC90 2018 and made it LIKE_NEW (earned $100.00 bonus)
+SALESPERSON Aurora Summers (earned $80.00 bonus) sold CLEAN LIKE_NEW (PARAMOTOR) Fly Products Foxy trike 2011 (8939  feet maximumAltitude & 41 mile/hour maximumCruisingAirSpeed) with FOOT_LAUNCHER  to Buyer for $18514.88 + $370.30 (RoadRescueCoverage (addOns)).
+Added sale income $18885.18 to current balance
+Total salary payout increased by $1500.00
+Total bonuses payout increased by $700.00
+DRIVER Adalynn Cardenas received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Bailee Ho received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Gloriay Spence received $120.00 (salary) and $100.00 (bonuses)
+SALESPERSON Averi Petersen received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Kingston Case received $120.00 (salary) and $100.00 (bonuses)
+MECHANIC Jovanni Ahmed received $120.00 (salary) and $0.00 (bonuses)
+SALESPERSON Aurora Summers received $150.00 (salary) and $80.00 (bonuses)
+INTERN Joel Cabrera received $80.00 (salary) and $300.00 (bonuses)
+SALESPERSON Harry O’Donnell received $150.00 (salary) and $0.00 (bonuses)
+INTERN Jericho Jensen received $80.00 (salary) and $0.00 (bonuses)
+DRIVER Bentlee Bryan received $150.00 (salary) and $0.00 (bonuses)
+INTERN Moses Benton received $80.00 (salary) and $120.00 (bonuses)

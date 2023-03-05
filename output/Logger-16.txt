@@ -1,37 +1,32 @@
-Purchased LIKE_NEW, DIRTY PICKUP Isuzu D-Max 2020 for $ 22990.60
-Purchased LIKE_NEW, DIRTY PICKUP Ford F-150 Raptor 2015 for $ 64704.76
-Purchased USED, DIRTY MOTORCYCLE Triumph 2015 (590 CC engine) for $ 25955.08
-Purchased USED, DIRTY MONSTER_TRUCK Predator 9 for $ 75057.90
-INTERN Gloriay Pineda wash (DetailedWashing) CAR Mitsubishi Eclipse 2017 and made it SPARKLING (earned 50.00 bonus)
-INTERN Gloriay Pineda wash (DetailedWashing) PICKUP Isuzu D-Max 2020 and made it CLEAN
-INTERN Tiffany Lester wash (ElbowGreaseWashing) PICKUP Ford F-150 Raptor 2015 and made it CLEAN
-INTERN Tiffany Lester wash (ElbowGreaseWashing) MOTORCYCLE Triumph 2015 (590 CC engine) and made it CLEAN
-INTERN Arya Summers wash (DetailedWashing) MONSTER_TRUCK Predator 9 and made it CLEAN
-INTERN Arya Summers wash (DetailedWashing) CAR Toyota Corolla 2018 and made it CLEAN
-MECHANIC Harry Smith repaired BROKEN PERFORMANCE_CAR Acura NSX 2017 unsuccessfully
-MECHANIC Harry Smith repaired BROKEN PERFORMANCE_CAR Acura NSX 2017 and made it USED (earned $200.00 bonus)
-MECHANIC Moses Petersen repaired USED PERFORMANCE_CAR Acura NSX 2017 and made it LIKE_NEW (earned $200.00 bonus)
-MECHANIC Moses Petersen repaired USED MOTORCYCLE Triumph 2015 (590 CC engine) and made it LIKE_NEW (earned $80.00 bonus)
-MECHANIC Kyng Person repaired USED MONSTER_TRUCK Predator 9 and made it LIKE_NEW (earned $500.00 bonus)
-SALESPERSON Jovanni Lester (earned $300.00 bonus) sold CLEAN LIKE_NEW (ELECTRIC_CAR) Toyota bZ4X 2023 (459 miles) to Buyer for $151598.94 + $33351.77 (ExtendedWarranty, RoadRescueCoverage (addOns)).
-Added sale income $184950.71 to current balance
-SALESPERSON Louis Galindo (earned $300.00 bonus) sold CLEAN LIKE_NEW (ELECTRIC_CAR) Subaru Solterra 2013 (214 miles) to Buyer for $82453.19 + $4122.66 (SatelliteRadio (addOns)).
-Added sale income $86575.85 to current balance
-SALESPERSON Gerald Jensen (earned $150.00 bonus) sold CLEAN LIKE_NEW (MOTORCYCLE) Victory 2022 (1130 CC engine) to Buyer for $41326.55 + $2066.33 (SatelliteRadio (addOns)).
-Added sale income $43392.88 to current balance
-SALESPERSON Louis Galindo (earned $150.00 bonus) sold CLEAN LIKE_NEW (MOTORCYCLE) Triumph 2017 (605 CC engine) to Buyer for $39546.28 + $10677.50 (ExtendedWarranty, Undercoating, RoadRescueCoverage (addOns)).
-Added sale income $50223.78 to current balance
+Purchased BROKEN, DIRTY PICKUP Nissan Frontier 2023 for $ 15600.55
+INTERN Samson Reid wash (DetailedWashing) MOTORCYCLE Polaris Slingshot 2023 (554 CC engine) and made it DIRTY
+INTERN Samson Reid wash (DetailedWashing) MOTORCYCLE Polaris Slingshot 2023 (554 CC engine) and made it CLEAN
+INTERN Anaya Tate wash (DetailedWashing) PERFORMANCE_CAR Ford Mustang 2010 and made it CLEAN
+INTERN Anaya Tate wash (DetailedWashing) CAR Lexus RC 300 2023 and made it CLEAN
+INTERN Fernando Cortez wash (DetailedWashing) MOTORCYCLE Ural 2021 (1380 CC engine) and made it CLEAN
+INTERN Fernando Cortez wash (DetailedWashing) MONSTER_TRUCK Bigfoot 11 and made it CLEAN
+MECHANIC Aurora Leonard repaired USED CAR Hyundai Sonata 2017 and made it LIKE_NEW (earned $100.00 bonus)
+MECHANIC Aurora Leonard repaired USED CAR Mercedes-Benz S-class 2012 and made it LIKE_NEW (earned $100.00 bonus)
+MECHANIC Mohammad Myers repaired BROKEN ELECTRIC_CAR Subaru Solterra 2014 (339 miles) and made it USED (earned $300.00 bonus)
+MECHANIC Mohammad Myers repaired USED ELECTRIC_CAR Subaru Solterra 2014 (339 miles) and made it LIKE_NEW (earned $300.00 bonus)
+MECHANIC Bentlee Yu repaired BROKEN ELECTRIC_CAR Hyundai Kona Electric 2021 (86 miles) and made it USED (earned $300.00 bonus)
+MECHANIC Bentlee Yu repaired USED ELECTRIC_CAR Hyundai Kona Electric 2021 (86 miles) unsuccessfully
+SALESPERSON Emmalynn Xiong sold DIRTY LIKE_NEW Subaru Solterra 2014 (439 miles) to Buyer unsuccessfully
+SALESPERSON Anaya O’Donnell (earned $160.00 bonus) sold CLEAN LIKE_NEW (CAR) Mitsubishi Eclipse 2014 to Buyer for $40652.34 + $813.05 (RoadRescueCoverage (addOns)).
+Added sale income $41465.39 to current balance
+SALESPERSON Anaya O’Donnell (earned $350.00 bonus) sold CLEAN LIKE_NEW (PERFORMANCE_CAR) Ford Mustang 2010 to Buyer for $119642.95 + $23928.59 (ExtendedWarranty (addOns)).
+Added sale income $143571.55 to current balance
 Total salary payout increased by $1500.00
-Total bonuses payout increased by $1930.00
-MECHANIC Harry Smith received $120.00 (salary) and $200.00 (bonuses)
-SALESPERSON Louis Galindo received $150.00 (salary) and $450.00 (bonuses)
-DRIVER Lewis Dickson received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Louis Barry received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Jovanni Lester received $150.00 (salary) and $300.00 (bonuses)
-MECHANIC Moses Petersen received $120.00 (salary) and $280.00 (bonuses)
-DRIVER Salvatore Fleming received $150.00 (salary) and $0.00 (bonuses)
-MECHANIC Kyng Person received $120.00 (salary) and $500.00 (bonuses)
-INTERN Gloriay Pineda received $80.00 (salary) and $50.00 (bonuses)
-INTERN Tiffany Lester received $80.00 (salary) and $0.00 (bonuses)
-SALESPERSON Gerald Jensen received $150.00 (salary) and $150.00 (bonuses)
-INTERN Arya Summers received $80.00 (salary) and $0.00 (bonuses)
+Total bonuses payout increased by $1610.00
+MECHANIC Aurora Leonard received $120.00 (salary) and $200.00 (bonuses)
+MECHANIC Mohammad Myers received $120.00 (salary) and $600.00 (bonuses)
+MECHANIC Bentlee Yu received $120.00 (salary) and $300.00 (bonuses)
+SALESPERSON Anaya O’Donnell received $150.00 (salary) and $510.00 (bonuses)
+DRIVER Dalton Tate received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Gerardo Yu received $150.00 (salary) and $0.00 (bonuses)
+INTERN Samson Reid received $80.00 (salary) and $0.00 (bonuses)
+SALESPERSON Emmalynn Xiong received $150.00 (salary) and $0.00 (bonuses)
+INTERN Anaya Tate received $80.00 (salary) and $0.00 (bonuses)
+SALESPERSON Emory Cabrera received $150.00 (salary) and $0.00 (bonuses)
+INTERN Fernando Cortez received $80.00 (salary) and $0.00 (bonuses)
+DRIVER Gloriay Leonard received $150.00 (salary) and $0.00 (bonuses)

@@ -1,29 +1,33 @@
-INTERN Gordon Blair wash (ElbowGreaseWashing) MOTORCYCLE Royal Enfield 2020 (1063 CC engine) and made it CLEAN
-INTERN Gordon Blair wash (ElbowGreaseWashing) MONSTER_TRUCK USA-1 4 and made it CLEAN
-INTERN Tiffany Jimenez wash (ChemicalWashing) ELECTRIC_CAR Nissan Ariya 2021 (469 miles) and made it CLEAN
-INTERN Tiffany Jimenez wash (ChemicalWashing) ELECTRIC_CAR Kia EV6 2012 (126 miles) and made it CLEAN
-INTERN Calliope Hess wash (ChemicalWashing) MONSTER_TRUCK Grave Digger 2 and made it CLEAN
-INTERN Calliope Hess wash (ChemicalWashing) MONSTER_TRUCK Grave Digger 2 and made it CLEAN
-MECHANIC Kyng Person repaired USED ELECTRIC_CAR Lucid Air 2011 (277 miles) and made it LIKE_NEW (earned $300.00 bonus)
-MECHANIC Kyng Person repaired BROKEN ELECTRIC_CAR Kia EV6 2012 (126 miles) and made it USED (earned $300.00 bonus)
-MECHANIC Tiffany Lester repaired USED ELECTRIC_CAR Kia EV6 2012 (126 miles) unsuccessfully
-MECHANIC Tiffany Lester repaired USED ELECTRIC_CAR Kia EV6 2012 (126 miles) and made it LIKE_NEW (earned $300.00 bonus)
-SALESPERSON Louis Galindo sold SPARKLING LIKE_NEW WCW Nitro Machine 7 to Buyer unsuccessfully
-SALESPERSON Gerald Jensen sold CLEAN LIKE_NEW Royal Enfield 2020 (1063 CC engine) to Buyer unsuccessfully
-SALESPERSON Gerald Jensen (earned $500.00 bonus) sold SPARKLING LIKE_NEW (MONSTER_TRUCK) WCW Nitro Machine 7 to Buyer for $148653.92 + $10405.77 (Undercoating, RoadRescueCoverage (addOns)).
-Added sale income $159059.70 to current balance
-SALESPERSON Louis Galindo sold DIRTY LIKE_NEW Kia EV6 2012 (226 miles) to Buyer unsuccessfully
+Purchased USED, DIRTY ELECTRIC_CAR Mercedes-Benz EQS-Class 2013 (373 miles) for $ 20020.58
+Purchased USED, DIRTY DOZER XCMG 2014 (281 HorsePower) for $ 48795.64
+INTERN Amara Kennedy wash (ChemicalWashing) MOTORCYCLE Beta 2022 (448 CC engine) and made it CLEAN
+INTERN Amara Kennedy wash (ChemicalWashing) PARAMOTOR Scout Enduro Cage 2017 (9914  feet maximumAltitude & 26 mile/hour maximumCruisingAirSpeed) with TRIKE_WHEEL_LAUNCHER  and made it CLEAN
+INTERN Blaine Ryan wash (ChemicalWashing) ELECTRIC_CAR Mercedes-Benz EQS-Class 2013 (373 miles) and made it SPARKLING (earned 120.00 bonus)
+INTERN Blaine Ryan wash (ChemicalWashing) DOZER XCMG 2014 (281 HorsePower) and made it CLEAN
+INTERN Angie Petersen wash (ChemicalWashing) PERFORMANCE_CAR Toyota GR86 2017 and made it CLEAN
+INTERN Angie Petersen wash (ChemicalWashing) PERFORMANCE_CAR Toyota GR86 2017 and made it CLEAN
+MECHANIC Bentlee Yu repaired USED ELECTRIC_CAR Mercedes-Benz EQS-Class 2013 (373 miles) and made it LIKE_NEW (earned $300.00 bonus)
+MECHANIC Bentlee Yu repaired USED DOZER XCMG 2014 (281 HorsePower) and made it LIKE_NEW (earned $600.00 bonus)
+SALESPERSON Emory Cabrera (earned $300.00 bonus) sold CLEAN LIKE_NEW (ELECTRIC_CAR) Subaru Solterra 2014 (439 miles) to Buyer for $129035.52 + $2580.71 (RoadRescueCoverage (addOns)).
+Added sale income $131616.24 to current balance
+SALESPERSON Emory Cabrera sold CLEAN LIKE_NEW Hyundai Kona Electric 2012 (262 miles) to Buyer unsuccessfully
+SALESPERSON Samson Reid sold CLEAN LIKE_NEW Hyundai Kona Electric 2012 (262 miles) to Buyer unsuccessfully
+SALESPERSON Emmalynn Xiong sold CLEAN LIKE_NEW Club Car Villager 2023 (4 Passengers & 10 hours chargingTime) to Buyer unsuccessfully
+SALESPERSON Emmalynn Xiong (earned $220.00 bonus) sold CLEAN LIKE_NEW (PICKUP) Nissan Frontier 2023 to Buyer for $117004.10 + $14040.49 (Undercoating, RoadRescueCoverage, SatelliteRadio (addOns)).
+Added sale income $131044.59 to current balance
+SALESPERSON Samson Reid (earned $500.00 bonus) sold CLEAN LIKE_NEW (MONSTER_TRUCK) Sudden Impact 10 to Buyer for $226427.03 + $15849.89 (Undercoating, RoadRescueCoverage (addOns)).
+Added sale income $242276.92 to current balance
 Total salary payout increased by $1500.00
-Total bonuses payout increased by $1400.00
-SALESPERSON Louis Galindo received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Louis Barry received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Jovanni Lester received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Salvatore Fleming received $150.00 (salary) and $0.00 (bonuses)
-MECHANIC Kyng Person received $120.00 (salary) and $600.00 (bonuses)
-SALESPERSON Gerald Jensen received $150.00 (salary) and $500.00 (bonuses)
-MECHANIC Tiffany Lester received $120.00 (salary) and $300.00 (bonuses)
-INTERN Gordon Blair received $80.00 (salary) and $0.00 (bonuses)
-DRIVER Macie Cortez received $150.00 (salary) and $0.00 (bonuses)
-INTERN Tiffany Jimenez received $80.00 (salary) and $0.00 (bonuses)
-MECHANIC Kingston Faulkner received $120.00 (salary) and $0.00 (bonuses)
-INTERN Calliope Hess received $80.00 (salary) and $0.00 (bonuses)
+Total bonuses payout increased by $2040.00
+MECHANIC Bentlee Yu received $120.00 (salary) and $900.00 (bonuses)
+DRIVER Gerardo Yu received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Emmalynn Xiong received $150.00 (salary) and $220.00 (bonuses)
+SALESPERSON Emory Cabrera received $150.00 (salary) and $300.00 (bonuses)
+DRIVER Gloriay Leonard received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Samson Reid received $150.00 (salary) and $500.00 (bonuses)
+INTERN Amara Kennedy received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Anaya Tate received $120.00 (salary) and $0.00 (bonuses)
+INTERN Blaine Ryan received $80.00 (salary) and $120.00 (bonuses)
+DRIVER Jericho McCormick received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Fernando Cortez received $120.00 (salary) and $0.00 (bonuses)
+INTERN Angie Petersen received $80.00 (salary) and $0.00 (bonuses)

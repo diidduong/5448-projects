@@ -1,8 +1,10 @@
 package staff;
 
+
 import utilities.RandomGenerator;
 
 import java.util.ArrayList;
+
 
 /**
  * @author Duy Duong, Ahmed.H.Biby
@@ -44,9 +46,7 @@ public abstract class Staff {
         return dailyRate;
     }
 
-    public void setDailyRate(double dailyRate) {
-        this.dailyRate = dailyRate;
-    }
+
 
     public double getSalary() {
         return salary;
@@ -68,9 +68,7 @@ public abstract class Staff {
         return totalBonus;
     }
 
-    public void setTotalBonus(double totalBonus) {
-        this.totalBonus = totalBonus;
-    }
+
 
     public int getDaysOfWork() {
         return daysOfWork;
@@ -92,9 +90,7 @@ public abstract class Staff {
         return jobTitle;
     }
 
-    public void setJobTitle(JobTitle jobTitle) {
-        this.jobTitle = jobTitle;
-    }
+
 
     public void addSalary(){
         this.salary += dailyRate;
@@ -183,5 +179,7 @@ public abstract class Staff {
             System.out.printf("\n%s (%s) quited.\n", getName(), getJobTitle());
         }
     }
+
 }
+
 

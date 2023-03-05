@@ -1,0 +1,30 @@
+INTERN Gordon Ramos wash (DetailedWashing) DOZER Volvo CE 2011 (287 HorsePower) and made it CLEAN
+INTERN Gordon Ramos wash (DetailedWashing) DOZER Volvo CE 2011 (287 HorsePower) and made it SPARKLING (earned 300.00 bonus)
+INTERN Kingston Summers wash (ElbowGreaseWashing) PERFORMANCE_CAR Lamborghini Countach 2015 and made it CLEAN
+INTERN Kingston Summers wash (ElbowGreaseWashing) PERFORMANCE_CAR Lamborghini Countach 2015 and made it CLEAN
+INTERN Meredith Petersen wash (ElbowGreaseWashing) PERFORMANCE_CAR Lamborghini Countach 2015 and made it CLEAN
+INTERN Meredith Petersen wash (ElbowGreaseWashing) PERFORMANCE_CAR Lamborghini Countach 2015 and made it CLEAN
+MECHANIC Ashlynn Moody repaired BROKEN PICKUP Honda Ridgeline 2019 and made it USED (earned $150.00 bonus)
+MECHANIC Ashlynn Moody repaired USED PICKUP Honda Ridgeline 2019 and made it LIKE_NEW (earned $150.00 bonus)
+SALESPERSON Eliezer Scott sold CLEAN LIKE_NEW Volvo XC40 Recharge 2019 (492 miles) to Buyer unsuccessfully
+SALESPERSON Eliezer Scott (earned $150.00 bonus) sold CLEAN LIKE_NEW (MOTORCYCLE) Suzuki 2014 (834 CC engine) to Buyer for $64821.21 + $17501.73 (ExtendedWarranty, RoadRescueCoverage, SatelliteRadio (addOns)).
+Added sale income $82322.94 to current balance
+SALESPERSON Macie Ryan sold SPARKLING LIKE_NEW Toro 2021 (456 HorsePower) to Buyer unsuccessfully
+SALESPERSON Macie Ryan (earned $300.00 bonus) sold CLEAN LIKE_NEW (ELECTRIC_CAR) Volvo XC40 Recharge 2019 (492 miles) to Buyer for $92414.58 + $20331.21 (ExtendedWarranty, RoadRescueCoverage (addOns)).
+Added sale income $112745.78 to current balance
+SALESPERSON Eliezer Scott (earned $160.00 bonus) sold CLEAN LIKE_NEW (CAR) Chevrolet Spark 2017 to Buyer for $52931.25 + $10586.25 (ExtendedWarranty (addOns)).
+Added sale income $63517.50 to current balance
+Total salary payout increased by $1500.00
+Total bonuses payout increased by $1210.00
+DRIVER Sawyer Fernandez received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Eliezer Scott received $150.00 (salary) and $310.00 (bonuses)
+DRIVER Adalynn Cardenas received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Ashlynn Moody received $120.00 (salary) and $300.00 (bonuses)
+SALESPERSON Bentlee Herman received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Macie Ryan received $150.00 (salary) and $300.00 (bonuses)
+MECHANIC Jericho Benton received $120.00 (salary) and $0.00 (bonuses)
+INTERN Gordon Ramos received $80.00 (salary) and $300.00 (bonuses)
+DRIVER Bailee Ho received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Elaine Jordan received $120.00 (salary) and $0.00 (bonuses)
+INTERN Kingston Summers received $80.00 (salary) and $0.00 (bonuses)
+INTERN Meredith Petersen received $80.00 (salary) and $0.00 (bonuses)

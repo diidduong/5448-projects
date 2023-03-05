@@ -1,0 +1,28 @@
+Purchased USED, DIRTY CAR Mercedes-Benz G-class 2014 for $ 14970.42
+INTERN Demi Kelley wash (ElbowGreaseWashing) CAR Mercedes-Benz G-class 2014 and made it CLEAN
+INTERN Demi Kelley wash (ElbowGreaseWashing) GOLF_CART Polaris GEM 2014 (3 Passengers & 8 hours chargingTime) and made it CLEAN
+INTERN Joel Zimmerman wash (ElbowGreaseWashing) GOLF_CART Polaris GEM 2014 (3 Passengers & 8 hours chargingTime) and made it SPARKLING (earned 30.00 bonus)
+INTERN Joel Zimmerman wash (ElbowGreaseWashing) GOLF_CART E-Z-GO Freedom RXV 2015 (3 Passengers & 6 hours chargingTime) and made it SPARKLING (earned 30.00 bonus)
+INTERN Ashlynn Moody wash (DetailedWashing) DOZER Manitou 2013 (442 HorsePower) and made it CLEAN
+INTERN Ashlynn Moody wash (DetailedWashing) DOZER Manitou 2013 (442 HorsePower) and made it CLEAN
+MECHANIC Maxwell Calhoun repaired USED CAR Mercedes-Benz G-class 2014 unsuccessfully
+MECHANIC Maxwell Calhoun repaired USED CAR Mercedes-Benz G-class 2014 and made it LIKE_NEW (earned $100.00 bonus)
+SALESPERSON Braelynn Wilkinson sold SPARKLING LIKE_NEW Hyundai Kona Electric 2011 (126 miles) to Buyer unsuccessfully
+SALESPERSON Braelynn Wilkinson (earned $220.00 bonus) sold CLEAN LIKE_NEW (PICKUP) GMC Sierra Supercharged 2017 to Buyer for $73220.14 + $1464.40 (RoadRescueCoverage (addOns)).
+Added sale income $74684.54 to current balance
+SALESPERSON Lewis Newton (earned $160.00 bonus) sold DIRTY LIKE_NEW (CAR) Mercedes-Benz G-class 2014 to Buyer for $46782.56 + $935.65 (RoadRescueCoverage (addOns)).
+Added sale income $47718.21 to current balance
+Total salary payout increased by $1500.00
+Total bonuses payout increased by $540.00
+DRIVER Bellamy Bryan received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Maxwell Calhoun received $120.00 (salary) and $100.00 (bonuses)
+MECHANIC Keyla Scott received $120.00 (salary) and $0.00 (bonuses)
+MECHANIC Bentley Fleming received $120.00 (salary) and $0.00 (bonuses)
+DRIVER Sawyer Fernandez received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Lewis Newton received $150.00 (salary) and $160.00 (bonuses)
+SALESPERSON Braelynn Wilkinson received $150.00 (salary) and $220.00 (bonuses)
+INTERN Demi Kelley received $80.00 (salary) and $0.00 (bonuses)
+SALESPERSON Eliezer Scott received $150.00 (salary) and $0.00 (bonuses)
+INTERN Joel Zimmerman received $80.00 (salary) and $60.00 (bonuses)
+INTERN Ashlynn Moody received $80.00 (salary) and $0.00 (bonuses)
+DRIVER Adalynn Cardenas received $150.00 (salary) and $0.00 (bonuses)

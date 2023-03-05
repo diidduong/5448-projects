@@ -1,0 +1,28 @@
+INTERN Calliope Hess wash (DetailedWashing) CAR Nissan Sunny 2022 and made it DIRTY
+INTERN Calliope Hess wash (DetailedWashing) CAR Nissan Sunny 2022 and made it CLEAN
+INTERN Gloriay Cruz wash (ChemicalWashing) PARAMOTOR PAP 2021 (14113  feet maximumAltitude & 40 mile/hour maximumCruisingAirSpeed) with QUAD_WHEEL_LAUNCHER  and made it CLEAN
+INTERN Gloriay Cruz wash (ChemicalWashing) PARAMOTOR PAP 2021 (14113  feet maximumAltitude & 40 mile/hour maximumCruisingAirSpeed) with QUAD_WHEEL_LAUNCHER  and made it DIRTY
+INTERN Gary Yu wash (DetailedWashing) PARAMOTOR PAP 2021 (14113  feet maximumAltitude & 40 mile/hour maximumCruisingAirSpeed) with QUAD_WHEEL_LAUNCHER  and made it CLEAN
+INTERN Gary Yu wash (DetailedWashing) PARAMOTOR PAP 2021 (14113  feet maximumAltitude & 40 mile/hour maximumCruisingAirSpeed) with QUAD_WHEEL_LAUNCHER  and made it CLEAN
+MECHANIC Elaine Jordan repaired BROKEN PARAMOTOR PAP 2021 (14113  feet maximumAltitude & 40 mile/hour maximumCruisingAirSpeed) with QUAD_WHEEL_LAUNCHER  and made it USED (earned $60.00 bonus)
+MECHANIC Elaine Jordan repaired USED PARAMOTOR PAP 2021 (14113  feet maximumAltitude & 40 mile/hour maximumCruisingAirSpeed) with QUAD_WHEEL_LAUNCHER  and made it LIKE_NEW (earned $60.00 bonus)
+SALESPERSON Macie Ryan sold CLEAN LIKE_NEW Dodge Viper 2011 to Buyer unsuccessfully
+SALESPERSON Bentlee Herman sold CLEAN LIKE_NEW Hyundai Sonata 2010 to Buyer unsuccessfully
+SALESPERSON Bentlee Herman sold SPARKLING LIKE_NEW Volkswagen ID4 2015 (162 miles) to Buyer for $68501.39 without any addOns (earned $300.00 bonus)
+Added sale income $68501.39 to current balance
+SALESPERSON Bentlee Herman (earned $350.00 bonus) sold CLEAN LIKE_NEW (PERFORMANCE_CAR) Dodge Viper 2011 to Buyer for $95594.46 + $4779.72 (SatelliteRadio (addOns)).
+Added sale income $100374.18 to current balance
+Total salary payout increased by $1500.00
+Total bonuses payout increased by $770.00
+DRIVER Sawyer Fernandez received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Eliezer Scott received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Adalynn Cardenas received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Bentlee Herman received $150.00 (salary) and $650.00 (bonuses)
+SALESPERSON Macie Ryan received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Bailee Ho received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Elaine Jordan received $120.00 (salary) and $120.00 (bonuses)
+INTERN Calliope Hess received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Kingston Summers received $120.00 (salary) and $0.00 (bonuses)
+INTERN Gloriay Cruz received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Meredith Petersen received $120.00 (salary) and $0.00 (bonuses)
+INTERN Gary Yu received $80.00 (salary) and $0.00 (bonuses)

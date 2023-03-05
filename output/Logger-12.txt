@@ -1,33 +1,30 @@
-INTERN Kyng Person wash (ChemicalWashing) CAR Mitsubishi Eclipse 2019 and made it SPARKLING (earned 50.00 bonus)
-INTERN Kyng Person wash (ChemicalWashing) ELECTRIC_CAR Toyota bZ4X 2023 (459 miles) and made it CLEAN
-INTERN Sawyer Case wash (ChemicalWashing) CAR Toyota Corolla 2018 and made it CLEAN
-INTERN Sawyer Case wash (ChemicalWashing) CAR Toyota Corolla 2018 and made it CLEAN
-INTERN Gerald Jensen wash (ChemicalWashing) CAR Toyota Corolla 2018 and made it SPARKLING (earned 50.00 bonus)
-INTERN Gerald Jensen wash (ChemicalWashing) CAR Nissan Sunny 2015 and made it SPARKLING (earned 50.00 bonus)
-MECHANIC Jaycee Faulkner repaired BROKEN CAR Toyota Corolla 2018 and made it USED (earned $100.00 bonus)
-MECHANIC Jaycee Faulkner repaired USED CAR Toyota Corolla 2018 unsuccessfully
-MECHANIC Harry Smith repaired USED CAR Toyota Corolla 2018 and made it LIKE_NEW (earned $100.00 bonus)
-MECHANIC Harry Smith repaired BROKEN CAR Nissan Sunny 2015 unsuccessfully
-MECHANIC Moses Petersen repaired BROKEN CAR Nissan Sunny 2015 and made it USED (earned $100.00 bonus)
-MECHANIC Moses Petersen repaired USED CAR Nissan Sunny 2015 unsuccessfully
-SALESPERSON Aurora Graham sold CLEAN LIKE_NEW Polaris Slingshot 2023 (457 CC engine) to Buyer unsuccessfully
-SALESPERSON Jovanni Lester sold CLEAN LIKE_NEW GMC Hummer EV 2017 to Buyer unsuccessfully
-SALESPERSON Jovanni Lester sold CLEAN LIKE_NEW Toyota bZ4X 2023 (459 miles) to Buyer unsuccessfully
-SALESPERSON Aurora Graham sold CLEAN LIKE_NEW Toyota bZ4X 2023 (459 miles) to Buyer unsuccessfully
-SALESPERSON Jovanni Lester sold SPARKLING LIKE_NEW Mitsubishi Eclipse 2019 to Buyer unsuccessfully
-SALESPERSON Jovanni Lester (earned $160.00 bonus) sold SPARKLING LIKE_NEW (CAR) Mitsubishi Eclipse 2019 to Buyer for $72130.02 + $14426.00 (ExtendedWarranty (addOns)).
-Added sale income $86556.03 to current balance
+Purchased LIKE_NEW, DIRTY PICKUP Nissan Titan XD 2017 for $ 35210.05
+Purchased BROKEN, DIRTY ELECTRIC_CAR Hyundai Kona Electric 2021 (86 miles) for $ 19182.58
+Purchased LIKE_NEW, CLEAN PARAMOTOR Air Conception Nitro 2017 (11118  feet maximumAltitude & 23 mile/hour maximumCruisingAirSpeed) with QUAD_WHEEL_LAUNCHER  for $ 5421.80
+Purchased LIKE_NEW, CLEAN PARAMOTOR FlatTop 2018 (7360  feet maximumAltitude & 26 mile/hour maximumCruisingAirSpeed) with FOOT_LAUNCHER  for $ 7402.00
+INTERN Samson Reid wash (DetailedWashing) DOZER Mauldin 2021 (730 HorsePower) and made it SPARKLING (earned 300.00 bonus)
+INTERN Samson Reid wash (DetailedWashing) GOLF_CART ACG 2021 (3 Passengers & 9 hours chargingTime) and made it CLEAN
+INTERN Anaya Tate wash (DetailedWashing) GOLF_CART Vitacci Rover 2020 (4 Passengers & 6 hours chargingTime) and made it CLEAN
+INTERN Anaya Tate wash (DetailedWashing) GOLF_CART ACG 2013 (5 Passengers & 12 hours chargingTime) and made it CLEAN
+INTERN Fernando Cortez wash (DetailedWashing) GOLF_CART Club Car Villager 2023 (4 Passengers & 10 hours chargingTime) and made it DIRTY
+INTERN Fernando Cortez wash (DetailedWashing) GOLF_CART Club Car Villager 2023 (4 Passengers & 10 hours chargingTime) and made it SPARKLING (earned 30.00 bonus)
+MECHANIC Aurora Leonard repaired BROKEN MONSTER_TRUCK Sudden Impact 13 unsuccessfully
+MECHANIC Aurora Leonard repaired BROKEN MONSTER_TRUCK Sudden Impact 13 and made it USED (earned $500.00 bonus)
+MECHANIC Mohammad Myers repaired USED MONSTER_TRUCK Sudden Impact 13 unsuccessfully
+MECHANIC Mohammad Myers repaired USED MONSTER_TRUCK Sudden Impact 13 and made it LIKE_NEW (earned $500.00 bonus)
+MECHANIC Bentlee Yu repaired USED PARAMOTOR Nirvana 2019 (8197  feet maximumAltitude & 40 mile/hour maximumCruisingAirSpeed) with FOOT_LAUNCHER  unsuccessfully
+MECHANIC Bentlee Yu repaired USED PARAMOTOR Nirvana 2019 (8197  feet maximumAltitude & 40 mile/hour maximumCruisingAirSpeed) with FOOT_LAUNCHER  and made it LIKE_NEW (earned $60.00 bonus)
 Total salary payout increased by $1500.00
-Total bonuses payout increased by $610.00
-MECHANIC Jaycee Faulkner received $120.00 (salary) and $100.00 (bonuses)
-MECHANIC Harry Smith received $120.00 (salary) and $100.00 (bonuses)
-SALESPERSON Aurora Graham received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Louis Galindo received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Lewis Dickson received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Louis Barry received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Jovanni Lester received $150.00 (salary) and $160.00 (bonuses)
-INTERN Kyng Person received $80.00 (salary) and $50.00 (bonuses)
-MECHANIC Moses Petersen received $120.00 (salary) and $100.00 (bonuses)
-INTERN Sawyer Case received $80.00 (salary) and $0.00 (bonuses)
-INTERN Gerald Jensen received $80.00 (salary) and $100.00 (bonuses)
-DRIVER Salvatore Fleming received $150.00 (salary) and $0.00 (bonuses)
+Total bonuses payout increased by $1390.00
+MECHANIC Aurora Leonard received $120.00 (salary) and $500.00 (bonuses)
+MECHANIC Mohammad Myers received $120.00 (salary) and $500.00 (bonuses)
+MECHANIC Bentlee Yu received $120.00 (salary) and $60.00 (bonuses)
+SALESPERSON Anaya O’Donnell received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Dalton Tate received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Gerardo Yu received $150.00 (salary) and $0.00 (bonuses)
+INTERN Samson Reid received $80.00 (salary) and $300.00 (bonuses)
+SALESPERSON Emmalynn Xiong received $150.00 (salary) and $0.00 (bonuses)
+INTERN Anaya Tate received $80.00 (salary) and $0.00 (bonuses)
+DRIVER Nathaniel Herman received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Emory Cabrera received $150.00 (salary) and $0.00 (bonuses)
+INTERN Fernando Cortez received $80.00 (salary) and $30.00 (bonuses)

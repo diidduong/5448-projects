@@ -1,0 +1,38 @@
+Purchased USED, DIRTY PERFORMANCE_CAR Lamborghini Countach 2013 for $ 20541.00
+Purchased BROKEN, DIRTY PICKUP Ford Velociraptor 6×6 2010 for $ 11888.34
+Purchased USED, DIRTY MOTORCYCLE Suzuki 2022 (665 CC engine) for $ 16004.95
+Purchased USED, CLEAN GOLF_CART ACG 2020 (4 Passengers & 5 hours chargingTime) for $ 5108.41
+INTERN Demi Kelley wash (ElbowGreaseWashing) MONSTER_TRUCK Blacksmith 12 and made it CLEAN
+INTERN Demi Kelley wash (ElbowGreaseWashing) DOZER Kioti 2023 (312 HorsePower) and made it DIRTY
+INTERN Joel Zimmerman wash (ElbowGreaseWashing) DOZER Kioti 2023 (312 HorsePower) and made it CLEAN
+INTERN Joel Zimmerman wash (ElbowGreaseWashing) PERFORMANCE_CAR Lamborghini Countach 2013 and made it CLEAN
+INTERN Ashlynn Moody wash (DetailedWashing) PICKUP Ford Velociraptor 6×6 2010 and made it DIRTY
+INTERN Ashlynn Moody wash (DetailedWashing) PICKUP Ford Velociraptor 6×6 2010 and made it SPARKLING (earned 100.00 bonus)
+MECHANIC Maxwell Calhoun repaired USED PERFORMANCE_CAR Lamborghini Countach 2013 unsuccessfully
+MECHANIC Maxwell Calhoun repaired USED PERFORMANCE_CAR Lamborghini Countach 2013 unsuccessfully
+MECHANIC Keyla Scott repaired USED PERFORMANCE_CAR Lamborghini Countach 2013 and made it LIKE_NEW (earned $200.00 bonus)
+MECHANIC Keyla Scott repaired BROKEN PICKUP Ford Velociraptor 6×6 2010 and made it USED (earned $150.00 bonus)
+MECHANIC Bentley Fleming repaired USED PICKUP Ford Velociraptor 6×6 2010 and made it LIKE_NEW (earned $150.00 bonus)
+MECHANIC Bentley Fleming repaired USED MOTORCYCLE Suzuki 2022 (665 CC engine) and made it LIKE_NEW (earned $80.00 bonus)
+SALESPERSON Eliezer Scott sold CLEAN LIKE_NEW Bulldozer 14 to Buyer unsuccessfully
+SALESPERSON Lewis Newton sold CLEAN LIKE_NEW Kioti 2023 (312 HorsePower) to Buyer unsuccessfully
+SALESPERSON Eliezer Scott (earned $220.00 bonus) sold DIRTY LIKE_NEW (PICKUP) Ford Velociraptor 6×6 2010 to Buyer for $89162.54 + $1783.25 (RoadRescueCoverage (addOns)).
+Added sale income $90945.79 to current balance
+SALESPERSON Braelynn Wilkinson (earned $220.00 bonus) sold SPARKLING LIKE_NEW (PICKUP) Ford F-150 Lightning 2017 to Buyer for $58437.00 + $2921.85 (SatelliteRadio (addOns)).
+Added sale income $61358.85 to current balance
+SALESPERSON Eliezer Scott sold DIRTY LIKE_NEW Suzuki 2022 (665 CC engine) to Buyer unsuccessfully
+SALESPERSON Eliezer Scott sold SPARKLING LIKE_NEW Chevrolet Colorado ZR2 2018 to Buyer unsuccessfully
+Total salary payout increased by $1500.00
+Total bonuses payout increased by $1120.00
+DRIVER Bellamy Bryan received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Maxwell Calhoun received $120.00 (salary) and $0.00 (bonuses)
+DRIVER Leroy Acevedo received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Keyla Scott received $120.00 (salary) and $350.00 (bonuses)
+MECHANIC Bentley Fleming received $120.00 (salary) and $230.00 (bonuses)
+DRIVER Sawyer Fernandez received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Lewis Newton received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Braelynn Wilkinson received $150.00 (salary) and $220.00 (bonuses)
+INTERN Demi Kelley received $80.00 (salary) and $0.00 (bonuses)
+SALESPERSON Eliezer Scott received $150.00 (salary) and $220.00 (bonuses)
+INTERN Joel Zimmerman received $80.00 (salary) and $0.00 (bonuses)
+INTERN Ashlynn Moody received $80.00 (salary) and $100.00 (bonuses)

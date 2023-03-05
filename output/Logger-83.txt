@@ -1,0 +1,31 @@
+Purchased BROKEN, DIRTY DOZER Epiroc 2016 (584 HorsePower) for $ 18433.46
+Purchased LIKE_NEW, CLEAN PARAMOTOR Parajet the Volution 2020 (7739  feet maximumAltitude & 32 mile/hour maximumCruisingAirSpeed) with TRIKE_WHEEL_LAUNCHER  for $ 8721.52
+INTERN Gloriay Spence wash (DetailedWashing) GOLF_CART E-Z-GO Express L6 2012 (6 Passengers & 9 hours chargingTime) and made it CLEAN
+INTERN Gloriay Spence wash (DetailedWashing) PERFORMANCE_CAR Ford Mustang Shelby GT500 2015 and made it CLEAN
+INTERN Johnathan Chang wash (DetailedWashing) MOTORCYCLE KTM 2022 (634 CC engine) and made it CLEAN
+INTERN Johnathan Chang wash (DetailedWashing) MOTORCYCLE Triumph 2017 (390 CC engine) and made it DIRTY
+INTERN Silas Leonard wash (DetailedWashing) MOTORCYCLE Triumph 2017 (390 CC engine) and made it CLEAN
+INTERN Silas Leonard wash (DetailedWashing) DOZER Epiroc 2016 (584 HorsePower) and made it CLEAN
+MECHANIC Calliope Hess repaired BROKEN DOZER Epiroc 2016 (584 HorsePower) and made it USED (earned $600.00 bonus)
+MECHANIC Calliope Hess repaired USED DOZER Epiroc 2016 (584 HorsePower) and made it LIKE_NEW (earned $600.00 bonus)
+SALESPERSON Macie Ryan sold CLEAN LIKE_NEW BMW iX 2017 (468 miles) to Buyer unsuccessfully
+SALESPERSON Bentlee Herman (earned $350.00 bonus) sold SPARKLING LIKE_NEW (PERFORMANCE_CAR) Lamborghini Countach 2015 to Buyer for $94013.40 + $20682.95 (ExtendedWarranty, RoadRescueCoverage (addOns)).
+Added sale income $114696.35 to current balance
+SALESPERSON Macie Ryan sold DIRTY LIKE_NEW Epiroc 2016 (584 HorsePower) to Buyer unsuccessfully
+SALESPERSON Macie Ryan sold CLEAN LIKE_NEW Lucid Air 2015 to Buyer unsuccessfully
+SALESPERSON Bentlee Herman sold SPARKLING LIKE_NEW Bear Foot (F-150) 7 to Buyer for $206044.06 without any addOns (earned $500.00 bonus)
+Added sale income $206044.06 to current balance
+Total salary payout increased by $1500.00
+Total bonuses payout increased by $2050.00
+DRIVER Sawyer Fernandez received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Eliezer Scott received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Adalynn Cardenas received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Bentlee Herman received $150.00 (salary) and $850.00 (bonuses)
+SALESPERSON Macie Ryan received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Bailee Ho received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Calliope Hess received $120.00 (salary) and $1200.00 (bonuses)
+MECHANIC Gloriay Cruz received $120.00 (salary) and $0.00 (bonuses)
+INTERN Gloriay Spence received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Gary Yu received $120.00 (salary) and $0.00 (bonuses)
+INTERN Johnathan Chang received $80.00 (salary) and $0.00 (bonuses)
+INTERN Silas Leonard received $80.00 (salary) and $0.00 (bonuses)

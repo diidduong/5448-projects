@@ -92,10 +92,8 @@ public class Mechanic extends Staff {
     }
 
     /**
-     * Get bonus for employee for each successful repair
-     *
+     * Get bonus for employee for each successful repair*
      * Assumption: this method is used for fixed vehicle
-     *
      * @param vehicle current vehicle
      * @return bonus value
      */
@@ -107,6 +105,12 @@ public class Mechanic extends Staff {
                 return 100;
             case PICKUP:
                 return 150;
+            case GOLF_CART:
+                return 75;
+            case PARAMOTOR:
+                return 60;
+            case DOZER:
+                return 600;
             case ELECTRIC_CAR:
                 return 300;
             case MOTORCYCLE:
@@ -122,9 +126,7 @@ public class Mechanic extends Staff {
      * Get bonus for sale price for fixed vehicle by vehicle condition. Sale price increase by
      * 50% if vehicle becomes Used
      * 25% if vehicle becomes Like New
-     *
      * Assumption: this method is used for fixed vehicle
-     *
      * @param vehicle fixed vehicle
      * @return sale price bonus value
      */

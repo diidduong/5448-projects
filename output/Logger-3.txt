@@ -1,34 +1,28 @@
-INTERN Kiana Person wash (ChemicalWashing) CAR Nissan Sunny 2015 and made it CLEAN
-INTERN Kiana Person wash (ChemicalWashing) CAR Toyota Corolla 2021 and made it CLEAN
-INTERN Elaine Spence wash (ChemicalWashing) ELECTRIC_CAR Audi E-Tron Sportback 2011 (90 miles) and made it SPARKLING (earned 120.00 bonus)
-INTERN Elaine Spence wash (ChemicalWashing) MOTORCYCLE Polaris Slingshot 2023 (457 CC engine) and made it CLEAN
-INTERN Moses Petersen wash (ElbowGreaseWashing) MOTORCYCLE Triumph 2017 (605 CC engine) and made it CLEAN
-INTERN Moses Petersen wash (ElbowGreaseWashing) MONSTER_TRUCK Grave Digger 2 and made it CLEAN
-MECHANIC Kingston Vo repaired USED CAR Toyota Corolla 2021 and made it LIKE_NEW (earned $100.00 bonus)
-MECHANIC Kingston Vo repaired BROKEN PICKUP Hyundai Santa Cruz 2020 and made it USED (earned $150.00 bonus)
-MECHANIC Jaycee Faulkner repaired USED PICKUP Hyundai Santa Cruz 2020 and made it LIKE_NEW (earned $150.00 bonus)
-MECHANIC Jaycee Faulkner repaired BROKEN PICKUP Ford Velociraptor 6×6 2019 and made it USED (earned $150.00 bonus)
-MECHANIC Harry Smith repaired USED PICKUP Ford Velociraptor 6×6 2019 and made it LIKE_NEW (earned $150.00 bonus)
-MECHANIC Harry Smith repaired USED PICKUP GMC Hummer EV 2017 and made it LIKE_NEW (earned $150.00 bonus)
-SALESPERSON Aurora Graham sold CLEAN LIKE_NEW Nissan Z-Car 2022 to Buyer unsuccessfully
-SALESPERSON Louis Galindo (earned $150.00 bonus) sold SPARKLING LIKE_NEW (MOTORCYCLE) Zero 2013 (1060 CC engine) to Buyer for $45552.64 + $3188.68 (RoadRescueCoverage, SatelliteRadio (addOns)).
-Added sale income $48741.33 to current balance
-SALESPERSON Jovanni Lester sold CLEAN USED Black Stallion 13 to Buyer for $93514.89 without any addOns (earned $500.00 bonus)
-Added sale income $93514.89 to current balance
-SALESPERSON Jovanni Lester sold SPARKLING USED Ridley 2023 (994 CC engine) to Buyer unsuccessfully
-SALESPERSON Aurora Graham sold DIRTY LIKE_NEW Ford Velociraptor 6×6 2019 to Buyer unsuccessfully
-SALESPERSON Louis Galindo sold DIRTY LIKE_NEW Toyota Corolla 2021 to Buyer unsuccessfully
+Purchased BROKEN, DIRTY DOZER Case 2013 (495 HorsePower) for $ 35037.56
+INTERN Macie Vaughn wash (ElbowGreaseWashing) CAR Mitsubishi Eclipse 2014 and made it CLEAN
+INTERN Macie Vaughn wash (ElbowGreaseWashing) CAR Hyundai Sonata 2016 and made it CLEAN
+INTERN Emmalynn Xiong wash (ChemicalWashing) CAR Kia K5 2023 and made it CLEAN
+INTERN Emmalynn Xiong wash (ChemicalWashing) CAR Nissan Sunny 2016 and made it CLEAN
+INTERN Emory Cabrera wash (DetailedWashing) CAR Mercedes-Benz S-class 2010 and made it SPARKLING (earned 50.00 bonus)
+INTERN Emory Cabrera wash (DetailedWashing) CAR Kia K5 2010 and made it CLEAN
+MECHANIC Aurora Leonard repaired USED CAR Mercedes-Benz S-class 2010 unsuccessfully
+MECHANIC Aurora Leonard repaired USED CAR Mercedes-Benz S-class 2010 and made it LIKE_NEW (earned $100.00 bonus)
+MECHANIC Mohammad Myers repaired BROKEN CAR Kia K5 2010 unsuccessfully
+MECHANIC Mohammad Myers repaired BROKEN CAR Kia K5 2010 and made it USED (earned $100.00 bonus)
+MECHANIC Bentlee Yu repaired USED CAR Kia K5 2010 and made it LIKE_NEW (earned $100.00 bonus)
+MECHANIC Bentlee Yu repaired BROKEN PICKUP Ford Ranger 2015 unsuccessfully
+SALESPERSON Anastasia Casey sold DIRTY USED Flat Otto 2023 (11635  feet maximumAltitude & 37 mile/hour maximumCruisingAirSpeed) with QUAD_WHEEL_LAUNCHER  to Buyer unsuccessfully
 Total salary payout increased by $1500.00
-Total bonuses payout increased by $1620.00
-INTERN Kiana Person received $80.00 (salary) and $0.00 (bonuses)
-INTERN Elaine Spence received $80.00 (salary) and $120.00 (bonuses)
-MECHANIC Kingston Vo received $120.00 (salary) and $250.00 (bonuses)
-MECHANIC Jaycee Faulkner received $120.00 (salary) and $300.00 (bonuses)
-MECHANIC Harry Smith received $120.00 (salary) and $300.00 (bonuses)
-SALESPERSON Aurora Graham received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Louis Galindo received $150.00 (salary) and $150.00 (bonuses)
-DRIVER Lewis Dickson received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Louis Barry received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Calliope Maldonado received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Jovanni Lester received $150.00 (salary) and $500.00 (bonuses)
-INTERN Moses Petersen received $80.00 (salary) and $0.00 (bonuses)
+Total bonuses payout increased by $350.00
+INTERN Macie Vaughn received $80.00 (salary) and $0.00 (bonuses)
+INTERN Emmalynn Xiong received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Aurora Leonard received $120.00 (salary) and $100.00 (bonuses)
+MECHANIC Mohammad Myers received $120.00 (salary) and $100.00 (bonuses)
+MECHANIC Bentlee Yu received $120.00 (salary) and $100.00 (bonuses)
+SALESPERSON Anastasia Casey received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Arielle Stuart received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Anaya O’Donnell received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Amara Mayo received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Dalton Tate received $150.00 (salary) and $0.00 (bonuses)
+INTERN Emory Cabrera received $80.00 (salary) and $50.00 (bonuses)
+DRIVER Gerardo Yu received $150.00 (salary) and $0.00 (bonuses)

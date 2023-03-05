@@ -71,6 +71,23 @@ public class RandomGenerator {
             "Genesis GV60", "Volvo XC40 Recharge", "Audi E-Tron Sportback", "BMW iX", "Lucid Gravity", "MINI Cooper SE", "Volkswagen ID4",
             "Hyundai Kona Electric", "Toyota bZ4X", "Nissan Ariya", "Subaru Solterra", "Karma GSe-6", "Polestar"};
 
+    public static String[] paraMotorNames = {"Air Conception Nitro", "Air Conception Tornado", "Parajet the Volution",
+            "Parajet the Zenith", "Parajet the Maverick", "Scout Carbon Cage", "Scout Enduro Cage", "Nirvana",
+            "Fly Products Foxy trike", "Fly Products Rider", "PAP", "Bailey Aviation", "Fresh Breeze", "Mini Plane",
+            "Adventure", "BlackHawk", "Custom-Air", "FlatTop", "Flat Otto", "HE Paramotores", "Kobra PPG",
+             "Nimbus", "Parapower", "PXP", "Rad Paramotors"};
+
+    public static String[] golfCartNames = {"Club Car Villager", "E-Z-GO Freedom TXT ", "Club Car Onward",
+               "Yamaha Adventurer Super Hauler", "E-Z-GO Express L6", "Cushman Shuttle",
+               "Club Car Onward Lifted", "Club Car Precedent I3", "Yamaha Drive 2 PTV",  "Garia Via Luxury Golf Car",
+               "E-Z-GO Freedom RXV", "Garia Monaco", "E-Z-GO Express S4", "Star EV", "ACG", "Polaris GEM", "Tomberlin",
+               "Vitacci Rover", "Massimo"};
+
+    public static String[] dozerNames = {"Shantui", "John Deere", "Komatsu", "Caterpillar", "LiuGong", "XCMG", "Sany",
+                 "Volvo CE", "Hitachi", "Liebherr", "Doosan Infracore", "Zoomlion", "Sandvik", "JCB", "Terex", "Epiroc",
+                 "JLG", "Kubota", "Kobelco", "Case", "Hyundai", "Takeuchi", "Tigercat", "Kioti", "Bobcat", "Toro",
+                 "Hevi", "Mauldin", "Mulch", "Morooka", "Manitou"};
+
     private static String[] carYears = {"2010", "2011", "2012", "2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020",
             "2021", "2022", "2023"};
 
@@ -85,6 +102,9 @@ public class RandomGenerator {
     private static ArrayList<String> usedMotorcycleNames = new ArrayList<>();
     private static ArrayList<String> usedElectricCarNames = new ArrayList<>();
     private static ArrayList<String> usedMonsterTruckNames = new ArrayList<>();
+    private static ArrayList<String> usedParaMotorNames = new ArrayList<>();
+    private static ArrayList<String> usedGolfCartNames = new ArrayList<>();
+    private static ArrayList<String> usedDozerNames = new ArrayList<>();
 
 
     /**
@@ -116,6 +136,12 @@ public class RandomGenerator {
                 return nameGenerator(monsterTruckNames, numbers, usedMonsterTruckNames);
             case MOTORCYCLE:
                 return nameGenerator(motorcycleNames, carYears, usedMotorcycleNames);
+            case PARAMOTOR:
+                return nameGenerator(paraMotorNames, carYears, usedParaMotorNames);
+            case DOZER:
+                return nameGenerator(dozerNames, carYears, usedDozerNames);
+            case GOLF_CART:
+                return nameGenerator(golfCartNames, carYears, usedGolfCartNames);
             default:
                 return "No Name";
         }
@@ -137,7 +163,7 @@ public class RandomGenerator {
      * @param usedNameList list to store used names
      */
     public static String nameGenerator(String[] firstNameList, String[] secondNameList, ArrayList<String> usedNameList){
-        //TODO: update UML
+
         Random random = new Random();
         String name = null;
         int possibleNumNames = firstNameList.length * secondNameList.length;
@@ -302,12 +328,14 @@ public class RandomGenerator {
      */
     public static Vehicle.VehicleType getRandomVehicleType() {
         Random random = new Random();
-        double randomNum = random.nextInt(121);
+        double randomNum = random.nextInt(181);
         if (randomNum <= 20) {
             return Vehicle.VehicleType.PERFORMANCE_CAR;
-        } else if (randomNum <= 40) {
+        }
+        else if (randomNum <= 40) {
             return Vehicle.VehicleType.PICKUP;
-        } else if (randomNum <= 60) {
+        }
+        else if (randomNum <= 60) {
             return Vehicle.VehicleType.ELECTRIC_CAR;
         }
         else if (randomNum <= 80) {
@@ -315,6 +343,15 @@ public class RandomGenerator {
         }
         else if (randomNum <= 100) {
             return Vehicle.VehicleType.CAR;
+        }
+        else if (randomNum <= 120) {
+            return Vehicle.VehicleType.GOLF_CART;
+        }
+        else if (randomNum <= 140) {
+            return Vehicle.VehicleType.DOZER;
+        }
+        else if (randomNum <= 160) {
+            return Vehicle.VehicleType.PARAMOTOR;
         }
         else {
             return Vehicle.VehicleType.MONSTER_TRUCK;

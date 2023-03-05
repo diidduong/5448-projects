@@ -60,7 +60,7 @@ public class Intern extends Staff {
      * @param vehicle selected vehicle
      */
     public void washVehicle(Vehicle vehicle, EventPublisher publisher) {
-        //TODO: remove comments when new code working
+
 
         washMethod.washVehicle(vehicle); // wash vehicle with given method
         if (vehicle.getCleanliness() == Vehicle.Cleanliness.SPARKLING) {
@@ -141,6 +141,12 @@ public class Intern extends Staff {
                 return 200;
             case ELECTRIC_CAR:
                 return 120;
+            case GOLF_CART:
+                return 30;
+            case PARAMOTOR:
+                return 20;
+            case DOZER:
+                return 300;
             default:
                 return 0;
         }

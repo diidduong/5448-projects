@@ -1,0 +1,39 @@
+Purchased LIKE_NEW, CLEAN MOTORCYCLE Laverda 2020 (590 CC engine) for $ 12821.23
+Purchased LIKE_NEW, CLEAN DOZER Sandvik 2014 (720 HorsePower) for $ 45647.05
+Purchased USED, SPARKLING GOLF_CART E-Z-GO Freedom TXT  2018 (5 Passengers & 8 hours chargingTime) for $ 10007.84
+INTERN Gary Yu wash (DetailedWashing) PARAMOTOR Custom-Air 2022 (13455  feet maximumAltitude & 46 mile/hour maximumCruisingAirSpeed) with QUAD_WHEEL_LAUNCHER  and made it SPARKLING (earned 20.00 bonus)
+INTERN Gary Yu wash (DetailedWashing) ELECTRIC_CAR Fiat 500e 2017 (263 miles) and made it SPARKLING (earned 120.00 bonus)
+INTERN Kaliyah Reed wash (ChemicalWashing) DOZER Case 2022 (680 HorsePower) and made it CLEAN
+INTERN Kaliyah Reed wash (ChemicalWashing) PARAMOTOR Parapower 2019 (14354  feet maximumAltitude & 35 mile/hour maximumCruisingAirSpeed) with FOOT_LAUNCHER  and made it CLEAN
+INTERN Gloriay Spence wash (DetailedWashing) PARAMOTOR Scout Carbon Cage 2013 (5996  feet maximumAltitude & 41 mile/hour maximumCruisingAirSpeed) with TRIKE_WHEEL_LAUNCHER  and made it CLEAN
+INTERN Gloriay Spence wash (DetailedWashing) PICKUP Jeep Gladiator 2014 and made it DIRTY
+MECHANIC Meredith Petersen repaired USED DOZER Case 2022 (680 HorsePower) unsuccessfully
+MECHANIC Meredith Petersen repaired USED DOZER Case 2022 (680 HorsePower) unsuccessfully
+MECHANIC Calliope Hess repaired USED DOZER Case 2022 (680 HorsePower) and made it LIKE_NEW (earned $600.00 bonus)
+MECHANIC Calliope Hess repaired USED CAR Lucid Air 2015 and made it LIKE_NEW (earned $100.00 bonus)
+MECHANIC Gloriay Cruz repaired USED PARAMOTOR Scout Carbon Cage 2013 (5996  feet maximumAltitude & 41 mile/hour maximumCruisingAirSpeed) with TRIKE_WHEEL_LAUNCHER  and made it LIKE_NEW (earned $60.00 bonus)
+MECHANIC Gloriay Cruz repaired USED GOLF_CART E-Z-GO Freedom TXT  2018 (5 Passengers & 8 hours chargingTime) and made it LIKE_NEW (earned $75.00 bonus)
+SALESPERSON Eliezer Scott (earned $120.00 bonus) sold CLEAN LIKE_NEW (GOLF_CART) E-Z-GO Freedom TXT  2018 (5 Passengers & 8 hours chargingTime) to Buyer for $31665.45 + $6966.40 (ExtendedWarranty, RoadRescueCoverage (addOns)).
+Added sale income $38631.84 to current balance
+SALESPERSON Bentlee Herman sold SPARKLING LIKE_NEW Ford Maverick 2021 to Buyer unsuccessfully
+SALESPERSON Eliezer Scott sold CLEAN LIKE_NEW Acura NSX 2011 to Buyer for $118694.06 without any addOns (earned $350.00 bonus)
+Added sale income $118694.06 to current balance
+SALESPERSON Bentlee Herman (earned $300.00 bonus) sold SPARKLING LIKE_NEW (ELECTRIC_CAR) Fiat 500e 2017 (263 miles) to Buyer for $129490.97 + $28488.01 (ExtendedWarranty, RoadRescueCoverage (addOns)).
+Added sale income $157978.98 to current balance
+SALESPERSON Eliezer Scott sold CLEAN LIKE_NEW Subaru Solterra 2021 (416 miles) to Buyer unsuccessfully
+SALESPERSON Bentlee Herman (earned $600.00 bonus) sold CLEAN LIKE_NEW (DOZER) Sandvik 2014 (720 HorsePower) to Buyer for $99510.56 + $19902.11 (ExtendedWarranty (addOns)).
+Added sale income $119412.67 to current balance
+Total salary payout increased by $1500.00
+Total bonuses payout increased by $2345.00
+DRIVER Sawyer Fernandez received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Eliezer Scott received $150.00 (salary) and $470.00 (bonuses)
+DRIVER Adalynn Cardenas received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Bentlee Herman received $150.00 (salary) and $900.00 (bonuses)
+SALESPERSON Macie Ryan received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Bailee Ho received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Meredith Petersen received $120.00 (salary) and $0.00 (bonuses)
+INTERN Gary Yu received $80.00 (salary) and $140.00 (bonuses)
+MECHANIC Calliope Hess received $120.00 (salary) and $700.00 (bonuses)
+INTERN Kaliyah Reed received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Gloriay Cruz received $120.00 (salary) and $135.00 (bonuses)
+INTERN Gloriay Spence received $80.00 (salary) and $0.00 (bonuses)

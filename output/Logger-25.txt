@@ -1,31 +1,33 @@
-Purchased LIKE_NEW, DIRTY PERFORMANCE_CAR Chevrolet Camaro 2021 for $ 59100.70
-Purchased LIKE_NEW, CLEAN PERFORMANCE_CAR Acura NSX 2022 for $ 75701.14
-INTERN Tiffany Jimenez wash (ChemicalWashing) MONSTER_TRUCK Grave Digger 2 and made it CLEAN
-INTERN Tiffany Jimenez wash (ChemicalWashing) PERFORMANCE_CAR Chevrolet Camaro 2021 and made it CLEAN
-INTERN Calliope Hess wash (ChemicalWashing) MONSTER_TRUCK Grave Digger 2 and made it CLEAN
-INTERN Calliope Hess wash (ChemicalWashing) MONSTER_TRUCK Grave Digger 2 and made it SPARKLING (earned 200.00 bonus)
-INTERN Leyla Conrad wash (ChemicalWashing) PERFORMANCE_CAR Lamborghini Countach 2015 and made it SPARKLING (earned 75.00 bonus)
-INTERN Leyla Conrad wash (ChemicalWashing) MOTORCYCLE Norton 2020 (560 CC engine) and made it CLEAN
-MECHANIC Kyng Person repaired BROKEN MONSTER_TRUCK Grave Digger 2 and made it USED (earned $500.00 bonus)
-MECHANIC Kyng Person repaired USED MONSTER_TRUCK Grave Digger 2 and made it LIKE_NEW (earned $500.00 bonus)
-MECHANIC Tiffany Lester repaired BROKEN PERFORMANCE_CAR Lamborghini Countach 2015 and made it USED (earned $200.00 bonus)
-MECHANIC Tiffany Lester repaired USED PERFORMANCE_CAR Lamborghini Countach 2015 and made it LIKE_NEW (earned $200.00 bonus)
-MECHANIC Kingston Faulkner repaired USED MONSTER_TRUCK Batman 1 and made it LIKE_NEW (earned $500.00 bonus)
-Louis Barry (Driver) raced with Predator 9 (MONSTER_TRUCK) and achieved rank no. 13.
-Salvatore Fleming (Driver) raced with USA-1 4 (MONSTER_TRUCK) and achieved rank no. 1.
-Salvatore Fleming (Driver) won with USA-1 4 (MONSTER_TRUCK) (earned $ 1000 bonus)!
-Macie Cortez (Driver) raced with Batman 1 (MONSTER_TRUCK) and achieved rank no. 11.
+Purchased BROKEN, DIRTY MOTORCYCLE Indian 2011 (1301 CC engine) for $ 10441.58
+Purchased BROKEN, CLEAN PARAMOTOR BlackHawk 2017 (5569  feet maximumAltitude & 34 mile/hour maximumCruisingAirSpeed) with QUAD_WHEEL_LAUNCHER  for $ 3225.27
+Purchased BROKEN, SPARKLING GOLF_CART Club Car Villager 2011 (7 Passengers & 10 hours chargingTime) for $ 9248.61
+Purchased LIKE_NEW, DIRTY GOLF_CART E-Z-GO Freedom RXV 2015 (8 Passengers & 12 hours chargingTime) for $ 12436.54
+INTERN Amara Kennedy wash (ChemicalWashing) PICKUP Tesla Cybertruck 2019 and made it DIRTY
+INTERN Amara Kennedy wash (ChemicalWashing) PICKUP Tesla Cybertruck 2019 and made it CLEAN
+INTERN Blaine Ryan wash (ChemicalWashing) MONSTER_TRUCK Air Force Afterburner 12 and made it CLEAN
+INTERN Blaine Ryan wash (ChemicalWashing) MOTORCYCLE Indian 2011 (1301 CC engine) and made it CLEAN
+INTERN Angie Petersen wash (ChemicalWashing) GOLF_CART E-Z-GO Freedom RXV 2015 (8 Passengers & 12 hours chargingTime) and made it CLEAN
+INTERN Angie Petersen wash (ChemicalWashing) PERFORMANCE_CAR Toyota GR86 2017 and made it SPARKLING (earned 75.00 bonus)
+MECHANIC Bentlee Yu repaired BROKEN MOTORCYCLE Indian 2011 (1301 CC engine) and made it USED (earned $80.00 bonus)
+MECHANIC Bentlee Yu repaired USED MOTORCYCLE Indian 2011 (1301 CC engine) and made it LIKE_NEW (earned $80.00 bonus)
+MECHANIC Anaya Tate repaired BROKEN PARAMOTOR BlackHawk 2017 (5569  feet maximumAltitude & 34 mile/hour maximumCruisingAirSpeed) with QUAD_WHEEL_LAUNCHER  and made it USED (earned $60.00 bonus)
+MECHANIC Anaya Tate repaired USED PARAMOTOR BlackHawk 2017 (5569  feet maximumAltitude & 34 mile/hour maximumCruisingAirSpeed) with QUAD_WHEEL_LAUNCHER  and made it LIKE_NEW (earned $60.00 bonus)
+MECHANIC Fernando Cortez repaired BROKEN GOLF_CART Club Car Villager 2011 (7 Passengers & 10 hours chargingTime) unsuccessfully
+MECHANIC Fernando Cortez repaired BROKEN GOLF_CART Club Car Villager 2011 (7 Passengers & 10 hours chargingTime) and made it USED (earned $75.00 bonus)
+Gerardo Yu (Driver) raced with Toyota GR86 2018 (PERFORMANCE_CAR) and achieved rank no. 5.
+Gloriay Leonard (Driver) raced with Ford Mustang Shelby GT500 2021 (PERFORMANCE_CAR) and achieved rank no. 9.
+Jericho McCormick (Driver) raced with Porsche 718 Cayman 2019 (PERFORMANCE_CAR) and achieved rank no. 7.
 Total salary payout increased by $1500.00
-Total bonuses payout increased by $3175.00
-SALESPERSON Louis Galindo received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Louis Barry received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Jovanni Lester received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Salvatore Fleming received $150.00 (salary) and $1000.00 (bonuses)
-MECHANIC Kyng Person received $120.00 (salary) and $1000.00 (bonuses)
-SALESPERSON Gerald Jensen received $150.00 (salary) and $0.00 (bonuses)
-MECHANIC Tiffany Lester received $120.00 (salary) and $400.00 (bonuses)
-DRIVER Macie Cortez received $150.00 (salary) and $0.00 (bonuses)
-INTERN Tiffany Jimenez received $80.00 (salary) and $0.00 (bonuses)
-MECHANIC Kingston Faulkner received $120.00 (salary) and $500.00 (bonuses)
-INTERN Calliope Hess received $80.00 (salary) and $200.00 (bonuses)
-INTERN Leyla Conrad received $80.00 (salary) and $75.00 (bonuses)
+Total bonuses payout increased by $430.00
+MECHANIC Bentlee Yu received $120.00 (salary) and $160.00 (bonuses)
+DRIVER Gerardo Yu received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Emmalynn Xiong received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Emory Cabrera received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Gloriay Leonard received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Samson Reid received $150.00 (salary) and $0.00 (bonuses)
+INTERN Amara Kennedy received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Anaya Tate received $120.00 (salary) and $120.00 (bonuses)
+INTERN Blaine Ryan received $80.00 (salary) and $0.00 (bonuses)
+DRIVER Jericho McCormick received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Fernando Cortez received $120.00 (salary) and $75.00 (bonuses)
+INTERN Angie Petersen received $80.00 (salary) and $75.00 (bonuses)

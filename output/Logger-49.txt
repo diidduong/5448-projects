@@ -1,0 +1,31 @@
+Purchased USED, DIRTY PERFORMANCE_CAR MG MGB 2015 for $ 27169.77
+Purchased LIKE_NEW, DIRTY MOTORCYCLE Kymco 2014 (852 CC engine) for $ 18603.88
+Purchased BROKEN, CLEAN MONSTER_TRUCK Avenger 5 for $ 15846.33
+Purchased USED, DIRTY DOZER Komatsu 2011 (284 HorsePower) for $ 56430.19
+Purchased BROKEN, DIRTY PARAMOTOR Air Conception Tornado 2014 (14093  feet maximumAltitude & 49 mile/hour maximumCruisingAirSpeed) with QUAD_WHEEL_LAUNCHER  for $ 2871.01
+INTERN Joel Zimmerman wash (ElbowGreaseWashing) PERFORMANCE_CAR MG MGB 2015 and made it CLEAN
+INTERN Joel Zimmerman wash (ElbowGreaseWashing) MOTORCYCLE Kymco 2014 (852 CC engine) and made it CLEAN
+INTERN Ashlynn Moody wash (DetailedWashing) DOZER Komatsu 2011 (284 HorsePower) and made it CLEAN
+INTERN Ashlynn Moody wash (DetailedWashing) PARAMOTOR Air Conception Tornado 2014 (14093  feet maximumAltitude & 49 mile/hour maximumCruisingAirSpeed) with QUAD_WHEEL_LAUNCHER  and made it CLEAN
+INTERN Bentlee Herman wash (ChemicalWashing) MONSTER_TRUCK Bigfoot 4 and made it CLEAN
+INTERN Bentlee Herman wash (ChemicalWashing) MONSTER_TRUCK Bigfoot 4 and made it CLEAN
+MECHANIC Maxwell Calhoun repaired USED PERFORMANCE_CAR MG MGB 2015 and made it LIKE_NEW (earned $200.00 bonus)
+MECHANIC Maxwell Calhoun repaired BROKEN MONSTER_TRUCK Avenger 5 and made it USED (earned $500.00 bonus)
+MECHANIC Keyla Scott repaired USED MONSTER_TRUCK Avenger 5 and made it LIKE_NEW (earned $500.00 bonus)
+MECHANIC Keyla Scott repaired USED DOZER Komatsu 2011 (284 HorsePower) and made it LIKE_NEW (earned $600.00 bonus)
+MECHANIC Bentley Fleming repaired BROKEN PARAMOTOR Air Conception Tornado 2014 (14093  feet maximumAltitude & 49 mile/hour maximumCruisingAirSpeed) with QUAD_WHEEL_LAUNCHER  and made it USED (earned $60.00 bonus)
+MECHANIC Bentley Fleming repaired USED PARAMOTOR Air Conception Tornado 2014 (14093  feet maximumAltitude & 49 mile/hour maximumCruisingAirSpeed) with QUAD_WHEEL_LAUNCHER  unsuccessfully
+Total salary payout increased by $1500.00
+Total bonuses payout increased by $1860.00
+DRIVER Bellamy Bryan received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Maxwell Calhoun received $120.00 (salary) and $700.00 (bonuses)
+MECHANIC Keyla Scott received $120.00 (salary) and $1100.00 (bonuses)
+MECHANIC Bentley Fleming received $120.00 (salary) and $60.00 (bonuses)
+DRIVER Sawyer Fernandez received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Lewis Newton received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Braelynn Wilkinson received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Eliezer Scott received $150.00 (salary) and $0.00 (bonuses)
+INTERN Joel Zimmerman received $80.00 (salary) and $0.00 (bonuses)
+INTERN Ashlynn Moody received $80.00 (salary) and $0.00 (bonuses)
+DRIVER Adalynn Cardenas received $150.00 (salary) and $0.00 (bonuses)
+INTERN Bentlee Herman received $80.00 (salary) and $0.00 (bonuses)

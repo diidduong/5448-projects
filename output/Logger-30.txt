@@ -1,32 +1,27 @@
-Purchased USED, DIRTY CAR Mercedes-Benz G-class 2011 for $ 34127.97
-Purchased USED, DIRTY PICKUP GMC Canyon 2022 for $ 33609.65
-Purchased BROKEN, DIRTY PICKUP Honda Ridgeline 2011 for $ 76787.38
-INTERN Calliope Hess wash (ChemicalWashing) PERFORMANCE_CAR Chevrolet Camaro 2013 and made it CLEAN
-INTERN Calliope Hess wash (ChemicalWashing) MONSTER_TRUCK Monster Mutt 15 and made it CLEAN
-INTERN Leyla Conrad wash (ChemicalWashing) ELECTRIC_CAR Polestar 2012 (116 miles) and made it CLEAN
-INTERN Leyla Conrad wash (ChemicalWashing) CAR Mercedes-Benz G-class 2011 and made it CLEAN
-INTERN Mohammad Lester wash (ChemicalWashing) PICKUP GMC Canyon 2022 and made it CLEAN
-INTERN Mohammad Lester wash (ChemicalWashing) PICKUP Honda Ridgeline 2011 and made it CLEAN
-MECHANIC Kyng Person repaired BROKEN MONSTER_TRUCK USA-1 4 and made it USED (earned $500.00 bonus)
-MECHANIC Kyng Person repaired USED MONSTER_TRUCK USA-1 4 unsuccessfully
-MECHANIC Tiffany Lester repaired USED MONSTER_TRUCK USA-1 4 and made it LIKE_NEW (earned $500.00 bonus)
-MECHANIC Tiffany Lester repaired BROKEN ELECTRIC_CAR Polestar 2012 (116 miles) and made it USED (earned $300.00 bonus)
-MECHANIC Kingston Faulkner repaired USED ELECTRIC_CAR Polestar 2012 (116 miles) and made it LIKE_NEW (earned $300.00 bonus)
-MECHANIC Kingston Faulkner repaired BROKEN MOTORCYCLE Cagiva 2019 (1040 CC engine) and made it USED (earned $80.00 bonus)
-SALESPERSON Jovanni Lester (earned $500.00 bonus) sold DIRTY LIKE_NEW (MONSTER_TRUCK) USA-1 4 to Buyer for $238523.97 + $47704.79 (ExtendedWarranty (addOns)).
-Added sale income $286228.76 to current balance
-SALESPERSON Jovanni Lester sold CLEAN USED Mercedes-Benz G-class 2011 to Buyer unsuccessfully
+Purchased BROKEN, CLEAN PARAMOTOR Parapower 2018 (12109  feet maximumAltitude & 46 mile/hour maximumCruisingAirSpeed) with QUAD_WHEEL_LAUNCHER  for $ 5306.77
+INTERN Amara Kennedy wash (ChemicalWashing) DOZER Hevi 2013 (625 HorsePower) and made it CLEAN
+INTERN Amara Kennedy wash (ChemicalWashing) PERFORMANCE_CAR Lamborghini Countach 2020 and made it CLEAN
+INTERN Blaine Ryan wash (ChemicalWashing) PERFORMANCE_CAR Lamborghini Countach 2020 and made it SPARKLING (earned 75.00 bonus)
+INTERN Blaine Ryan wash (ChemicalWashing) CAR Hyundai Sonata 2016 and made it CLEAN
+INTERN Angie Petersen wash (ChemicalWashing) CAR Hyundai Sonata 2016 and made it CLEAN
+INTERN Angie Petersen wash (ChemicalWashing) CAR Hyundai Sonata 2016 and made it CLEAN
+MECHANIC Bentlee Yu repaired BROKEN PICKUP Nissan Titan XD 2017 and made it USED (earned $150.00 bonus)
+MECHANIC Bentlee Yu repaired USED PICKUP Nissan Titan XD 2017 and made it LIKE_NEW (earned $150.00 bonus)
+MECHANIC Anaya Tate repaired BROKEN PARAMOTOR Parapower 2018 (12109  feet maximumAltitude & 46 mile/hour maximumCruisingAirSpeed) with QUAD_WHEEL_LAUNCHER  and made it USED (earned $60.00 bonus)
+MECHANIC Anaya Tate repaired USED PARAMOTOR Parapower 2018 (12109  feet maximumAltitude & 46 mile/hour maximumCruisingAirSpeed) with QUAD_WHEEL_LAUNCHER  unsuccessfully
+MECHANIC Fernando Cortez repaired USED PARAMOTOR Parapower 2018 (12109  feet maximumAltitude & 46 mile/hour maximumCruisingAirSpeed) with QUAD_WHEEL_LAUNCHER  and made it LIKE_NEW (earned $60.00 bonus)
+SALESPERSON Emmalynn Xiong sold SPARKLING LIKE_NEW Lamborghini Countach 2020 to Buyer unsuccessfully
 Total salary payout increased by $1500.00
-Total bonuses payout increased by $2180.00
-SALESPERSON Louis Galindo received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Louis Barry received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Jovanni Lester received $150.00 (salary) and $500.00 (bonuses)
-DRIVER Salvatore Fleming received $150.00 (salary) and $0.00 (bonuses)
-MECHANIC Kyng Person received $120.00 (salary) and $500.00 (bonuses)
-SALESPERSON Gerald Jensen received $150.00 (salary) and $0.00 (bonuses)
-MECHANIC Tiffany Lester received $120.00 (salary) and $800.00 (bonuses)
-DRIVER Macie Cortez received $150.00 (salary) and $0.00 (bonuses)
-MECHANIC Kingston Faulkner received $120.00 (salary) and $380.00 (bonuses)
-INTERN Calliope Hess received $80.00 (salary) and $0.00 (bonuses)
-INTERN Leyla Conrad received $80.00 (salary) and $0.00 (bonuses)
-INTERN Mohammad Lester received $80.00 (salary) and $0.00 (bonuses)
+Total bonuses payout increased by $495.00
+MECHANIC Bentlee Yu received $120.00 (salary) and $300.00 (bonuses)
+SALESPERSON Emmalynn Xiong received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Emory Cabrera received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Gloriay Leonard received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Samson Reid received $150.00 (salary) and $0.00 (bonuses)
+INTERN Amara Kennedy received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Anaya Tate received $120.00 (salary) and $60.00 (bonuses)
+INTERN Blaine Ryan received $80.00 (salary) and $75.00 (bonuses)
+DRIVER Jericho McCormick received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Fernando Cortez received $120.00 (salary) and $60.00 (bonuses)
+INTERN Angie Petersen received $80.00 (salary) and $0.00 (bonuses)
+DRIVER Keyla Fuller received $150.00 (salary) and $0.00 (bonuses)

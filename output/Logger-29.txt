@@ -1,42 +1,34 @@
-Purchased BROKEN, DIRTY ELECTRIC_CAR Polestar 2012 (116 miles) for $ 45461.42
-Purchased BROKEN, CLEAN MOTORCYCLE Cagiva 2019 (1040 CC engine) for $ 31491.04
-INTERN Tiffany Jimenez wash (ChemicalWashing) MOTORCYCLE Buell 2023 (362 CC engine) and made it CLEAN
-INTERN Tiffany Jimenez wash (ChemicalWashing) PERFORMANCE_CAR Chevrolet Camaro 2013 and made it CLEAN
-INTERN Calliope Hess wash (ChemicalWashing) ELECTRIC_CAR Polestar 2012 (116 miles) and made it CLEAN
-INTERN Calliope Hess wash (ChemicalWashing) PICKUP Ford F-150 Lightning 2020 and made it SPARKLING (earned 100.00 bonus)
-INTERN Leyla Conrad wash (ChemicalWashing) CAR Tesla Model S 2018 and made it CLEAN
-INTERN Leyla Conrad wash (ChemicalWashing) CAR Tesla Model S 2018 and made it CLEAN
-MECHANIC Kyng Person repaired BROKEN PICKUP Ford F-150 Lightning 2020 and made it USED (earned $150.00 bonus)
-MECHANIC Kyng Person repaired USED PICKUP Ford F-150 Lightning 2020 unsuccessfully
-MECHANIC Tiffany Lester repaired USED PICKUP Ford F-150 Lightning 2020 and made it LIKE_NEW (earned $150.00 bonus)
-MECHANIC Tiffany Lester repaired USED PERFORMANCE_CAR Chevrolet Camaro 2013 and made it LIKE_NEW (earned $200.00 bonus)
-MECHANIC Kingston Faulkner repaired USED MONSTER_TRUCK Monster Mutt 15 and made it LIKE_NEW (earned $500.00 bonus)
-MECHANIC Kingston Faulkner repaired BROKEN ELECTRIC_CAR Polestar 2012 (116 miles) unsuccessfully
-SALESPERSON Jovanni Lester (earned $220.00 bonus) sold DIRTY LIKE_NEW (PICKUP) Ford F-150 Lightning 2020 to Buyer for $112383.12 + $7866.82 (RoadRescueCoverage, SatelliteRadio (addOns)).
-Added sale income $120249.94 to current balance
-SALESPERSON Louis Galindo sold SPARKLING LIKE_NEW GMC Hummer EV 2020 to Buyer unsuccessfully
-SALESPERSON Louis Galindo sold CLEAN LIKE_NEW Kia Niro EV 2019 (417 miles) to Buyer unsuccessfully
-SALESPERSON Jovanni Lester (earned $220.00 bonus) sold SPARKLING LIKE_NEW (PICKUP) GMC Hummer EV 2020 to Buyer for $60522.94 + $12104.59 (ExtendedWarranty (addOns)).
-Added sale income $72627.53 to current balance
-SALESPERSON Louis Galindo sold DIRTY LIKE_NEW Chevrolet Camaro 2013 to Buyer unsuccessfully
-SALESPERSON Gerald Jensen (earned $160.00 bonus) sold SPARKLING LIKE_NEW (CAR) Toyota Corolla 2018 to Buyer for $39187.88 + $7837.58 (ExtendedWarranty (addOns)).
-Added sale income $47025.45 to current balance
-Louis Barry (Driver) raced with USA-1 4 (MONSTER_TRUCK) and achieved rank no. 19.
-USA-1 4 (MONSTER_TRUCK) went BROKEN.
-Salvatore Fleming (Driver) raced with Batman 1 (MONSTER_TRUCK) and achieved rank no. 3.
-Salvatore Fleming (Driver) won with Batman 1 (MONSTER_TRUCK) (earned $ 1000 bonus)!
-Macie Cortez (Driver) raced with Monster Mutt 15 (MONSTER_TRUCK) and achieved rank no. 6.
-Total salary payout increased by $1500.00
-Total bonuses payout increased by $2700.00
-SALESPERSON Louis Galindo received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Louis Barry received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Jovanni Lester received $150.00 (salary) and $440.00 (bonuses)
-DRIVER Salvatore Fleming received $150.00 (salary) and $1000.00 (bonuses)
-MECHANIC Kyng Person received $120.00 (salary) and $150.00 (bonuses)
-SALESPERSON Gerald Jensen received $150.00 (salary) and $160.00 (bonuses)
-MECHANIC Tiffany Lester received $120.00 (salary) and $350.00 (bonuses)
-DRIVER Macie Cortez received $150.00 (salary) and $0.00 (bonuses)
-INTERN Tiffany Jimenez received $80.00 (salary) and $0.00 (bonuses)
-MECHANIC Kingston Faulkner received $120.00 (salary) and $500.00 (bonuses)
-INTERN Calliope Hess received $80.00 (salary) and $100.00 (bonuses)
-INTERN Leyla Conrad received $80.00 (salary) and $0.00 (bonuses)
+Purchased BROKEN, DIRTY DOZER Hevi 2013 (625 HorsePower) for $ 8165.84
+INTERN Amara Kennedy wash (ChemicalWashing) PERFORMANCE_CAR Toyota GR86 2022 and made it CLEAN
+INTERN Amara Kennedy wash (ChemicalWashing) PICKUP Nissan Frontier 2018 and made it CLEAN
+INTERN Blaine Ryan wash (ChemicalWashing) MOTORCYCLE EBR 2020 (909 CC engine) and made it CLEAN
+INTERN Blaine Ryan wash (ChemicalWashing) GOLF_CART Massimo 2013 (2 Passengers & 9 hours chargingTime) and made it CLEAN
+INTERN Angie Petersen wash (ChemicalWashing) DOZER Hevi 2013 (625 HorsePower) and made it CLEAN
+INTERN Angie Petersen wash (ChemicalWashing) PERFORMANCE_CAR Lamborghini Countach 2020 and made it CLEAN
+MECHANIC Bentlee Yu repaired BROKEN DOZER Hevi 2013 (625 HorsePower) and made it USED (earned $600.00 bonus)
+MECHANIC Bentlee Yu repaired USED DOZER Hevi 2013 (625 HorsePower) and made it LIKE_NEW (earned $600.00 bonus)
+SALESPERSON Emmalynn Xiong sold CLEAN LIKE_NEW Air Force Afterburner 12 to Buyer unsuccessfully
+SALESPERSON Emory Cabrera sold CLEAN LIKE_NEW Air Conception Nitro 2012 (11716  feet maximumAltitude & 49 mile/hour maximumCruisingAirSpeed) with QUAD_WHEEL_LAUNCHER  to Buyer unsuccessfully
+SALESPERSON Emmalynn Xiong sold CLEAN LIKE_NEW Lamborghini Countach 2020 to Buyer unsuccessfully
+SALESPERSON Samson Reid sold CLEAN LIKE_NEW EBR 2020 (909 CC engine) to Buyer unsuccessfully
+SALESPERSON Samson Reid (earned $80.00 bonus) sold CLEAN LIKE_NEW (PARAMOTOR) Air Conception Nitro 2012 (11716  feet maximumAltitude & 49 mile/hour maximumCruisingAirSpeed) with QUAD_WHEEL_LAUNCHER  to Buyer for $20395.77 + $407.92 (RoadRescueCoverage (addOns)).
+Added sale income $20803.68 to current balance
+Gerardo Yu (Driver) raced with Nissan Titan XD 2017 (PICKUP) and achieved rank no. 19.
+DRIVER Gerardo Yu got injured!
+Nissan Titan XD 2017 (PICKUP) went BROKEN.
+Gloriay Leonard (Driver) raced with Tesla Cybertruck 2019 (PICKUP) and achieved rank no. 2.
+Gloriay Leonard (Driver) won with Tesla Cybertruck 2019 (PICKUP) (earned $ 1000 bonus)!
+Jericho McCormick (Driver) raced with Nissan Frontier 2018 (PICKUP) and achieved rank no. 9.
+Total salary payout increased by $1350.00
+Total bonuses payout increased by $2280.00
+MECHANIC Bentlee Yu received $120.00 (salary) and $1200.00 (bonuses)
+SALESPERSON Emmalynn Xiong received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Emory Cabrera received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Gloriay Leonard received $150.00 (salary) and $1000.00 (bonuses)
+SALESPERSON Samson Reid received $150.00 (salary) and $80.00 (bonuses)
+INTERN Amara Kennedy received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Anaya Tate received $120.00 (salary) and $0.00 (bonuses)
+INTERN Blaine Ryan received $80.00 (salary) and $0.00 (bonuses)
+DRIVER Jericho McCormick received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Fernando Cortez received $120.00 (salary) and $0.00 (bonuses)
+INTERN Angie Petersen received $80.00 (salary) and $0.00 (bonuses)

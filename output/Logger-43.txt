@@ -1,0 +1,36 @@
+Purchased USED, DIRTY PICKUP Nikola Badger 2010 for $ 16930.45
+INTERN Demi Kelley wash (ElbowGreaseWashing) MOTORCYCLE Roehr 2019 (1266 CC engine) and made it DIRTY
+INTERN Demi Kelley wash (ElbowGreaseWashing) MOTORCYCLE Roehr 2019 (1266 CC engine) and made it CLEAN
+INTERN Joel Zimmerman wash (ElbowGreaseWashing) DOZER Liebherr 2023 (563 HorsePower) and made it CLEAN
+INTERN Joel Zimmerman wash (ElbowGreaseWashing) GOLF_CART Star EV 2014 (2 Passengers & 6 hours chargingTime) and made it CLEAN
+INTERN Ashlynn Moody wash (DetailedWashing) PICKUP Nikola Badger 2010 and made it DIRTY
+INTERN Ashlynn Moody wash (DetailedWashing) PICKUP Nikola Badger 2010 and made it CLEAN
+MECHANIC Maxwell Calhoun repaired USED GOLF_CART Star EV 2014 (2 Passengers & 6 hours chargingTime) unsuccessfully
+MECHANIC Maxwell Calhoun repaired USED GOLF_CART Star EV 2014 (2 Passengers & 6 hours chargingTime) and made it LIKE_NEW (earned $75.00 bonus)
+MECHANIC Keyla Scott repaired USED PICKUP Nikola Badger 2010 and made it LIKE_NEW (earned $150.00 bonus)
+SALESPERSON Eliezer Scott (earned $80.00 bonus) sold CLEAN LIKE_NEW (PARAMOTOR) Fresh Breeze 2020 (12121  feet maximumAltitude & 23 mile/hour maximumCruisingAirSpeed) with TRIKE_WHEEL_LAUNCHER  to Buyer for $30848.73 + $616.97 (RoadRescueCoverage (addOns)).
+Added sale income $31465.71 to current balance
+SALESPERSON Braelynn Wilkinson sold SPARKLING LIKE_NEW Parajet the Volution 2016 (5620  feet maximumAltitude & 38 mile/hour maximumCruisingAirSpeed) with QUAD_WHEEL_LAUNCHER  to Buyer unsuccessfully
+SALESPERSON Braelynn Wilkinson sold DIRTY LIKE_NEW Nikola Badger 2010 to Buyer unsuccessfully
+SALESPERSON Braelynn Wilkinson sold DIRTY LIKE_NEW Star EV 2014 (2 Passengers & 6 hours chargingTime) to Buyer unsuccessfully
+SALESPERSON Eliezer Scott (earned $220.00 bonus) sold DIRTY LIKE_NEW (PICKUP) Nikola Badger 2010 to Buyer for $52907.66 + $2645.38 (SatelliteRadio (addOns)).
+Added sale income $55553.05 to current balance
+Bellamy Bryan (Driver) raced with Zombie 9 (MONSTER_TRUCK) and achieved rank no. 17.
+Zombie 9 (MONSTER_TRUCK) went BROKEN.
+Sawyer Fernandez (Driver) raced with Blacksmith 12 (MONSTER_TRUCK) and achieved rank no. 1.
+Sawyer Fernandez (Driver) won with Blacksmith 12 (MONSTER_TRUCK) (earned $ 1000 bonus)!
+Adalynn Cardenas (Driver) raced with Bear Foot (1979) 7 (MONSTER_TRUCK) and achieved rank no. 7.
+Total salary payout increased by $1500.00
+Total bonuses payout increased by $1525.00
+DRIVER Bellamy Bryan received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Maxwell Calhoun received $120.00 (salary) and $75.00 (bonuses)
+MECHANIC Keyla Scott received $120.00 (salary) and $150.00 (bonuses)
+MECHANIC Bentley Fleming received $120.00 (salary) and $0.00 (bonuses)
+DRIVER Sawyer Fernandez received $150.00 (salary) and $1000.00 (bonuses)
+SALESPERSON Lewis Newton received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Braelynn Wilkinson received $150.00 (salary) and $0.00 (bonuses)
+INTERN Demi Kelley received $80.00 (salary) and $0.00 (bonuses)
+SALESPERSON Eliezer Scott received $150.00 (salary) and $300.00 (bonuses)
+INTERN Joel Zimmerman received $80.00 (salary) and $0.00 (bonuses)
+INTERN Ashlynn Moody received $80.00 (salary) and $0.00 (bonuses)
+DRIVER Adalynn Cardenas received $150.00 (salary) and $0.00 (bonuses)

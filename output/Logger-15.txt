@@ -1,38 +1,37 @@
-Purchased BROKEN, DIRTY CAR Mitsubishi Eclipse 2017 for $ 26664.34
-INTERN Gloriay Pineda wash (DetailedWashing) MOTORCYCLE Victory 2022 (1130 CC engine) and made it CLEAN
-INTERN Gloriay Pineda wash (DetailedWashing) MONSTER_TRUCK The Felon 7 and made it SPARKLING (earned 200.00 bonus)
-INTERN Tiffany Lester wash (ElbowGreaseWashing) CAR Mitsubishi Eclipse 2017 and made it CLEAN
-INTERN Tiffany Lester wash (ElbowGreaseWashing) CAR Toyota Corolla 2018 and made it DIRTY
-INTERN Arya Summers wash (DetailedWashing) CAR Toyota Corolla 2018 and made it CLEAN
-INTERN Arya Summers wash (DetailedWashing) CAR Toyota Corolla 2018 and made it CLEAN
-MECHANIC Harry Smith repaired BROKEN CAR Mitsubishi Eclipse 2017 and made it USED (earned $100.00 bonus)
-MECHANIC Harry Smith repaired USED CAR Mitsubishi Eclipse 2017 unsuccessfully
-MECHANIC Moses Petersen repaired USED CAR Mitsubishi Eclipse 2017 and made it LIKE_NEW (earned $100.00 bonus)
-SALESPERSON Louis Galindo (earned $500.00 bonus) sold SPARKLING LIKE_NEW (MONSTER_TRUCK) The Felon 7 to Buyer for $156246.76 + $39061.69 (ExtendedWarranty, SatelliteRadio (addOns)).
-Added sale income $195308.45 to current balance
-SALESPERSON Louis Galindo (earned $220.00 bonus) sold CLEAN LIKE_NEW (PICKUP) GMC Hummer EV 2017 to Buyer for $106035.10 + $7422.46 (RoadRescueCoverage, SatelliteRadio (addOns)).
-Added sale income $113457.56 to current balance
-SALESPERSON Gerald Jensen sold CLEAN LIKE_NEW Honda Odyssey 2020 to Buyer unsuccessfully
-SALESPERSON Louis Galindo (earned $220.00 bonus) sold SPARKLING LIKE_NEW (PICKUP) Hyundai Santa Cruz 2020 to Buyer for $89558.29 + $1791.17 (RoadRescueCoverage (addOns)).
-Added sale income $91349.46 to current balance
-SALESPERSON Louis Galindo (earned $150.00 bonus) sold CLEAN LIKE_NEW (MOTORCYCLE) Polaris Slingshot 2023 (457 CC engine) to Buyer for $42633.54 + $2984.35 (RoadRescueCoverage, SatelliteRadio (addOns)).
-Added sale income $45617.89 to current balance
-Lewis Dickson (Driver) raced with Ford Mustang Shelby GT500 2022 (PERFORMANCE_CAR) and achieved rank no. 3.
-Lewis Dickson (Driver) won with Ford Mustang Shelby GT500 2022 (PERFORMANCE_CAR) (earned $ 1000 bonus)!
-Louis Barry (Driver) raced with Lamborghini Countach 2015 (PERFORMANCE_CAR) and achieved rank no. 8.
-Salvatore Fleming (Driver) raced with Acura NSX 2017 (PERFORMANCE_CAR) and achieved rank no. 19.
-Acura NSX 2017 (PERFORMANCE_CAR) went BROKEN.
-Total salary payout increased by $1500.00
-Total bonuses payout increased by $2490.00
-MECHANIC Harry Smith received $120.00 (salary) and $100.00 (bonuses)
-SALESPERSON Louis Galindo received $150.00 (salary) and $1090.00 (bonuses)
-DRIVER Lewis Dickson received $150.00 (salary) and $1000.00 (bonuses)
-DRIVER Louis Barry received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Jovanni Lester received $150.00 (salary) and $0.00 (bonuses)
-MECHANIC Moses Petersen received $120.00 (salary) and $100.00 (bonuses)
-DRIVER Salvatore Fleming received $150.00 (salary) and $0.00 (bonuses)
-MECHANIC Kyng Person received $120.00 (salary) and $0.00 (bonuses)
-INTERN Gloriay Pineda received $80.00 (salary) and $200.00 (bonuses)
-INTERN Tiffany Lester received $80.00 (salary) and $0.00 (bonuses)
-SALESPERSON Gerald Jensen received $150.00 (salary) and $0.00 (bonuses)
-INTERN Arya Summers received $80.00 (salary) and $0.00 (bonuses)
+Purchased BROKEN, DIRTY CAR Lexus RC 300 2023 for $ 5784.22
+Purchased BROKEN, DIRTY MOTORCYCLE Ural 2021 (1380 CC engine) for $ 9620.51
+Purchased LIKE_NEW, DIRTY MONSTER_TRUCK Bigfoot 11 for $ 30993.70
+Purchased USED, DIRTY DOZER Kioti 2023 (652 HorsePower) for $ 59283.35
+INTERN Samson Reid wash (DetailedWashing) MONSTER_TRUCK Sudden Impact 10 and made it CLEAN
+INTERN Samson Reid wash (DetailedWashing) PICKUP Toyota Tundra 2020 and made it CLEAN
+INTERN Anaya Tate wash (DetailedWashing) PERFORMANCE_CAR Ford Mustang 2010 and made it CLEAN
+INTERN Anaya Tate wash (DetailedWashing) CAR Hyundai Sonata 2017 and made it SPARKLING (earned 50.00 bonus)
+INTERN Fernando Cortez wash (DetailedWashing) PICKUP Nissan Titan XD 2017 and made it CLEAN
+INTERN Fernando Cortez wash (DetailedWashing) ELECTRIC_CAR Hyundai Kona Electric 2021 (86 miles) and made it SPARKLING (earned 120.00 bonus)
+MECHANIC Aurora Leonard repaired BROKEN PICKUP Toyota Tundra 2020 and made it USED (earned $150.00 bonus)
+MECHANIC Aurora Leonard repaired USED PICKUP Toyota Tundra 2020 and made it LIKE_NEW (earned $150.00 bonus)
+MECHANIC Mohammad Myers repaired BROKEN MOTORCYCLE Polaris Slingshot 2023 (554 CC engine) and made it USED (earned $80.00 bonus)
+MECHANIC Mohammad Myers repaired USED MOTORCYCLE Polaris Slingshot 2023 (554 CC engine) and made it LIKE_NEW (earned $80.00 bonus)
+MECHANIC Bentlee Yu repaired BROKEN PERFORMANCE_CAR Ford Mustang 2010 and made it USED (earned $200.00 bonus)
+MECHANIC Bentlee Yu repaired USED PERFORMANCE_CAR Ford Mustang 2010 and made it LIKE_NEW (earned $200.00 bonus)
+SALESPERSON Anaya O’Donnell sold CLEAN LIKE_NEW Mitsubishi Eclipse 2014 to Buyer unsuccessfully
+SALESPERSON Anaya O’Donnell (earned $220.00 bonus) sold DIRTY LIKE_NEW (PICKUP) Toyota Tundra 2020 to Buyer for $113144.66 + $7920.13 (RoadRescueCoverage, SatelliteRadio (addOns)).
+Added sale income $121064.79 to current balance
+Dalton Tate (Driver) raced with Husqvarna 2016 (177 CC engine) (MOTORCYCLE) and achieved rank no. 8.
+Gerardo Yu (Driver) raced with Polaris Slingshot 2023 (554 CC engine) (MOTORCYCLE) and achieved rank no. 11.
+Nathaniel Herman (Driver) raced with Aprilia 2019 (866 CC engine) (MOTORCYCLE) and achieved rank no. 17.
+DRIVER Nathaniel Herman got injured!
+Aprilia 2019 (866 CC engine) (MOTORCYCLE) went BROKEN.
+Total salary payout increased by $1350.00
+Total bonuses payout increased by $1250.00
+MECHANIC Aurora Leonard received $120.00 (salary) and $300.00 (bonuses)
+MECHANIC Mohammad Myers received $120.00 (salary) and $160.00 (bonuses)
+MECHANIC Bentlee Yu received $120.00 (salary) and $400.00 (bonuses)
+SALESPERSON Anaya O’Donnell received $150.00 (salary) and $220.00 (bonuses)
+DRIVER Dalton Tate received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Gerardo Yu received $150.00 (salary) and $0.00 (bonuses)
+INTERN Samson Reid received $80.00 (salary) and $0.00 (bonuses)
+SALESPERSON Emmalynn Xiong received $150.00 (salary) and $0.00 (bonuses)
+INTERN Anaya Tate received $80.00 (salary) and $50.00 (bonuses)
+SALESPERSON Emory Cabrera received $150.00 (salary) and $0.00 (bonuses)
+INTERN Fernando Cortez received $80.00 (salary) and $120.00 (bonuses)

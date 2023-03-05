@@ -1,30 +1,39 @@
-Purchased LIKE_NEW, DIRTY CAR Tesla Model S 2018 for $ 20473.50
-INTERN Sawyer Case wash (ChemicalWashing) CAR Toyota Corolla 2018 and made it DIRTY
-INTERN Sawyer Case wash (ChemicalWashing) CAR Toyota Corolla 2018 and made it DIRTY
-INTERN Gerald Jensen wash (ChemicalWashing) CAR Toyota Corolla 2018 and made it CLEAN
-INTERN Gerald Jensen wash (ChemicalWashing) CAR Nissan Sunny 2015 and made it CLEAN
-INTERN Gloriay Pineda wash (DetailedWashing) CAR Tesla Model S 2018 and made it CLEAN
-INTERN Gloriay Pineda wash (DetailedWashing) CAR Toyota Corolla 2018 and made it CLEAN
-MECHANIC Harry Smith repaired BROKEN CAR Nissan Sunny 2015 and made it USED (earned $100.00 bonus)
-MECHANIC Harry Smith repaired USED CAR Nissan Sunny 2015 unsuccessfully
-MECHANIC Moses Petersen repaired USED CAR Nissan Sunny 2015 unsuccessfully
-MECHANIC Moses Petersen repaired USED CAR Nissan Sunny 2015 and made it LIKE_NEW (earned $100.00 bonus)
-MECHANIC Kyng Person repaired BROKEN MOTORCYCLE Victory 2022 (1130 CC engine) unsuccessfully
-MECHANIC Kyng Person repaired BROKEN MOTORCYCLE Victory 2022 (1130 CC engine) and made it USED (earned $80.00 bonus)
-SALESPERSON Jovanni Lester sold CLEAN LIKE_NEW Ford Mustang Shelby GT500 2022 to Buyer unsuccessfully
-SALESPERSON Aurora Graham (earned $500.00 bonus) sold SPARKLING LIKE_NEW (MONSTER_TRUCK) Madusa 8 to Buyer for $185036.71 + $59211.75 (ExtendedWarranty, Undercoating, RoadRescueCoverage, SatelliteRadio (addOns)).
-Added sale income $244248.45 to current balance
+INTERN Samson Reid wash (DetailedWashing) MONSTER_TRUCK Sudden Impact 13 and made it CLEAN
+INTERN Samson Reid wash (DetailedWashing) PARAMOTOR Nirvana 2019 (8197  feet maximumAltitude & 40 mile/hour maximumCruisingAirSpeed) with FOOT_LAUNCHER  and made it CLEAN
+INTERN Anaya Tate wash (DetailedWashing) DOZER Case 2013 (495 HorsePower) and made it SPARKLING (earned 300.00 bonus)
+INTERN Anaya Tate wash (DetailedWashing) PICKUP Toyota Tundra 2020 and made it DIRTY
+INTERN Fernando Cortez wash (DetailedWashing) PICKUP Toyota Tundra 2020 and made it CLEAN
+INTERN Fernando Cortez wash (DetailedWashing) MOTORCYCLE Polaris Slingshot 2023 (554 CC engine) and made it CLEAN
+MECHANIC Aurora Leonard repaired BROKEN PARAMOTOR Adventure 2020 (9777  feet maximumAltitude & 46 mile/hour maximumCruisingAirSpeed) with QUAD_WHEEL_LAUNCHER  and made it USED (earned $60.00 bonus)
+MECHANIC Aurora Leonard repaired USED PARAMOTOR Adventure 2020 (9777  feet maximumAltitude & 46 mile/hour maximumCruisingAirSpeed) with QUAD_WHEEL_LAUNCHER  and made it LIKE_NEW (earned $60.00 bonus)
+MECHANIC Mohammad Myers repaired USED GOLF_CART Tomberlin 2015 (5 Passengers & 11 hours chargingTime) and made it LIKE_NEW (earned $75.00 bonus)
+MECHANIC Mohammad Myers repaired BROKEN GOLF_CART Garia Via Luxury Golf Car 2017 (4 Passengers & 11 hours chargingTime) and made it USED (earned $75.00 bonus)
+MECHANIC Bentlee Yu repaired USED GOLF_CART Garia Via Luxury Golf Car 2017 (4 Passengers & 11 hours chargingTime) and made it LIKE_NEW (earned $75.00 bonus)
+MECHANIC Bentlee Yu repaired USED GOLF_CART Club Car Villager 2023 (4 Passengers & 10 hours chargingTime) and made it LIKE_NEW (earned $75.00 bonus)
+SALESPERSON Emmalynn Xiong (earned $350.00 bonus) sold DIRTY USED (PERFORMANCE_CAR) Porsche 718 Boxster 2021 to Buyer for $69082.89 + $4835.80 (RoadRescueCoverage, SatelliteRadio (addOns)).
+Added sale income $73918.70 to current balance
+SALESPERSON Emory Cabrera (earned $150.00 bonus) sold CLEAN LIKE_NEW (MOTORCYCLE) BMW 2014 (1036 CC engine) to Buyer for $91881.54 + $6431.71 (RoadRescueCoverage, SatelliteRadio (addOns)).
+Added sale income $98313.25 to current balance
+SALESPERSON Anaya O’Donnell (earned $600.00 bonus) sold CLEAN LIKE_NEW (DOZER) Manitou 2017 (856 HorsePower) to Buyer for $108707.51 + $7609.53 (Undercoating, RoadRescueCoverage (addOns)).
+Added sale income $116317.03 to current balance
+SALESPERSON Emory Cabrera (earned $600.00 bonus) sold SPARKLING LIKE_NEW (DOZER) Kioti 2022 (838 HorsePower) to Buyer for $88274.44 + $6179.21 (Undercoating, RoadRescueCoverage (addOns)).
+Added sale income $94453.65 to current balance
+SALESPERSON Emmalynn Xiong (earned $500.00 bonus) sold CLEAN LIKE_NEW (MONSTER_TRUCK) Sudden Impact 13 to Buyer for $251080.88 + $5021.62 (RoadRescueCoverage (addOns)).
+Added sale income $256102.50 to current balance
+SALESPERSON Emory Cabrera (earned $600.00 bonus) sold SPARKLING LIKE_NEW (DOZER) Mauldin 2021 (730 HorsePower) to Buyer for $56407.66 + $1128.15 (RoadRescueCoverage (addOns)).
+Added sale income $57535.82 to current balance
+SALESPERSON Anaya O’Donnell sold SPARKLING LIKE_NEW Swamp Thing 15 to Buyer unsuccessfully
 Total salary payout increased by $1500.00
-Total bonuses payout increased by $780.00
-MECHANIC Harry Smith received $120.00 (salary) and $100.00 (bonuses)
-SALESPERSON Aurora Graham received $150.00 (salary) and $500.00 (bonuses)
-SALESPERSON Louis Galindo received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Lewis Dickson received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Louis Barry received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Jovanni Lester received $150.00 (salary) and $0.00 (bonuses)
-MECHANIC Moses Petersen received $120.00 (salary) and $100.00 (bonuses)
-INTERN Sawyer Case received $80.00 (salary) and $0.00 (bonuses)
-INTERN Gerald Jensen received $80.00 (salary) and $0.00 (bonuses)
-DRIVER Salvatore Fleming received $150.00 (salary) and $0.00 (bonuses)
-MECHANIC Kyng Person received $120.00 (salary) and $80.00 (bonuses)
-INTERN Gloriay Pineda received $80.00 (salary) and $0.00 (bonuses)
+Total bonuses payout increased by $3520.00
+MECHANIC Aurora Leonard received $120.00 (salary) and $120.00 (bonuses)
+MECHANIC Mohammad Myers received $120.00 (salary) and $150.00 (bonuses)
+MECHANIC Bentlee Yu received $120.00 (salary) and $150.00 (bonuses)
+SALESPERSON Anaya O’Donnell received $150.00 (salary) and $600.00 (bonuses)
+DRIVER Dalton Tate received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Gerardo Yu received $150.00 (salary) and $0.00 (bonuses)
+INTERN Samson Reid received $80.00 (salary) and $0.00 (bonuses)
+SALESPERSON Emmalynn Xiong received $150.00 (salary) and $850.00 (bonuses)
+INTERN Anaya Tate received $80.00 (salary) and $300.00 (bonuses)
+DRIVER Nathaniel Herman received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Emory Cabrera received $150.00 (salary) and $1350.00 (bonuses)
+INTERN Fernando Cortez received $80.00 (salary) and $0.00 (bonuses)

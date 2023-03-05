@@ -1,0 +1,32 @@
+Purchased LIKE_NEW, DIRTY DOZER JLG 2010 (687 HorsePower) for $ 17438.94
+INTERN Gordon Ramos wash (DetailedWashing) PERFORMANCE_CAR Nissan Z-Car 2018 and made it SPARKLING (earned 75.00 bonus)
+INTERN Gordon Ramos wash (DetailedWashing) MONSTER_TRUCK Bigfoot 1 and made it SPARKLING (earned 200.00 bonus)
+INTERN Kingston Summers wash (ElbowGreaseWashing) DOZER JLG 2010 (687 HorsePower) and made it DIRTY
+INTERN Kingston Summers wash (ElbowGreaseWashing) DOZER JLG 2010 (687 HorsePower) and made it CLEAN
+INTERN Meredith Petersen wash (ElbowGreaseWashing) GOLF_CART Star EV 2010 (5 Passengers & 7 hours chargingTime) and made it CLEAN
+INTERN Meredith Petersen wash (ElbowGreaseWashing) GOLF_CART Star EV 2010 (5 Passengers & 7 hours chargingTime) and made it SPARKLING (earned 30.00 bonus)
+SALESPERSON Eliezer Scott sold SPARKLING LIKE_NEW Bigfoot 1 to Buyer for $155714.71 without any addOns (earned $500.00 bonus)
+Added sale income $155714.71 to current balance
+SALESPERSON Macie Ryan (earned $600.00 bonus) sold SPARKLING LIKE_NEW (DOZER) Caterpillar 2014 (858 HorsePower) to Buyer for $86930.66 + $6085.15 (RoadRescueCoverage, SatelliteRadio (addOns)).
+Added sale income $93015.80 to current balance
+SALESPERSON Bentlee Herman (earned $120.00 bonus) sold CLEAN LIKE_NEW (GOLF_CART) Yamaha Drive 2 PTV 2017 (4 Passengers & 8 hours chargingTime) to Buyer for $38316.19 + $1915.81 (SatelliteRadio (addOns)).
+Added sale income $40232.00 to current balance
+Sawyer Fernandez (Driver) raced with Maximum Destruction (Max-D) 3 (MONSTER_TRUCK) and achieved rank no. 12.
+Adalynn Cardenas (Driver) raced with Bear Foot (1979) 7 (MONSTER_TRUCK) and achieved rank no. 18.
+Bear Foot (1979) 7 (MONSTER_TRUCK) went BROKEN.
+Bailee Ho (Driver) raced with Avenger 5 (MONSTER_TRUCK) and achieved rank no. 20.
+Avenger 5 (MONSTER_TRUCK) went BROKEN.
+Total salary payout increased by $1500.00
+Total bonuses payout increased by $1525.00
+DRIVER Sawyer Fernandez received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Eliezer Scott received $150.00 (salary) and $500.00 (bonuses)
+DRIVER Adalynn Cardenas received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Ashlynn Moody received $120.00 (salary) and $0.00 (bonuses)
+SALESPERSON Bentlee Herman received $150.00 (salary) and $120.00 (bonuses)
+SALESPERSON Macie Ryan received $150.00 (salary) and $600.00 (bonuses)
+MECHANIC Jericho Benton received $120.00 (salary) and $0.00 (bonuses)
+INTERN Gordon Ramos received $80.00 (salary) and $275.00 (bonuses)
+DRIVER Bailee Ho received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Elaine Jordan received $120.00 (salary) and $0.00 (bonuses)
+INTERN Kingston Summers received $80.00 (salary) and $0.00 (bonuses)
+INTERN Meredith Petersen received $80.00 (salary) and $30.00 (bonuses)

@@ -1,0 +1,34 @@
+Purchased BROKEN, DIRTY CAR Renault Logan 2020 for $ 9497.84
+Purchased BROKEN, CLEAN PARAMOTOR FlatTop 2011 (13342  feet maximumAltitude & 30 mile/hour maximumCruisingAirSpeed) with FOOT_LAUNCHER  for $ 3371.95
+INTERN Calliope Hess wash (DetailedWashing) PICKUP Ford Maverick 2021 and made it CLEAN
+INTERN Calliope Hess wash (DetailedWashing) MONSTER_TRUCK Bear Foot (F-150) 7 and made it SPARKLING (earned 200.00 bonus)
+INTERN Gloriay Cruz wash (ChemicalWashing) CAR Renault Logan 2020 and made it CLEAN
+INTERN Gloriay Cruz wash (ChemicalWashing) PICKUP Ford Maverick 2021 and made it CLEAN
+INTERN Gary Yu wash (DetailedWashing) PICKUP Ford Maverick 2021 and made it CLEAN
+INTERN Gary Yu wash (DetailedWashing) PICKUP Ford Maverick 2021 and made it CLEAN
+MECHANIC Elaine Jordan repaired BROKEN CAR Renault Logan 2020 and made it USED (earned $100.00 bonus)
+MECHANIC Elaine Jordan repaired USED CAR Renault Logan 2020 and made it LIKE_NEW (earned $100.00 bonus)
+MECHANIC Kingston Summers repaired BROKEN PARAMOTOR FlatTop 2011 (13342  feet maximumAltitude & 30 mile/hour maximumCruisingAirSpeed) with FOOT_LAUNCHER  and made it USED (earned $60.00 bonus)
+MECHANIC Kingston Summers repaired USED PARAMOTOR FlatTop 2011 (13342  feet maximumAltitude & 30 mile/hour maximumCruisingAirSpeed) with FOOT_LAUNCHER  and made it LIKE_NEW (earned $60.00 bonus)
+SALESPERSON Macie Ryan (earned $80.00 bonus) sold CLEAN LIKE_NEW (PARAMOTOR) Nimbus 2022 (5794  feet maximumAltitude & 45 mile/hour maximumCruisingAirSpeed) with FOOT_LAUNCHER  to Buyer for $28499.27 + $1994.95 (RoadRescueCoverage, SatelliteRadio (addOns)).
+Added sale income $30494.22 to current balance
+SALESPERSON Eliezer Scott sold CLEAN LIKE_NEW Tesla Model S 2013 (551 miles) to Buyer unsuccessfully
+SALESPERSON Macie Ryan (earned $350.00 bonus) sold CLEAN LIKE_NEW (PERFORMANCE_CAR) Acura NSX 2017 to Buyer for $109946.02 + $13193.52 (Undercoating, RoadRescueCoverage, SatelliteRadio (addOns)).
+Added sale income $123139.54 to current balance
+SALESPERSON Bentlee Herman sold CLEAN LIKE_NEW Hyundai 2018 (737 HorsePower) to Buyer unsuccessfully
+SALESPERSON Eliezer Scott sold SPARKLING LIKE_NEW Bear Foot (F-150) 7 to Buyer unsuccessfully
+SALESPERSON Bentlee Herman sold DIRTY LIKE_NEW Renault Logan 2020 to Buyer unsuccessfully
+Total salary payout increased by $1500.00
+Total bonuses payout increased by $950.00
+DRIVER Sawyer Fernandez received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Eliezer Scott received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Adalynn Cardenas received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Bentlee Herman received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Macie Ryan received $150.00 (salary) and $430.00 (bonuses)
+DRIVER Bailee Ho received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Elaine Jordan received $120.00 (salary) and $200.00 (bonuses)
+INTERN Calliope Hess received $80.00 (salary) and $200.00 (bonuses)
+MECHANIC Kingston Summers received $120.00 (salary) and $120.00 (bonuses)
+INTERN Gloriay Cruz received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Meredith Petersen received $120.00 (salary) and $0.00 (bonuses)
+INTERN Gary Yu received $80.00 (salary) and $0.00 (bonuses)

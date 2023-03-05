@@ -1,0 +1,26 @@
+INTERN Demi Kelley wash (ElbowGreaseWashing) PERFORMANCE_CAR Porsche 718 Cayman 2012 and made it CLEAN
+INTERN Demi Kelley wash (ElbowGreaseWashing) GOLF_CART Polaris GEM 2014 (3 Passengers & 8 hours chargingTime) and made it DIRTY
+INTERN Joel Zimmerman wash (ElbowGreaseWashing) GOLF_CART Polaris GEM 2014 (3 Passengers & 8 hours chargingTime) and made it CLEAN
+INTERN Joel Zimmerman wash (ElbowGreaseWashing) GOLF_CART Polaris GEM 2014 (3 Passengers & 8 hours chargingTime) and made it CLEAN
+INTERN Ashlynn Moody wash (DetailedWashing) GOLF_CART Polaris GEM 2014 (3 Passengers & 8 hours chargingTime) and made it CLEAN
+INTERN Ashlynn Moody wash (DetailedWashing) GOLF_CART Polaris GEM 2014 (3 Passengers & 8 hours chargingTime) and made it CLEAN
+SALESPERSON Lewis Newton (earned $160.00 bonus) sold SPARKLING LIKE_NEW (CAR) Lucid Air 2014 to Buyer for $39330.49 + $786.61 (RoadRescueCoverage (addOns)).
+Added sale income $40117.10 to current balance
+SALESPERSON Braelynn Wilkinson sold CLEAN LIKE_NEW Porsche 718 Cayman 2012 to Buyer unsuccessfully
+Bellamy Bryan (Driver) raced with Honda 2021 (837 CC engine) (MOTORCYCLE) and achieved rank no. 11.
+Sawyer Fernandez (Driver) raced with Suzuki 2014 (834 CC engine) (MOTORCYCLE) and achieved rank no. 9.
+Adalynn Cardenas (Driver) raced with Buell 2017 (922 CC engine) (MOTORCYCLE) and achieved rank no. 4.
+Total salary payout increased by $1500.00
+Total bonuses payout increased by $160.00
+DRIVER Bellamy Bryan received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Maxwell Calhoun received $120.00 (salary) and $0.00 (bonuses)
+MECHANIC Keyla Scott received $120.00 (salary) and $0.00 (bonuses)
+MECHANIC Bentley Fleming received $120.00 (salary) and $0.00 (bonuses)
+DRIVER Sawyer Fernandez received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Lewis Newton received $150.00 (salary) and $160.00 (bonuses)
+SALESPERSON Braelynn Wilkinson received $150.00 (salary) and $0.00 (bonuses)
+INTERN Demi Kelley received $80.00 (salary) and $0.00 (bonuses)
+SALESPERSON Eliezer Scott received $150.00 (salary) and $0.00 (bonuses)
+INTERN Joel Zimmerman received $80.00 (salary) and $0.00 (bonuses)
+INTERN Ashlynn Moody received $80.00 (salary) and $0.00 (bonuses)
+DRIVER Adalynn Cardenas received $150.00 (salary) and $0.00 (bonuses)

@@ -1,0 +1,24 @@
+Purchased USED, DIRTY PERFORMANCE_CAR Porsche 718 Boxster 2019 for $ 23881.96
+Purchased USED, DIRTY MOTORCYCLE BMW 2011 (584 CC engine) for $ 19460.93
+INTERN Gordon Ramos wash (DetailedWashing) MONSTER_TRUCK Bear Foot (F-150) 7 and made it CLEAN
+INTERN Gordon Ramos wash (DetailedWashing) GOLF_CART Cushman Shuttle 2023 (5 Passengers & 5 hours chargingTime) and made it CLEAN
+INTERN Kingston Summers wash (ElbowGreaseWashing) ELECTRIC_CAR Volvo XC40 Recharge 2019 (492 miles) and made it CLEAN
+INTERN Kingston Summers wash (ElbowGreaseWashing) PERFORMANCE_CAR Porsche 718 Boxster 2019 and made it CLEAN
+INTERN Meredith Petersen wash (ElbowGreaseWashing) MOTORCYCLE BMW 2011 (584 CC engine) and made it SPARKLING (earned 25.00 bonus)
+INTERN Meredith Petersen wash (ElbowGreaseWashing) DOZER Volvo CE 2011 (287 HorsePower) and made it CLEAN
+MECHANIC Ashlynn Moody repaired USED PERFORMANCE_CAR Porsche 718 Boxster 2019 and made it LIKE_NEW (earned $200.00 bonus)
+MECHANIC Ashlynn Moody repaired USED MOTORCYCLE BMW 2011 (584 CC engine) and made it LIKE_NEW (earned $80.00 bonus)
+Total salary payout increased by $1500.00
+Total bonuses payout increased by $305.00
+DRIVER Sawyer Fernandez received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Eliezer Scott received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Adalynn Cardenas received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Ashlynn Moody received $120.00 (salary) and $280.00 (bonuses)
+SALESPERSON Bentlee Herman received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Macie Ryan received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Jericho Benton received $120.00 (salary) and $0.00 (bonuses)
+INTERN Gordon Ramos received $80.00 (salary) and $0.00 (bonuses)
+DRIVER Bailee Ho received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Elaine Jordan received $120.00 (salary) and $0.00 (bonuses)
+INTERN Kingston Summers received $80.00 (salary) and $0.00 (bonuses)
+INTERN Meredith Petersen received $80.00 (salary) and $25.00 (bonuses)

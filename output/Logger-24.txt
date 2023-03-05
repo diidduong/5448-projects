@@ -1,34 +1,37 @@
-Purchased USED, SPARKLING MONSTER_TRUCK Batman 1 for $ 89674.90
-INTERN Gordon Blair wash (ElbowGreaseWashing) ELECTRIC_CAR Lucid Air 2011 (377 miles) and made it SPARKLING (earned 120.00 bonus)
-INTERN Gordon Blair wash (ElbowGreaseWashing) ELECTRIC_CAR Kia EV6 2012 (226 miles) and made it DIRTY
-INTERN Tiffany Jimenez wash (ChemicalWashing) ELECTRIC_CAR Kia EV6 2012 (226 miles) and made it CLEAN
-INTERN Tiffany Jimenez wash (ChemicalWashing) MONSTER_TRUCK Grave Digger 2 and made it CLEAN
-INTERN Calliope Hess wash (ChemicalWashing) MONSTER_TRUCK Grave Digger 2 and made it CLEAN
-INTERN Calliope Hess wash (ChemicalWashing) MONSTER_TRUCK Grave Digger 2 and made it CLEAN
-MECHANIC Kyng Person repaired BROKEN MONSTER_TRUCK Grave Digger 2 unsuccessfully
-MECHANIC Kyng Person repaired BROKEN MONSTER_TRUCK Grave Digger 2 unsuccessfully
-MECHANIC Tiffany Lester repaired BROKEN MONSTER_TRUCK Grave Digger 2 unsuccessfully
-MECHANIC Tiffany Lester repaired BROKEN MONSTER_TRUCK Grave Digger 2 and made it USED (earned $500.00 bonus)
-MECHANIC Kingston Faulkner repaired USED MONSTER_TRUCK Grave Digger 2 unsuccessfully
-MECHANIC Kingston Faulkner repaired USED MONSTER_TRUCK Grave Digger 2 and made it LIKE_NEW (earned $500.00 bonus)
-SALESPERSON Louis Galindo (earned $350.00 bonus) sold SPARKLING LIKE_NEW (PERFORMANCE_CAR) Ferrari Daytona 2020 to Buyer for $145503.68 + $10185.26 (Undercoating, RoadRescueCoverage (addOns)).
-Added sale income $155688.94 to current balance
-SALESPERSON Jovanni Lester sold CLEAN LIKE_NEW Royal Enfield 2020 (1063 CC engine) to Buyer unsuccessfully
-SALESPERSON Gerald Jensen sold DIRTY LIKE_NEW Grave Digger 2 to Buyer unsuccessfully
-SALESPERSON Gerald Jensen (earned $350.00 bonus) sold CLEAN LIKE_NEW (PERFORMANCE_CAR) Ford Mustang 2019 to Buyer for $55570.13 + $3889.91 (RoadRescueCoverage, SatelliteRadio (addOns)).
-Added sale income $59460.04 to current balance
-SALESPERSON Louis Galindo sold CLEAN LIKE_NEW Chevrolet Silverado 1500 2018 to Buyer unsuccessfully
+Purchased USED, DIRTY PICKUP Tesla Cybertruck 2019 for $ 30146.24
+Purchased LIKE_NEW, DIRTY ELECTRIC_CAR Fiat 500e 2021 (478 miles) for $ 33317.47
+Purchased BROKEN, CLEAN MONSTER_TRUCK Air Force Afterburner 12 for $ 20541.11
+INTERN Amara Kennedy wash (ChemicalWashing) DOZER XCMG 2014 (281 HorsePower) and made it CLEAN
+INTERN Amara Kennedy wash (ChemicalWashing) PICKUP Tesla Cybertruck 2019 and made it CLEAN
+INTERN Blaine Ryan wash (ChemicalWashing) ELECTRIC_CAR Fiat 500e 2021 (478 miles) and made it CLEAN
+INTERN Blaine Ryan wash (ChemicalWashing) PERFORMANCE_CAR Toyota GR86 2017 and made it CLEAN
+INTERN Angie Petersen wash (ChemicalWashing) PERFORMANCE_CAR Toyota GR86 2017 and made it CLEAN
+INTERN Angie Petersen wash (ChemicalWashing) PERFORMANCE_CAR Toyota GR86 2017 and made it CLEAN
+MECHANIC Bentlee Yu repaired USED PICKUP Tesla Cybertruck 2019 and made it LIKE_NEW (earned $150.00 bonus)
+MECHANIC Bentlee Yu repaired BROKEN MONSTER_TRUCK Air Force Afterburner 12 unsuccessfully
+MECHANIC Anaya Tate repaired BROKEN MONSTER_TRUCK Air Force Afterburner 12 and made it USED (earned $500.00 bonus)
+MECHANIC Anaya Tate repaired USED MONSTER_TRUCK Air Force Afterburner 12 unsuccessfully
+MECHANIC Fernando Cortez repaired USED MONSTER_TRUCK Air Force Afterburner 12 and made it LIKE_NEW (earned $500.00 bonus)
+SALESPERSON Emmalynn Xiong sold CLEAN LIKE_NEW WCW Nitro Machine 5 to Buyer unsuccessfully
+SALESPERSON Emmalynn Xiong (earned $120.00 bonus) sold CLEAN LIKE_NEW (GOLF_CART) Club Car Villager 2023 (4 Passengers & 10 hours chargingTime) to Buyer for $49602.95 + $13392.80 (ExtendedWarranty, RoadRescueCoverage, SatelliteRadio (addOns)).
+Added sale income $62995.75 to current balance
+SALESPERSON Samson Reid sold CLEAN LIKE_NEW Scout Enduro Cage 2017 (9914  feet maximumAltitude & 26 mile/hour maximumCruisingAirSpeed) with TRIKE_WHEEL_LAUNCHER  to Buyer for $38916.16 without any addOns (earned $80.00 bonus)
+Added sale income $38916.16 to current balance
+SALESPERSON Samson Reid (earned $150.00 bonus) sold CLEAN LIKE_NEW (MOTORCYCLE) Aprilia 2019 (866 CC engine) to Buyer for $54419.73 + $1088.39 (RoadRescueCoverage (addOns)).
+Added sale income $55508.12 to current balance
+SALESPERSON Samson Reid (earned $120.00 bonus) sold SPARKLING LIKE_NEW (GOLF_CART) Garia Via Luxury Golf Car 2017 (4 Passengers & 11 hours chargingTime) to Buyer for $45927.67 + $918.55 (RoadRescueCoverage (addOns)).
+Added sale income $46846.23 to current balance
 Total salary payout increased by $1500.00
-Total bonuses payout increased by $1820.00
-SALESPERSON Louis Galindo received $150.00 (salary) and $350.00 (bonuses)
-DRIVER Louis Barry received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Jovanni Lester received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Salvatore Fleming received $150.00 (salary) and $0.00 (bonuses)
-MECHANIC Kyng Person received $120.00 (salary) and $0.00 (bonuses)
-SALESPERSON Gerald Jensen received $150.00 (salary) and $350.00 (bonuses)
-MECHANIC Tiffany Lester received $120.00 (salary) and $500.00 (bonuses)
-INTERN Gordon Blair received $80.00 (salary) and $120.00 (bonuses)
-DRIVER Macie Cortez received $150.00 (salary) and $0.00 (bonuses)
-INTERN Tiffany Jimenez received $80.00 (salary) and $0.00 (bonuses)
-MECHANIC Kingston Faulkner received $120.00 (salary) and $500.00 (bonuses)
-INTERN Calliope Hess received $80.00 (salary) and $0.00 (bonuses)
+Total bonuses payout increased by $1620.00
+MECHANIC Bentlee Yu received $120.00 (salary) and $150.00 (bonuses)
+DRIVER Gerardo Yu received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Emmalynn Xiong received $150.00 (salary) and $120.00 (bonuses)
+SALESPERSON Emory Cabrera received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Gloriay Leonard received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Samson Reid received $150.00 (salary) and $350.00 (bonuses)
+INTERN Amara Kennedy received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Anaya Tate received $120.00 (salary) and $500.00 (bonuses)
+INTERN Blaine Ryan received $80.00 (salary) and $0.00 (bonuses)
+DRIVER Jericho McCormick received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Fernando Cortez received $120.00 (salary) and $500.00 (bonuses)
+INTERN Angie Petersen received $80.00 (salary) and $0.00 (bonuses)

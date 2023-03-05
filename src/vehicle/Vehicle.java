@@ -19,7 +19,7 @@ public abstract class Vehicle {
     }
 
     public enum VehicleType {
-        PERFORMANCE_CAR, CAR, PICKUP, ELECTRIC_CAR, MOTORCYCLE, MONSTER_TRUCK
+        PERFORMANCE_CAR, CAR, PICKUP, ELECTRIC_CAR, MOTORCYCLE, MONSTER_TRUCK, DOZER, PARAMOTOR, GOLF_CART
     }
 
     private String name;
@@ -143,6 +143,12 @@ public abstract class Vehicle {
                 return new MotorCycle();
             case MONSTER_TRUCK:
                 return new MonsterTruck();
+            case PARAMOTOR:
+                return new ParaMotor();
+            case DOZER:
+                return new Dozer();
+            case GOLF_CART:
+                return new GolfCart();
             default:
                 throw new IllegalArgumentException("Unknown vehicle type [" + type + "]");
         }

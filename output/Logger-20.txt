@@ -1,37 +1,32 @@
-Purchased USED, DIRTY PERFORMANCE_CAR Ford Mustang 2019 for $ 44456.11
-Purchased LIKE_NEW, DIRTY CAR Nissan Leaf 2015 for $ 26162.88
-Purchased BROKEN, CLEAN PICKUP Chevrolet Silverado 1500 2018 for $ 55175.45
-INTERN Kingston Faulkner wash (ChemicalWashing) MONSTER_TRUCK Swamp Thing 15 and made it CLEAN
-INTERN Kingston Faulkner wash (ChemicalWashing) PERFORMANCE_CAR Ferrari Daytona 2020 and made it DIRTY
-INTERN Gordon Blair wash (ElbowGreaseWashing) PERFORMANCE_CAR Ferrari Daytona 2020 and made it CLEAN
-INTERN Gordon Blair wash (ElbowGreaseWashing) PERFORMANCE_CAR Ford Mustang 2019 and made it CLEAN
-INTERN Tiffany Jimenez wash (ChemicalWashing) CAR Nissan Leaf 2015 and made it CLEAN
-INTERN Tiffany Jimenez wash (ChemicalWashing) PICKUP GMC Hummer EV 2020 and made it SPARKLING (earned 100.00 bonus)
-MECHANIC Moses Petersen repaired BROKEN MONSTER_TRUCK Swamp Thing 15 unsuccessfully
-MECHANIC Moses Petersen repaired BROKEN MONSTER_TRUCK Swamp Thing 15 and made it USED (earned $500.00 bonus)
-MECHANIC Kyng Person repaired USED MONSTER_TRUCK Swamp Thing 15 and made it LIKE_NEW (earned $500.00 bonus)
-MECHANIC Kyng Person repaired USED PERFORMANCE_CAR Ferrari Daytona 2020 and made it LIKE_NEW (earned $200.00 bonus)
-MECHANIC Tiffany Lester repaired BROKEN ELECTRIC_CAR Subaru Solterra 2019 (300 miles) and made it USED (earned $300.00 bonus)
-MECHANIC Tiffany Lester repaired USED ELECTRIC_CAR Subaru Solterra 2019 (300 miles) and made it LIKE_NEW (earned $300.00 bonus)
-SALESPERSON Louis Galindo sold DIRTY LIKE_NEW Ferrari Daytona 2020 to Buyer unsuccessfully
-SALESPERSON Jovanni Lester (earned $500.00 bonus) sold DIRTY LIKE_NEW (MONSTER_TRUCK) Swamp Thing 15 to Buyer for $314956.82 + $6299.14 (RoadRescueCoverage (addOns)).
-Added sale income $321255.95 to current balance
-SALESPERSON Gerald Jensen (earned $150.00 bonus) sold CLEAN LIKE_NEW (MOTORCYCLE) Vespa 2015 (407 CC engine) to Buyer for $45514.24 + $12288.85 (ExtendedWarranty, RoadRescueCoverage, SatelliteRadio (addOns)).
-Added sale income $57803.09 to current balance
-SALESPERSON Jovanni Lester sold CLEAN LIKE_NEW KTM 2010 (926 CC engine) to Buyer unsuccessfully
-SALESPERSON Jovanni Lester (earned $150.00 bonus) sold CLEAN LIKE_NEW (MOTORCYCLE) KTM 2010 (926 CC engine) to Buyer for $32802.18 + $656.04 (RoadRescueCoverage (addOns)).
-Added sale income $33458.22 to current balance
+INTERN Amara Kennedy wash (ChemicalWashing) MONSTER_TRUCK Sudden Impact 10 and made it CLEAN
+INTERN Amara Kennedy wash (ChemicalWashing) MONSTER_TRUCK WCW Nitro Machine 5 and made it CLEAN
+INTERN Blaine Ryan wash (ChemicalWashing) MOTORCYCLE Ural 2021 (1380 CC engine) and made it CLEAN
+INTERN Blaine Ryan wash (ChemicalWashing) ELECTRIC_CAR Karma GSe-6 2011 (244 miles) and made it CLEAN
+INTERN Angie Petersen wash (ChemicalWashing) PERFORMANCE_CAR Chevrolet Camaro 2012 and made it CLEAN
+INTERN Angie Petersen wash (ChemicalWashing) PERFORMANCE_CAR Chevrolet Camaro 2012 and made it CLEAN
+MECHANIC Bentlee Yu repaired USED DOZER Kioti 2023 (652 HorsePower) unsuccessfully
+MECHANIC Bentlee Yu repaired USED DOZER Kioti 2023 (652 HorsePower) and made it LIKE_NEW (earned $600.00 bonus)
+MECHANIC Anaya Tate repaired BROKEN PICKUP Nissan Frontier 2023 and made it USED (earned $150.00 bonus)
+MECHANIC Anaya Tate repaired USED PICKUP Nissan Frontier 2023 and made it LIKE_NEW (earned $150.00 bonus)
+MECHANIC Fernando Cortez repaired USED CAR Chevrolet Bolt 2011 and made it LIKE_NEW (earned $100.00 bonus)
+MECHANIC Fernando Cortez repaired BROKEN PICKUP Ford Velociraptor 6×6 2012 unsuccessfully
+SALESPERSON Emory Cabrera (earned $80.00 bonus) sold CLEAN LIKE_NEW (PARAMOTOR) Nirvana 2019 (8197  feet maximumAltitude & 40 mile/hour maximumCruisingAirSpeed) with FOOT_LAUNCHER  to Buyer for $16207.39 + $324.15 (RoadRescueCoverage (addOns)).
+Added sale income $16531.54 to current balance
+SALESPERSON Samson Reid sold CLEAN LIKE_NEW Ural 2021 (1380 CC engine) to Buyer unsuccessfully
+SALESPERSON Emmalynn Xiong (earned $150.00 bonus) sold CLEAN LIKE_NEW (MOTORCYCLE) Ural 2021 (1380 CC engine) to Buyer for $72153.81 + $3607.69 (SatelliteRadio (addOns)).
+Added sale income $75761.50 to current balance
+SALESPERSON Emmalynn Xiong sold CLEAN LIKE_NEW Mercedes-Benz S-class 2012 to Buyer unsuccessfully
 Total salary payout increased by $1500.00
-Total bonuses payout increased by $2700.00
-SALESPERSON Louis Galindo received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Louis Barry received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Jovanni Lester received $150.00 (salary) and $650.00 (bonuses)
-MECHANIC Moses Petersen received $120.00 (salary) and $500.00 (bonuses)
-DRIVER Salvatore Fleming received $150.00 (salary) and $0.00 (bonuses)
-MECHANIC Kyng Person received $120.00 (salary) and $700.00 (bonuses)
-SALESPERSON Gerald Jensen received $150.00 (salary) and $150.00 (bonuses)
-MECHANIC Tiffany Lester received $120.00 (salary) and $600.00 (bonuses)
-INTERN Kingston Faulkner received $80.00 (salary) and $0.00 (bonuses)
-INTERN Gordon Blair received $80.00 (salary) and $0.00 (bonuses)
-DRIVER Macie Cortez received $150.00 (salary) and $0.00 (bonuses)
-INTERN Tiffany Jimenez received $80.00 (salary) and $100.00 (bonuses)
+Total bonuses payout increased by $1230.00
+MECHANIC Bentlee Yu received $120.00 (salary) and $600.00 (bonuses)
+DRIVER Gerardo Yu received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Emmalynn Xiong received $150.00 (salary) and $150.00 (bonuses)
+SALESPERSON Emory Cabrera received $150.00 (salary) and $80.00 (bonuses)
+DRIVER Gloriay Leonard received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Samson Reid received $150.00 (salary) and $0.00 (bonuses)
+INTERN Amara Kennedy received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Anaya Tate received $120.00 (salary) and $300.00 (bonuses)
+INTERN Blaine Ryan received $80.00 (salary) and $0.00 (bonuses)
+DRIVER Jericho McCormick received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Fernando Cortez received $120.00 (salary) and $100.00 (bonuses)
+INTERN Angie Petersen received $80.00 (salary) and $0.00 (bonuses)

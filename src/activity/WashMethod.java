@@ -7,6 +7,6 @@ import vehicle.Vehicle;
  * @author Duy Duong, Ahmed.H.Biby
  */
 public interface WashMethod {
-    //TODO: update UML
+
     void washVehicle(Vehicle  vehicle);
 }

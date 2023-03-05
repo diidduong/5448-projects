@@ -1,0 +1,34 @@
+Purchased USED, DIRTY PICKUP Honda Ridgeline 2023 for $ 18831.24
+Purchased USED, CLEAN DOZER Hyundai 2018 (737 HorsePower) for $ 56081.71
+Purchased BROKEN, DIRTY PARAMOTOR Nimbus 2022 (5794  feet maximumAltitude & 45 mile/hour maximumCruisingAirSpeed) with FOOT_LAUNCHER  for $ 3799.90
+INTERN Meredith Petersen wash (ElbowGreaseWashing) PERFORMANCE_CAR Ferrari F8 2020 and made it CLEAN
+INTERN Meredith Petersen wash (ElbowGreaseWashing) CAR Mitsubishi Eclipse 2016 and made it CLEAN
+INTERN Calliope Hess wash (DetailedWashing) MONSTER_TRUCK War Wizard 8 and made it CLEAN
+INTERN Calliope Hess wash (DetailedWashing) PICKUP Honda Ridgeline 2023 and made it CLEAN
+INTERN Gloriay Cruz wash (ChemicalWashing) PARAMOTOR Nimbus 2022 (5794  feet maximumAltitude & 45 mile/hour maximumCruisingAirSpeed) with FOOT_LAUNCHER  and made it CLEAN
+INTERN Gloriay Cruz wash (ChemicalWashing) PERFORMANCE_CAR Lamborghini Countach 2015 and made it CLEAN
+MECHANIC Jericho Benton repaired BROKEN PICKUP Honda Ridgeline 2019 and made it USED (earned $150.00 bonus)
+MECHANIC Jericho Benton repaired USED PICKUP Honda Ridgeline 2019 and made it LIKE_NEW (earned $150.00 bonus)
+MECHANIC Elaine Jordan repaired USED PICKUP Honda Ridgeline 2023 unsuccessfully
+MECHANIC Elaine Jordan repaired USED PICKUP Honda Ridgeline 2023 and made it LIKE_NEW (earned $150.00 bonus)
+MECHANIC Kingston Summers repaired USED DOZER Hyundai 2018 (737 HorsePower) unsuccessfully
+MECHANIC Kingston Summers repaired USED DOZER Hyundai 2018 (737 HorsePower) and made it LIKE_NEW (earned $600.00 bonus)
+SALESPERSON Eliezer Scott sold SPARKLING LIKE_NEW Nissan Z-Car 2018 to Buyer unsuccessfully
+SALESPERSON Eliezer Scott (earned $80.00 bonus) sold SPARKLING LIKE_NEW (PARAMOTOR) Fresh Breeze 2021 (8199  feet maximumAltitude & 50 mile/hour maximumCruisingAirSpeed) with TRIKE_WHEEL_LAUNCHER  to Buyer for $26554.11 + $1327.71 (SatelliteRadio (addOns)).
+Added sale income $27881.81 to current balance
+SALESPERSON Bentlee Herman (earned $350.00 bonus) sold SPARKLING LIKE_NEW (PERFORMANCE_CAR) Nissan Z-Car 2018 to Buyer for $72728.28 + $3636.41 (SatelliteRadio (addOns)).
+Added sale income $76364.70 to current balance
+Total salary payout increased by $1500.00
+Total bonuses payout increased by $1480.00
+DRIVER Sawyer Fernandez received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Eliezer Scott received $150.00 (salary) and $80.00 (bonuses)
+DRIVER Adalynn Cardenas received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Bentlee Herman received $150.00 (salary) and $350.00 (bonuses)
+SALESPERSON Macie Ryan received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Jericho Benton received $120.00 (salary) and $300.00 (bonuses)
+DRIVER Bailee Ho received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Elaine Jordan received $120.00 (salary) and $150.00 (bonuses)
+INTERN Meredith Petersen received $80.00 (salary) and $0.00 (bonuses)
+INTERN Calliope Hess received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Kingston Summers received $120.00 (salary) and $600.00 (bonuses)
+INTERN Gloriay Cruz received $80.00 (salary) and $0.00 (bonuses)

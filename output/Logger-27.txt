@@ -1,38 +1,40 @@
-Purchased BROKEN, CLEAN PERFORMANCE_CAR Toyota GR86 2015 for $ 69217.64
-Purchased USED, DIRTY PICKUP GMC Sierra Supercharged 2018 for $ 31394.86
-Purchased LIKE_NEW, DIRTY ELECTRIC_CAR Lucid Air 2021 (467 miles) for $ 52711.89
-Purchased USED, DIRTY ELECTRIC_CAR Ford Mustang Mach-E 2013 (268 miles) for $ 56630.14
-Purchased USED, DIRTY MOTORCYCLE Buell 2023 (362 CC engine) for $ 40164.56
-INTERN Tiffany Jimenez wash (ChemicalWashing) MONSTER_TRUCK Grave Digger 2 and made it SPARKLING (earned 200.00 bonus)
-INTERN Tiffany Jimenez wash (ChemicalWashing) PICKUP GMC Sierra Supercharged 2018 and made it CLEAN
-INTERN Calliope Hess wash (ChemicalWashing) ELECTRIC_CAR Lucid Air 2021 (467 miles) and made it CLEAN
-INTERN Calliope Hess wash (ChemicalWashing) ELECTRIC_CAR Ford Mustang Mach-E 2013 (268 miles) and made it CLEAN
-INTERN Leyla Conrad wash (ChemicalWashing) MOTORCYCLE Buell 2023 (362 CC engine) and made it CLEAN
-INTERN Leyla Conrad wash (ChemicalWashing) MOTORCYCLE Norton 2020 (560 CC engine) and made it CLEAN
-MECHANIC Kyng Person repaired BROKEN PERFORMANCE_CAR Toyota GR86 2015 unsuccessfully
-MECHANIC Kyng Person repaired BROKEN PERFORMANCE_CAR Toyota GR86 2015 and made it USED (earned $200.00 bonus)
-MECHANIC Tiffany Lester repaired USED PERFORMANCE_CAR Toyota GR86 2015 and made it LIKE_NEW (earned $200.00 bonus)
-MECHANIC Tiffany Lester repaired USED PICKUP GMC Sierra Supercharged 2018 and made it LIKE_NEW (earned $150.00 bonus)
-MECHANIC Kingston Faulkner repaired USED ELECTRIC_CAR Ford Mustang Mach-E 2013 (268 miles) unsuccessfully
-MECHANIC Kingston Faulkner repaired USED ELECTRIC_CAR Ford Mustang Mach-E 2013 (268 miles) and made it LIKE_NEW (earned $300.00 bonus)
-SALESPERSON Jovanni Lester sold DIRTY LIKE_NEW Toyota GR86 2015 to Buyer unsuccessfully
-SALESPERSON Louis Galindo sold SPARKLING LIKE_NEW Grave Digger 2 to Buyer unsuccessfully
-SALESPERSON Gerald Jensen (earned $350.00 bonus) sold DIRTY LIKE_NEW (PERFORMANCE_CAR) Toyota GR86 2015 to Buyer for $129783.07 + $2595.66 (RoadRescueCoverage (addOns)).
-Added sale income $132378.73 to current balance
-SALESPERSON Gerald Jensen (earned $500.00 bonus) sold SPARKLING LIKE_NEW (MONSTER_TRUCK) Grave Digger 2 to Buyer for $466377.13 + $93275.43 (ExtendedWarranty (addOns)).
-Added sale income $559652.56 to current balance
-SALESPERSON Gerald Jensen sold CLEAN LIKE_NEW USA-1 4 to Buyer unsuccessfully
+Purchased LIKE_NEW, DIRTY PERFORMANCE_CAR Lamborghini Countach 2017 for $ 27197.67
+Purchased USED, CLEAN MONSTER_TRUCK Bear Foot (F-150) 8 for $ 34590.27
+Purchased LIKE_NEW, CLEAN GOLF_CART Polaris GEM 2020 (5 Passengers & 7 hours chargingTime) for $ 17210.11
+INTERN Amara Kennedy wash (ChemicalWashing) PERFORMANCE_CAR Lamborghini Countach 2017 and made it CLEAN
+INTERN Amara Kennedy wash (ChemicalWashing) PERFORMANCE_CAR Lamborghini Countach 2020 and made it CLEAN
+INTERN Blaine Ryan wash (ChemicalWashing) PERFORMANCE_CAR Lamborghini Countach 2020 and made it CLEAN
+INTERN Blaine Ryan wash (ChemicalWashing) PERFORMANCE_CAR Lamborghini Countach 2020 and made it CLEAN
+INTERN Angie Petersen wash (ChemicalWashing) PERFORMANCE_CAR Lamborghini Countach 2020 and made it CLEAN
+INTERN Angie Petersen wash (ChemicalWashing) PERFORMANCE_CAR Lamborghini Countach 2020 and made it CLEAN
+MECHANIC Bentlee Yu repaired BROKEN PERFORMANCE_CAR Lamborghini Countach 2017 and made it USED (earned $200.00 bonus)
+MECHANIC Bentlee Yu repaired USED PERFORMANCE_CAR Lamborghini Countach 2017 unsuccessfully
+MECHANIC Anaya Tate repaired USED PERFORMANCE_CAR Lamborghini Countach 2017 and made it LIKE_NEW (earned $200.00 bonus)
+MECHANIC Anaya Tate repaired USED MONSTER_TRUCK Bear Foot (F-150) 8 and made it LIKE_NEW (earned $500.00 bonus)
+SALESPERSON Emory Cabrera sold CLEAN LIKE_NEW Tomberlin 2015 (5 Passengers & 11 hours chargingTime) to Buyer unsuccessfully
+SALESPERSON Samson Reid (earned $220.00 bonus) sold SPARKLING LIKE_NEW (PICKUP) Ford Velociraptor 6×6 2012 to Buyer for $96452.46 + $6751.67 (RoadRescueCoverage, SatelliteRadio (addOns)).
+Added sale income $103204.13 to current balance
+SALESPERSON Samson Reid sold CLEAN LIKE_NEW BlackHawk 2017 (5569  feet maximumAltitude & 34 mile/hour maximumCruisingAirSpeed) with QUAD_WHEEL_LAUNCHER  to Buyer unsuccessfully
+SALESPERSON Emmalynn Xiong (earned $150.00 bonus) sold CLEAN LIKE_NEW (MOTORCYCLE) Indian 2011 (1301 CC engine) to Buyer for $78311.87 + $1566.24 (RoadRescueCoverage (addOns)).
+Added sale income $79878.11 to current balance
+SALESPERSON Samson Reid (earned $80.00 bonus) sold CLEAN LIKE_NEW (PARAMOTOR) BlackHawk 2017 (5569  feet maximumAltitude & 34 mile/hour maximumCruisingAirSpeed) with QUAD_WHEEL_LAUNCHER  to Buyer for $24190.49 + $483.81 (RoadRescueCoverage (addOns)).
+Added sale income $24674.30 to current balance
+SALESPERSON Emory Cabrera sold CLEAN LIKE_NEW Tomberlin 2015 (5 Passengers & 11 hours chargingTime) to Buyer for $43962.59 without any addOns (earned $120.00 bonus)
+Added sale income $43962.59 to current balance
+SALESPERSON Emory Cabrera sold CLEAN LIKE_NEW Tesla Cybertruck 2019 to Buyer unsuccessfully
+SALESPERSON Samson Reid (earned $350.00 bonus) sold DIRTY LIKE_NEW (PERFORMANCE_CAR) Lamborghini Countach 2017 to Buyer for $101991.25 + $5099.56 (SatelliteRadio (addOns)).
+Added sale income $107090.81 to current balance
 Total salary payout increased by $1500.00
-Total bonuses payout increased by $1900.00
-SALESPERSON Louis Galindo received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Louis Barry received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Jovanni Lester received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Salvatore Fleming received $150.00 (salary) and $0.00 (bonuses)
-MECHANIC Kyng Person received $120.00 (salary) and $200.00 (bonuses)
-SALESPERSON Gerald Jensen received $150.00 (salary) and $850.00 (bonuses)
-MECHANIC Tiffany Lester received $120.00 (salary) and $350.00 (bonuses)
-DRIVER Macie Cortez received $150.00 (salary) and $0.00 (bonuses)
-INTERN Tiffany Jimenez received $80.00 (salary) and $200.00 (bonuses)
-MECHANIC Kingston Faulkner received $120.00 (salary) and $300.00 (bonuses)
-INTERN Calliope Hess received $80.00 (salary) and $0.00 (bonuses)
-INTERN Leyla Conrad received $80.00 (salary) and $0.00 (bonuses)
+Total bonuses payout increased by $1820.00
+MECHANIC Bentlee Yu received $120.00 (salary) and $200.00 (bonuses)
+DRIVER Gerardo Yu received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Emmalynn Xiong received $150.00 (salary) and $150.00 (bonuses)
+SALESPERSON Emory Cabrera received $150.00 (salary) and $120.00 (bonuses)
+DRIVER Gloriay Leonard received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Samson Reid received $150.00 (salary) and $650.00 (bonuses)
+INTERN Amara Kennedy received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Anaya Tate received $120.00 (salary) and $700.00 (bonuses)
+INTERN Blaine Ryan received $80.00 (salary) and $0.00 (bonuses)
+DRIVER Jericho McCormick received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Fernando Cortez received $120.00 (salary) and $0.00 (bonuses)
+INTERN Angie Petersen received $80.00 (salary) and $0.00 (bonuses)

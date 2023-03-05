@@ -1,0 +1,33 @@
+INTERN Paulina Gould wash (ElbowGreaseWashing) PICKUP Isuzu D-Max 2011 and made it CLEAN
+INTERN Paulina Gould wash (ElbowGreaseWashing) ELECTRIC_CAR Lucid Air 2019 (352 miles) and made it CLEAN
+INTERN Eliezer Scott wash (ChemicalWashing) ELECTRIC_CAR Hyundai Kona Electric 2011 (126 miles) and made it DIRTY
+INTERN Eliezer Scott wash (ChemicalWashing) ELECTRIC_CAR Hyundai Kona Electric 2011 (126 miles) and made it CLEAN
+INTERN Demi Kelley wash (ElbowGreaseWashing) ELECTRIC_CAR Hyundai Kona Electric 2011 (126 miles) and made it CLEAN
+INTERN Demi Kelley wash (ElbowGreaseWashing) ELECTRIC_CAR Hyundai Kona Electric 2011 (126 miles) and made it CLEAN
+SALESPERSON Braelynn Wilkinson (earned $600.00 bonus) sold CLEAN LIKE_NEW (DOZER) Sany 2020 (571 HorsePower) to Buyer for $98722.87 + $9872.29 (Undercoating, SatelliteRadio (addOns)).
+Added sale income $108595.16 to current balance
+SALESPERSON Leroy Hart sold CLEAN LIKE_NEW Snake Bite 13 to Buyer unsuccessfully
+SALESPERSON Lewis Newton sold SPARKLING LIKE_NEW Porsche 718 Boxster 2013 to Buyer for $102791.16 without any addOns (earned $350.00 bonus)
+Added sale income $102791.16 to current balance
+SALESPERSON Braelynn Wilkinson (earned $300.00 bonus) sold CLEAN LIKE_NEW (ELECTRIC_CAR) Lucid Air 2019 (352 miles) to Buyer for $88583.93 + $17716.79 (ExtendedWarranty (addOns)).
+Added sale income $106300.72 to current balance
+SALESPERSON Lewis Newton (earned $300.00 bonus) sold CLEAN LIKE_NEW (ELECTRIC_CAR) BMW iX 2022 (257 miles) to Buyer for $77463.01 + $1549.26 (RoadRescueCoverage (addOns)).
+Added sale income $79012.27 to current balance
+Bellamy Bryan (Driver) raced with Honda 2021 (837 CC engine) (MOTORCYCLE) and achieved rank no. 11.
+Leroy Acevedo (Driver) raced with Indian 2017 (901 CC engine) (MOTORCYCLE) and achieved rank no. 15.
+Sawyer Fernandez (Driver) raced with Phantom 2017 (910 CC engine) (MOTORCYCLE) and achieved rank no. 17.
+Phantom 2017 (910 CC engine) (MOTORCYCLE) went BROKEN.
+Total salary payout increased by $1500.00
+Total bonuses payout increased by $1550.00
+DRIVER Bellamy Bryan received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Maxwell Calhoun received $120.00 (salary) and $0.00 (bonuses)
+SALESPERSON Leroy Hart received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Leroy Acevedo received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Keyla Scott received $120.00 (salary) and $0.00 (bonuses)
+MECHANIC Bentley Fleming received $120.00 (salary) and $0.00 (bonuses)
+DRIVER Sawyer Fernandez received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Lewis Newton received $150.00 (salary) and $650.00 (bonuses)
+INTERN Paulina Gould received $80.00 (salary) and $0.00 (bonuses)
+SALESPERSON Braelynn Wilkinson received $150.00 (salary) and $900.00 (bonuses)
+INTERN Eliezer Scott received $80.00 (salary) and $0.00 (bonuses)
+INTERN Demi Kelley received $80.00 (salary) and $0.00 (bonuses)
