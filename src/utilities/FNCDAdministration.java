@@ -293,7 +293,7 @@ public class FNCDAdministration {
      *
      */
     public void opening() {
-        System.out.printf("\nOpening... (current budget $%.2f)\n", budget.getCurrentBalance());
+        System.out.printf("\nOpening (%s)... (current budget $%.2f)\n",getName(), budget.getCurrentBalance());
 
         workForceMaintenance();
         inventoryMaintenance();
@@ -303,7 +303,7 @@ public class FNCDAdministration {
      * Do wash activity
      */
     public void washing() {
-        System.out.println("\nWashing...");
+        System.out.printf("\nWashing (%s)...\n", getName());
         ArrayList<Staff> interns = Staff.getStaffListByType(staffs, Staff.JobTitle.INTERN);
         for (Staff intern : interns) {
             ((Intern) intern).washVehicles(inventory.getWorkingInventory(), publisher);
@@ -314,7 +314,7 @@ public class FNCDAdministration {
      * Do repair activity
      */
     public void repairing() {
-        System.out.println("\nRepairing...");
+        System.out.printf("\nRepairing (%s)...\n", getName());
         ArrayList<Staff> mechanics = Staff.getStaffListByType(staffs, Staff.JobTitle.MECHANIC);
         for (Staff mechanic : mechanics) {
             ((Mechanic) mechanic).repairVehicles(inventory.getWorkingInventory(), publisher);
@@ -325,7 +325,7 @@ public class FNCDAdministration {
      * Do selling activity
      */
     public void selling() {
-        System.out.println("\nSelling...");
+        System.out.printf("\nSelling (%s)...\n", getName());
 
         ArrayList<Buyer> buyers = getBuyers(day);
 
@@ -349,7 +349,7 @@ public class FNCDAdministration {
      * Do racing activity
      */
     public void racing() {
-        System.out.println("\nRacing...");
+        System.out.printf("\nRacing (%s)...\n", getName());
 
         ArrayList<Vehicle> vehiclesForRacing = inventory.getVehiclesForRace(NUM_RACE_VEHICLE);
         if (vehiclesForRacing.size() == 0){
@@ -424,7 +424,7 @@ public class FNCDAdministration {
      * Do ending activity
      */
     public void ending() {
-        System.out.println("\nEnding...");
+        System.out.printf("\nEnding (%s)...\n", getName());
         String msg = "";
         // pay all salaries
         budget.addSalariesPayout(staffs, publisher);
@@ -569,7 +569,7 @@ public class FNCDAdministration {
      */
     public void dailyReport() {
         // Print out staffs
-        System.out.println("\nDaily Report...");
+        System.out.printf("\nDaily Report (%s)...\n", getName());
         System.out.println("Staff members");
         System.out.println("Title | Name | TotalDaysWorked | TotalNormalPay | TotalBonusPay | Working");
         System.out.println("------------------------------------------------------------------------");
