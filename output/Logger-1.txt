@@ -1,75 +1,69 @@
-INTERN Anastasia Ryan wash (ElbowGreaseWashing) PERFORMANCE_CAR Mazda MX-5 Miata 2014 and made it CLEAN
-INTERN Anastasia Ryan wash (ElbowGreaseWashing) PERFORMANCE_CAR Lamborghini Countach 2022 and made it SPARKLING (earned 75.00 bonus)
-INTERN Maxwell Fleming wash (DetailedWashing) PERFORMANCE_CAR Chevrolet Corvette 2013 and made it CLEAN
-INTERN Maxwell Fleming wash (DetailedWashing) PERFORMANCE_CAR Dodge Viper 2017 and made it DIRTY
-INTERN Arya Moody wash (DetailedWashing) PERFORMANCE_CAR Dodge Viper 2017 and made it CLEAN
-INTERN Arya Moody wash (DetailedWashing) CAR Lucid Air 2018 and made it CLEAN
-INTERN Dion Scott wash (DetailedWashing) PERFORMANCE_CAR Ferrari F8 2012 and made it SPARKLING (earned 75.00 bonus)
-INTERN Dion Scott wash (DetailedWashing) PERFORMANCE_CAR Ferrari Daytona 2019 and made it DIRTY
-INTERN Zara Conrad wash (DetailedWashing) PERFORMANCE_CAR Ferrari Daytona 2019 and made it CLEAN
-INTERN Zara Conrad wash (DetailedWashing) PERFORMANCE_CAR Dodge Viper 2019 and made it CLEAN
-INTERN Bentlee Petersen wash (ElbowGreaseWashing) PERFORMANCE_CAR Chevrolet Camaro ZL1 2017 and made it CLEAN
-INTERN Bentlee Petersen wash (ElbowGreaseWashing) CAR Mercedes-Benz G-class 2019 and made it CLEAN
-MECHANIC Maxwell Kelley repaired USED PERFORMANCE_CAR Nissan Z-Car 2020 and made it LIKE_NEW (earned $200.00 bonus)
-MECHANIC Maxwell Kelley repaired BROKEN PERFORMANCE_CAR Nissan Z-Car 2018 and made it USED (earned $200.00 bonus)
-MECHANIC Cade O’Donnell repaired USED PERFORMANCE_CAR Nissan Z-Car 2018 and made it LIKE_NEW (earned $200.00 bonus)
-MECHANIC Cade O’Donnell repaired USED PERFORMANCE_CAR Lamborghini Countach 2022 and made it LIKE_NEW (earned $200.00 bonus)
-MECHANIC Dalton Parsons repaired BROKEN PERFORMANCE_CAR Chevrolet Corvette 2013 and made it USED (earned $200.00 bonus)
-MECHANIC Dalton Parsons repaired USED PERFORMANCE_CAR Chevrolet Corvette 2013 and made it LIKE_NEW (earned $200.00 bonus)
-MECHANIC Charlee Cardenas repaired BROKEN PERFORMANCE_CAR Ferrari F8 2012 and made it USED (earned $200.00 bonus)
-MECHANIC Charlee Cardenas repaired USED PERFORMANCE_CAR Ferrari F8 2012 and made it LIKE_NEW (earned $200.00 bonus)
-MECHANIC Emory Zimmerman repaired BROKEN PERFORMANCE_CAR Ferrari Daytona 2019 and made it USED (earned $200.00 bonus)
-MECHANIC Emory Zimmerman repaired USED PERFORMANCE_CAR Ferrari Daytona 2019 and made it LIKE_NEW (earned $200.00 bonus)
-MECHANIC Moses Foley repaired USED PERFORMANCE_CAR Lamborghini Countach 2015 and made it LIKE_NEW (earned $200.00 bonus)
-MECHANIC Moses Foley repaired BROKEN PERFORMANCE_CAR Lamborghini Countach 2012 and made it USED (earned $200.00 bonus)
-SALESPERSON Silas Porter (earned $350.00 bonus) sold DIRTY LIKE_NEW (PERFORMANCE_CAR) Chevrolet Corvette 2013 to Buyer for $122846.69 + $14741.60 (Undercoating, RoadRescueCoverage, SatelliteRadio (addOns)).
-Added sale income $137588.29 to current balance
-SALESPERSON Silas Porter sold CLEAN LIKE_NEW Polestar 2011 (448 miles) to Buyer for $73958.23 without any addOns (earned $300.00 bonus)
-Added sale income $73958.23 to current balance
-SALESPERSON Rhett Kennedy (earned $300.00 bonus) sold DIRTY USED (ELECTRIC_CAR) Hyundai Kona Electric 2022 (285 miles) to Buyer for $72635.92 + $5084.51 (RoadRescueCoverage, SatelliteRadio (addOns)).
-Added sale income $77720.43 to current balance
-SALESPERSON Rhett Kennedy sold DIRTY USED Triumph 2013 (930 CC engine) to Buyer unsuccessfully
-SALESPERSON Silas Porter sold CLEAN USED Vitacci Rover 2015 (3 Passengers & 10 hours chargingTime) to Buyer unsuccessfully
-SALESPERSON Aislinn Rowland sold CLEAN LIKE_NEW Chevrolet Colorado ZR2 2014 to Buyer unsuccessfully
-SALESPERSON Jaycee Thomas sold DIRTY LIKE_NEW Kubota 2011 (837 HorsePower) to Buyer unsuccessfully
-SALESPERSON Jaycee Thomas sold CLEAN LIKE_NEW Bear Foot (2xtreme) 8 to Buyer unsuccessfully
-SALESPERSON Jaycee Thomas sold CLEAN USED Toyota Tacoma TRD Pro 2014 to Buyer unsuccessfully
-SALESPERSON Aarav Pineda sold CLEAN USED Toyota Tacoma TRD Pro 2014 to Buyer unsuccessfully
-SALESPERSON Aarav Pineda sold CLEAN LIKE_NEW Bear Foot (2xtreme) 8 to Buyer for $99799.61 without any addOns (earned $500.00 bonus)
-Added sale income $99799.61 to current balance
-SALESPERSON Aarav Pineda sold DIRTY USED E-Z-GO Freedom RXV 2017 (5 Passengers & 7 hours chargingTime) to Buyer unsuccessfully
-Gordon Bryan (Driver) raced with Suzuki 2014 (1065 CC engine) (MOTORCYCLE) and achieved rank no. 13.
-Remy Person (Driver) raced with Triumph 2013 (930 CC engine) (MOTORCYCLE) and achieved rank no. 10.
-Morgan Alexander (Driver) raced with Laverda 2013 (1379 CC engine) (MOTORCYCLE) and achieved rank no. 10.
-Sawyer Ramos (Driver) raced with Victory 2019 (617 CC engine) (MOTORCYCLE) and achieved rank no. 3.
-Sawyer Ramos (Driver) won with Victory 2019 (617 CC engine) (MOTORCYCLE) (earned $ 1000 bonus)!
-Frances Foley (Driver) raced with Kawasaki 2023 (473 CC engine) (MOTORCYCLE) and achieved rank no. 18.
-Kawasaki 2023 (473 CC engine) (MOTORCYCLE) went BROKEN.
+INTERN Maxwell Kelley wash (ChemicalWashing) PERFORMANCE_CAR Toyota GR86 2020 and made it CLEAN
+INTERN Maxwell Kelley wash (ChemicalWashing) PERFORMANCE_CAR Ford Mustang 2014 and made it CLEAN
+INTERN Morgan Kennedy wash (ElbowGreaseWashing) PERFORMANCE_CAR Porsche 911 2023 and made it CLEAN
+INTERN Morgan Kennedy wash (ElbowGreaseWashing) PERFORMANCE_CAR Porsche 911 2018 and made it CLEAN
+INTERN Ariyah Ahmed wash (ChemicalWashing) PERFORMANCE_CAR Chevrolet Camaro 2017 and made it CLEAN
+INTERN Ariyah Ahmed wash (ChemicalWashing) CAR Lucid Air 2016 and made it CLEAN
+INTERN Angie Zimmerman wash (ChemicalWashing) PERFORMANCE_CAR Toyota GR86 2012 and made it CLEAN
+INTERN Angie Zimmerman wash (ChemicalWashing) PERFORMANCE_CAR Ferrari F8 2020 and made it CLEAN
+INTERN Charlee Frazier wash (ElbowGreaseWashing) PERFORMANCE_CAR Chevrolet Camaro 2022 and made it CLEAN
+INTERN Charlee Frazier wash (ElbowGreaseWashing) PERFORMANCE_CAR Subaru BRZ 2010 and made it CLEAN
+INTERN Easton Meyer wash (ElbowGreaseWashing) CAR Honda Civic 2012 and made it CLEAN
+INTERN Easton Meyer wash (ElbowGreaseWashing) CAR Toyota Corolla 2022 and made it CLEAN
+MECHANIC Rhett Bryan repaired USED PERFORMANCE_CAR Toyota GR86 2020 and made it LIKE_NEW (earned $200.00 bonus)
+MECHANIC Rhett Bryan repaired USED CAR Chevrolet Bolt 2017 unsuccessfully
+MECHANIC Haven Simpson repaired USED CAR Chevrolet Bolt 2017 unsuccessfully
+MECHANIC Haven Simpson repaired USED CAR Chevrolet Bolt 2017 and made it LIKE_NEW (earned $100.00 bonus)
+MECHANIC Angie Reed repaired USED CAR Mitsubishi Eclipse 2014 and made it LIKE_NEW (earned $100.00 bonus)
+MECHANIC Angie Reed repaired USED CAR Mercedes-Benz G-class 2022 and made it LIKE_NEW (earned $100.00 bonus)
+MECHANIC Silas Scott repaired BROKEN PERFORMANCE_CAR Toyota GR86 2012 and made it USED (earned $200.00 bonus)
+MECHANIC Silas Scott repaired USED PERFORMANCE_CAR Toyota GR86 2012 unsuccessfully
+MECHANIC Ari Fernandez repaired USED PERFORMANCE_CAR Toyota GR86 2012 and made it LIKE_NEW (earned $200.00 bonus)
+MECHANIC Ari Fernandez repaired USED PERFORMANCE_CAR Ferrari F8 2020 and made it LIKE_NEW (earned $200.00 bonus)
+MECHANIC Sawyer Bryan repaired BROKEN PERFORMANCE_CAR Porsche 718 Cayman 2014 and made it USED (earned $200.00 bonus)
+MECHANIC Sawyer Bryan repaired USED PERFORMANCE_CAR Porsche 718 Cayman 2014 and made it LIKE_NEW (earned $200.00 bonus)
+SALESPERSON Aislinn Reed sold DIRTY USED Cushman Shuttle 2020 (7 Passengers & 11 hours chargingTime) to Buyer unsuccessfully
+SALESPERSON Louis Waters sold DIRTY USED Bad News Travels Fast 7 to Buyer unsuccessfully
+SALESPERSON Dalton Maldonado (earned $160.00 bonus) sold DIRTY LIKE_NEW (CAR) Mitsubishi Eclipse 2014 to Buyer for $48268.45 + $2413.42 (SatelliteRadio (addOns)).
+Added sale income $50681.87 to current balance
+SALESPERSON Eric Calhoun sold DIRTY USED Ford Maverick 2020 to Buyer unsuccessfully
+SALESPERSON Jaycee Jimenez sold CLEAN LIKE_NEW Polaris GEM 2019 (6 Passengers & 12 hours chargingTime) to Buyer for $38396.95 without any addOns (earned $120.00 bonus)
+Added sale income $38396.95 to current balance
+SALESPERSON Oakley Gould sold DIRTY USED Predator 5 to Buyer unsuccessfully
+SALESPERSON Oakley Gould sold DIRTY USED Kioti 2019 (823 HorsePower) to Buyer unsuccessfully
+Kingston Bryan (Driver) raced with Triumph 2020 (337 CC engine) (MOTORCYCLE) and achieved rank no. 17.
+Triumph 2020 (337 CC engine) (MOTORCYCLE) went BROKEN.
+Averi Moody (Driver) raced with Victory 2021 (1168 CC engine) (MOTORCYCLE) and achieved rank no. 15.
+Cade Case (Driver) raced with Roehr 2010 (394 CC engine) (MOTORCYCLE) and achieved rank no. 20.
+Roehr 2010 (394 CC engine) (MOTORCYCLE) went BROKEN.
+Amara Tate (Driver) raced with Norton 2012 (973 CC engine) (MOTORCYCLE) and achieved rank no. 9.
+Oakley Spence (Driver) raced with Yamaha 2023 (610 CC engine) (MOTORCYCLE) and achieved rank no. 6.
+Tristan Chang (Driver) raced with Triumph 2010 (873 CC engine) (MOTORCYCLE) and achieved rank no. 10.
 Total salary payout increased by $1500.00
-Total bonuses payout increased by $2225.00
-INTERN Anastasia Ryan received $80.00 (salary) and $75.00 (bonuses)
-INTERN Maxwell Fleming received $80.00 (salary) and $0.00 (bonuses)
-INTERN Arya Moody received $80.00 (salary) and $0.00 (bonuses)
-MECHANIC Maxwell Kelley received $120.00 (salary) and $400.00 (bonuses)
-MECHANIC Cade O’Donnell received $120.00 (salary) and $400.00 (bonuses)
-MECHANIC Dalton Parsons received $120.00 (salary) and $400.00 (bonuses)
-SALESPERSON Aislinn Rowland received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Silas Porter received $150.00 (salary) and $650.00 (bonuses)
-SALESPERSON Rhett Kennedy received $150.00 (salary) and $300.00 (bonuses)
-DRIVER Gordon Bryan received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Remy Person received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Keyla Dickson received $150.00 (salary) and $0.00 (bonuses)
+Total bonuses payout increased by $660.00
+INTERN Maxwell Kelley received $80.00 (salary) and $0.00 (bonuses)
+INTERN Morgan Kennedy received $80.00 (salary) and $0.00 (bonuses)
+INTERN Ariyah Ahmed received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Rhett Bryan received $120.00 (salary) and $200.00 (bonuses)
+MECHANIC Haven Simpson received $120.00 (salary) and $100.00 (bonuses)
+MECHANIC Angie Reed received $120.00 (salary) and $200.00 (bonuses)
+SALESPERSON Dalton Maldonado received $150.00 (salary) and $160.00 (bonuses)
+SALESPERSON Louis Waters received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Aislinn Reed received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Kingston Bryan received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Averi Moody received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Cade Case received $150.00 (salary) and $0.00 (bonuses)
 Total salary payout increased by $1500.00
-Total bonuses payout increased by $2775.00
-INTERN Dion Scott received $80.00 (salary) and $75.00 (bonuses)
-INTERN Zara Conrad received $80.00 (salary) and $0.00 (bonuses)
-INTERN Bentlee Petersen received $80.00 (salary) and $0.00 (bonuses)
-MECHANIC Charlee Cardenas received $120.00 (salary) and $400.00 (bonuses)
-MECHANIC Emory Zimmerman received $120.00 (salary) and $400.00 (bonuses)
-MECHANIC Moses Foley received $120.00 (salary) and $400.00 (bonuses)
-SALESPERSON Jaycee Thomas received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Zara Xiong received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Aarav Pineda received $150.00 (salary) and $500.00 (bonuses)
-DRIVER Morgan Alexander received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Sawyer Ramos received $150.00 (salary) and $1000.00 (bonuses)
-DRIVER Frances Foley received $150.00 (salary) and $0.00 (bonuses)
+Total bonuses payout increased by $1120.00
+INTERN Angie Zimmerman received $80.00 (salary) and $0.00 (bonuses)
+INTERN Charlee Frazier received $80.00 (salary) and $0.00 (bonuses)
+INTERN Easton Meyer received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Silas Scott received $120.00 (salary) and $200.00 (bonuses)
+MECHANIC Ari Fernandez received $120.00 (salary) and $400.00 (bonuses)
+MECHANIC Sawyer Bryan received $120.00 (salary) and $400.00 (bonuses)
+SALESPERSON Jaycee Jimenez received $150.00 (salary) and $120.00 (bonuses)
+SALESPERSON Eric Calhoun received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Oakley Gould received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Amara Tate received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Oakley Spence received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Tristan Chang received $150.00 (salary) and $0.00 (bonuses)
