@@ -200,7 +200,7 @@ public class Simulator {
             }
 
             // add all lines to the chart
-            chart.addSeries("total vehicles sold", xData, fncd.totalVehicleSoldByDay);
+            chart.addSeries("total number of vehicles sold", xData, fncd.totalVehicleSoldByDay);
             chart.addSeries("total money earned by staff (in 10 thousand)",
                     xData,
                     fncd.totalMoneyEarnedByStaffByDay.stream().map(n -> n/10000).collect(Collectors.toList()));
