@@ -12,9 +12,9 @@ When everything is installed, set /src folder as root source then you can build 
 All test files are store in */test* folder. There are now 7 test files with 28 assertions. To run all tests, you need to mark the folder as Test Sources Root, then right-click on the */test* folder, select option "Run All Tests" or use shortcut Ctrl+Shift+F10. *test-output.png* shows how the output should look like in IDE.
 
 ## UML Link
-This includes updated version of class diagram (New Class Diagram), old class diagram, and activity diagram. https://drive.google.com/file/d/1zm3C6x2kGjLA6jJz4KAAFQIG-kwMj9kh/view?usp=sharing. 
+This includes updated version of class diagram and sequence diagram. https://drive.google.com/file/d/1kVFRK03SwYbyzQGtL8oDZ8TrG8Y_7kPm/view?usp=sharing. 
 
-New class diagram combines *Registry* class into Observer pattern since they are doing same purpose of logging and tracking. We also separate *Activity* class into sub-functions inside each *Staff* class to reduce complexity of abstracting work method (wash, repair, sale, and race). This refactoring increases cohesion for each *Staff* class. 
+New class diagram includes new patterns (Factory, Command, Singleton) along with new 3 vehicles (Dozer, ParaMotor, GolfCart). All patterns are highlighted by blue dashed-line boxes.
 
 ## Assumptions
 - If there is no Dirty/Clean Vehicle in inventory, Intern can take a break that day
