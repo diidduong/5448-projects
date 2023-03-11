@@ -1,36 +1,72 @@
-Purchased LIKE_NEW, DIRTY CAR Mitsubishi Eclipse 2012 for $ 22207.03
-Purchased BROKEN, CLEAN ELECTRIC_CAR Nissan Ariya 2021 (369 miles) for $ 59104.84
-Purchased USED, CLEAN ELECTRIC_CAR Lucid Air 2011 (277 miles) for $ 42329.30
-Purchased USED, DIRTY ELECTRIC_CAR Kia EV6 2012 (126 miles) for $ 77630.77
-INTERN Gordon Blair wash (ElbowGreaseWashing) PERFORMANCE_CAR Ford Mustang 2019 and made it CLEAN
-INTERN Gordon Blair wash (ElbowGreaseWashing) PICKUP Chevrolet Silverado 1500 2018 and made it DIRTY
-INTERN Tiffany Jimenez wash (ChemicalWashing) PICKUP Chevrolet Silverado 1500 2018 and made it CLEAN
-INTERN Tiffany Jimenez wash (ChemicalWashing) MOTORCYCLE Royal Enfield 2020 (1063 CC engine) and made it CLEAN
-INTERN Calliope Hess wash (ChemicalWashing) MONSTER_TRUCK USA-1 4 and made it CLEAN
-INTERN Calliope Hess wash (ChemicalWashing) CAR Mitsubishi Eclipse 2012 and made it CLEAN
-MECHANIC Kyng Person repaired USED MOTORCYCLE Royal Enfield 2020 (1063 CC engine) unsuccessfully
-MECHANIC Kyng Person repaired USED MOTORCYCLE Royal Enfield 2020 (1063 CC engine) and made it LIKE_NEW (earned $80.00 bonus)
-MECHANIC Tiffany Lester repaired BROKEN MONSTER_TRUCK USA-1 4 and made it USED (earned $500.00 bonus)
-MECHANIC Tiffany Lester repaired USED MONSTER_TRUCK USA-1 4 and made it LIKE_NEW (earned $500.00 bonus)
-MECHANIC Kingston Faulkner repaired BROKEN ELECTRIC_CAR Nissan Ariya 2021 (369 miles) and made it USED (earned $300.00 bonus)
-MECHANIC Kingston Faulkner repaired USED ELECTRIC_CAR Nissan Ariya 2021 (369 miles) and made it LIKE_NEW (earned $300.00 bonus)
-SALESPERSON Gerald Jensen sold DIRTY LIKE_NEW Nissan Ariya 2021 (469 miles) to Buyer unsuccessfully
-Louis Barry (Driver) raced with WCW Nitro Machine 7 (MONSTER_TRUCK) and achieved rank no. 2.
-Louis Barry (Driver) won with WCW Nitro Machine 7 (MONSTER_TRUCK) (earned $ 1000 bonus)!
-Salvatore Fleming (Driver) raced with Predator 9 (MONSTER_TRUCK) and achieved rank no. 10.
-Macie Cortez (Driver) raced with USA-1 4 (MONSTER_TRUCK) and achieved rank no. 3.
-Macie Cortez (Driver) won with USA-1 4 (MONSTER_TRUCK) (earned $ 1000 bonus)!
+Purchased USED, DIRTY PICKUP Nissan Titan XD 2013 for $ 28579.68
+Purchased BROKEN, CLEAN PICKUP Ford F-150 Lightning 2022 for $ 13240.75
+Purchased LIKE_NEW, DIRTY PERFORMANCE_CAR McLaren 720S 2022 for $ 37414.67
+Purchased BROKEN, DIRTY PICKUP GMC Canyon 2016 for $ 16641.51
+Purchased LIKE_NEW, DIRTY PARAMOTOR Nimbus 2010 (7236  feet maximumAltitude & 42 mile/hour maximumCruisingAirSpeed) with TRIKE_WHEEL_LAUNCHER  for $ 8912.71
+INTERN Zara Casey wash (ElbowGreaseWashing) GOLF_CART Polaris GEM 2017 (4 Passengers & 9 hours chargingTime) and made it CLEAN
+INTERN Zara Casey wash (ElbowGreaseWashing) ELECTRIC_CAR MINI Cooper SE 2017 (280 miles) and made it CLEAN
+INTERN Amayah McCormick wash (DetailedWashing) PICKUP Nissan Titan XD 2013 and made it CLEAN
+INTERN Amayah McCormick wash (DetailedWashing) CAR Mazda3 2021 and made it CLEAN
+INTERN Easton Chang wash (DetailedWashing) CAR Mazda3 2021 and made it CLEAN
+INTERN Easton Chang wash (DetailedWashing) CAR Mazda3 2021 and made it CLEAN
+INTERN Amara Moody wash (ElbowGreaseWashing) CAR Volvo XC70 2011 and made it DIRTY
+INTERN Amara Moody wash (ElbowGreaseWashing) CAR Volvo XC70 2011 and made it CLEAN
+INTERN Ari Maldonado wash (DetailedWashing) CAR Toyota Corolla 2010 and made it CLEAN
+INTERN Ari Maldonado wash (DetailedWashing) MONSTER_TRUCK The Destroyer 14 and made it CLEAN
+INTERN Ariyah Faulkner wash (ElbowGreaseWashing) PERFORMANCE_CAR McLaren 720S 2022 and made it CLEAN
+INTERN Ariyah Faulkner wash (ElbowGreaseWashing) PICKUP GMC Canyon 2016 and made it SPARKLING (earned 100.00 bonus)
+MECHANIC Jamal Fleming repaired USED ELECTRIC_CAR MINI Cooper SE 2017 (280 miles) and made it LIKE_NEW (earned $300.00 bonus)
+MECHANIC Jamal Fleming repaired USED PICKUP Nissan Titan XD 2013 and made it LIKE_NEW (earned $150.00 bonus)
+MECHANIC Tiffany Cabrera repaired BROKEN PICKUP Ford F-150 Lightning 2022 and made it USED (earned $150.00 bonus)
+MECHANIC Tiffany Cabrera repaired USED PICKUP Ford F-150 Lightning 2022 unsuccessfully
+MECHANIC Ansley Calhoun repaired USED PICKUP Ford F-150 Lightning 2022 unsuccessfully
+MECHANIC Ansley Calhoun repaired USED PICKUP Ford F-150 Lightning 2022 and made it LIKE_NEW (earned $150.00 bonus)
+MECHANIC Ashlynn Quintero repaired BROKEN CAR Mercedes-Benz G-class 2012 and made it USED (earned $100.00 bonus)
+MECHANIC Ashlynn Quintero repaired USED CAR Mercedes-Benz G-class 2012 and made it LIKE_NEW (earned $100.00 bonus)
+MECHANIC Harry Calhoun repaired USED PERFORMANCE_CAR Toyota GR86 2012 and made it LIKE_NEW (earned $200.00 bonus)
+MECHANIC Harry Calhoun repaired BROKEN PICKUP GMC Canyon 2016 and made it USED (earned $150.00 bonus)
+MECHANIC Emory Vo repaired USED PICKUP GMC Canyon 2016 and made it LIKE_NEW (earned $150.00 bonus)
+SALESPERSON Bellamy Meyer (earned $150.00 bonus) sold CLEAN LIKE_NEW (MOTORCYCLE) Royal Enfield 2012 (333 CC engine) to Buyer for $81227.03 + $5685.89 (RoadRescueCoverage, SatelliteRadio (addOns)).
+Added sale income $86912.92 to current balance
+SALESPERSON Ansley Reed (earned $500.00 bonus) sold CLEAN LIKE_NEW (MONSTER_TRUCK) Snake Bite 2 to Buyer for $171431.05 + $46286.38 (ExtendedWarranty, RoadRescueCoverage, SatelliteRadio (addOns)).
+Added sale income $217717.43 to current balance
+SALESPERSON Amara Meyers sold DIRTY LIKE_NEW GMC Canyon 2016 to Buyer for $124811.32 without any addOns (earned $220.00 bonus)
+Added sale income $124811.32 to current balance
+SALESPERSON Braelynn Rivers sold CLEAN LIKE_NEW Yamaha Drive 2 PTV 2019 (6 Passengers & 5 hours chargingTime) to Buyer unsuccessfully
+SALESPERSON Jovanni Rangel (earned $600.00 bonus) sold CLEAN LIKE_NEW (DOZER) Manitou 2022 (542 HorsePower) to Buyer for $176297.30 + $12340.81 (Undercoating, RoadRescueCoverage (addOns)).
+Added sale income $188638.11 to current balance
+Paulina Duffy (Driver) raced with Hyundai Santa Cruz 2012 (PICKUP) and achieved rank no. 17.
+Hyundai Santa Cruz 2012 (PICKUP) went BROKEN.
+Dalton Porter (Driver) raced with Nissan Titan XD 2013 (PICKUP) and achieved rank no. 5.
+Rhett Chang (Driver) raced with Ford F-150 Lightning 2022 (PICKUP) and achieved rank no. 4.
+Paulina Singh (Driver) raced with Dodge Viper 2015 (PERFORMANCE_CAR) and achieved rank no. 4.
+Darius Singh (Driver) raced with Toyota GR86 2012 (PERFORMANCE_CAR) and achieved rank no. 10.
+Gary Chang (Driver) raced with McLaren 720S 2022 (PERFORMANCE_CAR) and achieved rank no. 15.
 Total salary payout increased by $1500.00
-Total bonuses payout increased by $3680.00
-SALESPERSON Louis Galindo received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Louis Barry received $150.00 (salary) and $1000.00 (bonuses)
-SALESPERSON Jovanni Lester received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Salvatore Fleming received $150.00 (salary) and $0.00 (bonuses)
-MECHANIC Kyng Person received $120.00 (salary) and $80.00 (bonuses)
-SALESPERSON Gerald Jensen received $150.00 (salary) and $0.00 (bonuses)
-MECHANIC Tiffany Lester received $120.00 (salary) and $1000.00 (bonuses)
-INTERN Gordon Blair received $80.00 (salary) and $0.00 (bonuses)
-DRIVER Macie Cortez received $150.00 (salary) and $1000.00 (bonuses)
-INTERN Tiffany Jimenez received $80.00 (salary) and $0.00 (bonuses)
-MECHANIC Kingston Faulkner received $120.00 (salary) and $600.00 (bonuses)
-INTERN Calliope Hess received $80.00 (salary) and $0.00 (bonuses)
+Total bonuses payout increased by $1400.00
+SALESPERSON Bellamy Meyer received $150.00 (salary) and $150.00 (bonuses)
+DRIVER Paulina Duffy received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Frances Herman received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Dalton Porter received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Jamal Fleming received $120.00 (salary) and $450.00 (bonuses)
+SALESPERSON Ansley Reed received $150.00 (salary) and $500.00 (bonuses)
+MECHANIC Tiffany Cabrera received $120.00 (salary) and $150.00 (bonuses)
+INTERN Zara Casey received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Ansley Calhoun received $120.00 (salary) and $150.00 (bonuses)
+INTERN Amayah McCormick received $80.00 (salary) and $0.00 (bonuses)
+INTERN Easton Chang received $80.00 (salary) and $0.00 (bonuses)
+DRIVER Rhett Chang received $150.00 (salary) and $0.00 (bonuses)
+Total salary payout increased by $1500.00
+Total bonuses payout increased by $1620.00
+SALESPERSON Amara Meyers received $150.00 (salary) and $220.00 (bonuses)
+DRIVER Paulina Singh received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Darius Singh received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Gary Chang received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Braelynn Rivers received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Jovanni Rangel received $150.00 (salary) and $600.00 (bonuses)
+MECHANIC Ashlynn Quintero received $120.00 (salary) and $200.00 (bonuses)
+MECHANIC Harry Calhoun received $120.00 (salary) and $350.00 (bonuses)
+INTERN Amara Moody received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Emory Vo received $120.00 (salary) and $150.00 (bonuses)
+INTERN Ari Maldonado received $80.00 (salary) and $0.00 (bonuses)
+INTERN Ariyah Faulkner received $80.00 (salary) and $100.00 (bonuses)

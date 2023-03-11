@@ -1,26 +1,59 @@
-INTERN Elaine Spence wash (ChemicalWashing) MONSTER_TRUCK Madusa 8 and made it SPARKLING (earned 200.00 bonus)
-INTERN Elaine Spence wash (ChemicalWashing) ELECTRIC_CAR Toyota bZ4X 2023 (259 miles) and made it DIRTY
-INTERN Moses Petersen wash (ElbowGreaseWashing) ELECTRIC_CAR Toyota bZ4X 2023 (259 miles) and made it CLEAN
-INTERN Moses Petersen wash (ElbowGreaseWashing) PERFORMANCE_CAR Toyota Supra Mark IV 2018 and made it CLEAN
-INTERN Kyng Person wash (ChemicalWashing) PERFORMANCE_CAR Toyota Supra Mark IV 2018 and made it SPARKLING (earned 75.00 bonus)
-INTERN Kyng Person wash (ChemicalWashing) CAR Mitsubishi Eclipse 2019 and made it CLEAN
-MECHANIC Kingston Vo repaired USED ELECTRIC_CAR Toyota bZ4X 2023 (259 miles) and made it LIKE_NEW (earned $300.00 bonus)
-MECHANIC Kingston Vo repaired BROKEN MONSTER_TRUCK WCW Nitro Machine 7 unsuccessfully
-MECHANIC Jaycee Faulkner repaired BROKEN MONSTER_TRUCK WCW Nitro Machine 7 and made it USED (earned $500.00 bonus)
-MECHANIC Jaycee Faulkner repaired USED MONSTER_TRUCK WCW Nitro Machine 7 and made it LIKE_NEW (earned $500.00 bonus)
-SALESPERSON Jovanni Lester sold CLEAN LIKE_NEW Subaru Solterra 2013 (214 miles) to Buyer unsuccessfully
-SALESPERSON Aurora Graham sold CLEAN LIKE_NEW Honda Odyssey 2020 to Buyer unsuccessfully
+Purchased LIKE_NEW, DIRTY PERFORMANCE_CAR Maserati MC20 2012 for $ 22180.33
+Purchased BROKEN, DIRTY PERFORMANCE_CAR Ford Mustang Shelby GT500 2013 for $ 14513.40
+Purchased BROKEN, DIRTY CAR Audi A3 2011 for $ 9249.02
+Purchased BROKEN, DIRTY GOLF_CART Club Car Onward 2012 (7 Passengers & 8 hours chargingTime) for $ 8233.49
+INTERN Calliope Barry wash (ElbowGreaseWashing) MONSTER_TRUCK Sudden Impact 11 and made it CLEAN
+INTERN Calliope Barry wash (ElbowGreaseWashing) MONSTER_TRUCK Bear Foot (2xtreme) 7 and made it CLEAN
+INTERN Jamal Fleming wash (ElbowGreaseWashing) DOZER Manitou 2018 (881 HorsePower) and made it CLEAN
+INTERN Jamal Fleming wash (ElbowGreaseWashing) DOZER Kioti 2011 (923 HorsePower) and made it DIRTY
+INTERN Ansley Reed wash (ElbowGreaseWashing) DOZER Kioti 2011 (923 HorsePower) and made it CLEAN
+INTERN Ansley Reed wash (ElbowGreaseWashing) DOZER Caterpillar 2016 (866 HorsePower) and made it CLEAN
+INTERN Arya Spence wash (ChemicalWashing) MOTORCYCLE Suzuki 2017 (829 CC engine) and made it CLEAN
+INTERN Arya Spence wash (ChemicalWashing) MOTORCYCLE Zero 2012 (769 CC engine) and made it SPARKLING (earned 25.00 bonus)
+INTERN Kaliyah Carroll wash (ChemicalWashing) MOTORCYCLE Hyosung 2022 (453 CC engine) and made it DIRTY
+INTERN Kaliyah Carroll wash (ChemicalWashing) MOTORCYCLE Hyosung 2022 (453 CC engine) and made it CLEAN
+INTERN Jovanni Rangel wash (DetailedWashing) MONSTER_TRUCK Grinder 12 and made it CLEAN
+INTERN Jovanni Rangel wash (DetailedWashing) GOLF_CART Garia Via Luxury Golf Car 2016 (4 Passengers & 10 hours chargingTime) and made it CLEAN
+MECHANIC Riley Moody repaired USED DOZER Caterpillar 2016 (866 HorsePower) and made it LIKE_NEW (earned $600.00 bonus)
+MECHANIC Riley Moody repaired BROKEN DOZER Hevi 2018 (930 HorsePower) unsuccessfully
+MECHANIC Kaliyah Newton repaired BROKEN DOZER Hevi 2018 (930 HorsePower) and made it USED (earned $600.00 bonus)
+MECHANIC Kaliyah Newton repaired USED DOZER Hevi 2018 (930 HorsePower) and made it LIKE_NEW (earned $600.00 bonus)
+MECHANIC Gordon Barry repaired USED PARAMOTOR FlatTop 2019 (5736  feet maximumAltitude & 24 mile/hour maximumCruisingAirSpeed) with QUAD_WHEEL_LAUNCHER  and made it LIKE_NEW (earned $60.00 bonus)
+MECHANIC Gordon Barry repaired BROKEN PARAMOTOR Air Conception Nitro 2022 (12135  feet maximumAltitude & 44 mile/hour maximumCruisingAirSpeed) with FOOT_LAUNCHER  and made it USED (earned $60.00 bonus)
+MECHANIC Dion Frazier repaired USED MONSTER_TRUCK Grinder 12 and made it LIKE_NEW (earned $500.00 bonus)
+MECHANIC Dion Frazier repaired USED MONSTER_TRUCK Backwards Bob 7 unsuccessfully
+MECHANIC Keyla Casey repaired USED MONSTER_TRUCK Backwards Bob 7 and made it LIKE_NEW (earned $500.00 bonus)
+MECHANIC Keyla Casey repaired USED MONSTER_TRUCK Monster Mutt 14 unsuccessfully
+MECHANIC Silas Graham repaired USED MONSTER_TRUCK Monster Mutt 14 and made it LIKE_NEW (earned $500.00 bonus)
+MECHANIC Silas Graham repaired USED MONSTER_TRUCK Monster Mutt Dalmatian 3 and made it LIKE_NEW (earned $500.00 bonus)
+SALESPERSON Olivia Acevedo sold CLEAN USED Club Car Villager 2010 (7 Passengers & 11 hours chargingTime) to Buyer unsuccessfully
+SALESPERSON Bellamy Meyer sold CLEAN LIKE_NEW Kawasaki 2010 (726 CC engine) to Buyer for $84362.59 without any addOns (earned $150.00 bonus)
+Added sale income $84362.59 to current balance
 Total salary payout increased by $1500.00
-Total bonuses payout increased by $1575.00
-INTERN Elaine Spence received $80.00 (salary) and $200.00 (bonuses)
-MECHANIC Kingston Vo received $120.00 (salary) and $300.00 (bonuses)
-MECHANIC Jaycee Faulkner received $120.00 (salary) and $1000.00 (bonuses)
-MECHANIC Harry Smith received $120.00 (salary) and $0.00 (bonuses)
-SALESPERSON Aurora Graham received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Louis Galindo received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Lewis Dickson received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Louis Barry received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Calliope Maldonado received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Jovanni Lester received $150.00 (salary) and $0.00 (bonuses)
-INTERN Moses Petersen received $80.00 (salary) and $0.00 (bonuses)
-INTERN Kyng Person received $80.00 (salary) and $75.00 (bonuses)
+Total bonuses payout increased by $2070.00
+MECHANIC Riley Moody received $120.00 (salary) and $600.00 (bonuses)
+SALESPERSON Olivia Acevedo received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Bellamy Meyer received $150.00 (salary) and $150.00 (bonuses)
+DRIVER Eliezer Carroll received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Paulina Duffy received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Kaliyah Newton received $120.00 (salary) and $1200.00 (bonuses)
+INTERN Calliope Barry received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Gordon Barry received $120.00 (salary) and $120.00 (bonuses)
+INTERN Jamal Fleming received $80.00 (salary) and $0.00 (bonuses)
+DRIVER Lewis Hurley received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Frances Herman received $150.00 (salary) and $0.00 (bonuses)
+INTERN Ansley Reed received $80.00 (salary) and $0.00 (bonuses)
+Total salary payout increased by $1500.00
+Total bonuses payout increased by $2025.00
+INTERN Arya Spence received $80.00 (salary) and $25.00 (bonuses)
+MECHANIC Dion Frazier received $120.00 (salary) and $500.00 (bonuses)
+MECHANIC Keyla Casey received $120.00 (salary) and $500.00 (bonuses)
+SALESPERSON Emory Scott received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Amara Meyers received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Paulina Singh received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Darius Singh received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Gary Chang received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Silas Graham received $120.00 (salary) and $1000.00 (bonuses)
+INTERN Kaliyah Carroll received $80.00 (salary) and $0.00 (bonuses)
+SALESPERSON Braelynn Rivers received $150.00 (salary) and $0.00 (bonuses)
+INTERN Jovanni Rangel received $80.00 (salary) and $0.00 (bonuses)

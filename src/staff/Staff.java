@@ -1,8 +1,10 @@
 package staff;
 
+
 import utilities.RandomGenerator;
 
 import java.util.ArrayList;
+
 
 /**
  * @author Duy Duong, Ahmed.H.Biby
@@ -44,9 +46,7 @@ public abstract class Staff {
         return dailyRate;
     }
 
-    public void setDailyRate(double dailyRate) {
-        this.dailyRate = dailyRate;
-    }
+
 
     public double getSalary() {
         return salary;
@@ -68,9 +68,7 @@ public abstract class Staff {
         return totalBonus;
     }
 
-    public void setTotalBonus(double totalBonus) {
-        this.totalBonus = totalBonus;
-    }
+
 
     public int getDaysOfWork() {
         return daysOfWork;
@@ -92,9 +90,7 @@ public abstract class Staff {
         return jobTitle;
     }
 
-    public void setJobTitle(JobTitle jobTitle) {
-        this.jobTitle = jobTitle;
-    }
+
 
     public void addSalary(){
         this.salary += dailyRate;
@@ -114,27 +110,6 @@ public abstract class Staff {
 
     public void quit() {
         setWorking(false);
-    }
-
-    /**
-     * Create staff by given title
-     *
-     * @param title wanted title
-     * @return a staff object
-     */
-    public static Staff createStaffByType(Staff.JobTitle title) {
-        switch (title) {
-            case MECHANIC:
-                return new Mechanic();
-            case SALESPERSON:
-                return new Salesperson();
-            case INTERN:
-                return new Intern();
-            case DRIVER:
-                return new Driver();
-            default:
-                throw new IllegalArgumentException("Unknown staff title + [" + title + "]");
-        }
     }
 
     /**
@@ -183,5 +158,7 @@ public abstract class Staff {
             System.out.printf("\n%s (%s) quited.\n", getName(), getJobTitle());
         }
     }
+
 }
+
 

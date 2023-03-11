@@ -19,7 +19,7 @@ public abstract class Vehicle {
     }
 
     public enum VehicleType {
-        PERFORMANCE_CAR, CAR, PICKUP, ELECTRIC_CAR, MOTORCYCLE, MONSTER_TRUCK
+        PERFORMANCE_CAR, CAR, PICKUP, ELECTRIC_CAR, MOTORCYCLE, MONSTER_TRUCK, DOZER, PARAMOTOR, GOLF_CART
     }
 
     private String name;
@@ -120,32 +120,6 @@ public abstract class Vehicle {
 
     public void setRacesWon(int racesWon) {
         this.racesWon = racesWon;
-    }
-
-    /**
-     * Util to create vehicle instance by type
-     * Reference: Project 2 example solution
-     *
-     * @param type vehicle type
-     * @return vehicle instance
-     */
-    public static Vehicle createVehicleByType(VehicleType type) {
-        switch (type) {
-            case PERFORMANCE_CAR:
-                return new PerformanceCar();
-            case CAR:
-                return new Car();
-            case PICKUP:
-                return new Pickup();
-            case ELECTRIC_CAR:
-                return new ElectricCar();
-            case MOTORCYCLE:
-                return new MotorCycle();
-            case MONSTER_TRUCK:
-                return new MonsterTruck();
-            default:
-                throw new IllegalArgumentException("Unknown vehicle type [" + type + "]");
-        }
     }
 
     /**

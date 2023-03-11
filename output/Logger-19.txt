@@ -1,36 +1,71 @@
-Purchased BROKEN, DIRTY PERFORMANCE_CAR Ferrari Daytona 2020 for $ 77601.96
-Purchased BROKEN, DIRTY ELECTRIC_CAR Subaru Solterra 2019 (300 miles) for $ 67148.06
-INTERN Arya Summers wash (DetailedWashing) PERFORMANCE_CAR Ferrari Daytona 2020 and made it CLEAN
-INTERN Arya Summers wash (DetailedWashing) ELECTRIC_CAR Subaru Solterra 2019 (300 miles) and made it CLEAN
-INTERN Kingston Faulkner wash (ChemicalWashing) CAR Toyota Corolla 2018 and made it SPARKLING (earned 50.00 bonus)
-INTERN Kingston Faulkner wash (ChemicalWashing) PICKUP GMC Hummer EV 2020 and made it CLEAN
-INTERN Gordon Blair wash (ElbowGreaseWashing) PICKUP GMC Hummer EV 2020 and made it CLEAN
-INTERN Gordon Blair wash (ElbowGreaseWashing) PICKUP GMC Hummer EV 2020 and made it CLEAN
-MECHANIC Moses Petersen repaired BROKEN MONSTER_TRUCK Swamp Thing 15 unsuccessfully
-MECHANIC Moses Petersen repaired BROKEN MONSTER_TRUCK Swamp Thing 15 and made it USED (earned $500.00 bonus)
-MECHANIC Kyng Person repaired USED MONSTER_TRUCK Swamp Thing 15 and made it LIKE_NEW (earned $500.00 bonus)
-MECHANIC Kyng Person repaired BROKEN PERFORMANCE_CAR Ferrari Daytona 2020 and made it USED (earned $200.00 bonus)
-MECHANIC Tiffany Lester repaired USED PERFORMANCE_CAR Ferrari Daytona 2020 unsuccessfully
-MECHANIC Tiffany Lester repaired USED PERFORMANCE_CAR Ferrari Daytona 2020 unsuccessfully
-SALESPERSON Louis Galindo (earned $220.00 bonus) sold CLEAN LIKE_NEW (PICKUP) Ford F-150 Raptor 2015 to Buyer for $64704.76 + $4529.33 (RoadRescueCoverage, SatelliteRadio (addOns)).
-Added sale income $69234.10 to current balance
-SALESPERSON Gerald Jensen sold CLEAN LIKE_NEW Vespa 2015 (407 CC engine) to Buyer unsuccessfully
-SALESPERSON Louis Galindo sold CLEAN LIKE_NEW Honda Odyssey 2020 to Buyer for $69703.93 without any addOns (earned $160.00 bonus)
-Added sale income $69703.93 to current balance
-SALESPERSON Jovanni Lester (earned $350.00 bonus) sold SPARKLING LIKE_NEW (PERFORMANCE_CAR) Acura NSX 2017 to Buyer for $127782.94 + $2555.66 (RoadRescueCoverage (addOns)).
-Added sale income $130338.60 to current balance
-SALESPERSON Louis Galindo sold CLEAN LIKE_NEW GMC Hummer EV 2020 to Buyer unsuccessfully
+Purchased USED, DIRTY ELECTRIC_CAR Kia EV6 2011 (106 miles) for $ 31762.60
+Purchased USED, DIRTY MONSTER_TRUCK The Destroyer 14 for $ 27871.60
+INTERN Zara Casey wash (ElbowGreaseWashing) CAR Mazda3 2021 and made it CLEAN
+INTERN Zara Casey wash (ElbowGreaseWashing) PICKUP Chevrolet Silverado 1500 2010 and made it DIRTY
+INTERN Amayah McCormick wash (DetailedWashing) PICKUP Chevrolet Silverado 1500 2010 and made it CLEAN
+INTERN Amayah McCormick wash (DetailedWashing) DOZER Zoomlion 2021 (462 HorsePower) and made it CLEAN
+INTERN Easton Chang wash (DetailedWashing) CAR Mitsubishi Eclipse 2016 and made it DIRTY
+INTERN Easton Chang wash (DetailedWashing) CAR Mitsubishi Eclipse 2016 and made it CLEAN
+INTERN Louis Skinner wash (DetailedWashing) PERFORMANCE_CAR Dodge Viper 2016 and made it CLEAN
+INTERN Louis Skinner wash (DetailedWashing) DOZER Bobcat 2012 (478 HorsePower) and made it DIRTY
+INTERN Emory Vo wash (ElbowGreaseWashing) DOZER Bobcat 2012 (478 HorsePower) and made it CLEAN
+INTERN Emory Vo wash (ElbowGreaseWashing) CAR Honda Accord 2014 and made it CLEAN
+INTERN Amara Moody wash (ElbowGreaseWashing) CAR Toyota Corolla 2010 and made it CLEAN
+INTERN Amara Moody wash (ElbowGreaseWashing) MONSTER_TRUCK The Destroyer 14 and made it DIRTY
+MECHANIC Jamal Fleming repaired BROKEN PERFORMANCE_CAR Toyota Supra Mark IV 2019 and made it USED (earned $200.00 bonus)
+MECHANIC Jamal Fleming repaired USED PERFORMANCE_CAR Toyota Supra Mark IV 2019 and made it LIKE_NEW (earned $200.00 bonus)
+MECHANIC Tiffany Cabrera repaired BROKEN CAR Audi A3 2015 and made it USED (earned $100.00 bonus)
+MECHANIC Tiffany Cabrera repaired USED CAR Audi A3 2015 and made it LIKE_NEW (earned $100.00 bonus)
+MECHANIC Ansley Calhoun repaired USED ELECTRIC_CAR Lucid Gravity 2016 (179 miles) and made it LIKE_NEW (earned $300.00 bonus)
+MECHANIC Ansley Calhoun repaired USED ELECTRIC_CAR Kia EV6 2011 (106 miles) and made it LIKE_NEW (earned $300.00 bonus)
+MECHANIC Keyla Porter repaired BROKEN PERFORMANCE_CAR Lamborghini Countach 2011 and made it USED (earned $200.00 bonus)
+MECHANIC Keyla Porter repaired USED PERFORMANCE_CAR Lamborghini Countach 2011 unsuccessfully
+MECHANIC Ashlynn Quintero repaired USED PERFORMANCE_CAR Lamborghini Countach 2011 and made it LIKE_NEW (earned $200.00 bonus)
+MECHANIC Ashlynn Quintero repaired USED MOTORCYCLE Piaggio 2019 (495 CC engine) unsuccessfully
+MECHANIC Harry Calhoun repaired USED MOTORCYCLE Piaggio 2019 (495 CC engine) and made it LIKE_NEW (earned $80.00 bonus)
+MECHANIC Harry Calhoun repaired USED CAR Dodge Charger 2014 and made it LIKE_NEW (earned $100.00 bonus)
+SALESPERSON Frances Herman sold CLEAN LIKE_NEW Maserati MC20 2023 to Buyer for $133159.22 without any addOns (earned $350.00 bonus)
+Added sale income $133159.22 to current balance
+SALESPERSON Frances Herman sold CLEAN LIKE_NEW Club Car Onward 2012 (7 Passengers & 8 hours chargingTime) to Buyer for $62831.85 without any addOns (earned $120.00 bonus)
+Added sale income $62831.85 to current balance
+SALESPERSON Ansley Reed sold CLEAN LIKE_NEW Club Car Villager 2010 (7 Passengers & 11 hours chargingTime) to Buyer unsuccessfully
+SALESPERSON Ansley Reed (earned $160.00 bonus) sold CLEAN LIKE_NEW (CAR) Mitsubishi Eclipse 2016 to Buyer for $62635.13 + $4384.46 (Undercoating, RoadRescueCoverage (addOns)).
+Added sale income $67019.58 to current balance
+SALESPERSON Frances Herman sold DIRTY LIKE_NEW Kia EV6 2011 (206 miles) to Buyer unsuccessfully
+SALESPERSON Frances Herman (earned $600.00 bonus) sold CLEAN LIKE_NEW (DOZER) Kioti 2011 (923 HorsePower) to Buyer for $203912.80 + $20391.28 (Undercoating, SatelliteRadio (addOns)).
+Added sale income $224304.08 to current balance
+SALESPERSON Braelynn Rivers sold CLEAN LIKE_NEW Manitou 2022 (542 HorsePower) to Buyer unsuccessfully
+SALESPERSON Jovanni Rangel (earned $160.00 bonus) sold CLEAN LIKE_NEW (CAR) Honda Accord 2014 to Buyer for $58226.32 + $1164.53 (RoadRescueCoverage (addOns)).
+Added sale income $59390.85 to current balance
+SALESPERSON Amara Meyers sold CLEAN LIKE_NEW Chevrolet Colorado ZR2 2022 to Buyer unsuccessfully
+SALESPERSON Amara Meyers sold CLEAN LIKE_NEW Dodge Viper 2019 to Buyer unsuccessfully
+SALESPERSON Amara Meyers (earned $350.00 bonus) sold CLEAN LIKE_NEW (PERFORMANCE_CAR) Dodge Viper 2019 to Buyer for $128805.77 + $9016.40 (RoadRescueCoverage, SatelliteRadio (addOns)).
+Added sale income $137822.17 to current balance
 Total salary payout increased by $1500.00
-Total bonuses payout increased by $1980.00
-SALESPERSON Louis Galindo received $150.00 (salary) and $380.00 (bonuses)
-DRIVER Louis Barry received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Jovanni Lester received $150.00 (salary) and $350.00 (bonuses)
-MECHANIC Moses Petersen received $120.00 (salary) and $500.00 (bonuses)
-DRIVER Salvatore Fleming received $150.00 (salary) and $0.00 (bonuses)
-MECHANIC Kyng Person received $120.00 (salary) and $700.00 (bonuses)
-SALESPERSON Gerald Jensen received $150.00 (salary) and $0.00 (bonuses)
-INTERN Arya Summers received $80.00 (salary) and $0.00 (bonuses)
-MECHANIC Tiffany Lester received $120.00 (salary) and $0.00 (bonuses)
-INTERN Kingston Faulkner received $80.00 (salary) and $50.00 (bonuses)
-INTERN Gordon Blair received $80.00 (salary) and $0.00 (bonuses)
-DRIVER Macie Cortez received $150.00 (salary) and $0.00 (bonuses)
+Total bonuses payout increased by $2430.00
+SALESPERSON Bellamy Meyer received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Paulina Duffy received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Frances Herman received $150.00 (salary) and $1070.00 (bonuses)
+DRIVER Dalton Porter received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Jamal Fleming received $120.00 (salary) and $400.00 (bonuses)
+SALESPERSON Ansley Reed received $150.00 (salary) and $160.00 (bonuses)
+MECHANIC Tiffany Cabrera received $120.00 (salary) and $200.00 (bonuses)
+INTERN Zara Casey received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Ansley Calhoun received $120.00 (salary) and $600.00 (bonuses)
+INTERN Amayah McCormick received $80.00 (salary) and $0.00 (bonuses)
+INTERN Easton Chang received $80.00 (salary) and $0.00 (bonuses)
+DRIVER Rhett Chang received $150.00 (salary) and $0.00 (bonuses)
+Total salary payout increased by $1500.00
+Total bonuses payout increased by $1090.00
+SALESPERSON Amara Meyers received $150.00 (salary) and $350.00 (bonuses)
+DRIVER Paulina Singh received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Darius Singh received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Gary Chang received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Braelynn Rivers received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Jovanni Rangel received $150.00 (salary) and $160.00 (bonuses)
+MECHANIC Keyla Porter received $120.00 (salary) and $200.00 (bonuses)
+INTERN Louis Skinner received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Ashlynn Quintero received $120.00 (salary) and $200.00 (bonuses)
+INTERN Emory Vo received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Harry Calhoun received $120.00 (salary) and $180.00 (bonuses)
+INTERN Amara Moody received $80.00 (salary) and $0.00 (bonuses)

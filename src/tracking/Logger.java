@@ -6,24 +6,26 @@ import java.io.FileWriter;
 /**
  * @author Duy Duong, Ahmed.H.Biby
  *
- * Concrete subscriber class
+ * Concrete subscriber class, Singleton pattern
  */
 public class Logger implements Subscriber {
     int day;
+    private static Logger instance; // lazy instantiation
 
     /**
      * Constructor to initialize log file
-     * @param day current day
      */
-    public Logger(int day) {
-        this.day = day;
-        String filePath = String.format("output\\Logger-%d.txt", day);
-        try {
-            FileWriter fw = new FileWriter(filePath);
-            fw.close();
-        } catch (Exception e) {
-            System.out.println("Failed to create log file for day " + day);
+    private Logger() {}
+
+    /**
+     * Singleton get instance method to return single instance
+     * @return single instance of Logger
+     */
+    public static Logger getInstance() {
+        if (instance == null) {
+            instance = new Logger();
         }
+        return instance;
     }
 
     /**
@@ -41,6 +43,20 @@ public class Logger implements Subscriber {
 
     public void setDay(int day) {
         this.day = day;
+    }
+
+    /**
+     * Method to create new log file for specific day
+     * @param day given day
+     */
+    public void createNewLogFile(int day) {
+        String filePath = String.format("output\\Logger-%d.txt", day);
+        try {
+            FileWriter fw = new FileWriter(filePath);
+            fw.close();
+        } catch (Exception e) {
+            System.out.println("Failed to create log file for day " + day);
+        }
     }
 
     /**

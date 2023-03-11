@@ -1,5 +1,6 @@
 package utilities;
 
+import activity.*;
 import customer.Buyer;
 import staff.*;
 import tracking.EventPublisher;
@@ -7,8 +8,12 @@ import tracking.Logger;
 import tracking.Message;
 import tracking.Tracker;
 import vehicle.Vehicle;
+import vehicle.VehicleFactory;
 
 import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.HashSet;
+import java.util.Scanner;
 
 /**
  * @author Duy Duong, Ahmed.H.Biby
@@ -18,36 +23,143 @@ import java.util.ArrayList;
  */
 public class FNCDAdministration {
     private int day = 1;
-    private final int END_DAY = 30; // 30-day simulation
+
+
+    private String name;
+
+    private final int END_DAY = 1; // 30-day simulation
     private final int NUM_STAFF_EACH = 3;
-    private final int NUM_VEHICLE_EACH = 4;
+
+    // changed NUM_VEHICLE_EACH from 4 to 6
+    private final int NUM_VEHICLE_EACH = 6;
     private final int NUM_RACE_VEHICLE = 3;
-    private final double INITIAL_BALANCE = 500000;
-    private final double RESERVE_BALANCE = 250000;
+
+    // increased the INITIAL_BALANCE to 3M instead of 0.5M
+    private final double INITIAL_BALANCE = 3000000;
+
+    // increased the RESERVE_BALANCE to 1.5M instead of 0.25M
+    private final double RESERVE_BALANCE = 150000;
+
 
     ArrayList<Staff> staffs = new ArrayList<>();
+    public ArrayList<Staff> getStaffs() {
+        return staffs;
+    }
+
     ArrayList<Staff> departedStaffs = new ArrayList<>();
 
+    ArrayList<Integer> totalVehicleSoldByDay = new ArrayList<>();
+    ArrayList<Double> totalMoneyEarnedByStaffByDay = new ArrayList<>();
+    ArrayList<Double> totalMoneyEarnedByFNCDByDay = new ArrayList<>();
+
+    private Salesperson selectedSalesPerson;
+
+    public Salesperson getSelectedSalesPerson() {
+        return selectedSalesPerson;
+    }
+
+    public void setSelectedSalesPerson(Salesperson selectedSalesPerson) {
+        this.selectedSalesPerson = selectedSalesPerson;
+    }
+
     Budget budget = new Budget(INITIAL_BALANCE);
+
     Inventory inventory = new Inventory();
 
     EventPublisher publisher;
     Logger logger;
     Tracker tracker;
 
+    public int getDay() {
+        return day;
+    }
+
+    public void setDay(int day) {
+        this.day = day;
+    }
+
+    public Inventory getInventory() {
+        return inventory;
+    }
+
+    public void setInventory(Inventory inventory) {
+        this.inventory = inventory;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public FNCDAdministration(String name){
+        setName(name);
+    }
+
     /**
      * Start up FNCD simulation which has pre-event when FNCD hires staffs
      * and purchases vehicles then run 30-day business
      */
     public void start() {
+        // Start 30 days simulation
+        inaugurate();
+        operate();
+        endSimulation();
+    }
+
+
+    /**
+     * Purchase vehicle with given type and add to working inventory. If low fund,
+     * add reserve fund before purchasing
+     *
+     * @param type vehicle type
+     */
+    public void purchaseVehicle(Vehicle.VehicleType type) {
+        Vehicle vehicle = VehicleFactory.createVehicle(type); // use Factory to create new vehicle
+
+        double cost = vehicle.getInitialCost();
+        // add reserve balance if not enough money
+        if (budget.getCurrentBalance() < cost) {
+            budget.addBalance(RESERVE_BALANCE);
+            // Announce "Adding money to the FNCD budget due to low funds"
+
+            String msg = String.format("\nReserve balance $%.2f is used, current balance is $%.2f\n",
+                    RESERVE_BALANCE,
+                    budget.getCurrentBalance()
+            );
+            publisher.notifySubscribers(new Message(msg, 0, 0));
+        }
+        // subtract vehicle sale price from balance
+        budget.subtractBalance(cost);
+
+        // add vehicle to working inventory
+        inventory.getWorkingInventory().add(vehicle);
+
+        // output purchase vehicle event
+        String msg = String.format("Purchased %s, %s %s %s for $ %.2f\n",
+                vehicle.getVehicleCondition(),
+                vehicle.getCleanliness(),
+                vehicle.getVehicleType(),
+                vehicle.getName(),
+                cost
+        );
+        publisher.notifySubscribers(new Message(msg, 0, 0));
+    }
+
+    /**
+     * do the inauguration activity
+     */
+    public void inaugurate(){
         System.out.println();
-        System.out.println("****************************************");
-        System.out.println("    Welcome to the FNCD simulation");
+        System.out.println("\n****************************************");
+        System.out.printf("    Welcome to the (%s) FNCD simulation\n", getName());
         System.out.println("********** Inauguration day ************");
 
         // Subscribe tracker at the beginning of simulation
         publisher = new EventPublisher();
-        tracker = new Tracker();
+        tracker = Tracker.getInstance();
         publisher.addSubscriber(tracker);
 
         // Hire all staffs
@@ -65,50 +177,7 @@ public class FNCDAdministration {
         }
 
         dailyReport();
-        System.out.println("********** End of the Inauguration day ************");
-
-        // Start 30 days simulation
-        operate();
-
-        publisher.removeSubscriber(tracker); // remove tracker subscription at the end of simulation
-    }
-
-    /**
-     * Purchase vehicle with given type and add to working inventory. If low fund,
-     * add reserve fund before purchasing
-     *
-     * @param type vehicle type
-     */
-    public void purchaseVehicle(Vehicle.VehicleType type) {
-        Vehicle vehicle = Vehicle.createVehicleByType(type);
-
-        double salePrice = vehicle.getSalePrice();
-        // add reserve balance if not enough money
-        if (budget.getCurrentBalance() < salePrice) {
-            budget.addBalance(RESERVE_BALANCE);
-            // Announce "Adding money to the FNCD budget due to low funds"
-
-            String msg = String.format("\nReserve balance $%.2f is used, current balance is $%.2f\n",
-                    RESERVE_BALANCE,
-                    budget.getCurrentBalance()
-            );
-            publisher.notifySubscribers(new Message(msg, 0, 0));
-        }
-        // subtract vehicle sale price from balance
-        budget.subtractBalance(salePrice);
-
-        // add vehicle to working inventory
-        inventory.getWorkingInventory().add(vehicle);
-
-        // output purchase vehicle event
-        String msg = String.format("Purchased %s, %s %s %s for $ %.2f\n",
-                vehicle.getVehicleCondition(),
-                vehicle.getCleanliness(),
-                vehicle.getVehicleType(),
-                vehicle.getName(),
-                salePrice
-        );
-        publisher.notifySubscribers(new Message(msg, 0, 0));
+        System.out.printf("********** End of the (%s) Inauguration day ************", getName());
     }
 
     /**
@@ -117,23 +186,28 @@ public class FNCDAdministration {
      */
     public void operate() {
         while (day <= END_DAY) {
+            operateByDay();
+        }
+    }
+    /**
+     * operate the available FNCDs for the days before the user interface starts
+     */
+    public void operateByDay(){
             // initialization of daily logger
-            logger = new Logger(day);
+            logger = Logger.getInstance();
             publisher.addSubscriber(logger);
             // Set day for logger and tracker
             logger.setDay(day);
             tracker.setDay(day);
 
-
             // Increase num work day of all staffs
             for (Staff staff : staffs) {
                 staff.addWorkDay();
             }
-
             // Sunday and Wednesday is for both working and racing activity, other day is working
             if (day % 7 == 1 || day % 7 == 4) {
-                System.out.printf("\n********** day %d ************\n", day);
-                System.out.println("********** Working & Racing day ************");
+                System.out.printf("\n\n********** day %d ************\n", day);
+                System.out.printf("********** Working & Racing day (%s) FNCD ************", getName());
 
                 opening();
                 washing();
@@ -143,7 +217,7 @@ public class FNCDAdministration {
                 ending();
             } else {
                 System.out.printf("\n********** day %d ************\n", day);
-                System.out.println("********** Working day ************");
+                System.out.printf("********** Working day (%s) FNCD ************", getName());
                 opening();
                 washing();
                 repairing();
@@ -158,16 +232,68 @@ public class FNCDAdministration {
 
             day++; // next day work
         }
-        System.out.println("********** End of FNCD operation simulation  ************");
-        System.out.println("********** End of FNCD simulation  ************");
-    }
+
+    /**
+     * operate the available FNCDs for the day on which the user interface will start
+     * (partial automated operation before the activation of the userinterface)
+     */
+
+    public void operateBeforeUserInterfaceSelling() {
+            // initialization of daily logger
+            logger = Logger.getInstance();
+            publisher.addSubscriber(logger);
+            // Set day for logger and tracker
+            logger.setDay(day);
+            tracker.setDay(day);
+
+            // Increase num work day of all staffs
+            for (Staff staff : staffs) {
+                staff.addWorkDay();
+            }
+            // Sunday and Wednesday is for both working and racing activity, other day is working
+            if (day % 7 == 1 || day % 7 == 4) {
+                System.out.println("\n##############################");
+                System.out.println("USER INTERFACE DAY");
+                System.out.println("##############################");
+                System.out.printf("********** day %d ************\n", day);
+                System.out.printf("********** Working & Racing day (%s) FNCD ************", getName());
+
+                opening();
+                washing();
+                repairing();
+                racing();
+            } else {
+                System.out.println("\n##############################");
+                System.out.println("USER INTERFACE DAY");
+                System.out.println("##############################");
+                System.out.printf("********** day %d ************\n", day);
+                System.out.printf("********** Working day (%s) FNCD ************", getName());
+                opening();
+                washing();
+                repairing();
+            }
+
+
+        }
+
+    /**
+     * do ending of the simulation
+     */
+    public void endSimulation() {
+            System.out.printf("\n********** End of FNCD operation simulation (%s) FNCD for %s days ************", getName(), getDay());
+            System.out.printf("\n********** End of FNCD simulation (%s) FNCD for %s days ************\n", getName(), getDay());
+            publisher.removeSubscriber(tracker); // remove tracker subscription at the end of simulation
+            publisher.removeSubscriber(logger); // remove logger at the end of each day
+            tracker.printDailySummary(); // tracker summary
+        }
+
 
     /**
      * Do open activity
      *
      */
     public void opening() {
-        System.out.printf("\nOpening... (current budget $%.2f)\n", budget.getCurrentBalance());
+        System.out.printf("\nOpening (%s)... (current budget $%.2f)\n",getName(), budget.getCurrentBalance());
 
         workForceMaintenance();
         inventoryMaintenance();
@@ -177,7 +303,7 @@ public class FNCDAdministration {
      * Do wash activity
      */
     public void washing() {
-        System.out.println("\nWashing...");
+        System.out.printf("\nWashing (%s)...\n", getName());
         ArrayList<Staff> interns = Staff.getStaffListByType(staffs, Staff.JobTitle.INTERN);
         for (Staff intern : interns) {
             ((Intern) intern).washVehicles(inventory.getWorkingInventory(), publisher);
@@ -188,7 +314,7 @@ public class FNCDAdministration {
      * Do repair activity
      */
     public void repairing() {
-        System.out.println("\nRepairing...");
+        System.out.printf("\nRepairing (%s)...\n", getName());
         ArrayList<Staff> mechanics = Staff.getStaffListByType(staffs, Staff.JobTitle.MECHANIC);
         for (Staff mechanic : mechanics) {
             ((Mechanic) mechanic).repairVehicles(inventory.getWorkingInventory(), publisher);
@@ -199,7 +325,7 @@ public class FNCDAdministration {
      * Do selling activity
      */
     public void selling() {
-        System.out.println("\nSelling...");
+        System.out.printf("\nSelling (%s)...\n", getName());
 
         ArrayList<Buyer> buyers = getBuyers(day);
 
@@ -223,7 +349,7 @@ public class FNCDAdministration {
      * Do racing activity
      */
     public void racing() {
-        System.out.println("\nRacing...");
+        System.out.printf("\nRacing (%s)...\n", getName());
 
         ArrayList<Vehicle> vehiclesForRacing = inventory.getVehiclesForRace(NUM_RACE_VEHICLE);
         if (vehiclesForRacing.size() == 0){
@@ -298,7 +424,7 @@ public class FNCDAdministration {
      * Do ending activity
      */
     public void ending() {
-        System.out.println("\nEnding...");
+        System.out.printf("\nEnding (%s)...\n", getName());
         String msg = "";
         // pay all salaries
         budget.addSalariesPayout(staffs, publisher);
@@ -329,6 +455,11 @@ public class FNCDAdministration {
                 departedStaffs.add(staff);
             }
         }
+
+        // save daily record for graphing chart
+        totalVehicleSoldByDay.add(inventory.getSoldVehicles().size());
+        totalMoneyEarnedByStaffByDay.add(budget.getSalaries()+ budget.getBonuses());
+        totalMoneyEarnedByFNCDByDay.add(budget.getSalesIncome());
     }
 
     /**
@@ -387,7 +518,7 @@ public class FNCDAdministration {
      * method for hiring new staff
      */
     public void hireStaff(Staff.JobTitle title){
-        Staff newStaff = Staff.createStaffByType(title);
+        Staff newStaff = StaffFactory.createStaff(title); // use Factory to create new staff
         staffs.add(newStaff);
 
         // Output new hire event
@@ -398,7 +529,7 @@ public class FNCDAdministration {
      * method that promotes an intern in case of a given staff quited
      */
     public void promoteStaff(Staff staff, Staff.JobTitle title){
-        Staff newStaff = Staff.createStaffByType(title);
+        Staff newStaff = StaffFactory.createStaff(title); // use Factory to create new staff
 
         newStaff.setName(staff.getName());
         newStaff.setSalary(staff.getSalary());
@@ -443,7 +574,7 @@ public class FNCDAdministration {
      */
     public void dailyReport() {
         // Print out staffs
-        System.out.println("\nDaily Report...");
+        System.out.printf("\nDaily Report (%s)...\n", getName());
         System.out.println("Staff members");
         System.out.println("Title | Name | TotalDaysWorked | TotalNormalPay | TotalBonusPay | Working");
         System.out.println("------------------------------------------------------------------------");
@@ -495,6 +626,172 @@ public class FNCDAdministration {
         );
         System.out.println();
     }
-}
 
+    /**
+     * select the salesperson via userInterface implementation
+     */
+    public void userInterfaceSalesPersonSelector() {
+        ArrayList<Staff> salesPersonList = Staff.getStaffListByType(this.getStaffs(), Staff.JobTitle.SALESPERSON);
+        HashMap<Integer, Salesperson> availableSalesPersons = new HashMap<Integer, Salesperson>();
+        Salesperson selectedSalesPerson;
+        Scanner scanner = new Scanner(System.in);
+        int userEntry;
+        int counter = 1;
+        System.out.println( "The available Salespersons:" );
+        for (Staff salesperson: salesPersonList){
+            availableSalesPersons.put(counter, (Salesperson) salesperson);
+            System.out.printf("%d) %s \n",counter,salesperson.getName());
+            counter++;
+        }
+        System.out.println( "Enter the number corresponding to the Salesperson you want: " );
+        userEntry = scanner.nextInt();
+        selectedSalesPerson = availableSalesPersons.get(userEntry);
+        System.out.printf("You selected %s.\n", selectedSalesPerson.getName());
+        setSelectedSalesPerson(selectedSalesPerson);
+    }
+
+    /**
+     * select vehicle to be bought by a buyer via userInterface implementation
+     * prints the results of the selling process
+     */
+    public void userInterfaceVehicleSelling(){
+        Vehicle selectedVehicle = getInventory().userInterfaceVehicleSelector();
+        HashMap<Integer, Sale.AddOnType> availableAddOnTypes = new HashMap<Integer, Sale.AddOnType>();
+        Sale.AddOnType selectedAddOnType;
+        HashSet<Sale.AddOnType> selectedAddOnTypes = new HashSet<Sale.AddOnType> ();
+        String addOns = new String();
+        double totalAdoOnPrice = 0;
+        double totSalePrice = 0;
+
+
+        Scanner scanner = new Scanner(System.in);
+        int userEntry;
+        int counter = 1;
+
+        System.out.println("Enter the number corresponding to the AddOn you want (can be multiple):");
+        for (Sale.AddOnType type: Sale.AddOnType.values()){
+            System.out.printf("%d) %s\n", counter, type);
+            availableAddOnTypes.put(counter, type);
+            counter++;
+        }
+        System.out.println("Enter 0 when you finish to exit.");
+        userEntry = 1000; //just for initialization
+        while (userEntry != 0){
+                userEntry = scanner.nextInt();
+                switch (userEntry){
+                    case 1:
+                        selectedAddOnTypes.add(availableAddOnTypes.get(1));
+                        break;
+                    case 2:
+                        selectedAddOnTypes.add(availableAddOnTypes.get(2));
+                        break;
+                    case 3:
+                        selectedAddOnTypes.add(availableAddOnTypes.get(3));
+                        break;
+                    case 4:
+                        selectedAddOnTypes.add(availableAddOnTypes.get(4));
+                        break;
+                }
+        }
+        HashMap <String, Double> addOnSummary = addOnSelector(selectedVehicle,  selectedAddOnTypes);
+
+        for (String name : addOnSummary.keySet()) {
+            addOns = name;
+            totalAdoOnPrice = addOnSummary.get(name);
+        }
+        totSalePrice = selectedVehicle.getSalePrice() + totalAdoOnPrice;
+        if (!addOnSummary.isEmpty()) {
+            System.out.printf("You selected %s.\n", addOns);
+
+            System.out.printf("Are you sure you want to buy %s with %s for $ %.0f.\n",
+                    selectedVehicle.getName(), addOns, totSalePrice);
+        }else{
+            System.out.printf("Are you sure you want to buy %s without addOns for $ %.0f.\n",
+                    selectedVehicle.getName(), totSalePrice);
+        }
+        System.out.println( "Press 1 if you want to proceed OR press 0 if you do NOT want to proceed" );
+        userEntry = scanner.nextInt();
+        if (userEntry == 1){
+            inventory.moveVehicleToSoldVehicles(selectedVehicle);
+            budget.addBalance(totSalePrice);
+            budget.addSaleIncome(totSalePrice);
+            double bonus = getSelectedSalesPerson().getBonusByType(selectedVehicle);
+            getSelectedSalesPerson().addBonus(bonus);
+
+            // give bonus to Salesperson
+
+
+
+            if (!addOnSummary.isEmpty()) {
+                System.out.printf("Congratulations! you bought %s with %s for $ %.0f.\n",
+                        selectedVehicle.getName(), addOns, totSalePrice);
+            } else{
+                System.out.printf("Congratulations! you bought %s without addOns for $ %.0f.\n",
+                        selectedVehicle.getName(), totSalePrice);
+            }
+            System.out.printf("%s received $ %.0f bonus for the successful selling of %s.\n",
+                    getSelectedSalesPerson().getName(),bonus, selectedVehicle.getName());
+
+            System.out.printf("Added sale income $%.0f to current balance.\n",totSalePrice);
+        } else if (userEntry == 0){
+            System.out.println( "Selling process ended unsuccessfully." );
+        }
+    }
+
+    /**
+     * select addOns and calculate the price for userInterface implementation
+     * @param vehicle: selected vehicle that may addaddONs
+     * @param addOnTypeSet: contains the availabel addOns
+     * @return addOnSummary: key represents the addOns added string and the value represents the total price of the selected addOns
+     */
+
+    public HashMap <String, Double> addOnSelector(Vehicle vehicle, HashSet<Sale.AddOnType> addOnTypeSet){
+        HashMap <String, Double> addOnSummary  = new HashMap<>();
+        String addOnString = "";
+        double addOnTotalPrice = 0;
+        if (!addOnTypeSet.isEmpty()){
+
+            if (addOnTypeSet.contains(Sale.AddOnType.EXTENDED_WARRANTY)){
+                ExtendedWarrantyAddOn extendedWarrantyAddOn = new ExtendedWarrantyAddOn(vehicle);
+                addOnTotalPrice = addOnTotalPrice + extendedWarrantyAddOn.getAddOnPrice();
+                addOnString = addOnString.concat("ExtendedWarranty");
+
+            }
+            if (addOnTypeSet.contains(Sale.AddOnType.UNDER_COATING)){
+                UnderCoatingAddOn underCoatingAddOn= new UnderCoatingAddOn(vehicle);
+                addOnTotalPrice = addOnTotalPrice + underCoatingAddOn.getAddOnPrice();
+                if (addOnString.isEmpty()) {
+                    addOnString = addOnString.concat("Undercoating");
+                }
+                else{
+                    addOnString = addOnString.concat(", Undercoating");
+                }
+            }
+            if (addOnTypeSet.contains(Sale.AddOnType.ROAD_RESCUE_COVERAGE)){
+                RoadRescueCoverageAddOn roadRescueCoverageAddOn= new RoadRescueCoverageAddOn(vehicle);
+                addOnTotalPrice = addOnTotalPrice + roadRescueCoverageAddOn.getAddOnPrice();
+                if (addOnString.isEmpty()) {
+                    addOnString = addOnString.concat("RoadRescueCoverage");
+                }
+                else{
+                    addOnString = addOnString.concat(", RoadRescueCoverage");
+                }
+            }
+            if (addOnTypeSet.contains(Sale.AddOnType.SATELLITE_RADIO)){
+                SatelliteRadioAddOn satelliteRadioAddOn = new SatelliteRadioAddOn(vehicle);
+                addOnTotalPrice = addOnTotalPrice + satelliteRadioAddOn.getAddOnPrice();
+                if (addOnString.isEmpty()) {
+                    addOnString = addOnString.concat("SatelliteRadio");
+                }
+                else{
+                    addOnString = addOnString.concat(", SatelliteRadio");
+                }
+            }
+            addOnSummary.put(addOnString, addOnTotalPrice);
+        } else {
+            ;
+        }
+        return addOnSummary;
+    }
+}
 

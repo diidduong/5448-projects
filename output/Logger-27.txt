@@ -1,38 +1,76 @@
-Purchased BROKEN, CLEAN PERFORMANCE_CAR Toyota GR86 2015 for $ 69217.64
-Purchased USED, DIRTY PICKUP GMC Sierra Supercharged 2018 for $ 31394.86
-Purchased LIKE_NEW, DIRTY ELECTRIC_CAR Lucid Air 2021 (467 miles) for $ 52711.89
-Purchased USED, DIRTY ELECTRIC_CAR Ford Mustang Mach-E 2013 (268 miles) for $ 56630.14
-Purchased USED, DIRTY MOTORCYCLE Buell 2023 (362 CC engine) for $ 40164.56
-INTERN Tiffany Jimenez wash (ChemicalWashing) MONSTER_TRUCK Grave Digger 2 and made it SPARKLING (earned 200.00 bonus)
-INTERN Tiffany Jimenez wash (ChemicalWashing) PICKUP GMC Sierra Supercharged 2018 and made it CLEAN
-INTERN Calliope Hess wash (ChemicalWashing) ELECTRIC_CAR Lucid Air 2021 (467 miles) and made it CLEAN
-INTERN Calliope Hess wash (ChemicalWashing) ELECTRIC_CAR Ford Mustang Mach-E 2013 (268 miles) and made it CLEAN
-INTERN Leyla Conrad wash (ChemicalWashing) MOTORCYCLE Buell 2023 (362 CC engine) and made it CLEAN
-INTERN Leyla Conrad wash (ChemicalWashing) MOTORCYCLE Norton 2020 (560 CC engine) and made it CLEAN
-MECHANIC Kyng Person repaired BROKEN PERFORMANCE_CAR Toyota GR86 2015 unsuccessfully
-MECHANIC Kyng Person repaired BROKEN PERFORMANCE_CAR Toyota GR86 2015 and made it USED (earned $200.00 bonus)
-MECHANIC Tiffany Lester repaired USED PERFORMANCE_CAR Toyota GR86 2015 and made it LIKE_NEW (earned $200.00 bonus)
-MECHANIC Tiffany Lester repaired USED PICKUP GMC Sierra Supercharged 2018 and made it LIKE_NEW (earned $150.00 bonus)
-MECHANIC Kingston Faulkner repaired USED ELECTRIC_CAR Ford Mustang Mach-E 2013 (268 miles) unsuccessfully
-MECHANIC Kingston Faulkner repaired USED ELECTRIC_CAR Ford Mustang Mach-E 2013 (268 miles) and made it LIKE_NEW (earned $300.00 bonus)
-SALESPERSON Jovanni Lester sold DIRTY LIKE_NEW Toyota GR86 2015 to Buyer unsuccessfully
-SALESPERSON Louis Galindo sold SPARKLING LIKE_NEW Grave Digger 2 to Buyer unsuccessfully
-SALESPERSON Gerald Jensen (earned $350.00 bonus) sold DIRTY LIKE_NEW (PERFORMANCE_CAR) Toyota GR86 2015 to Buyer for $129783.07 + $2595.66 (RoadRescueCoverage (addOns)).
-Added sale income $132378.73 to current balance
-SALESPERSON Gerald Jensen (earned $500.00 bonus) sold SPARKLING LIKE_NEW (MONSTER_TRUCK) Grave Digger 2 to Buyer for $466377.13 + $93275.43 (ExtendedWarranty (addOns)).
-Added sale income $559652.56 to current balance
-SALESPERSON Gerald Jensen sold CLEAN LIKE_NEW USA-1 4 to Buyer unsuccessfully
+Purchased BROKEN, DIRTY PICKUP Ford Maverick 2020 for $ 6161.15
+Purchased BROKEN, DIRTY ELECTRIC_CAR Fiat 500e 2015 (363 miles) for $ 12746.63
+Purchased BROKEN, DIRTY MOTORCYCLE Moto Guzzi 2023 (313 CC engine) for $ 9560.69
+Purchased USED, CLEAN PARAMOTOR Adventure 2014 (13441  feet maximumAltitude & 30 mile/hour maximumCruisingAirSpeed) with TRIKE_WHEEL_LAUNCHER  for $ 9486.76
+Purchased USED, CLEAN CAR Chevrolet Spark 2020 for $ 14498.91
+INTERN Amayah McCormick wash (DetailedWashing) GOLF_CART Star EV 2015 (4 Passengers & 12 hours chargingTime) and made it CLEAN
+INTERN Amayah McCormick wash (DetailedWashing) PICKUP Ford Maverick 2020 and made it CLEAN
+INTERN Easton Chang wash (DetailedWashing) ELECTRIC_CAR Fiat 500e 2015 (363 miles) and made it CLEAN
+INTERN Easton Chang wash (DetailedWashing) MOTORCYCLE Moto Guzzi 2023 (313 CC engine) and made it DIRTY
+INTERN Emery Singh wash (ChemicalWashing) MOTORCYCLE Moto Guzzi 2023 (313 CC engine) and made it CLEAN
+INTERN Emery Singh wash (ChemicalWashing) CAR Toyota Corolla 2019 and made it CLEAN
+INTERN Ari Maldonado wash (DetailedWashing) MONSTER_TRUCK Monster Mutt 14 and made it CLEAN
+INTERN Ari Maldonado wash (DetailedWashing) MONSTER_TRUCK Monster Mutt Dalmatian 3 and made it SPARKLING (earned 200.00 bonus)
+INTERN Ariyah Faulkner wash (ElbowGreaseWashing) MONSTER_TRUCK The Destroyer 14 and made it DIRTY
+INTERN Ariyah Faulkner wash (ElbowGreaseWashing) MONSTER_TRUCK The Destroyer 14 and made it CLEAN
+INTERN Bentlee Salinas wash (ElbowGreaseWashing) PICKUP Hyundai Santa Cruz 2010 and made it DIRTY
+INTERN Bentlee Salinas wash (ElbowGreaseWashing) PICKUP Hyundai Santa Cruz 2010 and made it DIRTY
+MECHANIC Jamal Fleming repaired BROKEN PICKUP Ford Maverick 2020 unsuccessfully
+MECHANIC Jamal Fleming repaired BROKEN PICKUP Ford Maverick 2020 unsuccessfully
+MECHANIC Tiffany Cabrera repaired BROKEN PICKUP Ford Maverick 2020 and made it USED (earned $150.00 bonus)
+MECHANIC Tiffany Cabrera repaired USED PICKUP Ford Maverick 2020 unsuccessfully
+MECHANIC Ansley Calhoun repaired USED PICKUP Ford Maverick 2020 and made it LIKE_NEW (earned $150.00 bonus)
+MECHANIC Ansley Calhoun repaired BROKEN ELECTRIC_CAR Fiat 500e 2015 (363 miles) and made it USED (earned $300.00 bonus)
+MECHANIC Harry Calhoun repaired USED DOZER Kobelco 2012 (592 HorsePower) unsuccessfully
+MECHANIC Harry Calhoun repaired USED DOZER Kobelco 2012 (592 HorsePower) and made it LIKE_NEW (earned $600.00 bonus)
+MECHANIC Emory Vo repaired USED CAR Chevrolet Spark 2020 and made it LIKE_NEW (earned $100.00 bonus)
+SALESPERSON Frances Herman (earned $500.00 bonus) sold SPARKLING LIKE_NEW (MONSTER_TRUCK) Mohawk Warrior 15 to Buyer for $162199.21 + $35683.83 (ExtendedWarranty, RoadRescueCoverage (addOns)).
+Added sale income $197883.04 to current balance
+SALESPERSON Bellamy Meyer (earned $500.00 bonus) sold SPARKLING LIKE_NEW (MONSTER_TRUCK) Snake Bite 14 to Buyer for $120835.43 + $26583.79 (ExtendedWarranty, RoadRescueCoverage (addOns)).
+Added sale income $147419.23 to current balance
+SALESPERSON Ansley Reed sold SPARKLING LIKE_NEW Ford Mustang Mach-E 2019 (477 miles) to Buyer unsuccessfully
+SALESPERSON Frances Herman sold CLEAN LIKE_NEW Chevrolet Spark 2015 to Buyer unsuccessfully
+SALESPERSON Ansley Reed (earned $350.00 bonus) sold CLEAN LIKE_NEW (PERFORMANCE_CAR) Mazda MX-5 Miata 2014 to Buyer for $97589.01 + $4879.45 (SatelliteRadio (addOns)).
+Added sale income $102468.46 to current balance
+SALESPERSON Ansley Reed sold CLEAN LIKE_NEW Scout Enduro Cage 2018 (8522  feet maximumAltitude & 23 mile/hour maximumCruisingAirSpeed) with QUAD_WHEEL_LAUNCHER  to Buyer unsuccessfully
+SALESPERSON Frances Herman (earned $500.00 bonus) sold CLEAN LIKE_NEW (MONSTER_TRUCK) Monster Mutt Dalmatian 13 to Buyer for $97640.93 + $4882.05 (SatelliteRadio (addOns)).
+Added sale income $102522.98 to current balance
+SALESPERSON Bellamy Meyer sold CLEAN LIKE_NEW Takeuchi 2012 (968 HorsePower) to Buyer for $254243.38 without any addOns (earned $600.00 bonus)
+Added sale income $254243.38 to current balance
+SALESPERSON Amara Meyers sold CLEAN LIKE_NEW Tesla Model Y 2013 (318 miles) to Buyer unsuccessfully
+SALESPERSON Jovanni Rangel (earned $80.00 bonus) sold CLEAN LIKE_NEW (PARAMOTOR) Nimbus 2022 (8962  feet maximumAltitude & 35 mile/hour maximumCruisingAirSpeed) with QUAD_WHEEL_LAUNCHER  to Buyer for $22660.24 + $453.20 (RoadRescueCoverage (addOns)).
+Added sale income $23113.45 to current balance
+SALESPERSON Braelynn Rivers (earned $120.00 bonus) sold CLEAN LIKE_NEW (GOLF_CART) Star EV 2016 (6 Passengers & 11 hours chargingTime) to Buyer for $51803.04 + $1036.06 (RoadRescueCoverage (addOns)).
+Added sale income $52839.10 to current balance
+SALESPERSON Amara Meyers (earned $80.00 bonus) sold CLEAN LIKE_NEW (PARAMOTOR) Custom-Air 2018 (5304  feet maximumAltitude & 23 mile/hour maximumCruisingAirSpeed) with FOOT_LAUNCHER  to Buyer for $20233.30 + $4046.66 (ExtendedWarranty (addOns)).
+Added sale income $24279.96 to current balance
+SALESPERSON Amara Meyers (earned $160.00 bonus) sold CLEAN LIKE_NEW (CAR) Mercedes-Benz G-class 2012 to Buyer for $67262.47 + $1345.25 (RoadRescueCoverage (addOns)).
+Added sale income $68607.71 to current balance
 Total salary payout increased by $1500.00
-Total bonuses payout increased by $1900.00
-SALESPERSON Louis Galindo received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Louis Barry received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Jovanni Lester received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Salvatore Fleming received $150.00 (salary) and $0.00 (bonuses)
-MECHANIC Kyng Person received $120.00 (salary) and $200.00 (bonuses)
-SALESPERSON Gerald Jensen received $150.00 (salary) and $850.00 (bonuses)
-MECHANIC Tiffany Lester received $120.00 (salary) and $350.00 (bonuses)
-DRIVER Macie Cortez received $150.00 (salary) and $0.00 (bonuses)
-INTERN Tiffany Jimenez received $80.00 (salary) and $200.00 (bonuses)
-MECHANIC Kingston Faulkner received $120.00 (salary) and $300.00 (bonuses)
-INTERN Calliope Hess received $80.00 (salary) and $0.00 (bonuses)
-INTERN Leyla Conrad received $80.00 (salary) and $0.00 (bonuses)
+Total bonuses payout increased by $3050.00
+SALESPERSON Bellamy Meyer received $150.00 (salary) and $1100.00 (bonuses)
+DRIVER Paulina Duffy received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Frances Herman received $150.00 (salary) and $1000.00 (bonuses)
+DRIVER Dalton Porter received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Jamal Fleming received $120.00 (salary) and $0.00 (bonuses)
+SALESPERSON Ansley Reed received $150.00 (salary) and $350.00 (bonuses)
+MECHANIC Tiffany Cabrera received $120.00 (salary) and $150.00 (bonuses)
+MECHANIC Ansley Calhoun received $120.00 (salary) and $450.00 (bonuses)
+INTERN Amayah McCormick received $80.00 (salary) and $0.00 (bonuses)
+INTERN Easton Chang received $80.00 (salary) and $0.00 (bonuses)
+DRIVER Rhett Chang received $150.00 (salary) and $0.00 (bonuses)
+INTERN Emery Singh received $80.00 (salary) and $0.00 (bonuses)
+Total salary payout increased by $1500.00
+Total bonuses payout increased by $1340.00
+SALESPERSON Amara Meyers received $150.00 (salary) and $240.00 (bonuses)
+DRIVER Darius Singh received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Braelynn Rivers received $150.00 (salary) and $120.00 (bonuses)
+SALESPERSON Jovanni Rangel received $150.00 (salary) and $80.00 (bonuses)
+MECHANIC Harry Calhoun received $120.00 (salary) and $600.00 (bonuses)
+MECHANIC Emory Vo received $120.00 (salary) and $100.00 (bonuses)
+INTERN Ari Maldonado received $80.00 (salary) and $200.00 (bonuses)
+INTERN Ariyah Faulkner received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Amara Moody received $120.00 (salary) and $0.00 (bonuses)
+INTERN Bentlee Salinas received $80.00 (salary) and $0.00 (bonuses)
+DRIVER Jericho Kelley received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Gary O’Connell received $150.00 (salary) and $0.00 (bonuses)
