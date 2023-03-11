@@ -1,59 +1,66 @@
-Purchased BROKEN, DIRTY PERFORMANCE_CAR Ferrari Daytona 2016 for $ 17838.83
-Purchased BROKEN, CLEAN PICKUP Nissan Frontier 2015 for $ 11174.78
-INTERN Gordon Barry wash (DetailedWashing) PERFORMANCE_CAR Porsche 718 Boxster 2021 and made it SPARKLING (earned 75.00 bonus)
-INTERN Gordon Barry wash (DetailedWashing) PERFORMANCE_CAR Ferrari Daytona 2020 and made it CLEAN
-INTERN Frances Herman wash (ChemicalWashing) PERFORMANCE_CAR Acura NSX 2016 and made it CLEAN
-INTERN Frances Herman wash (ChemicalWashing) CAR Audi A3 2020 and made it CLEAN
-INTERN Calliope Barry wash (ElbowGreaseWashing) PICKUP Ford Maverick 2017 and made it CLEAN
-INTERN Calliope Barry wash (ElbowGreaseWashing) PICKUP Ford F-150 Lightning 2023 and made it CLEAN
-INTERN Silas Graham wash (DetailedWashing) PERFORMANCE_CAR Dodge Viper 2019 and made it DIRTY
-INTERN Silas Graham wash (DetailedWashing) PERFORMANCE_CAR Dodge Viper 2019 and made it CLEAN
-INTERN Braelynn Rivers wash (DetailedWashing) PERFORMANCE_CAR Ford Mustang Shelby GT500 2023 and made it CLEAN
-INTERN Braelynn Rivers wash (DetailedWashing) CAR Mercedes-Benz S-class 2010 and made it CLEAN
-INTERN Arya Spence wash (ChemicalWashing) PICKUP Hyundai Santa Cruz 2010 and made it CLEAN
-INTERN Arya Spence wash (ChemicalWashing) PICKUP Nikola Badger 2010 and made it CLEAN
-MECHANIC Morgan Vaughn repaired USED CAR Mazda3 2013 and made it LIKE_NEW (earned $100.00 bonus)
-MECHANIC Morgan Vaughn repaired BROKEN CAR Lexus RC 300 2013 and made it USED (earned $100.00 bonus)
-MECHANIC Riley Moody repaired USED CAR Lexus RC 300 2013 and made it LIKE_NEW (earned $100.00 bonus)
-MECHANIC Riley Moody repaired USED PICKUP Ford F-150 Lightning 2023 unsuccessfully
-MECHANIC Kaliyah Newton repaired USED PICKUP Ford F-150 Lightning 2023 and made it LIKE_NEW (earned $150.00 bonus)
-MECHANIC Kaliyah Newton repaired BROKEN PICKUP GMC Canyon 2011 and made it USED (earned $150.00 bonus)
-MECHANIC Gerardo Calhoun repaired USED PERFORMANCE_CAR Lamborghini Countach 2011 unsuccessfully
-MECHANIC Gerardo Calhoun repaired USED PERFORMANCE_CAR Lamborghini Countach 2011 and made it LIKE_NEW (earned $200.00 bonus)
-MECHANIC Dion Frazier repaired BROKEN CAR Honda Civic 2017 unsuccessfully
-MECHANIC Dion Frazier repaired BROKEN CAR Honda Civic 2017 and made it USED (earned $100.00 bonus)
-MECHANIC Keyla Casey repaired USED CAR Honda Civic 2017 and made it LIKE_NEW (earned $100.00 bonus)
-MECHANIC Keyla Casey repaired BROKEN CAR Lucid Air 2017 unsuccessfully
-SALESPERSON Olivia Acevedo sold DIRTY USED JCB 2023 (788 HorsePower) to Buyer unsuccessfully
-SALESPERSON Gloriay Waters sold DIRTY LIKE_NEW Honda Civic 2017 to Buyer unsuccessfully
-SALESPERSON Emory Scott (earned $120.00 bonus) sold CLEAN LIKE_NEW (GOLF_CART) E-Z-GO Express L6 2023 (5 Passengers & 12 hours chargingTime) to Buyer for $26206.75 + $524.13 (RoadRescueCoverage (addOns)).
-Added sale income $26730.88 to current balance
-SALESPERSON Gloriay Waters sold CLEAN USED Zero 2012 (769 CC engine) to Buyer unsuccessfully
+Purchased USED, DIRTY CAR Dodge Charger 2012 for $ 9142.24
+Purchased LIKE_NEW, DIRTY PARAMOTOR Scout Carbon Cage 2017 (11657  feet maximumAltitude & 50 mile/hour maximumCruisingAirSpeed) with TRIKE_WHEEL_LAUNCHER  for $ 8944.15
+INTERN Maxwell Fleming wash (DetailedWashing) PERFORMANCE_CAR Dodge Viper 2017 and made it CLEAN
+INTERN Maxwell Fleming wash (DetailedWashing) CAR Lucid Air 2018 and made it DIRTY
+INTERN Arya Moody wash (DetailedWashing) CAR Lucid Air 2018 and made it CLEAN
+INTERN Arya Moody wash (DetailedWashing) PICKUP Toyota Tundra 2012 and made it CLEAN
+INTERN Joel Ho wash (ElbowGreaseWashing) PICKUP GMC Hummer EV 2010 and made it CLEAN
+INTERN Joel Ho wash (ElbowGreaseWashing) PICKUP Ford Velociraptor 6×6 2018 and made it CLEAN
+INTERN Bentlee Petersen wash (ElbowGreaseWashing) PERFORMANCE_CAR Lamborghini Countach 2012 and made it CLEAN
+INTERN Bentlee Petersen wash (ElbowGreaseWashing) CAR Chevrolet Bolt 2016 and made it DIRTY
+INTERN Emmalynn Jimenez wash (ElbowGreaseWashing) CAR Chevrolet Bolt 2016 and made it DIRTY
+INTERN Emmalynn Jimenez wash (ElbowGreaseWashing) CAR Chevrolet Bolt 2016 and made it DIRTY
+INTERN Claire Kennedy wash (DetailedWashing) CAR Chevrolet Bolt 2016 and made it SPARKLING (earned 50.00 bonus)
+INTERN Claire Kennedy wash (DetailedWashing) CAR Lucid Air 2023 and made it CLEAN
+MECHANIC Maxwell Kelley repaired BROKEN CAR BMW i4 2012 and made it USED (earned $100.00 bonus)
+MECHANIC Maxwell Kelley repaired USED CAR BMW i4 2012 and made it LIKE_NEW (earned $100.00 bonus)
+MECHANIC Cade O’Donnell repaired BROKEN CAR Hyundai Elantra 2016 and made it USED (earned $100.00 bonus)
+MECHANIC Cade O’Donnell repaired USED CAR Hyundai Elantra 2016 and made it LIKE_NEW (earned $100.00 bonus)
+MECHANIC Dalton Parsons repaired BROKEN PICKUP Toyota Tundra 2012 and made it USED (earned $150.00 bonus)
+MECHANIC Dalton Parsons repaired USED PICKUP Toyota Tundra 2012 unsuccessfully
+MECHANIC Emory Zimmerman repaired BROKEN CAR Kia K5 2022 and made it USED (earned $100.00 bonus)
+MECHANIC Emory Zimmerman repaired USED CAR Kia K5 2022 and made it LIKE_NEW (earned $100.00 bonus)
+MECHANIC Moses Foley repaired USED CAR Mazda3 2023 and made it LIKE_NEW (earned $100.00 bonus)
+MECHANIC Moses Foley repaired USED PICKUP Toyota Tacoma TRD Pro 2014 and made it LIKE_NEW (earned $150.00 bonus)
+MECHANIC Dion Scott repaired BROKEN PICKUP GMC Canyon 2020 and made it USED (earned $150.00 bonus)
+MECHANIC Dion Scott repaired USED PICKUP GMC Canyon 2020 and made it LIKE_NEW (earned $150.00 bonus)
+SALESPERSON Rhett Kennedy sold CLEAN LIKE_NEW Genesis GV60 2022 (220 miles) to Buyer unsuccessfully
+SALESPERSON Anastasia Ryan sold DIRTY USED Toyota Tundra 2012 to Buyer unsuccessfully
+SALESPERSON Anastasia Ryan sold CLEAN USED Vitacci Rover 2015 (3 Passengers & 10 hours chargingTime) to Buyer unsuccessfully
+SALESPERSON Anastasia Ryan (earned $350.00 bonus) sold CLEAN LIKE_NEW (PERFORMANCE_CAR) Dodge Viper 2017 to Buyer for $147613.99 + $47236.48 (ExtendedWarranty, Undercoating, RoadRescueCoverage, SatelliteRadio (addOns)).
+Added sale income $194850.47 to current balance
+SALESPERSON Zara Xiong (earned $500.00 bonus) sold DIRTY USED (MONSTER_TRUCK) Lucas Oil Crusader 5 to Buyer for $98977.59 + $6928.43 (RoadRescueCoverage, SatelliteRadio (addOns)).
+Added sale income $105906.02 to current balance
+SALESPERSON Zara Conrad (earned $600.00 bonus) sold DIRTY LIKE_NEW (DOZER) Kubota 2011 (837 HorsePower) to Buyer for $145375.92 + $7268.80 (Undercoating (addOns)).
+Added sale income $152644.72 to current balance
+SALESPERSON Zara Conrad sold CLEAN LIKE_NEW Ferrari Daytona 2019 to Buyer unsuccessfully
+SALESPERSON Aarav Pineda (earned $600.00 bonus) sold SPARKLING USED (DOZER) Terex 2020 (624 HorsePower) to Buyer for $143731.20 + $10061.18 (RoadRescueCoverage, SatelliteRadio (addOns)).
+Added sale income $153792.38 to current balance
 Total salary payout increased by $1500.00
-Total bonuses payout increased by $675.00
-INTERN Gordon Barry received $80.00 (salary) and $75.00 (bonuses)
-INTERN Frances Herman received $80.00 (salary) and $0.00 (bonuses)
-MECHANIC Morgan Vaughn received $120.00 (salary) and $200.00 (bonuses)
-MECHANIC Riley Moody received $120.00 (salary) and $100.00 (bonuses)
-SALESPERSON Miley Waters received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Olivia Acevedo received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Bellamy Meyer received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Eliezer Carroll received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Paulina Duffy received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Bailee Waters received $150.00 (salary) and $0.00 (bonuses)
-MECHANIC Kaliyah Newton received $120.00 (salary) and $300.00 (bonuses)
-INTERN Calliope Barry received $80.00 (salary) and $0.00 (bonuses)
+Total bonuses payout increased by $900.00
+INTERN Maxwell Fleming received $80.00 (salary) and $0.00 (bonuses)
+INTERN Arya Moody received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Maxwell Kelley received $120.00 (salary) and $200.00 (bonuses)
+MECHANIC Cade O’Donnell received $120.00 (salary) and $200.00 (bonuses)
+MECHANIC Dalton Parsons received $120.00 (salary) and $150.00 (bonuses)
+SALESPERSON Silas Porter received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Rhett Kennedy received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Gordon Bryan received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Remy Person received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Keyla Dickson received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Anastasia Ryan received $150.00 (salary) and $350.00 (bonuses)
+INTERN Joel Ho received $80.00 (salary) and $0.00 (bonuses)
 Total salary payout increased by $1500.00
-Total bonuses payout increased by $520.00
-INTERN Silas Graham received $80.00 (salary) and $0.00 (bonuses)
-INTERN Braelynn Rivers received $80.00 (salary) and $0.00 (bonuses)
-INTERN Arya Spence received $80.00 (salary) and $0.00 (bonuses)
-MECHANIC Gerardo Calhoun received $120.00 (salary) and $200.00 (bonuses)
-MECHANIC Dion Frazier received $120.00 (salary) and $100.00 (bonuses)
-MECHANIC Keyla Casey received $120.00 (salary) and $100.00 (bonuses)
-SALESPERSON Gloriay Waters received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Emory Scott received $150.00 (salary) and $120.00 (bonuses)
-SALESPERSON Amara Meyers received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Paulina Singh received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Darius Singh received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Gary Chang received $150.00 (salary) and $0.00 (bonuses)
+Total bonuses payout increased by $2500.00
+INTERN Bentlee Petersen received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Emory Zimmerman received $120.00 (salary) and $200.00 (bonuses)
+MECHANIC Moses Foley received $120.00 (salary) and $250.00 (bonuses)
+SALESPERSON Zara Xiong received $150.00 (salary) and $500.00 (bonuses)
+SALESPERSON Aarav Pineda received $150.00 (salary) and $600.00 (bonuses)
+DRIVER Morgan Alexander received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Sawyer Ramos received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Frances Foley received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Dion Scott received $120.00 (salary) and $300.00 (bonuses)
+SALESPERSON Zara Conrad received $150.00 (salary) and $600.00 (bonuses)
+INTERN Emmalynn Jimenez received $80.00 (salary) and $0.00 (bonuses)
+INTERN Claire Kennedy received $80.00 (salary) and $50.00 (bonuses)
