@@ -22,6 +22,7 @@ New class diagram includes new patterns (Factory, Command, Singleton) along with
 - If all vehicles are Broken, Salesperson can take a break that day
 - If no vehicles for Racing, Driver can take a break that day
 - Buyers are first come, first served
+- Initial balance is increased to 3 million instead of 500,000
 ## Output
 - 30-day simulation outputs includes 2 FNCDs running in parallel (with new vehicle types) and it is stored in *SlimResults.txt* at root level.
 - 31st day output for user interface simulation
