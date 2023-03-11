@@ -1,34 +1,59 @@
-INTERN Emory Cabrera wash (DetailedWashing) PICKUP Ford Ranger 2022 and made it DIRTY
-INTERN Emory Cabrera wash (DetailedWashing) PICKUP Ford Ranger 2022 and made it CLEAN
-INTERN Samson Reid wash (DetailedWashing) PICKUP Mahindra Bolero Camper 2022 and made it CLEAN
-INTERN Samson Reid wash (DetailedWashing) MONSTER_TRUCK Sudden Impact 13 and made it CLEAN
-INTERN Anaya Tate wash (DetailedWashing) MONSTER_TRUCK USA-1 1 and made it CLEAN
-INTERN Anaya Tate wash (DetailedWashing) PARAMOTOR Nirvana 2022 (9624  feet maximumAltitude & 27 mile/hour maximumCruisingAirSpeed) with QUAD_WHEEL_LAUNCHER  and made it CLEAN
-MECHANIC Aurora Leonard repaired USED MONSTER_TRUCK USA-1 1 and made it LIKE_NEW (earned $500.00 bonus)
-MECHANIC Aurora Leonard repaired BROKEN DOZER Manitou 2017 (856 HorsePower) and made it USED (earned $600.00 bonus)
-MECHANIC Mohammad Myers repaired USED DOZER Manitou 2017 (856 HorsePower) and made it LIKE_NEW (earned $600.00 bonus)
-MECHANIC Mohammad Myers repaired USED DOZER Komatsu 2019 (486 HorsePower) unsuccessfully
-MECHANIC Bentlee Yu repaired USED DOZER Komatsu 2019 (486 HorsePower) unsuccessfully
-MECHANIC Bentlee Yu repaired USED DOZER Komatsu 2019 (486 HorsePower) and made it LIKE_NEW (earned $600.00 bonus)
-SALESPERSON Anaya O’Donnell sold CLEAN LIKE_NEW Mahindra Bolero Camper 2022 to Buyer unsuccessfully
-SALESPERSON Emmalynn Xiong (earned $160.00 bonus) sold SPARKLING LIKE_NEW (CAR) Kia K5 2010 to Buyer for $70238.47 + $22476.31 (ExtendedWarranty, Undercoating, RoadRescueCoverage, SatelliteRadio (addOns)).
-Added sale income $92714.78 to current balance
-SALESPERSON Arielle Stuart sold DIRTY USED Flat Otto 2023 (11635  feet maximumAltitude & 37 mile/hour maximumCruisingAirSpeed) with QUAD_WHEEL_LAUNCHER  to Buyer unsuccessfully
-SALESPERSON Arielle Stuart (earned $350.00 bonus) sold CLEAN LIKE_NEW (PERFORMANCE_CAR) Maserati MC20 2021 to Buyer for $71547.61 + $1430.95 (RoadRescueCoverage (addOns)).
-Added sale income $72978.56 to current balance
-SALESPERSON Arielle Stuart sold CLEAN LIKE_NEW Fiat 500e 2023 (226 miles) to Buyer for $91216.48 without any addOns (earned $300.00 bonus)
-Added sale income $91216.48 to current balance
+Purchased LIKE_NEW, DIRTY PERFORMANCE_CAR Maserati MC20 2012 for $ 22180.33
+Purchased BROKEN, DIRTY PERFORMANCE_CAR Ford Mustang Shelby GT500 2013 for $ 14513.40
+Purchased BROKEN, DIRTY CAR Audi A3 2011 for $ 9249.02
+Purchased BROKEN, DIRTY GOLF_CART Club Car Onward 2012 (7 Passengers & 8 hours chargingTime) for $ 8233.49
+INTERN Calliope Barry wash (ElbowGreaseWashing) MONSTER_TRUCK Sudden Impact 11 and made it CLEAN
+INTERN Calliope Barry wash (ElbowGreaseWashing) MONSTER_TRUCK Bear Foot (2xtreme) 7 and made it CLEAN
+INTERN Jamal Fleming wash (ElbowGreaseWashing) DOZER Manitou 2018 (881 HorsePower) and made it CLEAN
+INTERN Jamal Fleming wash (ElbowGreaseWashing) DOZER Kioti 2011 (923 HorsePower) and made it DIRTY
+INTERN Ansley Reed wash (ElbowGreaseWashing) DOZER Kioti 2011 (923 HorsePower) and made it CLEAN
+INTERN Ansley Reed wash (ElbowGreaseWashing) DOZER Caterpillar 2016 (866 HorsePower) and made it CLEAN
+INTERN Arya Spence wash (ChemicalWashing) MOTORCYCLE Suzuki 2017 (829 CC engine) and made it CLEAN
+INTERN Arya Spence wash (ChemicalWashing) MOTORCYCLE Zero 2012 (769 CC engine) and made it SPARKLING (earned 25.00 bonus)
+INTERN Kaliyah Carroll wash (ChemicalWashing) MOTORCYCLE Hyosung 2022 (453 CC engine) and made it DIRTY
+INTERN Kaliyah Carroll wash (ChemicalWashing) MOTORCYCLE Hyosung 2022 (453 CC engine) and made it CLEAN
+INTERN Jovanni Rangel wash (DetailedWashing) MONSTER_TRUCK Grinder 12 and made it CLEAN
+INTERN Jovanni Rangel wash (DetailedWashing) GOLF_CART Garia Via Luxury Golf Car 2016 (4 Passengers & 10 hours chargingTime) and made it CLEAN
+MECHANIC Riley Moody repaired USED DOZER Caterpillar 2016 (866 HorsePower) and made it LIKE_NEW (earned $600.00 bonus)
+MECHANIC Riley Moody repaired BROKEN DOZER Hevi 2018 (930 HorsePower) unsuccessfully
+MECHANIC Kaliyah Newton repaired BROKEN DOZER Hevi 2018 (930 HorsePower) and made it USED (earned $600.00 bonus)
+MECHANIC Kaliyah Newton repaired USED DOZER Hevi 2018 (930 HorsePower) and made it LIKE_NEW (earned $600.00 bonus)
+MECHANIC Gordon Barry repaired USED PARAMOTOR FlatTop 2019 (5736  feet maximumAltitude & 24 mile/hour maximumCruisingAirSpeed) with QUAD_WHEEL_LAUNCHER  and made it LIKE_NEW (earned $60.00 bonus)
+MECHANIC Gordon Barry repaired BROKEN PARAMOTOR Air Conception Nitro 2022 (12135  feet maximumAltitude & 44 mile/hour maximumCruisingAirSpeed) with FOOT_LAUNCHER  and made it USED (earned $60.00 bonus)
+MECHANIC Dion Frazier repaired USED MONSTER_TRUCK Grinder 12 and made it LIKE_NEW (earned $500.00 bonus)
+MECHANIC Dion Frazier repaired USED MONSTER_TRUCK Backwards Bob 7 unsuccessfully
+MECHANIC Keyla Casey repaired USED MONSTER_TRUCK Backwards Bob 7 and made it LIKE_NEW (earned $500.00 bonus)
+MECHANIC Keyla Casey repaired USED MONSTER_TRUCK Monster Mutt 14 unsuccessfully
+MECHANIC Silas Graham repaired USED MONSTER_TRUCK Monster Mutt 14 and made it LIKE_NEW (earned $500.00 bonus)
+MECHANIC Silas Graham repaired USED MONSTER_TRUCK Monster Mutt Dalmatian 3 and made it LIKE_NEW (earned $500.00 bonus)
+SALESPERSON Olivia Acevedo sold CLEAN USED Club Car Villager 2010 (7 Passengers & 11 hours chargingTime) to Buyer unsuccessfully
+SALESPERSON Bellamy Meyer sold CLEAN LIKE_NEW Kawasaki 2010 (726 CC engine) to Buyer for $84362.59 without any addOns (earned $150.00 bonus)
+Added sale income $84362.59 to current balance
 Total salary payout increased by $1500.00
-Total bonuses payout increased by $3110.00
-MECHANIC Aurora Leonard received $120.00 (salary) and $1100.00 (bonuses)
-MECHANIC Mohammad Myers received $120.00 (salary) and $600.00 (bonuses)
-MECHANIC Bentlee Yu received $120.00 (salary) and $600.00 (bonuses)
-SALESPERSON Arielle Stuart received $150.00 (salary) and $650.00 (bonuses)
-SALESPERSON Anaya O’Donnell received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Dalton Tate received $150.00 (salary) and $0.00 (bonuses)
-INTERN Emory Cabrera received $80.00 (salary) and $0.00 (bonuses)
-DRIVER Gerardo Yu received $150.00 (salary) and $0.00 (bonuses)
-INTERN Samson Reid received $80.00 (salary) and $0.00 (bonuses)
-SALESPERSON Emmalynn Xiong received $150.00 (salary) and $160.00 (bonuses)
-INTERN Anaya Tate received $80.00 (salary) and $0.00 (bonuses)
-DRIVER Nathaniel Herman received $150.00 (salary) and $0.00 (bonuses)
+Total bonuses payout increased by $2070.00
+MECHANIC Riley Moody received $120.00 (salary) and $600.00 (bonuses)
+SALESPERSON Olivia Acevedo received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Bellamy Meyer received $150.00 (salary) and $150.00 (bonuses)
+DRIVER Eliezer Carroll received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Paulina Duffy received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Kaliyah Newton received $120.00 (salary) and $1200.00 (bonuses)
+INTERN Calliope Barry received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Gordon Barry received $120.00 (salary) and $120.00 (bonuses)
+INTERN Jamal Fleming received $80.00 (salary) and $0.00 (bonuses)
+DRIVER Lewis Hurley received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Frances Herman received $150.00 (salary) and $0.00 (bonuses)
+INTERN Ansley Reed received $80.00 (salary) and $0.00 (bonuses)
+Total salary payout increased by $1500.00
+Total bonuses payout increased by $2025.00
+INTERN Arya Spence received $80.00 (salary) and $25.00 (bonuses)
+MECHANIC Dion Frazier received $120.00 (salary) and $500.00 (bonuses)
+MECHANIC Keyla Casey received $120.00 (salary) and $500.00 (bonuses)
+SALESPERSON Emory Scott received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Amara Meyers received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Paulina Singh received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Darius Singh received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Gary Chang received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Silas Graham received $120.00 (salary) and $1000.00 (bonuses)
+INTERN Kaliyah Carroll received $80.00 (salary) and $0.00 (bonuses)
+SALESPERSON Braelynn Rivers received $150.00 (salary) and $0.00 (bonuses)
+INTERN Jovanni Rangel received $80.00 (salary) and $0.00 (bonuses)

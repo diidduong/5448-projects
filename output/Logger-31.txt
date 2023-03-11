@@ -1,34 +1,48 @@
-INTERN Amara Kennedy wash (ChemicalWashing) PICKUP Nissan Titan XD 2017 and made it CLEAN
-INTERN Amara Kennedy wash (ChemicalWashing) PARAMOTOR Parapower 2018 (12109  feet maximumAltitude & 46 mile/hour maximumCruisingAirSpeed) with QUAD_WHEEL_LAUNCHER  and made it CLEAN
-INTERN Blaine Ryan wash (ChemicalWashing) CAR Hyundai Sonata 2016 and made it CLEAN
-INTERN Blaine Ryan wash (ChemicalWashing) CAR Hyundai Sonata 2016 and made it CLEAN
-INTERN Angie Petersen wash (ChemicalWashing) CAR Hyundai Sonata 2016 and made it CLEAN
-INTERN Angie Petersen wash (ChemicalWashing) CAR Hyundai Sonata 2016 and made it CLEAN
+Purchased USED, DIRTY ELECTRIC_CAR MINI Cooper SE 2010 (140 miles) for $ 27042.77
+Purchased LIKE_NEW, DIRTY DOZER Terex 2023 (262 HorsePower) for $ 26997.31
+Purchased LIKE_NEW, DIRTY PARAMOTOR Fly Products Rider 2020 (10623  feet maximumAltitude & 32 mile/hour maximumCruisingAirSpeed) with QUAD_WHEEL_LAUNCHER  for $ 7210.02
+Purchased LIKE_NEW, DIRTY GOLF_CART Vitacci Rover 2015 (5 Passengers & 12 hours chargingTime) for $ 7891.28
+Purchased BROKEN, DIRTY GOLF_CART Yamaha Adventurer Super Hauler 2023 (7 Passengers & 12 hours chargingTime) for $ 9162.80
+INTERN Emery Singh wash (ChemicalWashing) ELECTRIC_CAR MINI Cooper SE 2010 (140 miles) and made it CLEAN
+INTERN Emery Singh wash (ChemicalWashing) DOZER Terex 2023 (262 HorsePower) and made it SPARKLING (earned 300.00 bonus)
+INTERN Adalynn Simpson wash (ElbowGreaseWashing) PARAMOTOR Fly Products Rider 2020 (10623  feet maximumAltitude & 32 mile/hour maximumCruisingAirSpeed) with QUAD_WHEEL_LAUNCHER  and made it CLEAN
+INTERN Adalynn Simpson wash (ElbowGreaseWashing) GOLF_CART Vitacci Rover 2015 (5 Passengers & 12 hours chargingTime) and made it CLEAN
+INTERN Gerardo Foley wash (ChemicalWashing) CAR Audi A3 2020 and made it SPARKLING (earned 50.00 bonus)
+INTERN Gerardo Foley wash (ChemicalWashing) PICKUP Ford Maverick 2017 and made it SPARKLING (earned 100.00 bonus)
+INTERN Ari Maldonado wash (DetailedWashing) MOTORCYCLE Moto Guzzi 2016 (604 CC engine) and made it CLEAN
+INTERN Ari Maldonado wash (DetailedWashing) GOLF_CART Yamaha Adventurer Super Hauler 2023 (7 Passengers & 12 hours chargingTime) and made it CLEAN
+INTERN Ariyah Faulkner wash (ElbowGreaseWashing) ELECTRIC_CAR Polestar 2012 (186 miles) and made it CLEAN
+INTERN Ariyah Faulkner wash (ElbowGreaseWashing) ELECTRIC_CAR Polestar 2012 (186 miles) and made it SPARKLING (earned 120.00 bonus)
+INTERN Bentlee Salinas wash (ElbowGreaseWashing) MOTORCYCLE Indian 2019 (1113 CC engine) and made it SPARKLING (earned 25.00 bonus)
+INTERN Bentlee Salinas wash (ElbowGreaseWashing) MOTORCYCLE Kawasaki 2011 (263 CC engine) and made it CLEAN
+MECHANIC Jamal Fleming repaired USED ELECTRIC_CAR MINI Cooper SE 2010 (140 miles) and made it LIKE_NEW (earned $300.00 bonus)
+MECHANIC Harry Calhoun repaired BROKEN GOLF_CART Yamaha Adventurer Super Hauler 2023 (7 Passengers & 12 hours chargingTime) and made it USED (earned $75.00 bonus)
+MECHANIC Harry Calhoun repaired USED GOLF_CART Yamaha Adventurer Super Hauler 2023 (7 Passengers & 12 hours chargingTime) and made it LIKE_NEW (earned $75.00 bonus)
 Total salary payout increased by $1500.00
-Total bonuses payout increased by $0.00
-DRIVER Demi Pollard received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Ariyah Hart received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Jaycee Porter received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Bailee Galindo received $150.00 (salary) and $0.00 (bonuses)
-MECHANIC Harry Fletcher received $120.00 (salary) and $0.00 (bonuses)
-SALESPERSON Oakley Lester received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Claire Cruz received $150.00 (salary) and $0.00 (bonuses)
-MECHANIC Easton Maldonado received $120.00 (salary) and $0.00 (bonuses)
-INTERN Gerardo Cabrera received $80.00 (salary) and $0.00 (bonuses)
-INTERN Dilan Maldonado received $80.00 (salary) and $0.00 (bonuses)
-MECHANIC Alice Reid received $120.00 (salary) and $0.00 (bonuses)
-INTERN Kaliyah Rowland received $80.00 (salary) and $0.00 (bonuses)
+Total bonuses payout increased by $750.00
+DRIVER Paulina Duffy received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Dalton Porter received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Jamal Fleming received $120.00 (salary) and $300.00 (bonuses)
+SALESPERSON Ansley Reed received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Tiffany Cabrera received $120.00 (salary) and $0.00 (bonuses)
+MECHANIC Ansley Calhoun received $120.00 (salary) and $0.00 (bonuses)
+DRIVER Rhett Chang received $150.00 (salary) and $0.00 (bonuses)
+INTERN Emery Singh received $80.00 (salary) and $300.00 (bonuses)
+SALESPERSON Amayah McCormick received $150.00 (salary) and $0.00 (bonuses)
+INTERN Adalynn Simpson received $80.00 (salary) and $0.00 (bonuses)
+SALESPERSON Easton Chang received $150.00 (salary) and $0.00 (bonuses)
+INTERN Gerardo Foley received $80.00 (salary) and $150.00 (bonuses)
 Total salary payout increased by $1500.00
-Total bonuses payout increased by $0.00
-MECHANIC Bentlee Yu received $120.00 (salary) and $0.00 (bonuses)
-SALESPERSON Emmalynn Xiong received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Emory Cabrera received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Gloriay Leonard received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Samson Reid received $150.00 (salary) and $0.00 (bonuses)
-INTERN Amara Kennedy received $80.00 (salary) and $0.00 (bonuses)
-MECHANIC Anaya Tate received $120.00 (salary) and $0.00 (bonuses)
-INTERN Blaine Ryan received $80.00 (salary) and $0.00 (bonuses)
-DRIVER Jericho McCormick received $150.00 (salary) and $0.00 (bonuses)
-MECHANIC Fernando Cortez received $120.00 (salary) and $0.00 (bonuses)
-INTERN Angie Petersen received $80.00 (salary) and $0.00 (bonuses)
-DRIVER Keyla Fuller received $150.00 (salary) and $0.00 (bonuses)
+Total bonuses payout increased by $295.00
+SALESPERSON Amara Meyers received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Darius Singh received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Braelynn Rivers received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Jovanni Rangel received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Harry Calhoun received $120.00 (salary) and $150.00 (bonuses)
+MECHANIC Emory Vo received $120.00 (salary) and $0.00 (bonuses)
+INTERN Ari Maldonado received $80.00 (salary) and $0.00 (bonuses)
+INTERN Ariyah Faulkner received $80.00 (salary) and $120.00 (bonuses)
+MECHANIC Amara Moody received $120.00 (salary) and $0.00 (bonuses)
+INTERN Bentlee Salinas received $80.00 (salary) and $25.00 (bonuses)
+DRIVER Jericho Kelley received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Gary O’Connell received $150.00 (salary) and $0.00 (bonuses)

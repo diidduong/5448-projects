@@ -8,6 +8,7 @@ import tracking.Logger;
 import tracking.Message;
 import tracking.Tracker;
 import vehicle.Vehicle;
+import vehicle.VehicleFactory;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -47,7 +48,9 @@ public class FNCDAdministration {
 
     ArrayList<Staff> departedStaffs = new ArrayList<>();
 
-
+    ArrayList<Integer> totalVehicleSoldByDay = new ArrayList<>();
+    ArrayList<Double> totalMoneyEarnedByStaffByDay = new ArrayList<>();
+    ArrayList<Double> totalMoneyEarnedByFNCDByDay = new ArrayList<>();
 
     private Salesperson selectedSalesPerson;
 
@@ -60,9 +63,6 @@ public class FNCDAdministration {
     }
 
     Budget budget = new Budget(INITIAL_BALANCE);
-
-
-
 
     Inventory inventory = new Inventory();
 
@@ -117,7 +117,7 @@ public class FNCDAdministration {
      * @param type vehicle type
      */
     public void purchaseVehicle(Vehicle.VehicleType type) {
-        Vehicle vehicle = Vehicle.createVehicleByType(type);
+        Vehicle vehicle = VehicleFactory.createVehicle(type); // use Factory to create new vehicle
 
         double cost = vehicle.getInitialCost();
         // add reserve balance if not enough money
@@ -159,7 +159,7 @@ public class FNCDAdministration {
 
         // Subscribe tracker at the beginning of simulation
         publisher = new EventPublisher();
-        tracker = new Tracker();
+        tracker = Tracker.getInstance();
         publisher.addSubscriber(tracker);
 
         // Hire all staffs
@@ -194,7 +194,7 @@ public class FNCDAdministration {
      */
     public void operateByDay(){
             // initialization of daily logger
-            logger = new Logger(day);
+            logger = Logger.getInstance();
             publisher.addSubscriber(logger);
             // Set day for logger and tracker
             logger.setDay(day);
@@ -240,7 +240,7 @@ public class FNCDAdministration {
 
     public void operateBeforeUserInterfaceSelling() {
             // initialization of daily logger
-            logger = new Logger(day);
+            logger = Logger.getInstance();
             publisher.addSubscriber(logger);
             // Set day for logger and tracker
             logger.setDay(day);
@@ -455,6 +455,11 @@ public class FNCDAdministration {
                 departedStaffs.add(staff);
             }
         }
+
+        // save daily record for graphing chart
+        totalVehicleSoldByDay.add(inventory.getSoldVehicles().size());
+        totalMoneyEarnedByStaffByDay.add(budget.getSalaries()+ budget.getBonuses());
+        totalMoneyEarnedByFNCDByDay.add(budget.getSalesIncome());
     }
 
     /**
@@ -513,7 +518,7 @@ public class FNCDAdministration {
      * method for hiring new staff
      */
     public void hireStaff(Staff.JobTitle title){
-        Staff newStaff = Staff.createStaffByType(title);
+        Staff newStaff = StaffFactory.createStaff(title); // use Factory to create new staff
         staffs.add(newStaff);
 
         // Output new hire event
@@ -524,7 +529,7 @@ public class FNCDAdministration {
      * method that promotes an intern in case of a given staff quited
      */
     public void promoteStaff(Staff staff, Staff.JobTitle title){
-        Staff newStaff = Staff.createStaffByType(title);
+        Staff newStaff = StaffFactory.createStaff(title); // use Factory to create new staff
 
         newStaff.setName(staff.getName());
         newStaff.setSalary(staff.getSalary());

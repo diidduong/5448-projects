@@ -12,7 +12,7 @@ public class Main {
 
         FNCDAdministration fncdNorth =new FNCDAdministration("North");
         FNCDAdministration fncdSouth =new FNCDAdministration("South");
-        Simulator simulator = new Simulator(21); //endDay for automated operation
+        Simulator simulator = new Simulator(30); //endDay for automated operation
         simulator.addFNCD(fncdNorth);
         simulator.addFNCD(fncdSouth);
         simulator.simulate();

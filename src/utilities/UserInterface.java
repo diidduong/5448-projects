@@ -2,8 +2,6 @@ package utilities;
 
 import command.*;
 
-import java.nio.charset.StandardCharsets;
-import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Scanner;
 

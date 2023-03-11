@@ -1,11 +1,15 @@
 # FNCD Simulation
-**CU CSCI 5448 Project 3**\
+**CU CSCI 5448 Project 4**\
 **Author: Duy Duong, Ahmed.H.Biby**
 
 # Implementation
-We use IntelliJ IDE with Java 8 for our development and Junit 5 for some initial testing. Our source code are inside /src folder. Our test code are inside */test* folder. To run this project, you need to include Junit5 in external libraries, and set /src as root source in order to build and run.
+We use IntelliJ IDE with Java 8 for our development and Junit 5 for some initial testing. Our source code are inside /src folder. Our test code are inside */test* folder. Our external library jars are inside */lib* folder. 
+
+There are dependencies required to run this project. You need to include **Junit5** in external libraries. Also, we now use **XChart** library to display cumulative data day by day for whole simulation. You need to include jar files in the project by go to File -> Project Structure, inside Modules tab, hit (+) sign to add JARS or Directories which is */lib* folder. 
+
+When everything is installed, set /src folder as root source then you can build and run the Main.
 # Testing
-All test files are store in */test* folder. There are current 5 test files with 22 assertions. To run all tests, you need to mark the folder as Test Sources Root, then right-click on the */test* folder, select option "Run All Tests" or use shortcut Ctrl+Shift+F10. *test-output.png* shows how the output should look like in IDE.
+All test files are store in */test* folder. There are now 7 test files with 28 assertions. To run all tests, you need to mark the folder as Test Sources Root, then right-click on the */test* folder, select option "Run All Tests" or use shortcut Ctrl+Shift+F10. *test-output.png* shows how the output should look like in IDE.
 
 ## UML Link
 This includes updated version of class diagram (New Class Diagram), old class diagram, and activity diagram. https://drive.google.com/file/d/1zm3C6x2kGjLA6jJz4KAAFQIG-kwMj9kh/view?usp=sharing. 
@@ -19,6 +23,7 @@ New class diagram combines *Registry* class into Observer pattern since they are
 - If no vehicles for Racing, Driver can take a break that day
 - Buyers are first come, first served
 ## Output
-- 30-day simulation output including new events (ie. washing methods used, racing events, sale bundle result, and daily Tracker summary) is stored in *SlimResults.txt* at root level.
-- All log events for each day are stored in *output/Logger-\*.txt*. There will be 30 log files in total.
-
+- 30-day simulation outputs includes 2 FNCDs running in parallel (with new vehicle types) and it is stored in *SlimResults.txt* at root level.
+- 31st day output for user interface simulation
+- All log events for each day are stored in *output/Logger-\*.txt*. There will be 31 log files in total.
+- Two PNG images (*chart-North.png* and *chart-South.png*) contains chart of cumulative data for each FNCD 

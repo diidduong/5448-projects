@@ -1,42 +1,72 @@
-Purchased USED, CLEAN PERFORMANCE_CAR Ford Mustang Shelby GT500 2021 for $ 24799.97
-Purchased LIKE_NEW, CLEAN MOTORCYCLE Aprilia 2019 (866 CC engine) for $ 14511.93
-Purchased LIKE_NEW, CLEAN MONSTER_TRUCK WCW Nitro Machine 5 for $ 43959.32
-Purchased BROKEN, CLEAN DOZER Doosan Infracore 2019 (576 HorsePower) for $ 11414.77
-Purchased USED, SPARKLING DOZER Mulch 2013 (942 HorsePower) for $ 20042.26
-Purchased LIKE_NEW, CLEAN DOZER Kubota 2014 (958 HorsePower) for $ 20168.29
-INTERN Samson Reid wash (DetailedWashing) PARAMOTOR Adventure 2020 (9777  feet maximumAltitude & 46 mile/hour maximumCruisingAirSpeed) with QUAD_WHEEL_LAUNCHER  and made it DIRTY
-INTERN Samson Reid wash (DetailedWashing) PARAMOTOR Adventure 2020 (9777  feet maximumAltitude & 46 mile/hour maximumCruisingAirSpeed) with QUAD_WHEEL_LAUNCHER  and made it DIRTY
-INTERN Anaya Tate wash (DetailedWashing) PARAMOTOR Adventure 2020 (9777  feet maximumAltitude & 46 mile/hour maximumCruisingAirSpeed) with QUAD_WHEEL_LAUNCHER  and made it CLEAN
-INTERN Anaya Tate wash (DetailedWashing) GOLF_CART Garia Via Luxury Golf Car 2017 (4 Passengers & 11 hours chargingTime) and made it SPARKLING (earned 30.00 bonus)
-INTERN Fernando Cortez wash (DetailedWashing) DOZER Sandvik 2014 (729 HorsePower) and made it DIRTY
-INTERN Fernando Cortez wash (DetailedWashing) DOZER Sandvik 2014 (729 HorsePower) and made it SPARKLING (earned 300.00 bonus)
-MECHANIC Aurora Leonard repaired BROKEN DOZER Case 2013 (495 HorsePower) and made it USED (earned $600.00 bonus)
-MECHANIC Aurora Leonard repaired USED DOZER Case 2013 (495 HorsePower) and made it LIKE_NEW (earned $600.00 bonus)
-MECHANIC Mohammad Myers repaired BROKEN MONSTER_TRUCK Sudden Impact 10 and made it USED (earned $500.00 bonus)
-MECHANIC Mohammad Myers repaired USED MONSTER_TRUCK Sudden Impact 10 and made it LIKE_NEW (earned $500.00 bonus)
-MECHANIC Bentlee Yu repaired BROKEN PICKUP Toyota Tundra 2020 unsuccessfully
-MECHANIC Bentlee Yu repaired BROKEN PICKUP Toyota Tundra 2020 unsuccessfully
-SALESPERSON Emory Cabrera sold CLEAN LIKE_NEW Honda Ridgeline 2022 to Buyer unsuccessfully
-SALESPERSON Emory Cabrera sold CLEAN LIKE_NEW Adventure 2020 (9777  feet maximumAltitude & 46 mile/hour maximumCruisingAirSpeed) with QUAD_WHEEL_LAUNCHER  to Buyer unsuccessfully
-SALESPERSON Emory Cabrera (earned $160.00 bonus) sold CLEAN LIKE_NEW (CAR) Kia K5 2023 to Buyer for $55620.75 + $11124.15 (ExtendedWarranty (addOns)).
-Added sale income $66744.90 to current balance
-SALESPERSON Emory Cabrera sold SPARKLING LIKE_NEW Swamp Thing 15 to Buyer for $141878.23 without any addOns (earned $500.00 bonus)
-Added sale income $141878.23 to current balance
-SALESPERSON Emmalynn Xiong (earned $600.00 bonus) sold DIRTY LIKE_NEW (DOZER) Case 2013 (495 HorsePower) to Buyer for $279041.34 + $19532.89 (Undercoating, RoadRescueCoverage (addOns)).
-Added sale income $298574.23 to current balance
-SALESPERSON Emory Cabrera (earned $150.00 bonus) sold CLEAN LIKE_NEW (MOTORCYCLE) Buell 2023 (1006 CC engine) to Buyer for $60386.17 + $3019.31 (SatelliteRadio (addOns)).
-Added sale income $63405.48 to current balance
+Purchased LIKE_NEW, DIRTY PERFORMANCE_CAR Toyota Supra Mark IV 2019 for $ 27037.31
+Purchased BROKEN, DIRTY PARAMOTOR Scout Enduro Cage 2018 (8522  feet maximumAltitude & 23 mile/hour maximumCruisingAirSpeed) with QUAD_WHEEL_LAUNCHER  for $ 3432.30
+Purchased USED, CLEAN CAR Dodge Charger 2014 for $ 14586.88
+Purchased USED, CLEAN ELECTRIC_CAR Nissan Leaf 2018 (184 miles) for $ 21703.51
+Purchased BROKEN, DIRTY ELECTRIC_CAR Tesla Model Y 2013 (218 miles) for $ 14916.52
+Purchased LIKE_NEW, CLEAN DOZER Kubota 2022 (335 HorsePower) for $ 27694.91
+Purchased LIKE_NEW, DIRTY PARAMOTOR Parajet the Volution 2019 (13106  feet maximumAltitude & 23 mile/hour maximumCruisingAirSpeed) with TRIKE_WHEEL_LAUNCHER  for $ 7694.48
+INTERN Tiffany Cabrera wash (ChemicalWashing) PERFORMANCE_CAR Maserati MC20 2023 and made it CLEAN
+INTERN Tiffany Cabrera wash (ChemicalWashing) PICKUP Toyota Tundra 2023 and made it CLEAN
+INTERN Cash Galindo wash (DetailedWashing) MOTORCYCLE Aprilia 2013 (595 CC engine) and made it CLEAN
+INTERN Cash Galindo wash (DetailedWashing) ELECTRIC_CAR Ford Mustang Mach-E 2019 (377 miles) and made it SPARKLING (earned 120.00 bonus)
+INTERN Ansley Calhoun wash (ChemicalWashing) PERFORMANCE_CAR Maserati MC20 2012 and made it CLEAN
+INTERN Ansley Calhoun wash (ChemicalWashing) PERFORMANCE_CAR Ford Mustang Shelby GT500 2013 and made it CLEAN
+INTERN Keyla Porter wash (DetailedWashing) PARAMOTOR Nimbus 2022 (8962  feet maximumAltitude & 35 mile/hour maximumCruisingAirSpeed) with QUAD_WHEEL_LAUNCHER  and made it CLEAN
+INTERN Keyla Porter wash (DetailedWashing) PARAMOTOR BlackHawk 2014 (5764  feet maximumAltitude & 46 mile/hour maximumCruisingAirSpeed) with QUAD_WHEEL_LAUNCHER  and made it CLEAN
+INTERN Ashlynn Quintero wash (ChemicalWashing) PARAMOTOR Kobra PPG 2020 (14515  feet maximumAltitude & 46 mile/hour maximumCruisingAirSpeed) with TRIKE_WHEEL_LAUNCHER  and made it CLEAN
+INTERN Ashlynn Quintero wash (ChemicalWashing) PARAMOTOR Custom-Air 2018 (5304  feet maximumAltitude & 23 mile/hour maximumCruisingAirSpeed) with FOOT_LAUNCHER  and made it CLEAN
+INTERN Harry Calhoun wash (ElbowGreaseWashing) GOLF_CART Star EV 2016 (6 Passengers & 11 hours chargingTime) and made it DIRTY
+INTERN Harry Calhoun wash (ElbowGreaseWashing) GOLF_CART Star EV 2016 (6 Passengers & 11 hours chargingTime) and made it CLEAN
+MECHANIC Gordon Barry repaired USED MOTORCYCLE Aprilia 2013 (595 CC engine) and made it LIKE_NEW (earned $80.00 bonus)
+MECHANIC Gordon Barry repaired BROKEN ELECTRIC_CAR Ford Mustang Mach-E 2019 (377 miles) and made it USED (earned $300.00 bonus)
+MECHANIC Calliope Barry repaired USED ELECTRIC_CAR Ford Mustang Mach-E 2019 (377 miles) and made it LIKE_NEW (earned $300.00 bonus)
+MECHANIC Calliope Barry repaired BROKEN PERFORMANCE_CAR Ford Mustang Shelby GT500 2013 and made it USED (earned $200.00 bonus)
+MECHANIC Jamal Fleming repaired USED PERFORMANCE_CAR Ford Mustang Shelby GT500 2013 and made it LIKE_NEW (earned $200.00 bonus)
+MECHANIC Jamal Fleming repaired BROKEN CAR Audi A3 2011 and made it USED (earned $100.00 bonus)
+MECHANIC Keyla Casey repaired BROKEN GOLF_CART Yamaha Drive 2 PTV 2019 (6 Passengers & 5 hours chargingTime) and made it USED (earned $75.00 bonus)
+MECHANIC Keyla Casey repaired USED GOLF_CART Yamaha Drive 2 PTV 2019 (6 Passengers & 5 hours chargingTime) and made it LIKE_NEW (earned $75.00 bonus)
+MECHANIC Silas Graham repaired BROKEN GOLF_CART Cushman Shuttle 2021 (4 Passengers & 12 hours chargingTime) and made it USED (earned $75.00 bonus)
+MECHANIC Silas Graham repaired USED GOLF_CART Cushman Shuttle 2021 (4 Passengers & 12 hours chargingTime) and made it LIKE_NEW (earned $75.00 bonus)
+MECHANIC Kaliyah Carroll repaired USED DOZER Toro 2013 (290 HorsePower) and made it LIKE_NEW (earned $600.00 bonus)
+MECHANIC Kaliyah Carroll repaired BROKEN PICKUP Nissan Frontier 2015 and made it USED (earned $150.00 bonus)
+SALESPERSON Ansley Reed sold CLEAN LIKE_NEW GMC Canyon 2011 to Buyer unsuccessfully
+SALESPERSON Frances Herman sold CLEAN LIKE_NEW GMC Canyon 2011 to Buyer for $80835.93 without any addOns (earned $220.00 bonus)
+Added sale income $80835.93 to current balance
+SALESPERSON Bellamy Meyer sold CLEAN LIKE_NEW Maserati MC20 2023 to Buyer unsuccessfully
+SALESPERSON Bellamy Meyer (earned $600.00 bonus) sold CLEAN LIKE_NEW (DOZER) Hevi 2018 (930 HorsePower) to Buyer for $211335.06 + $14793.45 (RoadRescueCoverage, SatelliteRadio (addOns)).
+Added sale income $226128.52 to current balance
+SALESPERSON Amara Meyers (earned $160.00 bonus) sold SPARKLING LIKE_NEW (CAR) Lucid Air 2017 to Buyer for $70013.42 + $17503.35 (ExtendedWarranty, SatelliteRadio (addOns)).
+Added sale income $87516.77 to current balance
+SALESPERSON Braelynn Rivers sold CLEAN LIKE_NEW Kia EV6 2017 (315 miles) to Buyer unsuccessfully
+SALESPERSON Amara Meyers sold CLEAN LIKE_NEW Manitou 2022 (542 HorsePower) to Buyer unsuccessfully
+SALESPERSON Jovanni Rangel sold CLEAN LIKE_NEW Mitsubishi Eclipse 2011 to Buyer unsuccessfully
+SALESPERSON Jovanni Rangel (earned $80.00 bonus) sold CLEAN LIKE_NEW (PARAMOTOR) BlackHawk 2014 (5764  feet maximumAltitude & 46 mile/hour maximumCruisingAirSpeed) with QUAD_WHEEL_LAUNCHER  to Buyer for $23413.54 + $5150.98 (ExtendedWarranty, RoadRescueCoverage (addOns)).
+Added sale income $28564.52 to current balance
 Total salary payout increased by $1500.00
-Total bonuses payout increased by $3940.00
-MECHANIC Aurora Leonard received $120.00 (salary) and $1200.00 (bonuses)
-MECHANIC Mohammad Myers received $120.00 (salary) and $1000.00 (bonuses)
-MECHANIC Bentlee Yu received $120.00 (salary) and $0.00 (bonuses)
-SALESPERSON Anaya O’Donnell received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Dalton Tate received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Gerardo Yu received $150.00 (salary) and $0.00 (bonuses)
-INTERN Samson Reid received $80.00 (salary) and $0.00 (bonuses)
-SALESPERSON Emmalynn Xiong received $150.00 (salary) and $600.00 (bonuses)
-INTERN Anaya Tate received $80.00 (salary) and $30.00 (bonuses)
-DRIVER Nathaniel Herman received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Emory Cabrera received $150.00 (salary) and $810.00 (bonuses)
-INTERN Fernando Cortez received $80.00 (salary) and $300.00 (bonuses)
+Total bonuses payout increased by $2120.00
+SALESPERSON Bellamy Meyer received $150.00 (salary) and $600.00 (bonuses)
+DRIVER Paulina Duffy received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Gordon Barry received $120.00 (salary) and $380.00 (bonuses)
+DRIVER Lewis Hurley received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Frances Herman received $150.00 (salary) and $220.00 (bonuses)
+MECHANIC Calliope Barry received $120.00 (salary) and $500.00 (bonuses)
+INTERN Tiffany Cabrera received $80.00 (salary) and $0.00 (bonuses)
+DRIVER Dalton Porter received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Jamal Fleming received $120.00 (salary) and $300.00 (bonuses)
+INTERN Cash Galindo received $80.00 (salary) and $120.00 (bonuses)
+SALESPERSON Ansley Reed received $150.00 (salary) and $0.00 (bonuses)
+INTERN Ansley Calhoun received $80.00 (salary) and $0.00 (bonuses)
+Total salary payout increased by $1500.00
+Total bonuses payout increased by $1290.00
+MECHANIC Keyla Casey received $120.00 (salary) and $150.00 (bonuses)
+SALESPERSON Amara Meyers received $150.00 (salary) and $160.00 (bonuses)
+DRIVER Paulina Singh received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Darius Singh received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Gary Chang received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Silas Graham received $120.00 (salary) and $150.00 (bonuses)
+SALESPERSON Braelynn Rivers received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Kaliyah Carroll received $120.00 (salary) and $750.00 (bonuses)
+INTERN Keyla Porter received $80.00 (salary) and $0.00 (bonuses)
+INTERN Ashlynn Quintero received $80.00 (salary) and $0.00 (bonuses)
+SALESPERSON Jovanni Rangel received $150.00 (salary) and $80.00 (bonuses)
+INTERN Harry Calhoun received $80.00 (salary) and $0.00 (bonuses)

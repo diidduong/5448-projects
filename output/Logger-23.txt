@@ -1,33 +1,56 @@
-Purchased USED, DIRTY ELECTRIC_CAR Mercedes-Benz EQS-Class 2013 (373 miles) for $ 20020.58
-Purchased USED, DIRTY DOZER XCMG 2014 (281 HorsePower) for $ 48795.64
-INTERN Amara Kennedy wash (ChemicalWashing) MOTORCYCLE Beta 2022 (448 CC engine) and made it CLEAN
-INTERN Amara Kennedy wash (ChemicalWashing) PARAMOTOR Scout Enduro Cage 2017 (9914  feet maximumAltitude & 26 mile/hour maximumCruisingAirSpeed) with TRIKE_WHEEL_LAUNCHER  and made it CLEAN
-INTERN Blaine Ryan wash (ChemicalWashing) ELECTRIC_CAR Mercedes-Benz EQS-Class 2013 (373 miles) and made it SPARKLING (earned 120.00 bonus)
-INTERN Blaine Ryan wash (ChemicalWashing) DOZER XCMG 2014 (281 HorsePower) and made it CLEAN
-INTERN Angie Petersen wash (ChemicalWashing) PERFORMANCE_CAR Toyota GR86 2017 and made it CLEAN
-INTERN Angie Petersen wash (ChemicalWashing) PERFORMANCE_CAR Toyota GR86 2017 and made it CLEAN
-MECHANIC Bentlee Yu repaired USED ELECTRIC_CAR Mercedes-Benz EQS-Class 2013 (373 miles) and made it LIKE_NEW (earned $300.00 bonus)
-MECHANIC Bentlee Yu repaired USED DOZER XCMG 2014 (281 HorsePower) and made it LIKE_NEW (earned $600.00 bonus)
-SALESPERSON Emory Cabrera (earned $300.00 bonus) sold CLEAN LIKE_NEW (ELECTRIC_CAR) Subaru Solterra 2014 (439 miles) to Buyer for $129035.52 + $2580.71 (RoadRescueCoverage (addOns)).
-Added sale income $131616.24 to current balance
-SALESPERSON Emory Cabrera sold CLEAN LIKE_NEW Hyundai Kona Electric 2012 (262 miles) to Buyer unsuccessfully
-SALESPERSON Samson Reid sold CLEAN LIKE_NEW Hyundai Kona Electric 2012 (262 miles) to Buyer unsuccessfully
-SALESPERSON Emmalynn Xiong sold CLEAN LIKE_NEW Club Car Villager 2023 (4 Passengers & 10 hours chargingTime) to Buyer unsuccessfully
-SALESPERSON Emmalynn Xiong (earned $220.00 bonus) sold CLEAN LIKE_NEW (PICKUP) Nissan Frontier 2023 to Buyer for $117004.10 + $14040.49 (Undercoating, RoadRescueCoverage, SatelliteRadio (addOns)).
-Added sale income $131044.59 to current balance
-SALESPERSON Samson Reid (earned $500.00 bonus) sold CLEAN LIKE_NEW (MONSTER_TRUCK) Sudden Impact 10 to Buyer for $226427.03 + $15849.89 (Undercoating, RoadRescueCoverage (addOns)).
-Added sale income $242276.92 to current balance
+Purchased USED, DIRTY MOTORCYCLE Husqvarna 2018 (801 CC engine) for $ 13579.64
+Purchased BROKEN, CLEAN MONSTER_TRUCK Mohawk Warrior 15 for $ 21626.56
+Purchased LIKE_NEW, DIRTY PICKUP Ford Velociraptor 6×6 2011 for $ 10395.01
+Purchased BROKEN, DIRTY DOZER Kubota 2012 (751 HorsePower) for $ 34961.24
+INTERN Zara Casey wash (ElbowGreaseWashing) ELECTRIC_CAR MINI Cooper SE 2017 (380 miles) and made it DIRTY
+INTERN Zara Casey wash (ElbowGreaseWashing) ELECTRIC_CAR MINI Cooper SE 2017 (380 miles) and made it CLEAN
+INTERN Amayah McCormick wash (DetailedWashing) PICKUP Nissan Titan XD 2013 and made it CLEAN
+INTERN Amayah McCormick wash (DetailedWashing) PICKUP Ford F-150 Lightning 2022 and made it CLEAN
+INTERN Easton Chang wash (DetailedWashing) MOTORCYCLE Husqvarna 2018 (801 CC engine) and made it CLEAN
+INTERN Easton Chang wash (DetailedWashing) CAR Mazda3 2021 and made it DIRTY
+INTERN Amara Moody wash (ElbowGreaseWashing) CAR Mercedes-Benz G-class 2012 and made it DIRTY
+INTERN Amara Moody wash (ElbowGreaseWashing) CAR Mercedes-Benz G-class 2012 and made it CLEAN
+INTERN Ari Maldonado wash (DetailedWashing) PERFORMANCE_CAR Toyota GR86 2012 and made it CLEAN
+INTERN Ari Maldonado wash (DetailedWashing) PARAMOTOR Nimbus 2010 (7236  feet maximumAltitude & 42 mile/hour maximumCruisingAirSpeed) with TRIKE_WHEEL_LAUNCHER  and made it DIRTY
+INTERN Ariyah Faulkner wash (ElbowGreaseWashing) PARAMOTOR Nimbus 2010 (7236  feet maximumAltitude & 42 mile/hour maximumCruisingAirSpeed) with TRIKE_WHEEL_LAUNCHER  and made it DIRTY
+INTERN Ariyah Faulkner wash (ElbowGreaseWashing) PARAMOTOR Nimbus 2010 (7236  feet maximumAltitude & 42 mile/hour maximumCruisingAirSpeed) with TRIKE_WHEEL_LAUNCHER  and made it CLEAN
+MECHANIC Jamal Fleming repaired BROKEN PICKUP Hyundai Santa Cruz 2012 and made it USED (earned $150.00 bonus)
+MECHANIC Jamal Fleming repaired USED PICKUP Hyundai Santa Cruz 2012 unsuccessfully
+MECHANIC Tiffany Cabrera repaired USED PICKUP Hyundai Santa Cruz 2012 unsuccessfully
+MECHANIC Tiffany Cabrera repaired USED PICKUP Hyundai Santa Cruz 2012 and made it LIKE_NEW (earned $150.00 bonus)
+MECHANIC Ansley Calhoun repaired USED MOTORCYCLE Husqvarna 2018 (801 CC engine) and made it LIKE_NEW (earned $80.00 bonus)
+MECHANIC Ansley Calhoun repaired BROKEN MONSTER_TRUCK Mohawk Warrior 15 and made it USED (earned $500.00 bonus)
+MECHANIC Ashlynn Quintero repaired BROKEN DOZER Kubota 2012 (751 HorsePower) and made it USED (earned $600.00 bonus)
+MECHANIC Ashlynn Quintero repaired USED DOZER Kubota 2012 (751 HorsePower) and made it LIKE_NEW (earned $600.00 bonus)
+SALESPERSON Frances Herman sold DIRTY USED Mohawk Warrior 15 to Buyer unsuccessfully
+SALESPERSON Ansley Reed sold CLEAN LIKE_NEW MINI Cooper SE 2017 (380 miles) to Buyer unsuccessfully
+SALESPERSON Ansley Reed sold CLEAN LIKE_NEW Mazda MX-5 Miata 2014 to Buyer unsuccessfully
+SALESPERSON Ansley Reed sold CLEAN LIKE_NEW MINI Cooper SE 2017 (380 miles) to Buyer unsuccessfully
 Total salary payout increased by $1500.00
-Total bonuses payout increased by $2040.00
-MECHANIC Bentlee Yu received $120.00 (salary) and $900.00 (bonuses)
-DRIVER Gerardo Yu received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Emmalynn Xiong received $150.00 (salary) and $220.00 (bonuses)
-SALESPERSON Emory Cabrera received $150.00 (salary) and $300.00 (bonuses)
-DRIVER Gloriay Leonard received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Samson Reid received $150.00 (salary) and $500.00 (bonuses)
-INTERN Amara Kennedy received $80.00 (salary) and $0.00 (bonuses)
-MECHANIC Anaya Tate received $120.00 (salary) and $0.00 (bonuses)
-INTERN Blaine Ryan received $80.00 (salary) and $120.00 (bonuses)
-DRIVER Jericho McCormick received $150.00 (salary) and $0.00 (bonuses)
-MECHANIC Fernando Cortez received $120.00 (salary) and $0.00 (bonuses)
-INTERN Angie Petersen received $80.00 (salary) and $0.00 (bonuses)
+Total bonuses payout increased by $880.00
+SALESPERSON Bellamy Meyer received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Paulina Duffy received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Frances Herman received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Dalton Porter received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Jamal Fleming received $120.00 (salary) and $150.00 (bonuses)
+SALESPERSON Ansley Reed received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Tiffany Cabrera received $120.00 (salary) and $150.00 (bonuses)
+INTERN Zara Casey received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Ansley Calhoun received $120.00 (salary) and $580.00 (bonuses)
+INTERN Amayah McCormick received $80.00 (salary) and $0.00 (bonuses)
+INTERN Easton Chang received $80.00 (salary) and $0.00 (bonuses)
+DRIVER Rhett Chang received $150.00 (salary) and $0.00 (bonuses)
+Total salary payout increased by $1500.00
+Total bonuses payout increased by $1200.00
+SALESPERSON Amara Meyers received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Paulina Singh received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Darius Singh received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Gary Chang received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Braelynn Rivers received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Jovanni Rangel received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Ashlynn Quintero received $120.00 (salary) and $1200.00 (bonuses)
+MECHANIC Harry Calhoun received $120.00 (salary) and $0.00 (bonuses)
+INTERN Amara Moody received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Emory Vo received $120.00 (salary) and $0.00 (bonuses)
+INTERN Ari Maldonado received $80.00 (salary) and $0.00 (bonuses)
+INTERN Ariyah Faulkner received $80.00 (salary) and $0.00 (bonuses)

@@ -1,37 +1,48 @@
-Purchased USED, DIRTY PICKUP Tesla Cybertruck 2019 for $ 30146.24
-Purchased LIKE_NEW, DIRTY ELECTRIC_CAR Fiat 500e 2021 (478 miles) for $ 33317.47
-Purchased BROKEN, CLEAN MONSTER_TRUCK Air Force Afterburner 12 for $ 20541.11
-INTERN Amara Kennedy wash (ChemicalWashing) DOZER XCMG 2014 (281 HorsePower) and made it CLEAN
-INTERN Amara Kennedy wash (ChemicalWashing) PICKUP Tesla Cybertruck 2019 and made it CLEAN
-INTERN Blaine Ryan wash (ChemicalWashing) ELECTRIC_CAR Fiat 500e 2021 (478 miles) and made it CLEAN
-INTERN Blaine Ryan wash (ChemicalWashing) PERFORMANCE_CAR Toyota GR86 2017 and made it CLEAN
-INTERN Angie Petersen wash (ChemicalWashing) PERFORMANCE_CAR Toyota GR86 2017 and made it CLEAN
-INTERN Angie Petersen wash (ChemicalWashing) PERFORMANCE_CAR Toyota GR86 2017 and made it CLEAN
-MECHANIC Bentlee Yu repaired USED PICKUP Tesla Cybertruck 2019 and made it LIKE_NEW (earned $150.00 bonus)
-MECHANIC Bentlee Yu repaired BROKEN MONSTER_TRUCK Air Force Afterburner 12 unsuccessfully
-MECHANIC Anaya Tate repaired BROKEN MONSTER_TRUCK Air Force Afterburner 12 and made it USED (earned $500.00 bonus)
-MECHANIC Anaya Tate repaired USED MONSTER_TRUCK Air Force Afterburner 12 unsuccessfully
-MECHANIC Fernando Cortez repaired USED MONSTER_TRUCK Air Force Afterburner 12 and made it LIKE_NEW (earned $500.00 bonus)
-SALESPERSON Emmalynn Xiong sold CLEAN LIKE_NEW WCW Nitro Machine 5 to Buyer unsuccessfully
-SALESPERSON Emmalynn Xiong (earned $120.00 bonus) sold CLEAN LIKE_NEW (GOLF_CART) Club Car Villager 2023 (4 Passengers & 10 hours chargingTime) to Buyer for $49602.95 + $13392.80 (ExtendedWarranty, RoadRescueCoverage, SatelliteRadio (addOns)).
-Added sale income $62995.75 to current balance
-SALESPERSON Samson Reid sold CLEAN LIKE_NEW Scout Enduro Cage 2017 (9914  feet maximumAltitude & 26 mile/hour maximumCruisingAirSpeed) with TRIKE_WHEEL_LAUNCHER  to Buyer for $38916.16 without any addOns (earned $80.00 bonus)
-Added sale income $38916.16 to current balance
-SALESPERSON Samson Reid (earned $150.00 bonus) sold CLEAN LIKE_NEW (MOTORCYCLE) Aprilia 2019 (866 CC engine) to Buyer for $54419.73 + $1088.39 (RoadRescueCoverage (addOns)).
-Added sale income $55508.12 to current balance
-SALESPERSON Samson Reid (earned $120.00 bonus) sold SPARKLING LIKE_NEW (GOLF_CART) Garia Via Luxury Golf Car 2017 (4 Passengers & 11 hours chargingTime) to Buyer for $45927.67 + $918.55 (RoadRescueCoverage (addOns)).
-Added sale income $46846.23 to current balance
+INTERN Amayah McCormick wash (DetailedWashing) CAR Mazda3 2021 and made it CLEAN
+INTERN Amayah McCormick wash (DetailedWashing) PICKUP Hyundai Santa Cruz 2012 and made it CLEAN
+INTERN Easton Chang wash (DetailedWashing) MOTORCYCLE Husqvarna 2018 (801 CC engine) and made it CLEAN
+INTERN Easton Chang wash (DetailedWashing) MONSTER_TRUCK Mohawk Warrior 15 and made it CLEAN
+INTERN Emery Singh wash (ChemicalWashing) CAR Mazda3 2021 and made it DIRTY
+INTERN Emery Singh wash (ChemicalWashing) CAR Mazda3 2021 and made it CLEAN
+INTERN Ari Maldonado wash (DetailedWashing) PICKUP Ford Velociraptor 6×6 2011 and made it CLEAN
+INTERN Ari Maldonado wash (DetailedWashing) DOZER Kubota 2012 (751 HorsePower) and made it SPARKLING (earned 300.00 bonus)
+INTERN Ariyah Faulkner wash (ElbowGreaseWashing) PERFORMANCE_CAR Ford Mustang Shelby GT500 2023 and made it CLEAN
+INTERN Ariyah Faulkner wash (ElbowGreaseWashing) PERFORMANCE_CAR Ford Mustang Shelby GT500 2023 and made it CLEAN
+INTERN Bentlee Salinas wash (ElbowGreaseWashing) PERFORMANCE_CAR Ford Mustang Shelby GT500 2023 and made it CLEAN
+INTERN Bentlee Salinas wash (ElbowGreaseWashing) PERFORMANCE_CAR Ford Mustang Shelby GT500 2023 and made it SPARKLING (earned 75.00 bonus)
+MECHANIC Jamal Fleming repaired USED MONSTER_TRUCK Mohawk Warrior 15 and made it LIKE_NEW (earned $500.00 bonus)
+SALESPERSON Ansley Reed (earned $160.00 bonus) sold CLEAN LIKE_NEW (CAR) Audi A3 2015 to Buyer for $51903.63 + $3633.25 (RoadRescueCoverage, SatelliteRadio (addOns)).
+Added sale income $55536.89 to current balance
+SALESPERSON Ansley Reed sold CLEAN LIKE_NEW MINI Cooper SE 2017 (380 miles) to Buyer unsuccessfully
+SALESPERSON Ansley Reed (earned $120.00 bonus) sold CLEAN LIKE_NEW (GOLF_CART) Polaris GEM 2017 (4 Passengers & 9 hours chargingTime) to Buyer for $33904.49 + $2373.31 (RoadRescueCoverage, SatelliteRadio (addOns)).
+Added sale income $36277.80 to current balance
+SALESPERSON Bellamy Meyer (earned $80.00 bonus) sold CLEAN LIKE_NEW (PARAMOTOR) Air Conception Nitro 2022 (12135  feet maximumAltitude & 44 mile/hour maximumCruisingAirSpeed) with FOOT_LAUNCHER  to Buyer for $35097.86 + $7019.57 (ExtendedWarranty (addOns)).
+Added sale income $42117.43 to current balance
 Total salary payout increased by $1500.00
-Total bonuses payout increased by $1620.00
-MECHANIC Bentlee Yu received $120.00 (salary) and $150.00 (bonuses)
-DRIVER Gerardo Yu received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Emmalynn Xiong received $150.00 (salary) and $120.00 (bonuses)
-SALESPERSON Emory Cabrera received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Gloriay Leonard received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Samson Reid received $150.00 (salary) and $350.00 (bonuses)
-INTERN Amara Kennedy received $80.00 (salary) and $0.00 (bonuses)
-MECHANIC Anaya Tate received $120.00 (salary) and $500.00 (bonuses)
-INTERN Blaine Ryan received $80.00 (salary) and $0.00 (bonuses)
-DRIVER Jericho McCormick received $150.00 (salary) and $0.00 (bonuses)
-MECHANIC Fernando Cortez received $120.00 (salary) and $500.00 (bonuses)
-INTERN Angie Petersen received $80.00 (salary) and $0.00 (bonuses)
+Total bonuses payout increased by $860.00
+SALESPERSON Bellamy Meyer received $150.00 (salary) and $80.00 (bonuses)
+DRIVER Paulina Duffy received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Frances Herman received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Dalton Porter received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Jamal Fleming received $120.00 (salary) and $500.00 (bonuses)
+SALESPERSON Ansley Reed received $150.00 (salary) and $280.00 (bonuses)
+MECHANIC Tiffany Cabrera received $120.00 (salary) and $0.00 (bonuses)
+MECHANIC Ansley Calhoun received $120.00 (salary) and $0.00 (bonuses)
+INTERN Amayah McCormick received $80.00 (salary) and $0.00 (bonuses)
+INTERN Easton Chang received $80.00 (salary) and $0.00 (bonuses)
+DRIVER Rhett Chang received $150.00 (salary) and $0.00 (bonuses)
+INTERN Emery Singh received $80.00 (salary) and $0.00 (bonuses)
+Total salary payout increased by $1500.00
+Total bonuses payout increased by $375.00
+SALESPERSON Amara Meyers received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Paulina Singh received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Darius Singh received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Gary Chang received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Braelynn Rivers received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Jovanni Rangel received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Harry Calhoun received $120.00 (salary) and $0.00 (bonuses)
+MECHANIC Emory Vo received $120.00 (salary) and $0.00 (bonuses)
+INTERN Ari Maldonado received $80.00 (salary) and $300.00 (bonuses)
+INTERN Ariyah Faulkner received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Amara Moody received $120.00 (salary) and $0.00 (bonuses)
+INTERN Bentlee Salinas received $80.00 (salary) and $75.00 (bonuses)

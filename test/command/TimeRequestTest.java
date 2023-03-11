@@ -8,6 +8,4 @@ class TimeRequestTest {
         TimeRequestCommand timeRequest = new TimeRequestCommand();
         timeRequest.execute();
     }
-
-
 }

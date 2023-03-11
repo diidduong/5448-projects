@@ -1,29 +1,62 @@
-INTERN Macie Vaughn wash (ElbowGreaseWashing) PERFORMANCE_CAR Chevrolet Camaro 2012 and made it DIRTY
-INTERN Macie Vaughn wash (ElbowGreaseWashing) PERFORMANCE_CAR Chevrolet Camaro 2012 and made it CLEAN
-INTERN Emmalynn Xiong wash (ChemicalWashing) PERFORMANCE_CAR Porsche 718 Cayman 2022 and made it CLEAN
-INTERN Emmalynn Xiong wash (ChemicalWashing) PERFORMANCE_CAR Toyota GR86 2017 and made it CLEAN
-INTERN Emory Cabrera wash (DetailedWashing) PERFORMANCE_CAR Maserati MC20 2020 and made it DIRTY
-INTERN Emory Cabrera wash (DetailedWashing) PERFORMANCE_CAR Maserati MC20 2020 and made it SPARKLING (earned 75.00 bonus)
-MECHANIC Aurora Leonard repaired USED CAR Hyundai Sonata 2016 and made it LIKE_NEW (earned $100.00 bonus)
-MECHANIC Aurora Leonard repaired BROKEN CAR Kia K5 2023 and made it USED (earned $100.00 bonus)
-MECHANIC Mohammad Myers repaired USED CAR Kia K5 2023 and made it LIKE_NEW (earned $100.00 bonus)
-MECHANIC Mohammad Myers repaired USED CAR Nissan Sunny 2016 and made it LIKE_NEW (earned $100.00 bonus)
-MECHANIC Bentlee Yu repaired BROKEN CAR Mercedes-Benz S-class 2010 and made it USED (earned $100.00 bonus)
-MECHANIC Bentlee Yu repaired USED CAR Mercedes-Benz S-class 2010 unsuccessfully
-SALESPERSON Anaya O’Donnell (earned $600.00 bonus) sold DIRTY LIKE_NEW (DOZER) Liebherr 2010 (892 HorsePower) to Buyer for $140117.82 + $30825.92 (ExtendedWarranty, RoadRescueCoverage (addOns)).
-Added sale income $170943.74 to current balance
-SALESPERSON Arielle Stuart sold CLEAN LIKE_NEW Honda Ridgeline 2022 to Buyer unsuccessfully
+Purchased USED, CLEAN GOLF_CART E-Z-GO Freedom RXV 2014 (3 Passengers & 7 hours chargingTime) for $ 8160.30
+Purchased USED, SPARKLING DOZER Toro 2013 (290 HorsePower) for $ 19960.33
+INTERN Gordon Barry wash (DetailedWashing) PERFORMANCE_CAR Ford Mustang 2016 and made it SPARKLING (earned 75.00 bonus)
+INTERN Gordon Barry wash (DetailedWashing) PERFORMANCE_CAR Acura NSX 2021 and made it CLEAN
+INTERN Frances Herman wash (ChemicalWashing) PERFORMANCE_CAR Ford Mustang Shelby GT500 2011 and made it DIRTY
+INTERN Frances Herman wash (ChemicalWashing) PERFORMANCE_CAR Ford Mustang Shelby GT500 2011 and made it CLEAN
+INTERN Calliope Barry wash (ElbowGreaseWashing) CAR Audi A3 2020 and made it DIRTY
+INTERN Calliope Barry wash (ElbowGreaseWashing) CAR Audi A3 2020 and made it DIRTY
+INTERN Silas Graham wash (DetailedWashing) PERFORMANCE_CAR Subaru BRZ 2018 and made it CLEAN
+INTERN Silas Graham wash (DetailedWashing) PERFORMANCE_CAR Porsche 718 Cayman 2017 and made it DIRTY
+INTERN Braelynn Rivers wash (DetailedWashing) PERFORMANCE_CAR Porsche 718 Cayman 2017 and made it CLEAN
+INTERN Braelynn Rivers wash (DetailedWashing) PERFORMANCE_CAR Porsche 718 Boxster 2017 and made it CLEAN
+INTERN Arya Spence wash (ChemicalWashing) CAR Mitsubishi Eclipse 2011 and made it CLEAN
+INTERN Arya Spence wash (ChemicalWashing) CAR Honda Civic 2018 and made it CLEAN
+MECHANIC Morgan Vaughn repaired BROKEN PERFORMANCE_CAR Porsche 718 Boxster 2021 and made it USED (earned $200.00 bonus)
+MECHANIC Morgan Vaughn repaired USED PERFORMANCE_CAR Porsche 718 Boxster 2021 and made it LIKE_NEW (earned $200.00 bonus)
+MECHANIC Riley Moody repaired USED PERFORMANCE_CAR Ferrari Daytona 2020 and made it LIKE_NEW (earned $200.00 bonus)
+MECHANIC Riley Moody repaired USED PERFORMANCE_CAR Acura NSX 2016 unsuccessfully
+MECHANIC Kaliyah Newton repaired USED PERFORMANCE_CAR Acura NSX 2016 unsuccessfully
+MECHANIC Kaliyah Newton repaired USED PERFORMANCE_CAR Acura NSX 2016 and made it LIKE_NEW (earned $200.00 bonus)
+MECHANIC Gerardo Calhoun repaired BROKEN PERFORMANCE_CAR Dodge Viper 2019 and made it USED (earned $200.00 bonus)
+MECHANIC Gerardo Calhoun repaired USED PERFORMANCE_CAR Dodge Viper 2019 and made it LIKE_NEW (earned $200.00 bonus)
+MECHANIC Dion Frazier repaired BROKEN PERFORMANCE_CAR Ford Mustang Shelby GT500 2023 and made it USED (earned $200.00 bonus)
+MECHANIC Dion Frazier repaired USED PERFORMANCE_CAR Ford Mustang Shelby GT500 2023 unsuccessfully
+MECHANIC Keyla Casey repaired USED PERFORMANCE_CAR Ford Mustang Shelby GT500 2023 unsuccessfully
+MECHANIC Keyla Casey repaired USED PERFORMANCE_CAR Ford Mustang Shelby GT500 2023 and made it LIKE_NEW (earned $200.00 bonus)
+SALESPERSON Miley Waters sold DIRTY LIKE_NEW Ford Maverick 2017 to Buyer unsuccessfully
+SALESPERSON Miley Waters sold CLEAN USED E-Z-GO Freedom RXV 2014 (3 Passengers & 7 hours chargingTime) to Buyer unsuccessfully
+SALESPERSON Olivia Acevedo (earned $350.00 bonus) sold CLEAN LIKE_NEW (PERFORMANCE_CAR) Acura NSX 2021 to Buyer for $107778.81 + $5388.94 (SatelliteRadio (addOns)).
+Added sale income $113167.75 to current balance
+SALESPERSON Bellamy Meyer sold DIRTY USED JCB 2023 (788 HorsePower) to Buyer unsuccessfully
+SALESPERSON Miley Waters sold DIRTY USED JCB 2023 (788 HorsePower) to Buyer unsuccessfully
+SALESPERSON Gloriay Waters (earned $220.00 bonus) sold DIRTY USED (PICKUP) Toyota Tundra 2018 to Buyer for $71296.79 + $3564.84 (SatelliteRadio (addOns)).
+Added sale income $74861.63 to current balance
 Total salary payout increased by $1500.00
-Total bonuses payout increased by $1175.00
-INTERN Macie Vaughn received $80.00 (salary) and $0.00 (bonuses)
-INTERN Emmalynn Xiong received $80.00 (salary) and $0.00 (bonuses)
-MECHANIC Aurora Leonard received $120.00 (salary) and $200.00 (bonuses)
-MECHANIC Mohammad Myers received $120.00 (salary) and $200.00 (bonuses)
-MECHANIC Bentlee Yu received $120.00 (salary) and $100.00 (bonuses)
-SALESPERSON Anastasia Casey received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Arielle Stuart received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Anaya O’Donnell received $150.00 (salary) and $600.00 (bonuses)
-DRIVER Amara Mayo received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Dalton Tate received $150.00 (salary) and $0.00 (bonuses)
-INTERN Emory Cabrera received $80.00 (salary) and $75.00 (bonuses)
-DRIVER Gerardo Yu received $150.00 (salary) and $0.00 (bonuses)
+Total bonuses payout increased by $1225.00
+INTERN Gordon Barry received $80.00 (salary) and $75.00 (bonuses)
+INTERN Frances Herman received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Morgan Vaughn received $120.00 (salary) and $400.00 (bonuses)
+MECHANIC Riley Moody received $120.00 (salary) and $200.00 (bonuses)
+SALESPERSON Miley Waters received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Olivia Acevedo received $150.00 (salary) and $350.00 (bonuses)
+SALESPERSON Bellamy Meyer received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Eliezer Carroll received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Paulina Duffy received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Bailee Waters received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Kaliyah Newton received $120.00 (salary) and $200.00 (bonuses)
+INTERN Calliope Barry received $80.00 (salary) and $0.00 (bonuses)
+Total salary payout increased by $1500.00
+Total bonuses payout increased by $1020.00
+INTERN Silas Graham received $80.00 (salary) and $0.00 (bonuses)
+INTERN Braelynn Rivers received $80.00 (salary) and $0.00 (bonuses)
+INTERN Arya Spence received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Gerardo Calhoun received $120.00 (salary) and $400.00 (bonuses)
+MECHANIC Dion Frazier received $120.00 (salary) and $200.00 (bonuses)
+MECHANIC Keyla Casey received $120.00 (salary) and $200.00 (bonuses)
+SALESPERSON Gloriay Waters received $150.00 (salary) and $220.00 (bonuses)
+SALESPERSON Emory Scott received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Amara Meyers received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Paulina Singh received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Darius Singh received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Gary Chang received $150.00 (salary) and $0.00 (bonuses)

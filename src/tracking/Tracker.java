@@ -3,12 +3,26 @@ package tracking;
 /**
  * @author Duy Duong, Ahmed.H.Biby
  *
- * Concrete subcriber class for tracking total earning by staff and FNCD
+ * Concrete subcriber class for tracking total earning by staff and FNCD, Singleton pattern
  */
 public class Tracker implements Subscriber {
     int day;
     double totalMoneyEarnedByAllStaff;
     double totalMoneyEarnedByFNCD;
+    private static Tracker instance = new Tracker(); // eager instantiation
+
+    private Tracker() {}
+
+    /**
+     * Singleton get instance method to return single instance
+     * @return single instance of Logger
+     */
+    public static Tracker getInstance() {
+        if (instance == null) {
+            instance = new Tracker();
+        }
+        return instance;
+    }
 
     /**
      * For each update, add earnings for all staff and FNCD

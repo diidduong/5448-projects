@@ -113,27 +113,6 @@ public abstract class Staff {
     }
 
     /**
-     * Create staff by given title
-     *
-     * @param title wanted title
-     * @return a staff object
-     */
-    public static Staff createStaffByType(Staff.JobTitle title) {
-        switch (title) {
-            case MECHANIC:
-                return new Mechanic();
-            case SALESPERSON:
-                return new Salesperson();
-            case INTERN:
-                return new Intern();
-            case DRIVER:
-                return new Driver();
-            default:
-                throw new IllegalArgumentException("Unknown staff title + [" + title + "]");
-        }
-    }
-
-    /**
      * Count number of staff of a specific job title
      * Reference: Project 2 example solution class Staff.howManyStaffByType
      *

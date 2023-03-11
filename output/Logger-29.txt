@@ -1,34 +1,63 @@
-Purchased BROKEN, DIRTY DOZER Hevi 2013 (625 HorsePower) for $ 8165.84
-INTERN Amara Kennedy wash (ChemicalWashing) PERFORMANCE_CAR Toyota GR86 2022 and made it CLEAN
-INTERN Amara Kennedy wash (ChemicalWashing) PICKUP Nissan Frontier 2018 and made it CLEAN
-INTERN Blaine Ryan wash (ChemicalWashing) MOTORCYCLE EBR 2020 (909 CC engine) and made it CLEAN
-INTERN Blaine Ryan wash (ChemicalWashing) GOLF_CART Massimo 2013 (2 Passengers & 9 hours chargingTime) and made it CLEAN
-INTERN Angie Petersen wash (ChemicalWashing) DOZER Hevi 2013 (625 HorsePower) and made it CLEAN
-INTERN Angie Petersen wash (ChemicalWashing) PERFORMANCE_CAR Lamborghini Countach 2020 and made it CLEAN
-MECHANIC Bentlee Yu repaired BROKEN DOZER Hevi 2013 (625 HorsePower) and made it USED (earned $600.00 bonus)
-MECHANIC Bentlee Yu repaired USED DOZER Hevi 2013 (625 HorsePower) and made it LIKE_NEW (earned $600.00 bonus)
-SALESPERSON Emmalynn Xiong sold CLEAN LIKE_NEW Air Force Afterburner 12 to Buyer unsuccessfully
-SALESPERSON Emory Cabrera sold CLEAN LIKE_NEW Air Conception Nitro 2012 (11716  feet maximumAltitude & 49 mile/hour maximumCruisingAirSpeed) with QUAD_WHEEL_LAUNCHER  to Buyer unsuccessfully
-SALESPERSON Emmalynn Xiong sold CLEAN LIKE_NEW Lamborghini Countach 2020 to Buyer unsuccessfully
-SALESPERSON Samson Reid sold CLEAN LIKE_NEW EBR 2020 (909 CC engine) to Buyer unsuccessfully
-SALESPERSON Samson Reid (earned $80.00 bonus) sold CLEAN LIKE_NEW (PARAMOTOR) Air Conception Nitro 2012 (11716  feet maximumAltitude & 49 mile/hour maximumCruisingAirSpeed) with QUAD_WHEEL_LAUNCHER  to Buyer for $20395.77 + $407.92 (RoadRescueCoverage (addOns)).
-Added sale income $20803.68 to current balance
-Gerardo Yu (Driver) raced with Nissan Titan XD 2017 (PICKUP) and achieved rank no. 19.
-DRIVER Gerardo Yu got injured!
-Nissan Titan XD 2017 (PICKUP) went BROKEN.
-Gloriay Leonard (Driver) raced with Tesla Cybertruck 2019 (PICKUP) and achieved rank no. 2.
-Gloriay Leonard (Driver) won with Tesla Cybertruck 2019 (PICKUP) (earned $ 1000 bonus)!
-Jericho McCormick (Driver) raced with Nissan Frontier 2018 (PICKUP) and achieved rank no. 9.
-Total salary payout increased by $1350.00
-Total bonuses payout increased by $2280.00
-MECHANIC Bentlee Yu received $120.00 (salary) and $1200.00 (bonuses)
-SALESPERSON Emmalynn Xiong received $150.00 (salary) and $0.00 (bonuses)
-SALESPERSON Emory Cabrera received $150.00 (salary) and $0.00 (bonuses)
-DRIVER Gloriay Leonard received $150.00 (salary) and $1000.00 (bonuses)
-SALESPERSON Samson Reid received $150.00 (salary) and $80.00 (bonuses)
-INTERN Amara Kennedy received $80.00 (salary) and $0.00 (bonuses)
-MECHANIC Anaya Tate received $120.00 (salary) and $0.00 (bonuses)
-INTERN Blaine Ryan received $80.00 (salary) and $0.00 (bonuses)
-DRIVER Jericho McCormick received $150.00 (salary) and $0.00 (bonuses)
-MECHANIC Fernando Cortez received $120.00 (salary) and $0.00 (bonuses)
-INTERN Angie Petersen received $80.00 (salary) and $0.00 (bonuses)
+Purchased BROKEN, DIRTY CAR Honda Odyssey 2020 for $ 9436.68
+Purchased BROKEN, DIRTY ELECTRIC_CAR Lucid Air 2013 (75 miles) for $ 19856.26
+INTERN Easton Chang wash (DetailedWashing) MOTORCYCLE Moto Guzzi 2023 (313 CC engine) and made it CLEAN
+INTERN Easton Chang wash (DetailedWashing) PARAMOTOR Adventure 2014 (13441  feet maximumAltitude & 30 mile/hour maximumCruisingAirSpeed) with TRIKE_WHEEL_LAUNCHER  and made it CLEAN
+INTERN Emery Singh wash (ChemicalWashing) MONSTER_TRUCK Maximum Destruction (Max-D) 14 and made it SPARKLING (earned 200.00 bonus)
+INTERN Emery Singh wash (ChemicalWashing) DOZER Bobcat 2020 (771 HorsePower) and made it CLEAN
+INTERN Adalynn Simpson wash (ElbowGreaseWashing) CAR Honda Odyssey 2020 and made it CLEAN
+INTERN Adalynn Simpson wash (ElbowGreaseWashing) ELECTRIC_CAR Lucid Air 2013 (75 miles) and made it CLEAN
+INTERN Ari Maldonado wash (DetailedWashing) CAR Mitsubishi Eclipse 2017 and made it CLEAN
+INTERN Ari Maldonado wash (DetailedWashing) PARAMOTOR Fly Products Rider 2017 (11686  feet maximumAltitude & 35 mile/hour maximumCruisingAirSpeed) with FOOT_LAUNCHER  and made it CLEAN
+INTERN Ariyah Faulkner wash (ElbowGreaseWashing) PARAMOTOR Scout Carbon Cage 2012 (7971  feet maximumAltitude & 41 mile/hour maximumCruisingAirSpeed) with QUAD_WHEEL_LAUNCHER  and made it CLEAN
+INTERN Ariyah Faulkner wash (ElbowGreaseWashing) PICKUP Hyundai Santa Cruz 2010 and made it CLEAN
+INTERN Bentlee Salinas wash (ElbowGreaseWashing) PICKUP Hyundai Santa Cruz 2010 and made it CLEAN
+INTERN Bentlee Salinas wash (ElbowGreaseWashing) PICKUP Hyundai Santa Cruz 2010 and made it CLEAN
+MECHANIC Jamal Fleming repaired BROKEN MONSTER_TRUCK Madusa 4 and made it USED (earned $500.00 bonus)
+MECHANIC Jamal Fleming repaired USED MONSTER_TRUCK Madusa 4 unsuccessfully
+MECHANIC Tiffany Cabrera repaired USED MONSTER_TRUCK Madusa 4 and made it LIKE_NEW (earned $500.00 bonus)
+MECHANIC Tiffany Cabrera repaired USED DOZER Bobcat 2020 (771 HorsePower) and made it LIKE_NEW (earned $600.00 bonus)
+MECHANIC Ansley Calhoun repaired BROKEN CAR Honda Odyssey 2020 and made it USED (earned $100.00 bonus)
+MECHANIC Ansley Calhoun repaired USED CAR Honda Odyssey 2020 and made it LIKE_NEW (earned $100.00 bonus)
+SALESPERSON Amayah McCormick sold DIRTY LIKE_NEW Honda Odyssey 2020 to Buyer unsuccessfully
+SALESPERSON Amara Meyers (earned $160.00 bonus) sold CLEAN LIKE_NEW (CAR) Dodge Charger 2014 to Buyer for $45584.00 + $911.68 (RoadRescueCoverage (addOns)).
+Added sale income $46495.68 to current balance
+SALESPERSON Braelynn Rivers sold CLEAN LIKE_NEW Cushman Shuttle 2021 (4 Passengers & 12 hours chargingTime) to Buyer unsuccessfully
+SALESPERSON Amara Meyers sold CLEAN LIKE_NEW Bobcat 2012 (478 HorsePower) to Buyer unsuccessfully
+SALESPERSON Amara Meyers sold CLEAN LIKE_NEW Bobcat 2012 (478 HorsePower) to Buyer for $74641.47 without any addOns (earned $600.00 bonus)
+Added sale income $74641.47 to current balance
+Paulina Duffy (Driver) raced with Maximum Destruction (Max-D) 14 (MONSTER_TRUCK) and achieved rank no. 7.
+Dalton Porter (Driver) raced with Grave Digger 4 (MONSTER_TRUCK) and achieved rank no. 15.
+Rhett Chang (Driver) raced with Madusa 4 (MONSTER_TRUCK) and achieved rank no. 9.
+Darius Singh (Driver) raced with Hyosung 2022 (453 CC engine) (MOTORCYCLE) and achieved rank no. 10.
+Jericho Kelley (Driver) raced with Moto Guzzi 2016 (604 CC engine) (MOTORCYCLE) and achieved rank no. 16.
+Moto Guzzi 2016 (604 CC engine) (MOTORCYCLE) went BROKEN.
+Gary O’Connell (Driver) raced with Piaggio 2019 (495 CC engine) (MOTORCYCLE) and achieved rank no. 2.
+Gary O’Connell (Driver) won with Piaggio 2019 (495 CC engine) (MOTORCYCLE) (earned $ 1000 bonus)!
+Total salary payout increased by $1500.00
+Total bonuses payout increased by $2000.00
+DRIVER Paulina Duffy received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Frances Herman received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Dalton Porter received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Jamal Fleming received $120.00 (salary) and $500.00 (bonuses)
+SALESPERSON Ansley Reed received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Tiffany Cabrera received $120.00 (salary) and $1100.00 (bonuses)
+MECHANIC Ansley Calhoun received $120.00 (salary) and $200.00 (bonuses)
+INTERN Easton Chang received $80.00 (salary) and $0.00 (bonuses)
+DRIVER Rhett Chang received $150.00 (salary) and $0.00 (bonuses)
+INTERN Emery Singh received $80.00 (salary) and $200.00 (bonuses)
+SALESPERSON Amayah McCormick received $150.00 (salary) and $0.00 (bonuses)
+INTERN Adalynn Simpson received $80.00 (salary) and $0.00 (bonuses)
+Total salary payout increased by $1500.00
+Total bonuses payout increased by $1760.00
+SALESPERSON Amara Meyers received $150.00 (salary) and $760.00 (bonuses)
+DRIVER Darius Singh received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Braelynn Rivers received $150.00 (salary) and $0.00 (bonuses)
+SALESPERSON Jovanni Rangel received $150.00 (salary) and $0.00 (bonuses)
+MECHANIC Harry Calhoun received $120.00 (salary) and $0.00 (bonuses)
+MECHANIC Emory Vo received $120.00 (salary) and $0.00 (bonuses)
+INTERN Ari Maldonado received $80.00 (salary) and $0.00 (bonuses)
+INTERN Ariyah Faulkner received $80.00 (salary) and $0.00 (bonuses)
+MECHANIC Amara Moody received $120.00 (salary) and $0.00 (bonuses)
+INTERN Bentlee Salinas received $80.00 (salary) and $0.00 (bonuses)
+DRIVER Jericho Kelley received $150.00 (salary) and $0.00 (bonuses)
+DRIVER Gary O’Connell received $150.00 (salary) and $1000.00 (bonuses)
