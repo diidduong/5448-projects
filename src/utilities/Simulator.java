@@ -187,10 +187,10 @@ public class Simulator {
         for (FNCDAdministration fncd : fncdAdministrationArrayList) {
             // initialize chart
             XYChart chart = new XYChartBuilder()
-                    .width(600)
-                    .height(600)
+                    .width(1080)
+                    .height(780)
                     .title(fncd.getName() + " FNCD")
-                    .xAxisTitle("day").yAxisTitle("count or $(in million)")
+                    .xAxisTitle("day").yAxisTitle("count or dollar")
                     .build();
 
             // create x axis with all running day
@@ -201,10 +201,10 @@ public class Simulator {
 
             // add all lines to the chart
             chart.addSeries("total vehicles sold", xData, fncd.totalVehicleSoldByDay);
-            chart.addSeries("total money earned by staff",
+            chart.addSeries("total money earned by staff (in 10 thousand)",
                     xData,
-                    fncd.totalMoneyEarnedByStaffByDay.stream().map(n -> n/1000000).collect(Collectors.toList()));
-            chart.addSeries("total money earned by FNCD", xData,
+                    fncd.totalMoneyEarnedByStaffByDay.stream().map(n -> n/10000).collect(Collectors.toList()));
+            chart.addSeries("total money earned by FNCD (in million)", xData,
                     fncd.totalMoneyEarnedByFNCDByDay.stream().map(n -> n/1000000).collect(Collectors.toList()));
 
             // Show it
