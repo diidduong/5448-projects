@@ -1,2 +1,2 @@
-# fncd-simulation
-CU CSCI 5448 Project 2
+# Semester Project
+CU CSCI 5448 Project 5,6,7
