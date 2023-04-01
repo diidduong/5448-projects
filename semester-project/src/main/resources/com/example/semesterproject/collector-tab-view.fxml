@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane xmlns="http://javafx.com/javafx/14"
+            xmlns:fx="http://javafx.com/fxml/1"
+            fx:controller="com.example.semesterproject.CollectorController"
+            minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+    <children>
+        <ProgressBar layoutX="184.0" layoutY="321.0" prefHeight="18.0" prefWidth="271.0"
+                     progress="0.32"/>
+        <TextField layoutX="172.0" layoutY="62.0" prefWidth="296.0" promptText="Picture API URL"/>
+        <TextField layoutX="172.0" layoutY="119.0" prefWidth="298.0"
+                   promptText="Number of pictures"/>
+        <Button layoutX="256.0" layoutY="208.0" mnemonicParsing="false" prefHeight="31.0"
+                prefWidth="126.0" styleClass="primary" text="Get Pictures"/>
+    </children>
+</AnchorPane>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Tab?>
+<?import javafx.scene.control.TabPane?>
+<?import javafx.scene.layout.VBox?>
+<VBox alignment="CENTER"
+      prefHeight="414.0" prefWidth="640.0"
+      xmlns="http://javafx.com/javafx/14"
+      xmlns:fx="http://javafx.com/fxml/1"
+      fx:controller="com.example.semesterproject.MainController">
+    <TabPane prefHeight="445.0" prefWidth="565.0" tabClosingPolicy="UNAVAILABLE" tabMaxWidth="160.0"
+             tabMinWidth="185.0">
+        <tabs>
+            <Tab text="Generator">
+                <content>
+                    <fx:include source="generator-tab-view.fxml"/>
+                </content>
+            </Tab>
+            <Tab text="Collector">
+                <content>
+                    <fx:include source="collector-tab-view.fxml"/>
+                </content>
+            </Tab>
+            <Tab text="Analyzer">
+                <content>
+                    <fx:include source="analyzer-tab-view.fxml"/>
+                </content>
+            </Tab>
+        </tabs>
+    </TabPane>
+</VBox>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<?import javafx.scene.chart.BarChart?>
+<?import javafx.scene.chart.CategoryAxis?>
+<?import javafx.scene.chart.NumberAxis?>
+<AnchorPane xmlns="http://javafx.com/javafx/14"
+            xmlns:fx="http://javafx.com/fxml/1"
+            fx:controller="com.example.semesterproject.AnalyzerController"
+            minHeight="0.0" minWidth="0.0" prefHeight="180.0" prefWidth="200.0">
+    <children>
+        <BarChart layoutX="116.0" layoutY="37.0" prefHeight="282.0" prefWidth="394.0"
+                  title="Gallery Summary">
+            <xAxis>
+                <CategoryAxis label="Category" side="BOTTOM"/>
+            </xAxis>
+            <yAxis>
+                <NumberAxis label="Count" side="LEFT"/>
+            </yAxis>
+        </BarChart>
+    </children>
+</AnchorPane>
