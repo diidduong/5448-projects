@@ -1,11 +1,19 @@
 package org.example.controllers;
 
+import javafx.embed.swing.SwingFXUtils;
 import javafx.fxml.FXML;
 import javafx.scene.control.ComboBox;
 import javafx.scene.control.Label;
 import javafx.scene.image.ImageView;
+import javafx.stage.FileChooser;
+import org.example.entities.Picture;
 import org.example.processors.Generator;
 import org.example.utils.ImageUtils;
+
+import javax.imageio.ImageIO;
+import java.io.File;
+import java.io.IOException;
+import java.util.concurrent.ThreadLocalRandom;
 
 public class GeneratorController {
     @FXML
@@ -16,26 +24,46 @@ public class GeneratorController {
 
     @FXML
     private Label selectedImgType = new Label();
+    FileChooser fileChooser = new FileChooser();
 
     @FXML
     public void initialize() {
-        comboBox.getItems().addAll("Human", "Animal", "Vehicle");
+        comboBox.getItems().addAll("Human", "Animal", "Vehicle", "Other", "Random");
+        comboBox.getSelectionModel().selectFirst();
         selectedImgType.textProperty().bind(comboBox.getSelectionModel().selectedItemProperty());
+
+        // Initialize
+        fileChooser.setTitle("Save Picture");
+        fileChooser.setInitialFileName("picture");
+        fileChooser.getExtensionFilters().add(new FileChooser.ExtensionFilter("PNG Files", "*.png"));
     }
 
     @FXML
     protected void generatePicture() {
-        System.out.println("Generating Picture...");
+        System.out.printf("Generating %s Picture...\n", selectedImgType.textProperty().getValue());
         // TODO: add code here
-//        imageView.setImage(ImageUtils.downloadPictureFromURL(""));
+        int randNum = ThreadLocalRandom.current().nextInt(3);
+        Picture pic = ImageUtils.getPicture(String.format("src/main/resources/pictures/%s-%d.txt", Picture.PictureType.ANIMAL, randNum));
+        imageView.setImage(SwingFXUtils.toFXImage(pic.getImage(), null));
     }
 
+    /**
+     * Default exception
+     * @throws IOException
+     */
     @FXML
-    protected void downloadPicture() {
+    protected void downloadPicture() throws IOException {
         System.out.println("Downloading Picture...");
-        // TODO: add code here
+
+        // Do nothing if no picture is generated
+        if (imageView.getImage() == null) return;
+
+        // Show save dialog
+        File file = fileChooser.showSaveDialog(null);
+        if (file != null) {
+            ImageIO.write(SwingFXUtils.fromFXImage(imageView.getImage(), null), "png", file);
+        }
     }
 
     Generator generator = Generator.getInstance();
-
 }

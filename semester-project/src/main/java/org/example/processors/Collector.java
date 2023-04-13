@@ -25,8 +25,14 @@ public class Collector {
      * Collect all pictures from list of url and store as rawImages
      * @param urls
      */
-    void collectPictures(String urls) {
-        String[] url = null;
+    public void collectPictures(String urls) {
+        String[] urlList = breakURLsIntoList(urls);
+
+        for (String url : urlList) {
+            collectPicture(url);
+        }
+
+        Analyzer.getInstance().analyzeRawImages();
     }
 
     /**
@@ -39,9 +45,9 @@ public class Collector {
     String[] breakURLsIntoList(String urls) {
         String separator = "\n";
 
-        // TODO: add code here
+        String[] urlList = urls.split("\n");
 
-        return null;
+        return urlList;
     }
 
     /**

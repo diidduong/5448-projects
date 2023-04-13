@@ -13,10 +13,8 @@
     <children>
         <ProgressBar layoutX="184.0" layoutY="321.0" prefHeight="18.0" prefWidth="271.0"
                      progress="0.32"/>
-        <TextField layoutX="172.0" layoutY="62.0" prefWidth="296.0" promptText="Picture API URL"/>
-        <TextField layoutX="172.0" layoutY="119.0" prefWidth="298.0"
-                   promptText="Number of pictures"/>
-        <Button layoutX="256.0" layoutY="208.0" mnemonicParsing="false" prefHeight="31.0"
-                prefWidth="126.0" styleClass="primary" text="Get Pictures"/>
+        <TextArea fx:id="urlListInput" layoutX="172.0" layoutY="62.0" prefWidth="296.0" promptText="Picture API URLs"/>
+        <Button layoutX="256.0" layoutY="258.0" mnemonicParsing="false" prefHeight="31.0"
+                prefWidth="126.0" styleClass="primary" text="Collect Pictures" onAction="#collectPictures"/>
     </children>
 </AnchorPane>

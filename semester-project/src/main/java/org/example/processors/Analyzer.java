@@ -43,10 +43,15 @@ public class Analyzer {
      *   in local. Finally, remove image after done processing
      */
     void analyzeRawImages() {
+        System.out.println("Analyzing all raw images");
         for (BufferedImage img : rawImages) {
-            Picture pic = SimplePictureFactory.createPicture(Picture.PictureType.HUMAN);
-            ImageUtils.savePicture(pic, "");
+            Picture.PictureType type = Picture.PictureType.ANIMAL;
+            Picture pic = SimplePictureFactory.createPicture(type);
+            pic.setImage(img);
+            ImageUtils.savePicture(pic, String.format("src/main/resources/pictures/%s-%d.txt",type,animalCount));
+            animalCount++;
         }
+        System.out.println("Done");
     }
 
     /**

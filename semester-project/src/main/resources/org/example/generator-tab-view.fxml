@@ -20,7 +20,7 @@
         <Button layoutX="54.0" layoutY="156.0" mnemonicParsing="false" prefHeight="30.0"
                 prefWidth="160.0" styleClass="primary" text="Generate Picture" onAction="#generatePicture"/>
         <Button layoutX="55.0" layoutY="229.0" mnemonicParsing="false" prefHeight="130.0"
-                prefWidth="160.0" styleClass="primary" text="Download Picture">
+                prefWidth="160.0" styleClass="primary" text="Download Picture" onAction="#downloadPicture">
             <font>
                 <Font size="14.0"/>
             </font>
@@ -33,7 +33,7 @@
                 </image>
             </ImageView>
             <Text layoutX="416.0" layoutY="328.0" strokeType="OUTSIDE" strokeWidth="0.0"
-                  text="dog-1.jpeg"/>
+                  text="dog-1.jpg"/>
         </VBox>
 
     </children>

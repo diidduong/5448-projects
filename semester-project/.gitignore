@@ -17,4 +17,4 @@ out/
 !**/src/test/**/out/
 
 ### Ignore opencv lib, need to import manually ###
-**src/main/resources/libs/opencv
+**src/main/resources/libs/opencv*
