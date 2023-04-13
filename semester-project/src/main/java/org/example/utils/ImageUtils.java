@@ -57,7 +57,7 @@ public class ImageUtils {
             objectInputStream.close();
             System.out.println("Done");
         } catch (IOException | ClassNotFoundException e) {
-            System.err.printf("Can't get picture from path %s", path);
+            System.err.printf("Can't get picture from path %s\n", path);
             e.printStackTrace();
         }
         return pic;

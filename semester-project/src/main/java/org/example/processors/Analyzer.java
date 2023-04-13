@@ -23,9 +23,11 @@ public class Analyzer {
     int unknownCount; // track the un-analyzed pictures (rawImages.size)
 
     List<BufferedImage> rawImages;
+    ImageProcessor imageProcessor;
 
     private Analyzer() {
         rawImages = new ArrayList<>();
+        imageProcessor = new ImageProcessor();
     }
 
     public static Analyzer getInstance() {
@@ -45,11 +47,16 @@ public class Analyzer {
     void analyzeRawImages() {
         System.out.println("Analyzing all raw images");
         for (BufferedImage img : rawImages) {
-            Picture.PictureType type = Picture.PictureType.ANIMAL;
+
+            Picture.PictureType type = imageProcessor.processPictureType(img);
+
+            // Create Picture class to store pic
             Picture pic = SimplePictureFactory.createPicture(type);
             pic.setImage(img);
-            ImageUtils.savePicture(pic, String.format("src/main/resources/pictures/%s-%d.txt",type,animalCount));
-            animalCount++;
+
+            // TODO: increase count of corresponding picture type, currently default to OTHER
+            ImageUtils.savePicture(pic, String.format("src/main/resources/pictures/%s-%d.txt",type,otherCount));
+            otherCount++;
         }
         System.out.println("Done");
     }

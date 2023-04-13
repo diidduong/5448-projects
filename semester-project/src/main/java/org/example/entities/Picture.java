@@ -5,10 +5,21 @@ import org.example.utils.ImageUtils;
 import java.awt.image.BufferedImage;
 import java.io.IOException;
 import java.io.Serializable;
+import java.util.concurrent.ThreadLocalRandom;
 
 public abstract class Picture implements Serializable {
     public enum PictureType {
-        HUMAN, ANIMAL, VEHICLE, OTHER
+        HUMAN, ANIMAL, VEHICLE, OTHER;
+
+        public static PictureType getEnum(String text) {
+            PictureType[] allEnums = PictureType.values();
+            for (PictureType type : allEnums) {
+                if (type.toString().equals(text.toUpperCase())) {
+                    return type;
+                }
+            }
+            return allEnums[ThreadLocalRandom.current().nextInt(allEnums.length)];
+        }
     }
 
     PictureType pictureType;
@@ -55,7 +66,12 @@ public abstract class Picture implements Serializable {
      * @param image
      */
     public void setImage(BufferedImage image) {
-        this.imageBytes = ImageUtils.toByteArray(image, "png");
+        byte[] imageBytes = ImageUtils.toByteArray(image, "png");
+        if (imageBytes != null || imageBytes.length > 0) {
+            this.height = image.getHeight();
+            this.width = image.getWidth();
+            this.imageBytes = imageBytes;
+        }
     }
 
     public String getSrc() {

@@ -24,6 +24,8 @@ public class GeneratorController {
 
     @FXML
     private Label selectedImgType = new Label();
+    private Picture selectedPicture;
+
     FileChooser fileChooser = new FileChooser();
 
     @FXML
@@ -43,13 +45,12 @@ public class GeneratorController {
         System.out.printf("Generating %s Picture...\n", selectedImgType.textProperty().getValue());
         // TODO: add code here
         int randNum = ThreadLocalRandom.current().nextInt(3);
-        Picture pic = ImageUtils.getPicture(String.format("src/main/resources/pictures/%s-%d.txt", Picture.PictureType.ANIMAL, randNum));
-        imageView.setImage(SwingFXUtils.toFXImage(pic.getImage(), null));
+        selectedPicture = ImageUtils.getPicture(String.format("src/main/resources/pictures/%s-%d.txt", Picture.PictureType.getEnum(selectedImgType.getText()), randNum));
+        imageView.setImage(SwingFXUtils.toFXImage(selectedPicture.getImage(), null));
     }
 
     /**
      * Default exception
-     * @throws IOException
      */
     @FXML
     protected void downloadPicture() throws IOException {
@@ -60,9 +61,7 @@ public class GeneratorController {
 
         // Show save dialog
         File file = fileChooser.showSaveDialog(null);
-        if (file != null) {
-            ImageIO.write(SwingFXUtils.fromFXImage(imageView.getImage(), null), "png", file);
-        }
+        generator.savePictureToFile(selectedPicture, file);
     }
 
     Generator generator = Generator.getInstance();
