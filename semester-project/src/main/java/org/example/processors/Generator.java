@@ -1,11 +1,11 @@
 package org.example.processors;
 
-import javafx.embed.swing.SwingFXUtils;
 import org.example.entities.Picture;
+import org.example.utils.ImageUtils;
 
-import javax.imageio.ImageIO;
 import java.io.File;
 import java.io.IOException;
+import java.util.concurrent.ThreadLocalRandom;
 
 /**
  * Singleton Pattern
@@ -23,13 +23,17 @@ public class Generator {
         }
         return instance;
     }
-    Picture generatePicture(Picture.PictureType type) {
-        return null;
+
+    public Picture generatePicture(Picture.PictureType type) {
+        String picturePath = "src/main/resources/pictures";
+        int count = Analyzer.getInstance().countFiles(picturePath, String.format("^%s.*\\.txt", type));
+        int randNum = ThreadLocalRandom.current().nextInt(count);
+        return ImageUtils.getPicture(String.format("%s/%s-%d.txt", picturePath, type, randNum));
     }
 
     public void savePictureToFile(Picture pic, File file) throws IOException {
         if (pic != null && file != null) {
-            ImageIO.write(pic.getImage(), "png", file);
+            ImageUtils.savePictureToFile(pic, file, "png");
         }
     }
 }

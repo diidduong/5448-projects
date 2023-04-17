@@ -8,12 +8,9 @@ import javafx.scene.image.ImageView;
 import javafx.stage.FileChooser;
 import org.example.entities.Picture;
 import org.example.processors.Generator;
-import org.example.utils.ImageUtils;
 
-import javax.imageio.ImageIO;
 import java.io.File;
 import java.io.IOException;
-import java.util.concurrent.ThreadLocalRandom;
 
 public class GeneratorController {
     @FXML
@@ -43,9 +40,7 @@ public class GeneratorController {
     @FXML
     protected void generatePicture() {
         System.out.printf("Generating %s Picture...\n", selectedImgType.textProperty().getValue());
-        // TODO: add code here
-        int randNum = ThreadLocalRandom.current().nextInt(3);
-        selectedPicture = ImageUtils.getPicture(String.format("src/main/resources/pictures/%s-%d.txt", Picture.PictureType.getEnum(selectedImgType.getText()), randNum));
+        selectedPicture = generator.generatePicture(Picture.PictureType.getEnum(selectedImgType.getText()));
         imageView.setImage(SwingFXUtils.toFXImage(selectedPicture.getImage(), null));
     }
 

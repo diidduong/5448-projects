@@ -928,3 +928,10 @@ VBox > .split-menu-button.last > .arrow-button {
 .slider:vertical .track {
 	-fx-pref-width: 5;
 }
+
+/****************************************************
+ *                                                  *
+ * Bar Chart                                        *
+ *                                                  *
+ ****************************************************/
+.default-color0.chart-bar { -fx-bar-fill: #337ab7; }

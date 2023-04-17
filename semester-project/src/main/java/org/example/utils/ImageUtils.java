@@ -11,8 +11,8 @@ import java.net.HttpURLConnection;
 import java.net.URL;
 
 public class ImageUtils {
-    public static void savePictureToFile(Picture pic, File file) {
-        // TODO: save picture
+    public static void savePictureToFile(Picture pic, File file, String format) throws IOException {
+        ImageIO.write(pic.getImage(), format, file);
     }
 
     /**
@@ -62,15 +62,6 @@ public class ImageUtils {
         }
         return pic;
     }
-
-    public static Image getFxImageFromURL(String url) {
-        url = "https://images.dog.ceo/breeds/komondor/n02105505_3132.jpg";
-
-        BufferedImage bufferedImage = getImageFromURL(url);
-        Image image = SwingFXUtils.toFXImage(bufferedImage, null);
-        return image;
-    }
-
 
     /**
      * Source: http://www.java2s.com/example/java-utility-method/bufferedimage-from-url-index-0.html
