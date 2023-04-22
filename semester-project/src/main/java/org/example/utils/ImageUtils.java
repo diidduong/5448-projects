@@ -1,7 +1,5 @@
 package org.example.utils;
 
-import javafx.embed.swing.SwingFXUtils;
-import javafx.scene.image.Image;
 import org.example.entities.Picture;
 
 import javax.imageio.ImageIO;
@@ -10,16 +8,27 @@ import java.io.*;
 import java.net.HttpURLConnection;
 import java.net.URL;
 
+/**
+ * @author Duy Duong & Biby Ahmed
+ * Util class to handle picture and image operations
+ */
 public class ImageUtils {
+    /**
+     * Save picture bytes to a file with selected format
+     * @param pic source Picture
+     * @param file destination file
+     * @param format picture format
+     * @throws IOException default exception for ImageIO
+     */
     public static void savePictureToFile(Picture pic, File file, String format) throws IOException {
         ImageIO.write(pic.getImage(), format, file);
     }
 
     /**
-     *
+     * Save picture as serializable object to given path
      * Assumption: picture is not null
-     * @param pic
-     * @param path
+     * @param pic serializable Picture
+     * @param path destination path
      */
     public static void savePicture(Picture pic, String path) {
         // Set picture location
@@ -40,8 +49,8 @@ public class ImageUtils {
     }
 
     /**
-     *
-     * @param path
+     * Get serializable Picture object from path
+     * @param path source  path
      * @return picture if exists, null if not
      */
     public static Picture getPicture(String path) {
@@ -64,9 +73,10 @@ public class ImageUtils {
     }
 
     /**
+     * Read Image from URL and convert to BufferedImage object
      * Source: http://www.java2s.com/example/java-utility-method/bufferedimage-from-url-index-0.html
-     * @param url
-     * @return
+     * @param url image url
+     * @return BufferedImage or null if exception
      */
     public static BufferedImage getImageFromURL(String url) {
         System.out.printf("Getting image from url %s\n", url);
@@ -87,8 +97,13 @@ public class ImageUtils {
         }
     }
 
-    // https://mkyong.com/java/how-to-convert-bufferedimage-to-byte-in-java/
-    // convert BufferedImage to byte[]
+    /**
+     * convert BufferedImage to byte[]
+     * Source: https://mkyong.com/java/how-to-convert-bufferedimage-to-byte-in-java/
+     * @param bi BufferedImage
+     * @param format image format
+     * @return bytes of image
+     */
     public static byte[] toByteArray(BufferedImage bi, String format) {
         byte[] bytes = null;
         try {
@@ -102,8 +117,12 @@ public class ImageUtils {
         return bytes;
     }
 
-    // https://mkyong.com/java/how-to-convert-bufferedimage-to-byte-in-java/
-    // convert byte[] to BufferedImage
+    /**
+     * convert byte[] to BufferedImage
+     * Source: https://mkyong.com/java/how-to-convert-bufferedimage-to-byte-in-java/
+     * @param bytes bytes of image
+     * @return BufferedImage
+     */
     public static BufferedImage toBufferedImage(byte[] bytes) {
         BufferedImage bi = null;
         try {

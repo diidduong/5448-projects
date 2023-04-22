@@ -7,6 +7,10 @@ import java.io.IOException;
 import java.io.Serializable;
 import java.util.concurrent.ThreadLocalRandom;
 
+/**
+ * @author Duy Duong & Ahmed Biby
+ * abstract class for Picture, can be serialized
+ */
 public abstract class Picture implements Serializable {
     public enum PictureType {
         HUMAN, ANIMAL, VEHICLE, OTHER;

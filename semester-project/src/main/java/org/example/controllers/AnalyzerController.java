@@ -6,6 +6,10 @@ import javafx.scene.chart.BarChart;
 import javafx.scene.chart.XYChart;
 import org.example.processors.Analyzer;
 
+/**
+ * @author Duy Duong & Ahmed Biby
+ * Class for handing Analyzer tab
+ */
 public class AnalyzerController {
     @FXML
     private BarChart<String, Integer> barChart;
@@ -17,19 +21,16 @@ public class AnalyzerController {
 
         ObservableList<XYChart.Data<String, Integer>> data = analyzer.getObv();
         XYChart.Series<String, Integer> series = new XYChart.Series<>(data);
-//        series.dataProperty().set(data);
         barChart.getData().setAll(series);
 
     }
     Analyzer analyzer = Analyzer.getInstance();
 
+    /**
+     * Analyze unprocessed image and update chart
+     */
     public void updateChart() {
         new Thread(analyzer).start();
-//        Platform.runLater(() -> {
-//            analyzer.analyzeRawImages();
-//        });
-
-//        analyzer.analyzeRawImages();
         analyzer.printResult();
     }
 }

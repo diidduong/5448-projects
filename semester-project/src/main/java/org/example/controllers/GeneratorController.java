@@ -12,6 +12,10 @@ import org.example.processors.Generator;
 import java.io.File;
 import java.io.IOException;
 
+/**
+ * @author Duy Duong & Ahmed Biby
+ * Class to handle Generator tab
+ */
 public class GeneratorController {
     @FXML
     private ComboBox<String> comboBox;
@@ -37,6 +41,9 @@ public class GeneratorController {
         fileChooser.getExtensionFilters().add(new FileChooser.ExtensionFilter("PNG Files", "*.png"));
     }
 
+    /**
+     * Generate picture from selected type
+     */
     @FXML
     protected void generatePicture() {
         System.out.printf("Generating %s Picture...\n", selectedImgType.textProperty().getValue());
@@ -45,6 +52,7 @@ public class GeneratorController {
     }
 
     /**
+     * Show save dialog to save generated picture
      * Default exception
      */
     @FXML

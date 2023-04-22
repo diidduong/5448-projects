@@ -3,7 +3,10 @@ package org.example.entities;
 import javafx.beans.property.DoubleProperty;
 import javafx.beans.property.SimpleDoubleProperty;
 
-// TODO: implement SimpleIntegerProperty Observer
+/**
+ * @author Duy Duong & Ahmed Biby
+ * Progress class with observable value for UI update
+ */
 public class Progress {
     private final DoubleProperty value = new SimpleDoubleProperty();
 

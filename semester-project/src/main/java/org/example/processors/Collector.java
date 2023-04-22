@@ -6,7 +6,9 @@ import org.example.utils.ImageUtils;
 import java.awt.image.BufferedImage;
 
 /**
+ * @author Duy Duong && Ahmed Biby
  * Singleton Pattern
+ * Class to handle picture collection which can be run using Thread
  */
 public class Collector implements Runnable {
     private static Collector instance;
@@ -40,12 +42,13 @@ public class Collector implements Runnable {
 
     /**
      * Collect all pictures from list of url and store as rawImages
-     * @param urls
+     * @param urls string contains all image urls
      */
     public void collectPictures(String urls) {
         String[] urlList = breakURLsIntoList(urls);
         int numURL = urlList.length;
 
+        // reset progress value to 0
         progress.reset();
 
         for (int i = 0; i < numURL; i++) {
@@ -69,11 +72,11 @@ public class Collector implements Runnable {
     }
 
     /**
-     * Split string contains all url separated by next line \n into
+     * Split string contains all url separated by separator into
      * list of url for picture collection
      *
-     * @param urls
-     * @return
+     * @param urls string of all image urls
+     * @return array of image url string
      */
     String[] breakURLsIntoList(String urls) {
         String separator = "\n";
@@ -85,7 +88,7 @@ public class Collector implements Runnable {
 
     /**
      * Collect picture from URL then add to Analyzer's list of raw images
-     * @param url
+     * @param url image url
      */
     void collectPicture(String url) {
         BufferedImage bufferedImage = ImageUtils.getImageFromURL(url);
@@ -96,6 +99,7 @@ public class Collector implements Runnable {
 
     @Override
     public void run() {
+        // Collect all images from url array
         collectPictures(urls);
         // clear urlList when finished
         urls = "";

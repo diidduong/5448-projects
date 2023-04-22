@@ -5,7 +5,10 @@ import javafx.scene.control.ProgressBar;
 import javafx.scene.control.TextArea;
 import org.example.processors.Collector;
 
-
+/**
+ * @author Duy Duong & Ahmed Biby
+ * Class to handle Collector tab
+ */
 public class CollectorController {
     @FXML
     private TextArea urlListInput;
@@ -25,6 +28,9 @@ public class CollectorController {
 
     }
 
+    /**
+     * Collect pictures from the input field
+     */
     public void collectPictures() {
         System.out.println("Collecting pictures...");
         System.out.println(urlListInput.getText());

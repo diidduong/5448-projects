@@ -1,5 +1,9 @@
 package org.example.entities;
 
+/**
+ * @author Duy Duong & Ahmed Biby
+ * Factory pattern, create picture based on type
+ */
 public class SimplePictureFactory {
     public static Picture createPicture(Picture.PictureType type) {
         switch (type) {

@@ -14,9 +14,11 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
+ * @author Duy Duong & Ahmed Biby
  * Singleton Pattern
+ * Class to analyzer image and create chart data
  */
-public class Analyzer implements Runnable{
+public class Analyzer implements Runnable {
     private final String PATH = "src/main/resources/pictures";
     private static Analyzer instance = getInstance();
     int allCount;
@@ -28,7 +30,6 @@ public class Analyzer implements Runnable{
     int notProcessedCount;
 
     private List<XYChart.Data<String, Integer>> chartData;
-    private XYChart.Series<String, Integer> series;
 
     private ObservableList<XYChart.Data<String, Integer>> data;
 
@@ -65,10 +66,6 @@ public class Analyzer implements Runnable{
         });
     }
 
-    public XYChart.Series<String, Integer> getSeries() {
-        return series;
-    }
-
     public ObservableList<XYChart.Data<String, Integer>> getObv() {
         return data;
     }
@@ -102,6 +99,7 @@ public class Analyzer implements Runnable{
             notProcessedCount--;
             allCount++;
 
+            // Go on to a Thread for live update
             Platform.runLater(() -> {
                 updatedChartData();
             });
@@ -144,6 +142,9 @@ public class Analyzer implements Runnable{
         return map;
     }
 
+    /**
+     * Update chart data
+     */
     public void updatedChartData() {
 
         data.set(0, new XYChart.Data<>("Human", humanCount));
@@ -158,7 +159,7 @@ public class Analyzer implements Runnable{
      *
      * @param path directory path
      * @param regex pattern match, default to match anything if not specified
-     * @return
+     * @return count of file that has matched name with regex
      */
     int countFiles(String path, String regex) {
         if (regex == null || regex.isEmpty()) {

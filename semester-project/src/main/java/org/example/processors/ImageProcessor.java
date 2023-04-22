@@ -10,6 +10,10 @@ import java.awt.image.BufferedImage;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * @author Duy Duong & Ahmed Biby
+ * Processor to process Image with different algorithms
+ */
 public class ImageProcessor {
     List<ObjDectectionAlgo> algoList;
 
@@ -22,8 +26,8 @@ public class ImageProcessor {
 
     /**
      * Run OpenCV algorithms (algoList) to find picture type
-     * @param image
-     * @return
+     * @param image BufferedImage
+     * @return picture type for object detected
      */
     Picture.PictureType processPictureType(BufferedImage image) {
         // TODO:
