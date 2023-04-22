@@ -62,8 +62,10 @@ public class Collector implements Runnable {
             double progressVal = (double) (i+1) / numURL;
             System.out.printf("%.2f %%\n", progressVal);
             progress.setValue(progressVal);
-
         }
+
+        // Automatically analyzing data after collected
+        new Thread(Analyzer.getInstance()).start();
     }
 
     /**

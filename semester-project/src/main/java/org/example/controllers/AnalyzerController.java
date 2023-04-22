@@ -15,15 +15,21 @@ public class AnalyzerController {
         barChart.setLegendVisible(false);
         barChart.setAnimated(false);
 
-        updateChart();
+        ObservableList<XYChart.Data<String, Integer>> data = analyzer.getObv();
+        XYChart.Series<String, Integer> series = new XYChart.Series<>(data);
+//        series.dataProperty().set(data);
+        barChart.getData().setAll(series);
+
     }
     Analyzer analyzer = Analyzer.getInstance();
 
     public void updateChart() {
-        analyzer.analyzeRawImages();
+        new Thread(analyzer).start();
+//        Platform.runLater(() -> {
+//            analyzer.analyzeRawImages();
+//        });
 
-        XYChart.Series<String, Integer> series = new XYChart.Series<>();
-        series.getData().addAll(analyzer.getChartData());
-        barChart.getData().setAll(series);
+//        analyzer.analyzeRawImages();
+        analyzer.printResult();
     }
 }

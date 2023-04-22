@@ -2,8 +2,8 @@ package org.example.processors;
 
 import javafx.application.Platform;
 import javafx.collections.FXCollections;
+import javafx.collections.ObservableList;
 import javafx.scene.chart.XYChart;
-import org.example.entities.HumanPicture;
 import org.example.entities.Picture;
 import org.example.entities.SimplePictureFactory;
 import org.example.utils.ImageUtils;
@@ -11,23 +11,28 @@ import org.example.utils.ImageUtils;
 import java.awt.image.BufferedImage;
 import java.io.File;
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
 
 /**
  * Singleton Pattern
  */
-public class Analyzer {
+public class Analyzer implements Runnable{
     private final String PATH = "src/main/resources/pictures";
-    private static Analyzer instance = getInstance(); // Eager initialization
+    private static Analyzer instance = getInstance();
     int allCount;
     int humanCount;
     int animalCount;
     int vehicleCount;
     int otherCount;
-    int notProcessedCount; // track the un-analyzed pictures (rawImages.size)
 
-    List<BufferedImage> rawImages;
+    int notProcessedCount;
+
+    private List<XYChart.Data<String, Integer>> chartData;
+    private XYChart.Series<String, Integer> series;
+
+    private ObservableList<XYChart.Data<String, Integer>> data;
+
+    private List<BufferedImage> rawImages;
     ImageProcessor imageProcessor;
 
     private Analyzer() {
@@ -40,18 +45,32 @@ public class Analyzer {
         otherCount = countFiles(PATH, String.format("^%s.*\\.txt", Picture.PictureType.OTHER));
         allCount = humanCount + animalCount + vehicleCount + otherCount;
 
-    }
-
-    public void addRawImg(BufferedImage img) {
-        rawImages.add(img);
-        notProcessedCount++;
+        chartData = getChartData();
+        data = FXCollections.observableList(chartData);
     }
 
     public static Analyzer getInstance() {
         if (instance == null) {
             instance = new Analyzer();
         }
+
         return instance;
+    }
+
+    public void addRawImg(BufferedImage img) {
+        rawImages.add(img);
+        notProcessedCount++;
+        Platform.runLater(() -> {
+            updatedChartData();
+        });
+    }
+
+    public XYChart.Series<String, Integer> getSeries() {
+        return series;
+    }
+
+    public ObservableList<XYChart.Data<String, Integer>> getObv() {
+        return data;
     }
 
     /**
@@ -65,6 +84,12 @@ public class Analyzer {
         System.out.println("Analyzing all raw images");
         for (BufferedImage img : rawImages) {
 
+            try {
+                Thread.sleep(1000);
+            } catch (Exception e) {
+
+            }
+
             Picture.PictureType type = imageProcessor.processPictureType(img);
 
             // Create Picture class to store pic
@@ -76,6 +101,10 @@ public class Analyzer {
             otherCount++;
             notProcessedCount--;
             allCount++;
+
+            Platform.runLater(() -> {
+                updatedChartData();
+            });
         }
 
         // Clear the list when after pictures are processed
@@ -86,7 +115,7 @@ public class Analyzer {
     /**
      * Print all counts for debug
      */
-    void printResult() {
+    public void printResult() {
         System.out.printf("Total picture count: %d\n", allCount);
         System.out.printf("Human picture count: %d\n", humanCount);
         System.out.printf("Animal picture count: %d\n", animalCount);
@@ -102,6 +131,7 @@ public class Analyzer {
      * @return map of chart data
      */
     public List<XYChart.Data<String, Integer>> getChartData() {
+
         List<XYChart.Data<String, Integer>> map = new ArrayList<>();
         map.add(new XYChart.Data<>("Human", humanCount));
         map.add(new XYChart.Data<>("Animal", animalCount));
@@ -110,7 +140,18 @@ public class Analyzer {
         map.add(new XYChart.Data<>("Not Processed", notProcessedCount));
         map.add(new XYChart.Data<>("Total", allCount));
 
+        chartData = map;
         return map;
+    }
+
+    public void updatedChartData() {
+
+        data.set(0, new XYChart.Data<>("Human", humanCount));
+        data.set(1, new XYChart.Data<>("Animal", animalCount));
+        data.set(2, new XYChart.Data<>("Vehicle", vehicleCount));
+        data.set(3, new XYChart.Data<>("Other", otherCount));
+        data.set(4, new XYChart.Data<>("Not Processed", notProcessedCount));
+        data.set(5, new XYChart.Data<>("Total", allCount));
     }
 
     /**
@@ -131,5 +172,10 @@ public class Analyzer {
             }
         }
         return count;
+    }
+
+    @Override
+    public void run() {
+        analyzeRawImages();
     }
 }
