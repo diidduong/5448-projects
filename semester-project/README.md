@@ -1,4 +1,4 @@
-# Project 6
+# Project 7
 
 ## Requirements
 There are some setup steps before running the application.
