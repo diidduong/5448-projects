@@ -9,7 +9,7 @@ import java.util.concurrent.ThreadLocalRandom;
 
 public abstract class Picture implements Serializable {
     public enum PictureType {
-        HUMAN, ANIMAL, VEHICLE, OTHER;
+        HUMAN, ANIMAL, VEHICLE, CAT, DOG,  OTHER;
 
         public static PictureType getEnum(String text) {
             PictureType[] allEnums = PictureType.values();
