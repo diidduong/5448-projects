@@ -31,14 +31,14 @@ public class GeneratorController {
 
     @FXML
     public void initialize() {
-        comboBox.getItems().addAll("Human", "Animal", "Vehicle", "Other", "Random");
+        comboBox.getItems().addAll("Animal", "Human", "Vehicle", "Other", "Random");
         comboBox.getSelectionModel().selectFirst();
         selectedImgType.textProperty().bind(comboBox.getSelectionModel().selectedItemProperty());
 
         // Initialize
         fileChooser.setTitle("Save Picture");
         fileChooser.setInitialFileName("picture");
-        fileChooser.getExtensionFilters().add(new FileChooser.ExtensionFilter("PNG Files", "*.png"));
+        fileChooser.getExtensionFilters().add(new FileChooser.ExtensionFilter("JPG Files", "*.jpg"));
     }
 
     /**

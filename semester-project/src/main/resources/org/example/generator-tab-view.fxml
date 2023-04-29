@@ -24,7 +24,7 @@
                     <Image url="@../../pictures/dog-1.jpg" />
                 </image>
             </ImageView>
-            <Text layoutX="416.0" layoutY="328.0" strokeType="OUTSIDE" strokeWidth="0.0" text="dog-1.jpg" />
+            <Text layoutX="416.0" layoutY="328.0" strokeType="OUTSIDE" strokeWidth="0.0" text="" />
         </VBox>
 
     </children>

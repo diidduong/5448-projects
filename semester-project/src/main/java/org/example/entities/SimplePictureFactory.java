@@ -6,11 +6,22 @@ package org.example.entities;
  */
 public class SimplePictureFactory {
     public static Picture createPicture(Picture.PictureType type) {
+        Picture picture = null;
         switch (type) {
-            case HUMAN: return new HumanPicture();
-            case ANIMAL: return new AnimalPicture();
-            case VEHICLE: return new VehiclePicture();
-            default: return new OtherPicture();
+            case HUMAN:
+                picture = new HumanPicture();
+                break;
+            case ANIMAL:
+                picture = new AnimalPicture();
+                break;
+            case VEHICLE:
+                picture = new VehiclePicture();
+                break;
+            default:
+                picture = new OtherPicture();
+                break;
         }
+        picture.setPictureType(type);
+        return picture;
     }
 }

@@ -1,9 +1,14 @@
 package org.example.utils;
 
 import org.example.entities.Picture;
+import org.opencv.core.CvType;
+import org.opencv.core.Mat;
+import org.opencv.core.Size;
+import org.opencv.imgproc.Imgproc;
 
 import javax.imageio.ImageIO;
 import java.awt.image.BufferedImage;
+import java.awt.image.DataBufferByte;
 import java.io.*;
 import java.net.HttpURLConnection;
 import java.net.URL;
@@ -133,5 +138,33 @@ public class ImageUtils {
             e.printStackTrace();
         }
         return bi;
+    }
+
+    /**
+     * Convert buffered image to mat image
+     * Source: https://answers.opencv.org/question/28348/converting-bufferedimage-to-mat-in-java/
+     * @param img buffered image
+     * @return mat image
+     */
+    public static Mat toMat(BufferedImage img){
+        byte[] pixels = ((DataBufferByte) img.getRaster().getDataBuffer()).getData();
+        int rows = img.getHeight();
+        int cols = img.getWidth();
+        Mat mat = new Mat(rows, cols, CvType.CV_8UC3);
+        mat.put(0, 0, pixels);
+        return mat;
+    }
+
+    /**
+     * Resize mat image by given width and height
+     * @param mat mat image
+     * @param width new width
+     * @param height new height
+     * @return new mat image with new size
+     */
+    public static Mat resizeMat(Mat mat, int width, int height) {
+        Mat resizedMat = new Mat();
+        Imgproc.resize(mat, resizedMat, new Size(width, height));
+        return resizedMat;
     }
 }

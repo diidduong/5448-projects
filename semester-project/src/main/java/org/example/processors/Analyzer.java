@@ -58,6 +58,10 @@ public class Analyzer implements Runnable {
         return instance;
     }
 
+    /**
+     * Add raw buffered image to list for futher process
+     * @param img raw buffered image
+     */
     public void addRawImg(BufferedImage img) {
         rawImages.add(img);
         notProcessedCount++;
@@ -80,22 +84,39 @@ public class Analyzer implements Runnable {
     public void analyzeRawImages() {
         System.out.println("Analyzing all raw images");
         for (BufferedImage img : rawImages) {
-
+            // Delay simulation 1 second
             try {
                 Thread.sleep(1000);
             } catch (Exception e) {
 
             }
 
-            Picture.PictureType type = imageProcessor.processPictureType(img);
+            Picture pic = imageProcessor.processPicture(img);
+            int countTag = 0;
 
-            // Create Picture class to store pic
-            Picture pic = SimplePictureFactory.createPicture(type);
-            pic.setImage(img);
+            // update count of detected picture type
+            switch (pic.getPictureType()) {
+                case ANIMAL:
+                    countTag = animalCount;
+                    animalCount++;
+                    break;
+                case HUMAN:
+                    countTag = humanCount;
+                    humanCount++;
+                    break;
+                case VEHICLE:
+                    countTag = vehicleCount;
+                    vehicleCount++;
+                    break;
+                default:
+                    countTag = otherCount;
+                    otherCount++;
+            }
 
-            // TODO: increase count of corresponding picture type, currently default to OTHER
-            ImageUtils.savePicture(pic, String.format("src/main/resources/pictures/%s-%d.txt",type,otherCount));
-            otherCount++;
+            // Save picture to next available count tag
+            ImageUtils.savePicture(pic, String.format("src/main/resources/pictures/%s-%d.txt",pic.getPictureType(),countTag));
+
+            // update counts
             notProcessedCount--;
             allCount++;
 
@@ -129,7 +150,6 @@ public class Analyzer implements Runnable {
      * @return map of chart data
      */
     public List<XYChart.Data<String, Integer>> getChartData() {
-
         List<XYChart.Data<String, Integer>> map = new ArrayList<>();
         map.add(new XYChart.Data<>("Human", humanCount));
         map.add(new XYChart.Data<>("Animal", animalCount));
@@ -146,7 +166,6 @@ public class Analyzer implements Runnable {
      * Update chart data
      */
     public void updatedChartData() {
-
         data.set(0, new XYChart.Data<>("Human", humanCount));
         data.set(1, new XYChart.Data<>("Animal", animalCount));
         data.set(2, new XYChart.Data<>("Vehicle", vehicleCount));

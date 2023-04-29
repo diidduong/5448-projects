@@ -1,13 +1,12 @@
 package org.example.utils;
 
-import org.example.entities.AnimalPicture;
 import org.example.entities.HumanPicture;
 import org.example.entities.Picture;
 import org.junit.jupiter.api.Test;
 
 import java.io.*;
 
-import static org.junit.jupiter.api.Assertions.*;
+import static org.junit.jupiter.api.Assertions.assertTrue;
 
 class ImageUtilsTest {
     /**

@@ -70,7 +70,7 @@ public abstract class Picture implements Serializable {
      * @param image
      */
     public void setImage(BufferedImage image) {
-        byte[] imageBytes = ImageUtils.toByteArray(image, "png");
+        byte[] imageBytes = ImageUtils.toByteArray(image, "jpg");
         if (imageBytes != null || imageBytes.length > 0) {
             this.height = image.getHeight();
             this.width = image.getWidth();

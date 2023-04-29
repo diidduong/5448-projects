@@ -46,7 +46,7 @@ public class Generator {
      */
     public void savePictureToFile(Picture pic, File file) throws IOException {
         if (pic != null && file != null) {
-            ImageUtils.savePictureToFile(pic, file, "png");
+            ImageUtils.savePictureToFile(pic, file, "jpg");
         }
     }
 }

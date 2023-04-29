@@ -7,16 +7,13 @@ import org.opencv.imgcodecs.Imgcodecs;
 import org.opencv.imgproc.Imgproc;
 import org.opencv.objdetect.CascadeClassifier;
 
-import javax.imageio.ImageIO;
 import java.awt.image.BufferedImage;
-import java.io.File;
-import java.io.IOException;
 
 /**
  * @author Duy Duong & Ahmed Biby
- * Concrete abstract class of ObjDectectionAlgo
+ * Subclass for abstract class of AnimalDetection
  */
-public class HumanDetection implements ObjDectectionAlgo {
+public class DogDetection extends AnimalDetection {
     @Override
     public Picture.PictureType detect(BufferedImage bufferedImage) {
         Picture.PictureType type = Picture.PictureType.OTHER;
@@ -24,24 +21,26 @@ public class HumanDetection implements ObjDectectionAlgo {
         System.loadLibrary(Core.NATIVE_LIBRARY_NAME);
 
         // Load image
-        Mat image = ImageUtils.toMat(bufferedImage);
+        Mat originalImage = ImageUtils.toMat(bufferedImage);
+        Mat image = ImageUtils.resizeMat(originalImage, 200, 200);
 
         // Load face detector
-        CascadeClassifier faceDetector = new CascadeClassifier("src/main/resources/libs/haarcascade_frontalface_alt.xml");
+        CascadeClassifier faceDetector = new CascadeClassifier("src/main/resources/libs/haarcascade_frontaldogface.xml");
 
         // Detect faces
         MatOfRect faceDetections = new MatOfRect();
-        faceDetector.detectMultiScale(image, faceDetections, 1.1, 2, 0, new Size(30, 30), new Size());
+//        faceDetector.detectMultiScale(image, faceDetections, 1.1, 4, 0, new Size(30, 30), new Size());
+        faceDetector.detectMultiScale(image, faceDetections, 1.1, 4);
 
         // Count number of faces detected
         int numFaces = faceDetections.toArray().length;
 
         // Return YES or NO based on number of faces detected
         if (numFaces > 0) {
-            System.out.println("YES");
-            type = Picture.PictureType.HUMAN;
+            System.out.println("Found a Dog");
+            type = Picture.PictureType.ANIMAL;
         } else {
-            System.out.println("NO");
+            System.out.println("No Dog Found");
         }
 
         // Draw bounding boxes on image
@@ -52,17 +51,5 @@ public class HumanDetection implements ObjDectectionAlgo {
         // Save output image
         Imgcodecs.imwrite("src/main/resources/output.jpg", image);
         return type;
-    }
-
-    public static void main(String[] args) {
-        BufferedImage img = null;
-        try {
-            img = ImageIO.read(new File("src/main/resources/pictures/dog-1.jpg"));
-        } catch (IOException e) {
-
-        }
-        ObjDectectionAlgo algo = new HumanDetection();
-        Picture.PictureType type = algo.detect(img);
-        System.out.println(type);
     }
 }

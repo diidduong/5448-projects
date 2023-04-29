@@ -4,9 +4,11 @@ import org.example.entities.Picture;
 
 import java.awt.image.BufferedImage;
 
-public class AnimalDetection implements ObjDectectionAlgo{
+/**
+ * @author Duy Duong & Ahmed Biby
+ * Concrete abstract class of ObjDectectionAlgo
+ */
+public abstract class AnimalDetection implements ObjDectectionAlgo{
     @Override
-    public Picture.PictureType detect(BufferedImage bufferedImage) {
-        return null;
-    }
+    public abstract Picture.PictureType detect(BufferedImage bufferedImage);
 }
