@@ -34,8 +34,17 @@ implementation files('src/main/resources/libs/opencv/build/java/opencv-470.jar')
 ### Generate Picture
 User can select a picture type and get a corresponding picture. User can also donwload the picture into their computer at any location.
 ### Collect Picture From URLs
-User can collect picture of formats (.jpg, .jpeg, .png) from website URLs all at once and store them in their computer.
+User can collect picture of formats (.jpg, .jpeg, .png) from website URLs all at once and store them in their computer. We have some example url for you to test out. It is located at src/main/resources/org/example/url-example.txt. They are 2 dogs, 1 cat, 1 human, 1 vehicle, and 1 other picture.
+```
+https://images.dog.ceo/breeds/puggle/IMG_114654.jpg
+https://images.dog.ceo/breeds/spitz-japanese/tofu.jpg
+https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcf-images.us-east-1.prod.boltdns.net%2Fv1%2Fstatic%2F6157254766001%2F961ad642-68ec-4156-ab18-5fb26db7e85c%2Fa7fd44aa-762e-4be4-a99f-bdebcce91235%2F1280x720%2Fmatch%2Fimage.jpg
+https://www.whichfaceisreal.com/fakeimages/image-2019-02-17_022008.jpeg
+https://generatorfun.com/code/uploads/Random-Car-image-7.jpg
+https://generatorfun.com/code/uploads/Random-Car-image-2.jpg
+https://loremflickr.com/cache/resized/65535_52714618565_70da752185_320_240_nofilter.jpg
+```
 ### Analyze Picture Type
-Collected pictures are automatically sorted into categories such as Human, Animal, Vehicle, Other.
+Collected pictures are automatically sorted into categories such as Human, Animal, Vehicle, Other. They are all serialized as Picture object and stored at src/main/resources/pictures. Analyzed pictures are display as a chart on the UI which count each picture type and the sum.
 
 
