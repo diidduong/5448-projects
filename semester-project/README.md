@@ -1,5 +1,10 @@
 # Project 7
 
+## Demo
+Here is a brief demonstration video about our project,
+- Link: https://cuboulder.zoom.us/rec/share/t4x9VxquXl1OT-2usgbYkUAv8uAVbwmzROvRZm3fkEhsHYnxQslo3V4fGWJhNlKU.ojDzw6_IeAQdBM-S?startTime=1682874709000
+- Passcode: H55$K=ei
+
 ## Requirements
 There are some setup steps before running the application.
 
