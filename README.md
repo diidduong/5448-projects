@@ -1,4 +1,4 @@
-# Friendly Image Processing Tool
-CU CSCI 5448 Project 7
+# Main
+CU CSCI 5448
 
-All details are inside folder **semester-project** including README and Project 7 PDF
+Projects are completed inside branches, not from main
